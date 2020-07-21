@@ -1,0 +1,1296 @@
+{
+  "expertVO": {
+    "id": 1903450,
+    "name": "Geoffrey Hinton",
+    "headImg": "/img/expert_logo/2018-09/2018-09-12-09-53-46__5df93673-dc1d-4dab-82ac-5809a89bdc1a.jpg",
+    "institution": "University of Toronto",
+    "subjectArea": "计算机科学",
+    "country": "英国",
+    "totalIssues": 164,
+    "totalCitations": 45131,
+    "top1Citations": 0.256098,
+    "number1": 42,
+    "top10Citations": 0.542683,
+    "number10": 89,
+    "hIndex": 65,
+    "journalSend": null,
+    "subjectMatch": null,
+    "citedSituation": null,
+    "fwciinedx": 19.117,
+    "layoutList":[
+      "1947年－ ，英国出生的加拿大计算机学家和心理学家，多伦多大学教授。以其在类神经网络方面的贡献闻名。",
+      "他是反向传播算法和对比散度算法的发明人之一，也是深度学习的积极推动者，被誉为“深度学习之父”。",
+      "他因在深度学习方面的贡献与约书亚·本希奥和杨立昆一同被授予了2018年的图灵奖。"
+    ]
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"Geoffrey Hinton","type":"expert","level":"1","colorIdx":"0"},
+      {"code":"1","name":"荣誉","type":"honor","level":"2","colorIdx":"5"},
+      {"code":"2","name":"机构","type":"org","level":"2","colorIdx":"6"},
+      {"code":"3","name":"神经网络","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"4","name":"深度学习","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"5","name":"计算机视觉","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"6","name":"语音识别","type":"keyword","level":"2","colorIdx":"4"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"},
+      {"id":"5","source":"0","target":"6"}
+      ]
+ ,
+    "expertReco": [
+      {
+        "id": 914005,
+        "name": "王子栋",
+        "headImg": "/img/expert_logo/2019-03/2019-03-21-13-26-15__512381b6-9622-4ec3-8ccc-3e1e534cc672.jpg",
+        "institution": "Brunel University London",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 2017250,
+        "name": "曹进德",
+        "headImg": "/img/domain_logo/2017250.jpg",
+        "institution": "Southeast University",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 376304,
+        "name": "黄煦涛",
+        "headImg": "/img/domain_logo/35513984600.jpg",
+        "institution": "University of Illinois at Urbana-Champaign",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": [
+      "Unsupervised learning",
+      "Boltzmann machines",
+      "Neural network"
+    ],
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 1,
+        "code": 0,
+        "name": "Geoffrey Hinton",
+        "type": "expert",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "荣誉",
+        "type": "honor",
+        "level": 2,
+        "colorIdx": 5,
+        "keyword": "Geoffrey",
+        "layout": "2018年 图灵奖/2016年 BBVA基金知识边界奖/2016年 詹姆斯克拉克麦克斯韦尔奖/2014年 IEEE弗兰克·罗森布拉特奖/2005年 IJCAI卓越研究奖/2001年 鲁梅哈特奖/1990年 AAAI成员",
+        "layoutList": [
+          "2018年 图灵奖",
+          "2016年 BBVA基金知识边界奖",
+          "2016年 詹姆斯克拉克麦克斯韦尔奖",
+          "2014年 IEEE弗兰克·罗森布拉特奖",
+          "2005年 IJCAI卓越研究奖",
+          "2001年 鲁梅哈特奖",
+          "1990年 AAAI成员"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "组织",
+        "type": "org",
+        "level": 2,
+        "colorIdx": 6,
+        "keyword": "Geoffrey",
+        "layout": "多伦多大学",
+        "layoutList": [
+          "多伦多大学"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": "人工神经网络（Artificial Neural Networks，简写为ANNs）也简称为神经网络（NNs）或称作连接模型（Connection Model），它是一种模仿动物神经网络行为特征，进行分布式并行信息处理的算法数学模型。这种网络依靠系统的复杂程度，通过调整内部大量节点之间相互连接的关系，从而达到处理信息的目的。",
+        "layoutList": [
+          "人工神经网络（Artificial Neural Networks，简写为ANNs）也简称为神经网络（NNs）或称作连接模型（Connection Model），它是一种模仿动物神经网络行为特征，进行分布式并行信息处理的算法数学模型。这种网络依靠系统的复杂程度，通过调整内部大量节点之间相互连接的关系，从而达到处理信息的目的。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": "Similarity of Neural Network Representations Revisited./Learning Sparse Networks Using Targeted Dropout./Large scale distributed neural network training through online distillation./ImageNet classification with deep convolutional neural networks./Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer./Distilling a Neural Network Into a Soft Decision Tree./Distilling the Knowledge in a Neural Network.",
+        "layoutList": [
+          "Similarity of Neural Network Representations Revisited.",
+          "Learning Sparse Networks Using Targeted Dropout.",
+          "Large scale distributed neural network training through online distillation.",
+          "ImageNet classification with deep convolutional neural networks.",
+          "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.",
+          "Distilling a Neural Network Into a Soft Decision Tree.",
+          "Distilling the Knowledge in a Neural Network."
+        ]
+      },
+      {
+        "id": 6,
+        "code": 6,
+        "name": "Ruslan Salakhutdinov",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": "Ruslan Salakhutdinov是一位加拿大的鞑靼人研究人员，在人工智能领域工作。他擅长于深度学习、概率图形模型和大规模优化。",
+        "layoutList": [
+          "Ruslan Salakhutdinov是一位加拿大的鞑靼人研究人员，在人工智能领域工作。他擅长于深度学习、概率图形模型和大规模优化。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 7,
+        "name": "Nitish Srivastava",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": "多伦多大学博士生，研究方向为神经网络和其他深度学习模型。",
+        "layoutList": [
+          "多伦多大学博士生，研究方向为神经网络和其他深度学习模型。"
+        ]
+      },
+      {
+        "id": 8,
+        "code": 8,
+        "name": "RNN 语言模型",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 9,
+        "name": "文本理解",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 10,
+        "name": "视频分类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 11,
+        "name": "数据挖掘",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 12,
+        "name": "William W. Cohen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 13,
+        "name": "Zihang Dai",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 14,
+        "name": "Zhilin Yang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 15,
+        "name": "Bhuwan Dhingra",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 16,
+        "name": "Shengxin Zha",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 17,
+        "name": "Walter Andrews",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 18,
+        "name": "Krishnaram Kenthapadi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 19,
+        "name": "Rakesh Agrawal",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 20,
+        "code": 20,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": "深度学习是机器学习的技术和研究领域之一，通过建立具有层次结构的人工神经网络，在计算系统中实现人工智能 。由于阶层ANN能够对输入信息进行逐层提取和筛选，因此深度学习具有表征学习能力 ，可以实现端到端的监督学习和非监督学习。",
+        "layoutList": [
+          "深度学习是机器学习的技术和研究领域之一，通过建立具有层次结构的人工神经网络，在计算系统中实现人工智能 。由于阶层ANN能够对输入信息进行逐层提取和筛选，因此深度学习具有表征学习能力 ，可以实现端到端的监督学习和非监督学习。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 21,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": "Regularizing Neural Networks by Penalizing Confident Output Distributions./Guest Editorial: Deep Learning./Deep learning./Application of Deep Belief Networks for Natural Language Understanding./Speech recognition with deep recurrent neural networks./On the importance of initialization and momentum in deep learning./Acoustic Modeling Using Deep Belief Networks.",
+        "layoutList": [
+          "Regularizing Neural Networks by Penalizing Confident Output Distributions.",
+          "Guest Editorial: Deep Learning.",
+          "Deep learning.",
+          "Application of Deep Belief Networks for Natural Language Understanding.",
+          "Speech recognition with deep recurrent neural networks.",
+          "On the importance of initialization and momentum in deep learning.",
+          "Acoustic Modeling Using Deep Belief Networks."
+        ]
+      },
+      {
+        "id": 22,
+        "code": 23,
+        "name": "Ilya Sutskever",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": "是一名计算机科学家，从事机器学习，目前担任OpenAI的首席科学家。他为深入学习领域做出了若干重要贡献。他是著名的Alexnet、卷积神经网络的共同发明人。他发明了序列学习的序列，以及Oriol乙烯基和QuocLE。Sutskever也是Alphago的共同发明人和TentsortFlow。",
+        "layoutList": [
+          "是一名计算机科学家，从事机器学习，目前担任OpenAI的首席科学家。他为深入学习领域做出了若干重要贡献。他是著名的Alexnet、卷积神经网络的共同发明人。他发明了序列学习的序列，以及Oriol乙烯基和QuocLE。Sutskever也是Alphago的共同发明人和TentsortFlow。"
+        ]
+      },
+      {
+        "id": 23,
+        "code": 24,
+        "name": "Volodymyr Mnih",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": "Google DeepMind的研究科学家。在Geoffrey Hinton的监督下在多伦多大学完成了机器学习博士学位。此前在阿尔伯塔大学完成了计算科学硕士学位，在那里受到了Csaba Szepesvari的监督。",
+        "layoutList": [
+          "Google DeepMind的研究科学家。在Geoffrey Hinton的监督下在多伦多大学完成了机器学习博士学位。此前在阿尔伯塔大学完成了计算科学硕士学位，在那里受到了Csaba Szepesvari的监督。"
+        ]
+      },
+      {
+        "id": 24,
+        "code": 25,
+        "name": "序列学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 26,
+        "name": "对抗网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 27,
+        "name": "深度强化学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 28,
+        "name": "强化学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 29,
+        "name": "Oriol Vinyals",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 30,
+        "name": "Quoc V. Le",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 31,
+        "name": "Pieter Abbeel",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 32,
+        "name": "Rein Houthooft",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 33,
+        "name": "Koray Kavukcuoglu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 34,
+        "name": "Shane Legg",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 34,
+        "code": 35,
+        "name": "Rémi Munos",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 35,
+        "code": 36,
+        "name": "Nicolas Heess",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 37,
+        "name": "计算机视觉",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": "计算机视觉是一门研究如何使机器“看”的科学，更进一步的说，就是是指用摄影机和电脑代替人眼对目标进行识别、跟踪和测量等机器视觉，并进一步做图形处理，使电脑处理成为更适合人眼观察或传送给仪器检测的图像。作为一个科学学科，计算机视觉研究相关的理论和技术，试图建立能够从图像或者多维数据中获取‘信息’的人工智能系统。这里所 指的信息指Shannon定义的，可以用来帮助做一个“决定”的信息。因为感知可以看作是从感官信号中提 取信息，所以计算机视觉也可以看作是研究如何使人工系统从图像或多维数据中“感知”的科学。",
+        "layoutList": [
+          "计算机视觉是一门研究如何使机器“看”的科学，更进一步的说，就是是指用摄影机和电脑代替人眼对目标进行识别、跟踪和测量等机器视觉，并进一步做图形处理，使电脑处理成为更适合人眼观察或传送给仪器检测的图像。作为一个科学学科，计算机视觉研究相关的理论和技术，试图建立能够从图像或者多维数据中获取‘信息’的人工智能系统。这里所 指的信息指Shannon定义的，可以用来帮助做一个“决定”的信息。因为感知可以看作是从感官信号中提 取信息，所以计算机视觉也可以看作是研究如何使人工系统从图像或多维数据中“感知”的科学。"
+        ]
+      },
+      {
+        "id": 37,
+        "code": 38,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": "Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search./Attend, Infer, Repeat: Fast Scene Understanding with Generative Models./Learning to Parse Images./Modeling the manifolds of images of handwritten digits./Recognizing Handwritten Digits Using Mixtures of Linear Models.",
+        "layoutList": [
+          "Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search.",
+          "Attend, Infer, Repeat: Fast Scene Understanding with Generative Models.",
+          "Learning to Parse Images.",
+          "Modeling the manifolds of images of handwritten digits.",
+          "Recognizing Handwritten Digits Using Mixtures of Linear Models."
+        ]
+      },
+      {
+        "id": 38,
+        "code": 40,
+        "name": "Richard S. Zemel",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": "计算机科学家和多伦多大学计算机科学系教授，也是机器学习和计算机视觉领域的领军人物。泽梅尔在多伦多大学计算机科学系杰弗里·辛顿的指导下获得了博士学位。他在演讲和出版物中经常使用“富”这个形容词，大概是为了幽默地引用他的名字。",
+        "layoutList": [
+          "计算机科学家和多伦多大学计算机科学系教授，也是机器学习和计算机视觉领域的领军人物。泽梅尔在多伦多大学计算机科学系杰弗里·辛顿的指导下获得了博士学位。他在演讲和出版物中经常使用“富”这个形容词，大概是为了幽默地引用他的名字。"
+        ]
+      },
+      {
+        "id": 39,
+        "code": 41,
+        "name": "Max Welling",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": "加州大学欧文分校信息和计算机科学学院教授",
+        "layoutList": [
+          "加州大学欧文分校信息和计算机科学学院教授"
+        ]
+      },
+      {
+        "id": 40,
+        "code": 42,
+        "name": "图神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 43,
+        "name": "聚类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 44,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 45,
+        "name": "隐变量模型",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 46,
+        "name": "Raquel Urtasun",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 47,
+        "name": "Renjie Liao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 48,
+        "name": "Brendan J. Frey",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 49,
+        "name": "Daniel Tarlow",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 48,
+        "code": 50,
+        "name": "Taco Cohen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 49,
+        "code": 51,
+        "name": "Maurice Weiler",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 52,
+        "name": "Richard S. Zemel",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 53,
+        "name": "Christos Louizos",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 54,
+        "name": "语音识别",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": "语音识别（Voice recognition）是一门交叉学科。近二十年来，语音识别技术取得显著进步，开始从实验室走向市场。人们预计，未来10年内，语音识别技术将进入工业、家电、通信、汽车电子、医疗、家庭服务、消费电子产品等各个领域。",
+        "layoutList": [
+          "语音识别（Voice recognition）是一门交叉学科。近二十年来，语音识别技术取得显著进步，开始从实验室走向市场。人们预计，未来10年内，语音识别技术将进入工业、家电、通信、汽车电子、医疗、家庭服务、消费电子产品等各个领域。"
+        ]
+      },
+      {
+        "id": 53,
+        "code": 55,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": "On rectified linear units for speech processing./Introduction to the Special Section on Deep Learning for Speech and Language Processing./Phone Recognition with the Mean-Covariance Restricted Boltzmann Machine.",
+        "layoutList": [
+          "On rectified linear units for speech processing.",
+          "Introduction to the Special Section on Deep Learning for Speech and Language Processing.",
+          "Phone Recognition with the Mean-Covariance Restricted Boltzmann Machine."
+        ]
+      },
+      {
+        "id": 54,
+        "code": 57,
+        "name": "Abdel-rahman Mohamed",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": "Facebook人工智能研究(FAIR)的一名研究科学家。研究兴趣是深度学习、语音识别和语言理解。在加入FAIR之前，在Amazon、Microsoft Research、KULeuven和RDI Technologies工作过。在多伦多大学计算机系获得博士学位，师从杰拉尔德·潘和杰弗里·辛顿。",
+        "layoutList": [
+          "Facebook人工智能研究(FAIR)的一名研究科学家。研究兴趣是深度学习、语音识别和语言理解。在加入FAIR之前，在Amazon、Microsoft Research、KULeuven和RDI Technologies工作过。在多伦多大学计算机系获得博士学位，师从杰拉尔德·潘和杰弗里·辛顿。"
+        ]
+      },
+      {
+        "id": 55,
+        "code": 58,
+        "name": "George E. Dahl",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": "现在是山景城谷歌大脑研究小组的科学家。攻读博士期间，与合作者们仪器为自动语音识别训练了第一个成功的深层声学模型，并带领团队在Kaggle上赢得了Merck molecular activity challenge。",
+        "layoutList": [
+          "现在是山景城谷歌大脑研究小组的科学家。攻读博士期间，与合作者们仪器为自动语音识别训练了第一个成功的深层声学模型，并带领团队在Kaggle上赢得了Merck molecular activity challenge。"
+        ]
+      },
+      {
+        "id": 56,
+        "code": 59,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 60,
+        "name": "神经符号系统",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 61,
+        "name": "概率矩阵分解",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 62,
+        "name": "字符识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 63,
+        "name": "Tara N. Sainath",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 64,
+        "name": "Bhuvana Ramabhadran",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 62,
+        "code": 65,
+        "name": "Rishabh Singh",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 63,
+        "code": 66,
+        "name": "Pushmeet Kohli",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 64,
+        "code": 67,
+        "name": "Iain Murray",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 65,
+        "code": 68,
+        "name": "Ryan Prescott Adams",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 66,
+        "code": 69,
+        "name": "Isabelle Guyon",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 67,
+        "code": 70,
+        "name": "Hans Peter Graf",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Geoffrey",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 19,
+        "source": 0,
+        "target": 20
+      },
+      {
+        "id": 35,
+        "source": 0,
+        "target": 37
+      },
+      {
+        "id": 51,
+        "source": 0,
+        "target": 54
+      },
+      {
+        "id": 4,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 3,
+        "target": 6
+      },
+      {
+        "id": 6,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "id": 7,
+        "source": 6,
+        "target": 8
+      },
+      {
+        "id": 8,
+        "source": 6,
+        "target": 9
+      },
+      {
+        "id": 9,
+        "source": 7,
+        "target": 10
+      },
+      {
+        "id": 10,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "id": 11,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "id": 12,
+        "source": 8,
+        "target": 13
+      },
+      {
+        "id": 13,
+        "source": 9,
+        "target": 14
+      },
+      {
+        "id": 14,
+        "source": 9,
+        "target": 15
+      },
+      {
+        "id": 15,
+        "source": 10,
+        "target": 16
+      },
+      {
+        "id": 16,
+        "source": 10,
+        "target": 17
+      },
+      {
+        "id": 17,
+        "source": 11,
+        "target": 18
+      },
+      {
+        "id": 18,
+        "source": 11,
+        "target": 19
+      },
+      {
+        "id": 20,
+        "source": 20,
+        "target": 21
+      },
+      {
+        "id": 21,
+        "source": 20,
+        "target": 23
+      },
+      {
+        "id": 22,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 23,
+        "source": 23,
+        "target": 25
+      },
+      {
+        "id": 24,
+        "source": 23,
+        "target": 26
+      },
+      {
+        "id": 25,
+        "source": 24,
+        "target": 27
+      },
+      {
+        "id": 26,
+        "source": 24,
+        "target": 28
+      },
+      {
+        "id": 27,
+        "source": 25,
+        "target": 29
+      },
+      {
+        "id": 28,
+        "source": 25,
+        "target": 30
+      },
+      {
+        "id": 29,
+        "source": 26,
+        "target": 31
+      },
+      {
+        "id": 30,
+        "source": 26,
+        "target": 32
+      },
+      {
+        "id": 31,
+        "source": 27,
+        "target": 33
+      },
+      {
+        "id": 32,
+        "source": 27,
+        "target": 34
+      },
+      {
+        "id": 33,
+        "source": 28,
+        "target": 35
+      },
+      {
+        "id": 34,
+        "source": 28,
+        "target": 36
+      },
+      {
+        "id": 36,
+        "source": 37,
+        "target": 38
+      },
+      {
+        "id": 37,
+        "source": 37,
+        "target": 40
+      },
+      {
+        "id": 38,
+        "source": 37,
+        "target": 41
+      },
+      {
+        "id": 39,
+        "source": 40,
+        "target": 42
+      },
+      {
+        "id": 40,
+        "source": 40,
+        "target": 43
+      },
+      {
+        "id": 41,
+        "source": 41,
+        "target": 44
+      },
+      {
+        "id": 42,
+        "source": 41,
+        "target": 45
+      },
+      {
+        "id": 43,
+        "source": 42,
+        "target": 46
+      },
+      {
+        "id": 44,
+        "source": 42,
+        "target": 47
+      },
+      {
+        "id": 45,
+        "source": 43,
+        "target": 48
+      },
+      {
+        "id": 46,
+        "source": 43,
+        "target": 49
+      },
+      {
+        "id": 47,
+        "source": 44,
+        "target": 50
+      },
+      {
+        "id": 48,
+        "source": 44,
+        "target": 51
+      },
+      {
+        "id": 49,
+        "source": 45,
+        "target": 52
+      },
+      {
+        "id": 50,
+        "source": 45,
+        "target": 53
+      },
+      {
+        "id": 52,
+        "source": 54,
+        "target": 55
+      },
+      {
+        "id": 53,
+        "source": 54,
+        "target": 57
+      },
+      {
+        "id": 54,
+        "source": 54,
+        "target": 58
+      },
+      {
+        "id": 55,
+        "source": 57,
+        "target": 59
+      },
+      {
+        "id": 56,
+        "source": 57,
+        "target": 60
+      },
+      {
+        "id": 57,
+        "source": 58,
+        "target": 61
+      },
+      {
+        "id": 58,
+        "source": 58,
+        "target": 62
+      },
+      {
+        "id": 59,
+        "source": 59,
+        "target": 63
+      },
+      {
+        "id": 60,
+        "source": 59,
+        "target": 64
+      },
+      {
+        "id": 61,
+        "source": 60,
+        "target": 65
+      },
+      {
+        "id": 62,
+        "source": 60,
+        "target": 66
+      },
+      {
+        "id": 63,
+        "source": 61,
+        "target": 67
+      },
+      {
+        "id": 64,
+        "source": 61,
+        "target": 68
+      },
+      {
+        "id": 65,
+        "source": 62,
+        "target": 69
+      },
+      {
+        "id": 66,
+        "source": 62,
+        "target": 70
+      }
+    ]
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "Analyzing and Improving Representations with the Soft Nearest Neighbor Loss.EI",
+		"author": "Nicholas Frosst, Nicolas Papernot, Geoffrey E. Hinton",
+		"publishDate": "2019",
+		"summaryAll": "We explore and expand the $textit{Soft Nearest Neighbor Loss}$ to measure the $textit{entanglement}$ of class manifolds in representation space: i.e., how close pairs of points from the same class are relative to pairs of points from different classes. We demonstrate several use cases of the loss. As an analytical tool, it provides insights into the evolution of class similarity structures during learning. Surprisingly, we find that $textit{maximizing}$ the entanglement of representations of different classes in the hidden layers is "
+	},
+	{
+		"title": "Large scale distributed neural network training through online distillation.EI",
+		"author": "Rohan Anil, Gabriel Pereyra, Alexandre Passos, Robert Ormándi, George E. Dahl, Geoffrey E. Hinton",
+		"publishDate": "2018",
+		"summaryAll": "Techniques such as ensembling and distillation promise model quality improvements when paired with almost any base model. However, due to increased test-time cost (for ensembles) and increased complexity of the training pipeline (for distillation), these techniques are challenging to use in industrial settings. In this paper we explore a variant of distillation which is relatively straightforward to use as it does not require a complicated multi-stage setup or many new hyperparameters. "
+	},
+	{
+		"title": "DARCCC: Detecting Adversaries by Reconstruction from Class Conditional Capsules.EI",
+		"author": "Nicholas Frosst, Sara Sabour, Geoffrey E. Hinton",
+		"publishDate": "2018",
+		"summaryAll": "We present a simple technique that allows capsule models to detect images. In addition to being trained to classify images, the capsule model is trained to reconstruct the images from the pose parameters and identity of the correct top-level capsule. Adversarial images do not look like a typical member of the predicted class and they have much larger reconstruction errors when the reconstruction is produced from the top-level capsule for that class. "
+	},
+	{
+		"title": "Matrix capsules with EM routingEI",
+		"author": "Geoffrey E. Hinton, Sara Sabour, Nicholas Frosst",
+		"publishDate": "2018",
+		"summaryAll": "A capsule is a group of neurons whose outputs represent different properties of the same entity. Each layer in a capsule network contains many capsules [a group of capsules forms a capsule layer and can be used in place of a traditional layer in a neural net]. We describe a version of capsules in which each capsule has a logistic unit to represent the presence of an entity and a 4x4 matrix which could learn to represent the relationship between that entity and the viewer (the pose). "
+	},
+	{
+		"title": " ImageNet Classification with Deep Convolutional Neural Networks.EI",
+		"author": "Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton",
+		"publishDate": "2017",
+		"summaryAll": "We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes. On the test data, we achieved top-1 and top-5 error rates of 37.5% and 17.0%, respectively, which is considerably better than the previous state-of-the-art. "
+	},
+	{
+		"title": "Regularizing Neural Networks by Penalizing Confident Output Distributions.EI",
+		"author": "Gabriel Pereyra, George Tucker, Jan Chorowski, Lukasz Kaiser, Geoffrey E. Hinton",
+		"publishDate": "2017",
+		"summaryAll": "We propose regularizing neural networks by penalizing low entropy output distributions. We show that penalizing low entropy output distributions, which has been shown to improve exploration in reinforcement learning, acts as a strong regularizer in supervised learning. We connect our confidence penalty to label smoothing through the direction of the KL divergence between networks output distribution and the uniform distribution. "
+	},
+	{
+		"title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.EI",
+		"author": "Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc V. Le, Geoffrey E. Hinton, Jeff Dean",
+		"publishDate": "2017",
+		"summaryAll": "The capacity of a neural network to absorb information is limited by its number of parameters. Conditional computation, where parts of the network are active on a per-example basis, has been proposed in theory as a way of dramatically increasing model capacity without a proportional increase in computation. In practice, however, there are significant algorithmic and performance challenges. "
+	}
+],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": []
+}

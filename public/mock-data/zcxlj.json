@@ -1,0 +1,1437 @@
+{
+  "subjectVO": {
+    "id": "C018819637",
+    "subjectWord": "支持向量机",
+    "subjectWordEn": null,
+    "wiki": "在机器学习中，支持向量机（Support Vector Machine，常简称为SVM，又名支持向量网络）是在分类与回归分析中分析数据的监督式学习模型与相关的学习算法。给定一组训练实例，每个训练实例被标记为属于两个类别中的一个或另一个，SVM训练算法建立一个将新的实例分配给两个类别之一的模型，使其成为非概率线性分类器。SVM模型是将实例表示为空间中的点，这样映射就使得单独类别的实例被尽可能宽的明显的间隔分开。然后，将新的实例映射到同一空间，并基于它们落在间隔的哪一侧来预测所属类别。"
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"支持向量机","type":"keyword","level":"1","colorIdx":"0"},
+      {"code":"1","name":"集成学习","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"2","name":"最优化方法","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"3","name":"决策树","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"4","name":"Andrew Zisserman","type":"expert","level":"2","colorIdx":"0"},
+      {"code":"5","name":"Thorsten Joachims","type":"expert","level":"2","colorIdx":"0"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      ],
+    "expertReco": [
+      {
+        "id": 251536,
+        "name": "葛树志",
+        "headImg": "/img/expert_logo/2019-02/2019-02-18-14-52-07__86e37e2a-183c-4da7-8c91-140e68f50c37.jpg",
+        "institution": "National University of Singapore",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 2024560,
+        "name": "杨强",
+        "headImg": "/img/supplement/2024560.jpg",
+        "institution": "Hong Kong University of Science and Technology",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 1909312,
+        "name": "曾国雄",
+        "headImg": "/img/supplement/zengguoxiong.jpg",
+        "institution": "National Taipei University",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 1,
+        "code": 0,
+        "name": "支持向量机",
+        "type": "keyword",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": "在机器学习中，支持向量机（Support Vector Machine，常简称为SVM，又名支持向量网络）是在分类与回归分析中分析数据的监督式学习模型与相关的学习算法。给定一组训练实例，每个训练实例被标记为属于两个类别中的一个或另一个，SVM训练算法建立一个将新的实例分配给两个类别之一的模型，使其成为非概率线性分类器。SVM模型是将实例表示为空间中的点，这样映射就使得单独类别的实例被尽可能宽的明显的间隔分开。然后，将新的实例映射到同一空间，并基于它们落在间隔的哪一侧来预测所属类别。",
+        "layoutList": [
+          "在机器学习中，支持向量机（Support Vector Machine，常简称为SVM，又名支持向量网络）是在分类与回归分析中分析数据的监督式学习模型与相关的学习算法。给定一组训练实例，每个训练实例被标记为属于两个类别中的一个或另一个，SVM训练算法建立一个将新的实例分配给两个类别之一的模型，使其成为非概率线性分类器。SVM模型是将实例表示为空间中的点，这样映射就使得单独类别的实例被尽可能宽的明显的间隔分开。然后，将新的实例映射到同一空间，并基于它们落在间隔的哪一侧来预测所属类别。"
+        ]
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "集成学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": "集成学习是使用一系列学习器进行学习，并使用某种规则把各个学习结果进行整合从而获得比单个学习器更好的学习效果的一种机器学习方法。",
+        "layoutList": [
+          "集成学习是使用一系列学习器进行学习，并使用某种规则把各个学习结果进行整合从而获得比单个学习器更好的学习效果的一种机器学习方法。"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "最优化方法",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": "最优化方法，是指解决最优化问题的方法。所谓最优化问题，指在某些约束条件下，决定某些可选择的变量应该取何值，使所选定的目标函数达到最优的问题。即运用最新科技手段和处理方法，使系统达到总体最优，从而为系统提出设计、施工、管理、运行的最优方案。由于实际的需要和计算技术的进步，最优化方法的研究发展迅速。",
+        "layoutList": [
+          "最优化方法，是指解决最优化问题的方法。所谓最优化问题，指在某些约束条件下，决定某些可选择的变量应该取何值，使所选定的目标函数达到最优的问题。即运用最新科技手段和处理方法，使系统达到总体最优，从而为系统提出设计、施工、管理、运行的最优方案。由于实际的需要和计算技术的进步，最优化方法的研究发展迅速。"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "决策树",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": "决策树(Decision Tree）是在已知各种情况发生概率的基础上，通过构成决策树来求取净现值的期望值大于等于零的概率，评价项目风险，判断其可行性的决策分析方法，是直观运用概率分析的一种图解法。由于这种决策分支画成图形很像一棵树的枝干，故称决策树。在机器学习中，决策树是一个预测模型，他代表的是对象属性与对象值之间的一种映射关系。Entropy = 系统的凌乱程度，使用算法ID3, C4.5和C5.0生成树算法使用熵。这一度量是基于信息学理论中熵的概念。",
+        "layoutList": [
+          "决策树(Decision Tree）是在已知各种情况发生概率的基础上，通过构成决策树来求取净现值的期望值大于等于零的概率，评价项目风险，判断其可行性的决策分析方法，是直观运用概率分析的一种图解法。由于这种决策分支画成图形很像一棵树的枝干，故称决策树。在机器学习中，决策树是一个预测模型，他代表的是对象属性与对象值之间的一种映射关系。Entropy = 系统的凌乱程度，使用算法ID3, C4.5和C5.0生成树算法使用熵。这一度量是基于信息学理论中熵的概念。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "Andrew Zisserman",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": "（1957年出生）是一位英国计算机科学家和牛津大学教授，以及计算机视觉研究人员。截至2014年，他与Deepad有关联。",
+        "layoutList": [
+          "（1957年出生）是一位英国计算机科学家和牛津大学教授，以及计算机视觉研究人员。截至2014年，他与Deepad有关联。"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 5,
+        "name": "Thorsten Joachims",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": "Thorsten Joachims是康奈尔大学计算机科学系和信息科学系的教授。2001年，他在多特蒙德大学AI部门担任Morik教授的博士后，于2001年加入该系，并于1997年获得计算机科学硕士学位。2000年至2001年期间，他曾在该部门工作。作为自主智能系统研究所知识发现团队GMD的PostDoc。从1994年到1996年，他在卡内基梅隆大学度过了一年半的时间，作为Tom Mitchell教授的访问学者。",
+        "layoutList": [
+          "Thorsten Joachims是康奈尔大学计算机科学系和信息科学系的教授。2001年，他在多特蒙德大学AI部门担任Morik教授的博士后，于2001年加入该系，并于1997年获得计算机科学硕士学位。2000年至2001年期间，他曾在该部门工作。作为自主智能系统研究所知识发现团队GMD的PostDoc。从1994年到1996年，他在卡内基梅隆大学度过了一年半的时间，作为Tom Mitchell教授的访问学者。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 6,
+        "name": "图像处理",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 8,
+        "code": 7,
+        "name": "物体识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 8,
+        "name": "推荐系统",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 9,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 10,
+        "name": "Andrea Vedaldi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 11,
+        "name": "David A. Forsyth",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 12,
+        "name": "Jeffrey Byrne",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 13,
+        "name": "Qiong Cao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 14,
+        "name": "Adith Swaminathan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 15,
+        "name": "Tobias Schnabel",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 16,
+        "name": "Maarten de Rijke",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 17,
+        "name": "Ivan Zaitsev",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 18,
+        "name": "姚欣",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": "从中国科学技术大学获得博士学位的Xin Yao教授目前领导着中科大 - 伯明翰联合研究所的智能计算及其应用，由五名全职教师组成，形成一个临界质量智能计算方面的专业知识。研究所主要关注两个主要领域：自适应优化和高级数据分析与挖掘。通过与工程师和技术人员密切合作，该研究所开展应用运营研究。这种跨学科的方法为日常问题提供了解决方案，例如车辆路径挑战。例如，专门研究冬季盐分扩散，Xin的团队会考虑关键因素，包括行程距离和产品数量，并开发算法来预测交通影响和车队可用性的影响，并就最佳路线规划提出建议。该研究所的其他重点，数据分析和挖掘，是数字时代的新挑战。",
+        "layoutList": [
+          "从中国科学技术大学获得博士学位的Xin Yao教授目前领导着中科大 - 伯明翰联合研究所的智能计算及其应用，由五名全职教师组成，形成一个临界质量智能计算方面的专业知识。研究所主要关注两个主要领域：自适应优化和高级数据分析与挖掘。通过与工程师和技术人员密切合作，该研究所开展应用运营研究。这种跨学科的方法为日常问题提供了解决方案，例如车辆路径挑战。例如，专门研究冬季盐分扩散，Xin的团队会考虑关键因素，包括行程距离和产品数量，并开发算法来预测交通影响和车队可用性的影响，并就最佳路线规划提出建议。该研究所的其他重点，数据分析和挖掘，是数字时代的新挑战。"
+        ]
+      },
+      {
+        "id": 20,
+        "code": 19,
+        "name": "Lean Yu",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": "他在中国科学院数学与系统科学学院管理科学与工程学院获得博士学位，他是北京化工大学经济与管理学院的院长和博士主管。他是中国科学院杰出青年学者和“百位人才计划”国家科学基金的获得者。他是国际智能工程信息学杂志的主编、国际计算科学杂志的主编，以及几个国际期刊的编辑成员。到目前为止，他已经出版了四部专著(两部专著由斯普林格-维拉格出版)和60多篇SCI/SSCI论文，发表在一些顶级期刊上，包括IEEE进化计算交易和IEEE知识和数据工程交易。同时，他还获得了多项奖项和荣誉，如中国科学技术委员会组织部“中国青年科学技术奖”、中国国务院学位委员会和教育部颁发的“100 个全国最佳博士论文奖”、北京市政府颁发的“北京科学技术奖一等奖”、教育部颁发的自然科学奖一等奖、中国（ 中国）运营研究会颁发的“中国运营研究应用一等奖”、中国科学院颁发的“卢嘉熙青年人才奖”等。 他的研究兴趣包括商业智能、经济预测、能源经济学和智能决策支持系统。",
+        "layoutList": [
+          "他在中国科学院数学与系统科学学院管理科学与工程学院获得博士学位，他是北京化工大学经济与管理学院的院长和博士主管。他是中国科学院杰出青年学者和“百位人才计划”国家科学基金的获得者。他是国际智能工程信息学杂志的主编、国际计算科学杂志的主编，以及几个国际期刊的编辑成员。到目前为止，他已经出版了四部专著(两部专著由斯普林格-维拉格出版)和60多篇SCI/SSCI论文，发表在一些顶级期刊上，包括IEEE进化计算交易和IEEE知识和数据工程交易。同时，他还获得了多项奖项和荣誉，如中国科学技术委员会组织部“中国青年科学技术奖”、中国国务院学位委员会和教育部颁发的“100 个全国最佳博士论文奖”、北京市政府颁发的“北京科学技术奖一等奖”、教育部颁发的自然科学奖一等奖、中国（ 中国）运营研究会颁发的“中国运营研究应用一等奖”、中国科学院颁发的“卢嘉熙青年人才奖”等。 他的研究兴趣包括商业智能、经济预测、能源经济学和智能决策支持系统。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 20,
+        "name": "多目标优化",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 22,
+        "code": 21,
+        "name": "进化算法",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 23,
+        "code": 22,
+        "name": "支持向量机",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 24,
+        "code": 23,
+        "name": "梯度优化",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 24,
+        "name": "Ke Tang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 25,
+        "name": "Renzhi Chen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 26,
+        "name": "Leandro L. Minku",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 27,
+        "name": "Chao Qian",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 28,
+        "name": "Kin Keung Lai",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 29,
+        "name": "Wei Huang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 30,
+        "name": "Wang Shouyang Wang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 31,
+        "name": "Shouyang Wang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 32,
+        "name": "Michael I. Jordan",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": "美国科学家，加州大学伯克利分校教授，也是机器学习、统计学和人工智能方面的研究员。迈克尔·I·乔丹(MichaelI.Jordan)是机器学习领域的领军人物之一，2016年科学报告称他是世界上最具影响力的计算机科学家。",
+        "layoutList": [
+          "美国科学家，加州大学伯克利分校教授，也是机器学习、统计学和人工智能方面的研究员。迈克尔·I·乔丹(MichaelI.Jordan)是机器学习领域的领军人物之一，2016年科学报告称他是世界上最具影响力的计算机科学家。"
+        ]
+      },
+      {
+        "id": 34,
+        "code": 33,
+        "name": "Jorge Nocedal",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": "生于1952 是一个应用数学家和计算机科学家，沃尔特·P·墨菲教授（WalterP.Murphy教授）在伊利诺斯州的Evanston西北大学的麦考密克工程学院（McCormickSchoolofEngineering）的工业工程和管理科学部教授。Noedal专门用于确定性和随机设置中的非线性优化。他目前的算法和理论研究的动机来源于图像和语音识别、推荐系统和搜索引擎中的应用。过去，他还致力于在机器人、交通和游戏、金融优化应用以及PDE约束优化中应用的均衡问题。",
+        "layoutList": [
+          "生于1952 是一个应用数学家和计算机科学家，沃尔特·P·墨菲教授（WalterP.Murphy教授）在伊利诺斯州的Evanston西北大学的麦考密克工程学院（McCormickSchoolofEngineering）的工业工程和管理科学部教授。Noedal专门用于确定性和随机设置中的非线性优化。他目前的算法和理论研究的动机来源于图像和语音识别、推荐系统和搜索引擎中的应用。过去，他还致力于在机器人、交通和游戏、金融优化应用以及PDE约束优化中应用的均衡问题。"
+        ]
+      },
+      {
+        "id": 35,
+        "code": 34,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 35,
+        "name": "文本分类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 37,
+        "code": 36,
+        "name": "最优化方法",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 38,
+        "code": 37,
+        "name": "随机优化",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 39,
+        "code": 38,
+        "name": "Max Tegmark",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 40,
+        "code": 39,
+        "name": "Yann LeCun",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 40,
+        "name": "Alexis Conneau",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 41,
+        "name": "LoïcBarrault",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 42,
+        "name": "Richard H. Byrd",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 43,
+        "name": "Gillian M. Chin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 44,
+        "name": "Albert S. Berahas",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 45,
+        "name": "LoïcBarrault",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 46,
+        "name": "Yishay Mansour",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": "他就职于特拉维夫大学，以色列计算机科学学院",
+        "layoutList": [
+          "他就职于特拉维夫大学，以色列计算机科学学院"
+        ]
+      },
+      {
+        "id": 48,
+        "code": 47,
+        "name": "Kevin W. Bowyer",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": "KevinBowyer是巴黎圣母院计算机科学与工程系的Schubmehl-Prefin家庭教授，目前还担任工程暑期国际programs.in补充学院的主任，他在工程学院和信息部NuiGalway担任生物统计技术荣誉教授。是ieee新的生物识别、行为和身份科学交易(t-biom)的首任主编。",
+        "layoutList": [
+          "KevinBowyer是巴黎圣母院计算机科学与工程系的Schubmehl-Prefin家庭教授，目前还担任工程暑期国际programs.in补充学院的主任，他在工程学院和信息部NuiGalway担任生物统计技术荣誉教授。是ieee新的生物识别、行为和身份科学交易(t-biom)的首任主编。"
+        ]
+      },
+      {
+        "id": 49,
+        "code": 48,
+        "name": "强化学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 49,
+        "name": "判别学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 50,
+        "name": "图像合成",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 51,
+        "name": "半监督学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 53,
+        "code": 52,
+        "name": "Aryeh Kontorovich",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 54,
+        "code": 53,
+        "name": "Idan Attias",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 55,
+        "code": 54,
+        "name": "Elad Yom-Tov",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 56,
+        "code": 55,
+        "name": "Nir Rosenfeld",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 56,
+        "name": "Patrick J. Flynn",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 57,
+        "name": "Walter J. Scheirer",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 58,
+        "name": "W. Philip Kegelmeyer",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 59,
+        "name": "Lawrence O. Hall",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 60,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": "Usefulness of traditionally defined herbal properties for distinguishing prescriptions of traditional Chinese medicine from non-prescription recipes/Support vector machine method for forecasting future strong earth-quakes in Chinese mainland/Support vector machine modeling on NO emission property of high capacity power station boiler/Sequence-similarity kernels for SVMs to detect anomalies in system calls/Automatic news audio classification method based on selective ensemble SVMs/A support vector machine integrated system for the classification of operation anomalies in nuclear components and systems/Focusing on non-respondents: Response modeling with novelty detectors",
+        "layoutList": [
+          "Usefulness of traditionally defined herbal properties for distinguishing prescriptions of traditional Chinese medicine from non-prescription recipes",
+          "Support vector machine method for forecasting future strong earth-quakes in Chinese mainland",
+          "Support vector machine modeling on NO emission property of high capacity power station boiler",
+          "Sequence-similarity kernels for SVMs to detect anomalies in system calls",
+          "Automatic news audio classification method based on selective ensemble SVMs",
+          "A support vector machine integrated system for the classification of operation anomalies in nuclear components and systems",
+          "Focusing on non-respondents: Response modeling with novelty detectors"
+        ]
+      },
+      {
+        "id": 62,
+        "code": 61,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "支持向量机",
+        "layout": "一种支持向量机和粗糙集的故障诊断知识获取方法/一种基于改进支持向量机的锅炉飞灰含碳量软测量方法/一种在地磁感应器上基于支持向量机的车型识别方法/基于支持向量机的图像反馈方法及系统/一种基于改进支持向量机的化工过程故障诊断方法/基于支持向量机的人脸两颧颜色分类的方法/一种基于支持向量机的信道环境检测方法",
+        "layoutList": [
+          "一种支持向量机和粗糙集的故障诊断知识获取方法",
+          "一种基于改进支持向量机的锅炉飞灰含碳量软测量方法",
+          "一种在地磁感应器上基于支持向量机的车型识别方法",
+          "基于支持向量机的图像反馈方法及系统",
+          "一种基于改进支持向量机的化工过程故障诊断方法",
+          "基于支持向量机的人脸两颧颜色分类的方法",
+          "一种基于支持向量机的信道环境检测方法"
+        ]
+      },
+      {
+        "id": 63,
+        "code": 62,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": "Learning assignment order of instances for the constrained K-means clustering algorithm/Exploratory undersampling for class-imbalance learning/Network traffic classification based on ensemble learning and co-training/Mining extremely small data sets with application to software reuse/Categorizing and mining concept drifting data streams/Combo-dimensional kernels for graph classification/Construct support vector machine ensemble to detect traffic incident",
+        "layoutList": [
+          "Learning assignment order of instances for the constrained K-means clustering algorithm",
+          "Exploratory undersampling for class-imbalance learning",
+          "Network traffic classification based on ensemble learning and co-training",
+          "Mining extremely small data sets with application to software reuse",
+          "Categorizing and mining concept drifting data streams",
+          "Combo-dimensional kernels for graph classification",
+          "Construct support vector machine ensemble to detect traffic incident"
+        ]
+      },
+      {
+        "id": 64,
+        "code": 63,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "支持向量机",
+        "layout": "一种基于集成学习的模式训练和识别方法/基于集成学习思想的SVM-RFE导联优化方法/基于特征光流与在线集成学习的视频目标跟踪方法/一种基于集成学习的社会网络重叠社区发现方法/一种基于集成学习建模技术的半导体过程监测方法/一种基于多视集成学习的恶意软件检测方法/一种利用海洋遥感多环境要素的集成学习渔场预报方法",
+        "layoutList": [
+          "一种基于集成学习的模式训练和识别方法",
+          "基于集成学习思想的SVM-RFE导联优化方法",
+          "基于特征光流与在线集成学习的视频目标跟踪方法",
+          "一种基于集成学习的社会网络重叠社区发现方法",
+          "一种基于集成学习建模技术的半导体过程监测方法",
+          "一种基于多视集成学习的恶意软件检测方法",
+          "一种利用海洋遥感多环境要素的集成学习渔场预报方法"
+        ]
+      },
+      {
+        "id": 65,
+        "code": 64,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": "Multi-objective optimization of technological parameters during the gas quenching process/Study on a generalized model updating method for offshore platforms/Linear antenna array synthesis using Taguchi's method: A novel optimization technique in electromagnetics/Multi-echelon inventory stochastic model of supply chain and its optimization/Velikost populacije pri algoritmu diferencialne evolucije/A utility optimization method of a high voltage vacuum interrupter design/Dual-wavelength quadrature phase-shifted demodulation of low-finesse short F-P cavity",
+        "layoutList": [
+          "Multi-objective optimization of technological parameters during the gas quenching process",
+          "Study on a generalized model updating method for offshore platforms",
+          "Linear antenna array synthesis using Taguchi's method: A novel optimization technique in electromagnetics",
+          "Multi-echelon inventory stochastic model of supply chain and its optimization",
+          "Velikost populacije pri algoritmu diferencialne evolucije",
+          "A utility optimization method of a high voltage vacuum interrupter design",
+          "Dual-wavelength quadrature phase-shifted demodulation of low-finesse short F-P cavity"
+        ]
+      },
+      {
+        "id": 66,
+        "code": 65,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "支持向量机",
+        "layout": "元件种类配置的最优化方法及元件种类配置的最优化装置/水质采样巡航船路径规划最优化方法/基于可靠性感知的频谱资源最优化方法及系统/一种改进型最优化方法/基于最优化方法的湿地植物配置方法/一种基于蚁群路由算法连通预测的能效最优化方法/基于最短路径的消防救援路线最优化方法",
+        "layoutList": [
+          "元件种类配置的最优化方法及元件种类配置的最优化装置",
+          "水质采样巡航船路径规划最优化方法",
+          "基于可靠性感知的频谱资源最优化方法及系统",
+          "一种改进型最优化方法",
+          "基于最优化方法的湿地植物配置方法",
+          "一种基于蚁群路由算法连通预测的能效最优化方法",
+          "基于最短路径的消防救援路线最优化方法"
+        ]
+      },
+      {
+        "id": 67,
+        "code": 66,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": "Input Decimated Ensemble based on Neighborhood Preserving Embedding for spectrogram classification/Prediction of periventricular leukomalacia. Part II: Selection of hemodynamic features using computational intelligence/A hybrid approach to design efficient learning classifiers/Multiple ecological pathways to extinction in mammals/Research on new classifier algorithms for support vector machine/Privacy preserving C4.5 algorithm over vertically distributed datasets/Thai word segmentation with hidden markov model and decision tree",
+        "layoutList": [
+          "Input Decimated Ensemble based on Neighborhood Preserving Embedding for spectrogram classification",
+          "Prediction of periventricular leukomalacia. Part II: Selection of hemodynamic features using computational intelligence",
+          "A hybrid approach to design efficient learning classifiers",
+          "Multiple ecological pathways to extinction in mammals",
+          "Research on new classifier algorithms for support vector machine",
+          "Privacy preserving C4.5 algorithm over vertically distributed datasets",
+          "Thai word segmentation with hidden markov model and decision tree"
+        ]
+      },
+      {
+        "id": 68,
+        "code": 67,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "支持向量机",
+        "layout": "基于决策树高速并行处理的网络流量在线分类方法及装置/基于二叉决策树的高光谱遥感影像分类方法/并行处理机器学习决策树训练/一种基于决策树算法的固体农药分类方法/基于决策树的攻击检测系统/建立决策树的方法及装置、网络性能优化方法及装置/一种基于动态决策树的话务峰涌呼叫优化方法",
+        "layoutList": [
+          "基于决策树高速并行处理的网络流量在线分类方法及装置",
+          "基于二叉决策树的高光谱遥感影像分类方法",
+          "并行处理机器学习决策树训练",
+          "一种基于决策树算法的固体农药分类方法",
+          "基于决策树的攻击检测系统",
+          "建立决策树的方法及装置、网络性能优化方法及装置",
+          "一种基于动态决策树的话务峰涌呼叫优化方法"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 4,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "id": 60,
+        "source": 0,
+        "target": 60
+      },
+      {
+        "id": 61,
+        "source": 0,
+        "target": 61
+      },
+      {
+        "id": 18,
+        "source": 1,
+        "target": 18
+      },
+      {
+        "id": 19,
+        "source": 1,
+        "target": 19
+      },
+      {
+        "id": 62,
+        "source": 1,
+        "target": 62
+      },
+      {
+        "id": 63,
+        "source": 1,
+        "target": 63
+      },
+      {
+        "id": 32,
+        "source": 2,
+        "target": 32
+      },
+      {
+        "id": 33,
+        "source": 2,
+        "target": 33
+      },
+      {
+        "id": 64,
+        "source": 2,
+        "target": 64
+      },
+      {
+        "id": 65,
+        "source": 2,
+        "target": 65
+      },
+      {
+        "id": 46,
+        "source": 3,
+        "target": 46
+      },
+      {
+        "id": 47,
+        "source": 3,
+        "target": 47
+      },
+      {
+        "id": 66,
+        "source": 3,
+        "target": 66
+      },
+      {
+        "id": 67,
+        "source": 3,
+        "target": 67
+      },
+      {
+        "id": 6,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "id": 7,
+        "source": 4,
+        "target": 7
+      },
+      {
+        "id": 8,
+        "source": 5,
+        "target": 8
+      },
+      {
+        "id": 9,
+        "source": 5,
+        "target": 9
+      },
+      {
+        "id": 10,
+        "source": 6,
+        "target": 10
+      },
+      {
+        "id": 11,
+        "source": 6,
+        "target": 11
+      },
+      {
+        "id": 12,
+        "source": 7,
+        "target": 12
+      },
+      {
+        "id": 13,
+        "source": 7,
+        "target": 13
+      },
+      {
+        "id": 14,
+        "source": 8,
+        "target": 14
+      },
+      {
+        "id": 15,
+        "source": 8,
+        "target": 15
+      },
+      {
+        "id": 16,
+        "source": 9,
+        "target": 16
+      },
+      {
+        "id": 17,
+        "source": 9,
+        "target": 17
+      },
+      {
+        "id": 20,
+        "source": 18,
+        "target": 20
+      },
+      {
+        "id": 21,
+        "source": 18,
+        "target": 21
+      },
+      {
+        "id": 22,
+        "source": 19,
+        "target": 22
+      },
+      {
+        "id": 23,
+        "source": 19,
+        "target": 23
+      },
+      {
+        "id": 24,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 25,
+        "source": 20,
+        "target": 25
+      },
+      {
+        "id": 26,
+        "source": 21,
+        "target": 26
+      },
+      {
+        "id": 27,
+        "source": 21,
+        "target": 27
+      },
+      {
+        "id": 28,
+        "source": 22,
+        "target": 28
+      },
+      {
+        "id": 29,
+        "source": 22,
+        "target": 29
+      },
+      {
+        "id": 30,
+        "source": 23,
+        "target": 30
+      },
+      {
+        "id": 31,
+        "source": 23,
+        "target": 31
+      },
+      {
+        "id": 34,
+        "source": 32,
+        "target": 34
+      },
+      {
+        "id": 35,
+        "source": 32,
+        "target": 35
+      },
+      {
+        "id": 36,
+        "source": 33,
+        "target": 36
+      },
+      {
+        "id": 37,
+        "source": 33,
+        "target": 37
+      },
+      {
+        "id": 38,
+        "source": 34,
+        "target": 38
+      },
+      {
+        "id": 39,
+        "source": 34,
+        "target": 39
+      },
+      {
+        "id": 40,
+        "source": 35,
+        "target": 40
+      },
+      {
+        "id": 41,
+        "source": 35,
+        "target": 41
+      },
+      {
+        "id": 42,
+        "source": 36,
+        "target": 42
+      },
+      {
+        "id": 43,
+        "source": 36,
+        "target": 43
+      },
+      {
+        "id": 44,
+        "source": 37,
+        "target": 44
+      },
+      {
+        "id": 45,
+        "source": 37,
+        "target": 45
+      },
+      {
+        "id": 48,
+        "source": 46,
+        "target": 48
+      },
+      {
+        "id": 49,
+        "source": 46,
+        "target": 49
+      },
+      {
+        "id": 50,
+        "source": 47,
+        "target": 50
+      },
+      {
+        "id": 51,
+        "source": 47,
+        "target": 51
+      },
+      {
+        "id": 52,
+        "source": 48,
+        "target": 52
+      },
+      {
+        "id": 53,
+        "source": 48,
+        "target": 53
+      },
+      {
+        "id": 54,
+        "source": 49,
+        "target": 54
+      },
+      {
+        "id": 55,
+        "source": 49,
+        "target": 55
+      },
+      {
+        "id": 56,
+        "source": 50,
+        "target": 56
+      },
+      {
+        "id": 57,
+        "source": 50,
+        "target": 57
+      },
+      {
+        "id": 58,
+        "source": 51,
+        "target": 58
+      },
+      {
+        "id": 59,
+        "source": 51,
+        "target": 59
+      }
+    ]
+ 
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "LIBSVM: A library for support vector machines",
+		"author": "Chih-Chung Chang,Chih-Jen Lin",
+		"publishDate": "2011",
+		"summaryAll": "LIBSVM is a library for Support Vector Machines (SVMs). We have been actively developing this package since the year 2000. The goal is to help users to easily apply SVM to their applications. LIBSVM has gained wide popularity in machine learning and many other areas. In this arti..."
+	},
+	{
+		"title": "A Tutorial on Support Vector Machines for Pattern Recognition",
+		"author": "Christopher J. C. Burges",
+		"publishDate": "1998",
+		"summaryAll": "The tutorial starts with an overview of the concepts of VC dimensionand structural risk minimization. We then describe linear Support Vector Machines (SVMs) for separable and non-separable data, working through a non-trivial example in detail."
+	},
+	{
+		"title": "An introduction to support Vector Machines: and other kernel-based learning methods",
+		"author": "Nello Cristianini,John Shawe-Taylor",
+		"publishDate": "1999",
+		"summaryAll": "From the publisher: This is the first comprehensive introductionto Support Vector Machines (SVMs), a new generation learning systembased on recent advances in statistical learning theory. "
+	},
+	{
+		"title": "Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond",
+		"author": "Bernhard Scholkopf,Alexander J. Smola",
+		"publishDate": "2005",
+		"summaryAll": "From the Publisher:In the 1990s, a new type of learning algorithm was developed, based on results from statistical learning theory: the Support Vector Machine (SVM). "
+	},
+	{
+		"title": "A tutorial on support vector machines for pattern recognition",
+		"author": "C. Burgess",
+		"publishDate": "1998",
+		"summaryAll": "The tutorial starts with an overview of the concepts of VC dimension and structural risk minimization. We then describe linear Support Vector Machines (SVMs) for separable and non-separable data, working through a non-trivial example in detail. We describe a mechanical analogy, and discuss when SVM solutions are unique and when they are global. "
+	},
+	{
+		"title": "A comparison of methods for multiclass support vector machines.",
+		"author": "Chih-Wei Hsu,Chih-Jen Lin",
+		"publishDate": "2002",
+		"summaryAll": "Support vector machines (SVMs) were originally designed for binary classification. How to effectively extend it for multiclass classification is still an ongoing research issue. "
+	},
+	{
+		"title": "A comparison of methods for multi-class support vector machines",
+		"author": "C. W. Hsu,C. J. Lin",
+		"publishDate": "2002",
+		"summaryAll": "Abstract—Support vector machines (SVMs) were originally designed for binary classification. How to effectively extend it for multiclass classification is still an ongoing research issue. "
+	}
+],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": [
+    {
+      "id": "1",
+      "nameCN": "机器人与机器人装备 工业机器人的安全要求 第2部分：机器人系统与集成",
+      "nameEN": "Robots and robotic devices―Safety requirements for industrial robots―Part 2: Robot systems and integration",
+      "standardNo": "GB 11291.2-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summaryAll": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求",
+      "summaryAll": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求，工业机器人和工业机器人系统已在GB 11291.1中定义。集成包括以下方面： a) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废； b) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废的必要条件； c) 工业机器人系统或单元的部件设备。 本部分描述了与这些系统有关的基本危险和危险情况，并提出了消除和充分降低与这些危险相关的风险要求。虽然噪声波定为是工业机器人的一种主要危险，但是本部分不予考虑。本部分也规定了对作为集成制造系统的部分的工业机器人系统的要求。本部分不专门涉及关于加工过程中的危险（如激光辐射、弹出碎片、焊接烟雾）其他标准适用于这些加工过程中的危险。",
+      "draftUnit": "",
+      "mandatoryStandard": "是",
+      "status": "现行",
+      "publishDate": "2013-12-17",
+      "implementDate": "2014-11-01"
+    },
+    {
+      "id": "7",
+      "nameCN": "工业机器人 性能规范及其试验方法",
+      "nameEN": "Industrial robots - Performance criteria and related test methods",
+      "standardNo": "GB/T 12642-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summaryAll": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”",
+      "summaryAll": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”指的是工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-03-15"
+    },
+    {
+      "id": "24",
+      "nameCN": "工业机器人 用户编程指令",
+      "nameEN": "Industrial robot - User programme instruction",
+      "standardNo": "GB/T 29824-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summaryAll": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬",
+      "summaryAll": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬运机器人、喷涂机器人、装配机器人（包含但不是全部）等工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-04-01"
+    },
+    {
+      "id": "25",
+      "nameCN": "机器人通信总线协议",
+      "nameEN": "Robot General Bus communication protocol",
+      "standardNo": "GB/T 29825-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summaryAll": " 本标准规定了模块化机器人系统中的一种通信总线的数据格式和程序规范，包括协议层次、格式",
+      "summaryAll": " 本标准规定了模块化机器人系统中的一种通信总线的数据格式和程序规范，包括协议层次、格式定义、工作流程。 本标准主要适用于模块化机器人系统中不同功能模块构件之间的数据交互和信息共享。应用于非模块化机器人中的通信总线亦可参照使用本标准。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-04-01"
+    },
+    {
+      "id": "8",
+      "nameCN": "工业机器人 性能试验实施规范",
+      "nameEN": "Industrial robot - Detailed implementation specification for performance and related test",
+      "standardNo": "GB/T 20868-2007",
+      "categoryNoCN": "J;J07,机械,机械综合",
+      "categoryNoIN": "25;25.040.30",
+      "summaryAll": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时",
+      "summaryAll": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时的实施细则和操作步骤。　　本标准供工业机器人制造厂商、试验部门、机器人用户使用。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2007-01-18",
+      "implementDate": "2007-08-01"
+    },
+    {
+      "id": "3",
+      "nameCN": "信息技术 词汇 第29部分:人工智能 语音识别与合成",
+      "nameEN": "Information technology-Vocabulary-Part 29:Artificial intelligence-Speech recognition and synthesis",
+      "standardNo": "GB/T 5271.29-2006",
+      "categoryNoCN": "L;L60,电子元器件与信息技术,计算机",
+      "categoryNoIN": "35;35.240.20",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　为方便将此标准翻译成其他语言，给出的定义尽可能避免语言上的特殊性。　　本部分定义了有关语音识别和语音合成的概念。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2006-03-14",
+      "implementDate": "2006-07-01"
+    },
+    {
+      "id": "4",
+      "nameCN": "technolgy—Vocabulary—Part 31:Artificial intelligence—<mark class=highlight>Machine</mark>",
+      "nameEN": "Information technolgy—Vocabulary—Part 31:Artificial intelligence—Machine learning",
+      "standardNo": "GB/T 5271.31-2006",
+      "categoryNoCN": "L;L60,电子元器件与信息技术,计算机",
+      "categoryNoIN": "35;35.240.20",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　为方便将此标准翻译成其他语言，给出的定义尽可能避免语言上的特殊性。　　本部分定义了有关人工智能中机器学习的概念。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2006-03-14",
+      "implementDate": "2006-07-01"
+    },
+    {
+      "id": "5",
+      "nameCN": "technolgy—Vocabulary—Part 34:Artificial intelligence—Neural <mark class=highlight>networks</mark>",
+      "nameEN": "Information technolgy—Vocabulary—Part 34:Artificial intelligence—Neural networks",
+      "standardNo": "GB/T 5271.34-2006",
+      "categoryNoCN": "L;L60,电子元器件与信息技术,计算机",
+      "categoryNoIN": "35;35.240.20",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　为方便将此标准翻译成其他语言，给出的定义尽可能避免语言上的特殊性。　　本部分定义了有关神经网络及其组成部分、连接机制和功能的概念。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2006-03-14",
+      "implementDate": "2006-07-01"
+    }
+  ]
+}

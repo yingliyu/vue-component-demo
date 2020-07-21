@@ -1,0 +1,1127 @@
+{
+  "success": true,
+  "message": "",
+  "expertVO": {
+    "id": 2116449,
+    "name": "李飞飞",
+    "headImg": "/img/expert_logo/2019-03/2019-03-13-16-40-00__ac93a0d6-a1d0-42fb-874f-4a6b5d6eeb60.jpg",
+    "institution": "Stanford University",
+    "subjectArea": "计算机科学",
+    "country": "美国",
+    "totalIssues": 156,
+    "totalCitations": 22347,
+    "top1Citations": 0.368794,
+    "number1": 40,
+    "top10Citations": 0.673759,
+    "number10": 94,
+    "hIndex": 57,
+    "journalSend": null,
+    "subjectMatch": null,
+    "citedSituation": null,
+    "fwciinedx": 13.89,
+    "layoutList": [
+      "1976年－ ，斯坦福大学计算机科学副教授。目前任职于斯坦福大学人工智能实验室（SAIL） 、斯坦福视觉实验室、丰田汽车-斯坦福人工智能研究中心负责人。",
+      "她的专业领域是电脑视觉和认知神经科学。2016年，李飞飞利用她在斯坦福的学术假期，加入Google云端人工智能暨机器学习的中国中心团队，以Google Cloud 首席科学家身份为团队负责人之一。",
+      "2018年9月，她宣布返回斯坦福任教，并持续参与斯坦福大学的AI议题研究。",
+      "李飞飞已获得奖项：",
+      "2016年由纽约卡内基协会颁发的全美40大优秀移民奖",
+      "2014年IBM研究奖",
+      "2011年阿尔弗雷德斯隆商学院奖",
+      "2012年雅虎实验室德国财务报告管理小组奖",
+      "2009年的国家科学基金会职业奖",
+      "2006年微软研究新学院研究奖金。"
+      
+    ]
+  },
+  "mapVO": {
+    "nodes": [
+      {
+        "code": "0",
+        "name": "李飞飞",
+        "type": "expert",
+        "level": "1",
+        "colorIdx": "0"
+      },
+      {
+        "code": "1",
+        "name": "荣誉",
+        "type": "honor",
+        "level": "2",
+        "colorIdx": "5"
+      },
+      {
+        "code": "2",
+        "name": "机构",
+        "type": "org",
+        "level": "2",
+        "colorIdx": "6"
+      },
+      {
+        "code": "3",
+        "name": "计算机视觉",
+        "type": "keyword",
+        "level": "2",
+        "colorIdx": "1"
+      },
+      {
+        "code": "4",
+        "name": "神经网络",
+        "type": "keyword",
+        "level": "2",
+        "colorIdx": "2"
+      },
+      {
+        "code": "5",
+        "name": "无监督学习",
+        "type": "keyword",
+        "level": "2",
+        "colorIdx": "3"
+      }
+    ],
+    "relations": [
+      {
+        "id": "0",
+        "source": "0",
+        "target": "1"
+      },
+      {
+        "id": "1",
+        "source": "0",
+        "target": "2"
+      },
+      {
+        "id": "2",
+        "source": "0",
+        "target": "3"
+      },
+      {
+        "id": "3",
+        "source": "0",
+        "target": "4"
+      },
+      {
+        "id": "4",
+        "source": "0",
+        "target": "5"
+      }
+    ],
+    "expertReco": [
+      {
+        "id": 8526,
+        "name": "颜水成",
+        "headImg": "/img/expert_logo/2019-03/2019-03-19-10-12-43__c6c48347-d481-4f11-9385-79f495de8785.jpg",
+        "institution": "National University of Singapore",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 2037377,
+        "name": "张世富",
+        "headImg": "/img/expert_logo/2019-04/2019-04-02-14-45-03__93ee0293-426b-46c3-95d2-9a641cebe1bb.jpg",
+        "institution": "Columbia University in the City of New York",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 1936883,
+        "name": "陶大程",
+        "headImg": "/img/expert_logo/2019-03/2019-03-19-09-40-48__79f99f72-9808-4d59-9893-39b5b9270883.jpg",
+        "institution": "The University of Sydney",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": [
+      "Object recognition",
+      "Supervised learning",
+      "Computer vision",
+      "learning (artificial intelligence)"
+    ],
+    "journalsReco": null,
+    "institutionsReco": [
+      "Courant Institute of Mathematical Sciences"
+    ]
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 49,
+        "code": 51,
+        "name": "Caidi Cao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 52,
+        "name": "Xiaoxue Zang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 53,
+        "name": "MarynelVázquez",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "李飞飞",
+        "type": "expert",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "荣誉",
+        "type": "honor",
+        "level": 2,
+        "colorIdx": 5,
+        "keyword": "李飞飞",
+        "layout": "2014年IBM教员奖/2011年Alfred Sloan教员奖/2012年Yahoo Labs FREP奖/2009年NSF职业成就奖/2006年微软研究院新教员奖学金获得者",
+        "layoutList": [
+          "2014年IBM教员奖",
+          "2011年Alfred Sloan教员奖",
+          "2012年Yahoo Labs FREP奖",
+          "2009年NSF职业成就奖",
+          "2006年微软研究院新教员奖学金获得者"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "组织",
+        "type": "org",
+        "level": 2,
+        "colorIdx": 6,
+        "keyword": "李飞飞",
+        "layout": "斯坦福大学",
+        "layoutList": [
+          "斯坦福大学"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "计算机视觉",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": "计算机视觉是一门研究如何使机器“看”的科学，更进一步的说，就是是指用摄影机和电脑代替人眼对目标进行识别、跟踪和测量等机器视觉，并进一步做图形处理，使电脑处理成为更适合人眼观察或传送给仪器检测的图像。作为一个科学学科，计算机视觉研究相关的理论和技术，试图建立能够从图像或者多维数据中获取‘信息’的人工智能系统。这里所 指的信息指Shannon定义的，可以用来帮助做一个“决定”的信息。因为感知可以看作是从感官信号中提 取信息，所以计算机视觉也可以看作是研究如何使人工系统从图像或多维数据中“感知”的科学。",
+        "layoutList": [
+          "计算机视觉是一门研究如何使机器“看”的科学，更进一步的说，就是是指用摄影机和电脑代替人眼对目标进行识别、跟踪和测量等机器视觉，并进一步做图形处理，使电脑处理成为更适合人眼观察或传送给仪器检测的图像。作为一个科学学科，计算机视觉研究相关的理论和技术，试图建立能够从图像或者多维数据中获取‘信息’的人工智能系统。这里所 指的信息指Shannon定义的，可以用来帮助做一个“决定”的信息。因为感知可以看作是从感官信号中提 取信息，所以计算机视觉也可以看作是研究如何使人工系统从图像或多维数据中“感知”的科学。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": "Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction./Learning Multimodal Representations for Contact-Rich Tasks.\nInformation Maximizing Visual Question Generation./Image Generation From Scene Graphs./Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation./Peeking into the Future: Predicting Future Person Activities and Locations in Videos./Information Maximizing Visual Question Generation.",
+        "layoutList": [
+          "Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction.",
+          "Learning Multimodal Representations for Contact-Rich Tasks.\nInformation Maximizing Visual Question Generation.",
+          "Image Generation From Scene Graphs.",
+          "Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation.",
+          "Peeking into the Future: Predicting Future Person Activities and Locations in Videos.",
+          "Information Maximizing Visual Question Generation."
+        ]
+      },
+      {
+        "id": 6,
+        "code": 6,
+        "name": "李佳",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": "斯坦福大学计算机科学系教授，主要研究方向对象识别、计算机视觉、机器学习、分类、特征提取等。",
+        "layoutList": [
+          "斯坦福大学计算机科学系教授，主要研究方向对象识别、计算机视觉、机器学习、分类、特征提取等。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 7,
+        "name": "朱玉可",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": "目前是斯坦福大学的博士生。他的目标是为理解视觉世界并与之互动的通用机器人建立智能。研究是机器人、计算机视觉和机器学习的交叉。致力于开发通用机器人的感知和控制方法和机制。在斯坦福大学视觉与学习实验室工作。师从李飞飞教授，西尔维奥·萨瓦雷斯教授。",
+        "layoutList": [
+          "目前是斯坦福大学的博士生。他的目标是为理解视觉世界并与之互动的通用机器人建立智能。研究是机器人、计算机视觉和机器学习的交叉。致力于开发通用机器人的感知和控制方法和机制。在斯坦福大学视觉与学习实验室工作。师从李飞飞教授，西尔维奥·萨瓦雷斯教授。"
+        ]
+      },
+      {
+        "id": 8,
+        "code": 8,
+        "name": "图像检索",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 9,
+        "name": "立体视觉",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 10,
+        "name": "监督学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 11,
+        "name": "物体识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 12,
+        "name": "Nam S. Vo",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 13,
+        "name": "Lu Jiang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 14,
+        "name": "Min Sun",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 15,
+        "name": "Mingsheng Long",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 16,
+        "name": "Krishnan Srinivasan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 17,
+        "name": "Animesh Garg",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 18,
+        "name": "Xu Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 19,
+        "name": "Li-Min Zhu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 20,
+        "code": 20,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": "人工神经网络（Artificial Neural Networks，简写为ANNs）也简称为神经网络（NNs）或称作连接模型（Connection Model），它是一种模仿动物神经网络行为特征，进行分布式并行信息处理的算法数学模型。这种网络依靠系统的复杂程度，通过调整内部大量节点之间相互连接的关系，从而达到处理信息的目的。",
+        "layoutList": [
+          "人工神经网络（Artificial Neural Networks，简写为ANNs）也简称为神经网络（NNs）或称作连接模型（Connection Model），它是一种模仿动物神经网络行为特征，进行分布式并行信息处理的算法数学模型。这种网络依靠系统的复杂程度，通过调整内部大量节点之间相互连接的关系，从而达到处理信息的目的。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 21,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": "Hiding Data With Deep Networks./Neural Graph Matching Networks for Fewshot 3D Action Recognition./Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels./Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks./Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks./Hiding Data With Deep Networks.",
+        "layoutList": [
+          "Hiding Data With Deep Networks.",
+          "Neural Graph Matching Networks for Fewshot 3D Action Recognition.",
+          "Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels.",
+          "Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks.",
+          "Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks.",
+          "Hiding Data With Deep Networks."
+        ]
+      },
+      {
+        "id": 22,
+        "code": 23,
+        "name": "Jonathan Krause",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": "斯坦福大学五年级CS博士生，由李飞飞担任导师。从事计算机视觉方面的工作，专注于细粒度识别，并对深度学习有进一步的兴趣。是ImageNet研究团队的一员。2011年毕业于加州理工学院，获得计算机科学学士学位，之后来到斯坦福大学。曾Daphne Koller和Andrew Ng的实验室工作，并在谷歌、Adobe和NASA实习。",
+        "layoutList": [
+          "斯坦福大学五年级CS博士生，由李飞飞担任导师。从事计算机视觉方面的工作，专注于细粒度识别，并对深度学习有进一步的兴趣。是ImageNet研究团队的一员。2011年毕业于加州理工学院，获得计算机科学学士学位，之后来到斯坦福大学。曾Daphne Koller和Andrew Ng的实验室工作，并在谷歌、Adobe和NASA实习。"
+        ]
+      },
+      {
+        "id": 23,
+        "code": 24,
+        "name": "Shuran Song",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": "哥伦比亚大学计算机科学系的助理教授。研究兴趣主要在于人工智能，重点是计算机视觉和机器人技术。工作重点是为3D视觉场景理解领域建立完整的研究基础设施：从开发基础算法到在实际的现实机器人应用中部署它们; 从构建大型三维数据集到设计有效的三维数据表示。 ",
+        "layoutList": [
+          "哥伦比亚大学计算机科学系的助理教授。研究兴趣主要在于人工智能，重点是计算机视觉和机器人技术。工作重点是为3D视觉场景理解领域建立完整的研究基础设施：从开发基础算法到在实际的现实机器人应用中部署它们; 从构建大型三维数据集到设计有效的三维数据表示。 "
+        ]
+      },
+      {
+        "id": 24,
+        "code": 25,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 26,
+        "name": "图像识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 27,
+        "name": "立体视觉",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 28,
+        "name": "物体识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 29,
+        "name": "Timnit Gebru",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 30,
+        "name": "Duyun Chen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 31,
+        "name": "Amy Jin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 32,
+        "name": "Serena Yeung",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 33,
+        "name": "Andy Zeng",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 34,
+        "name": "Jianxiong Xiao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 34,
+        "code": 35,
+        "name": "Linguang Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 35,
+        "code": 36,
+        "name": "Angel X. Chang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 37,
+        "name": "无监督学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": "无监督学习（unsupervised learning）是根据类别未知(没有被标记)的训练样本解决模式识别中的各种问题。无监督学习里典型例子是聚类。聚类算法一般有五种方法，最主要的是划分方法和层次方法两种。划分聚类算法通过优化评价函数把数据集分割为K个部分，它需要K作为 输人参数。典型的分割聚类算法有K-means算法, K-medoids算法、CLARANS算法。层次聚类由不同层次的分割聚类组成，层次之间的分割具有嵌套的关系。它不需要输入参数，这是它优于分割聚类 算法的一个明显的优点，其缺点是终止条件必须具体指定。典型的分层聚类算法有BIRCH算法、DBSCAN算法和CURE算法等。目前深度学习中的无监督学习主要分为两类，一类是确定型的自编码方法及其改进算法，其目标主要是能够从抽象后的数据中尽量无损地恢复原有数据，一类是概率型的受限波尔兹曼机及其改进算法，其目标主要是使受限玻尔兹曼机达到稳定状态时原数据出现的概率最大。",
+        "layoutList": [
+         "无监督学习（unsupervised learning）是根据类别未知(没有被标记)的训练样本解决模式识别中的各种问题。无监督学习里典型例子是聚类。聚类算法一般有五种方法，最主要的是划分方法和层次方法两种。划分聚类算法通过优化评价函数把数据集分割为K个部分，它需要K作为 输人参数。典型的分割聚类算法有K-means算法, K-medoids算法、CLARANS算法。层次聚类由不同层次的分割聚类组成，层次之间的分割具有嵌套的关系。它不需要输入参数，这是它优于分割聚类 算法的一个明显的优点，其缺点是终止条件必须具体指定。典型的分层聚类算法有BIRCH算法、DBSCAN算法和CURE算法等。目前深度学习中的无监督学习主要分为两类，一类是确定型的自编码方法及其改进算法，其目标主要是能够从抽象后的数据中尽量无损地恢复原有数据，一类是概率型的受限波尔兹曼机及其改进算法，其目标主要是使受限玻尔兹曼机达到稳定状态时原数据出现的概率最大。"
+        ]
+      },
+      {
+        "id": 37,
+        "code": 38,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": "Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks./Finding \"It\": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos./Thoracic Disease Identification and Localization With Limited Supervision./Learning Task-Oriented Grasping for Tool Manipulation from Simulated Self-Supervision./Unsupervised Learning of Long-Term Motion Dynamics for Videos. /Unsupervised Visual-Linguistic Reference Resolution in Instructional Videos.",
+        "layoutList": [
+          "Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks.",
+          "Finding \"It\": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos.",
+          "Thoracic Disease Identification and Localization With Limited Supervision.",
+          "Learning Task-Oriented Grasping for Tool Manipulation from Simulated Self-Supervision.",
+          "Unsupervised Learning of Long-Term Motion Dynamics for Videos. ",
+          "Unsupervised Visual-Linguistic Reference Resolution in Instructional Videos."
+        ]
+      },
+      {
+        "id": 38,
+        "code": 40,
+        "name": "Alexandre Alahi",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": "斯坦福视觉实验室李飞飞教授的博士生，主要从事计算机视觉和机器学习方面的工作，主要研究视频中的人类事件描述，以及文本和图像数据的联合处理。",
+        "layoutList": [
+          "斯坦福视觉实验室李飞飞教授的博士生，主要从事计算机视觉和机器学习方面的工作，主要研究视频中的人类事件描述，以及文本和图像数据的联合处理。"
+        ]
+      },
+      {
+        "id": 39,
+        "code": 41,
+        "name": "Juan Carlos Niebles",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": "2007年在伊利诺伊大学香槟分校获得电子和计算机工程硕士学位，2011年在普林斯顿大学获得电子工程博士学位。自2015年以来，他是斯坦福大学人工智能实验室的高级研究科学家和斯坦福-丰田人工智能研究中心的副主任。2011年至2019年，他还是哥伦比亚北大学电气和电子工程副教授。",
+        "layoutList": [
+          "2007年在伊利诺伊大学香槟分校获得电子和计算机工程硕士学位，2011年在普林斯顿大学获得电子工程博士学位。自2015年以来，他是斯坦福大学人工智能实验室的高级研究科学家和斯坦福-丰田人工智能研究中心的副主任。2011年至2019年，他还是哥伦比亚北大学电气和电子工程副教授。"
+        ]
+      },
+      {
+        "id": 40,
+        "code": 42,
+        "name": "对抗网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 43,
+        "name": "强化学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 44,
+        "name": "视频处理",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 45,
+        "name": "自然语言处理",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 46,
+        "name": "Agrim Gupta",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 47,
+        "name": "Silvio Savarese",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 48,
+        "name": "Sven Kreiss",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 49,
+        "name": "Yuejiang Liu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 48,
+        "code": 50,
+        "name": "Zhangjie Cao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "李飞飞",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 19,
+        "source": 0,
+        "target": 20
+      },
+      {
+        "id": 35,
+        "source": 0,
+        "target": 37
+      },
+      {
+        "id": 4,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 3,
+        "target": 6
+      },
+      {
+        "id": 6,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "id": 7,
+        "source": 6,
+        "target": 8
+      },
+      {
+        "id": 8,
+        "source": 6,
+        "target": 9
+      },
+      {
+        "id": 9,
+        "source": 7,
+        "target": 10
+      },
+      {
+        "id": 10,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "id": 11,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "id": 12,
+        "source": 8,
+        "target": 13
+      },
+      {
+        "id": 13,
+        "source": 9,
+        "target": 14
+      },
+      {
+        "id": 14,
+        "source": 9,
+        "target": 15
+      },
+      {
+        "id": 15,
+        "source": 10,
+        "target": 16
+      },
+      {
+        "id": 16,
+        "source": 10,
+        "target": 17
+      },
+      {
+        "id": 17,
+        "source": 11,
+        "target": 18
+      },
+      {
+        "id": 18,
+        "source": 11,
+        "target": 19
+      },
+      {
+        "id": 20,
+        "source": 20,
+        "target": 21
+      },
+      {
+        "id": 21,
+        "source": 20,
+        "target": 23
+      },
+      {
+        "id": 22,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 23,
+        "source": 23,
+        "target": 25
+      },
+      {
+        "id": 24,
+        "source": 23,
+        "target": 26
+      },
+      {
+        "id": 25,
+        "source": 24,
+        "target": 27
+      },
+      {
+        "id": 26,
+        "source": 24,
+        "target": 28
+      },
+      {
+        "id": 27,
+        "source": 25,
+        "target": 29
+      },
+      {
+        "id": 28,
+        "source": 25,
+        "target": 30
+      },
+      {
+        "id": 29,
+        "source": 26,
+        "target": 31
+      },
+      {
+        "id": 30,
+        "source": 26,
+        "target": 32
+      },
+      {
+        "id": 31,
+        "source": 27,
+        "target": 33
+      },
+      {
+        "id": 32,
+        "source": 27,
+        "target": 34
+      },
+      {
+        "id": 33,
+        "source": 28,
+        "target": 35
+      },
+      {
+        "id": 34,
+        "source": 28,
+        "target": 36
+      },
+      {
+        "id": 36,
+        "source": 37,
+        "target": 38
+      },
+      {
+        "id": 37,
+        "source": 37,
+        "target": 40
+      },
+      {
+        "id": 38,
+        "source": 37,
+        "target": 41
+      },
+      {
+        "id": 39,
+        "source": 40,
+        "target": 42
+      },
+      {
+        "id": 40,
+        "source": 40,
+        "target": 43
+      },
+      {
+        "id": 41,
+        "source": 41,
+        "target": 44
+      },
+      {
+        "id": 42,
+        "source": 41,
+        "target": 45
+      },
+      {
+        "id": 43,
+        "source": 42,
+        "target": 46
+      },
+      {
+        "id": 44,
+        "source": 42,
+        "target": 47
+      },
+      {
+        "id": 45,
+        "source": 43,
+        "target": 48
+      },
+      {
+        "id": 46,
+        "source": 43,
+        "target": 49
+      },
+      {
+        "id": 47,
+        "source": 44,
+        "target": 50
+      },
+      {
+        "id": 48,
+        "source": 44,
+        "target": 51
+      },
+      {
+        "id": 49,
+        "source": 45,
+        "target": 52
+      },
+      {
+        "id": 50,
+        "source": 45,
+        "target": 53
+      }
+    ]
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion",
+		"author": "Chen Wang, Danfei Xu, Yuke Zhu, Roberto Martin-Martin, Cewu Lu, Fei-Fei Li, Silvio Savarese",
+		"publishDate": "2019",
+		"summaryAll": "A key technical challenge in performing 6D object pose estimation from RGB-D image is to fully leverage the two complementary data sources. Prior works either extract information from the RGB image and depth separately or use costly post-processing steps, limiting their performances in highly cluttered scenes and real-time applications. In this work, we present DenseFusion, a generic framework for estimating 6D pose of a set of known objects from RGB-D images. DenseFusion is a heterogeneous architecture that processes the two data sources individually and uses a novel dense fusion network to extract pixel-wise dense feature embedding, from which the pose is estimated. Furthermore, we integrate an end-to-end iterative pose refinement procedure that further improves the pose estimation while achieving near real-time inference. Our experiments show that our method outperforms state-of-the-art approaches in two datasets, YCB-Video and LineMOD. We also deploy our proposed method to a real robot to grasp and manipulate objects based on the estimated pose."
+	},
+	{
+		"title": "Audio-Linguistic Embeddings for Spoken Sentences",
+		"author": "Albert Haque, Michelle Guo, Prateek Verma, Fei-Fei Li",
+		"publishDate": "2019",
+		"summaryAll": "We propose spoken sentence embeddings which capture both acoustic and linguistic content. While existing works operate at the character, phoneme, or word level, our method learns long-term dependencies by modeling speech at the sentence level. Formulated as an audio-linguistic multitask learning problem, our encoder-decoder model simultaneously reconstructs acoustic and natural language features from audio. Our results show that spoken sentence embeddings outperform phoneme and word-level baselines on speech recognition and emotion recognition tasks. Ablation studies show that our embeddings can better model high-level acoustic concepts while retaining linguistic content. Overall, our work illustrates the viability of generic, multi-modal sentence embeddings for spoken language understanding."
+	},
+	{
+		"title": "A computer vision system for deep learning-based detection of patient mobilization activities in the ICU",
+		"author": "Serena Yeung, Francesca Rinaldo, Jeffrey Jopling, Bingbin Liu, Rishab Mehra, N Lance Downing,Fei-Fei Li",
+		"publishDate": "2019",
+		"summaryAll": "Early and frequent patient mobilization substantially mitigates risk for post-intensive care syndrome and long-term functional impairment. We developed and tested computer vision algorithms to detect patient mobilization activities occurring in an adult ICU. Mobility activities were defined as moving the patient into and out of bed, and moving the patient into and out of a chair. A data set of privacy-safe-depth-video images was collected in the Intermountain LDS Hospital ICU, comprising 563 instances of mobility activities and 98,801 total frames of video data from seven wall-mounted depth sensors. In all, 67% of the mobility activity instances were used to train algorithms to detect mobility activity occurrence and duration, and the number of healthcare personnel involved in each activity. The remaining 33% of the mobility instances were used for algorithm evaluation. The algorithm for detecting mobility activities attained a mean specificity of 89.2% and sensitivity of 87.2% over the four activities; the algorithm for quantifying the number of personnel involved attained a mean accuracy of 68.8%."
+	},
+	{
+		"title": "Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks",
+		"author": "Amy Jin, Serena Yeung, Jeffrey Jopling,  Fei-Fei Li",
+		"publishDate": "2018",
+		"summaryAll": "Five billion people in the world lack access to quality surgical care. Surgeon skill varies dramatically, and many surgical patients suffer complications and avoidable harm. Improving surgical training and feedback would help to reduce the rate of complications—half of which have been shown to be preventable. To do this, it is essential to assess operative skill, a process that currently requires experts and is manual, time consuming, and subjective. In this work, we introduce an approach to automatically assess surgeon performance by tracking and analyzing tool movements in surgical videos, leveraging region-based convolutional neural networks. In order to study this problem, we also introduce a new dataset, m2cai16-tool-locations, which extends the m2cai16-tool dataset with spatial bounds of tools. While previous methods have addressed tool presence detection, ours is the first to not only detect presence but also spatially localize surgical tools in real-world laparoscopic surgical videos. We show that our method both effectively detects the spatial bounds of tools as well as significantly outperforms existing methods on tool presence detection. We further demonstrate the ability of our method to assess surgical quality through analysis of tool usage patterns, movement range, and economy of motion."
+	},
+	{
+		"title": "Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks",
+		"author": "Agrim Gupta, Justin Johnson, Fei-Fei Li, Silvio Savarese, Alexandre Alahi",
+		"publishDate": "2018",
+		"summaryAll": "Understanding human motion behavior is critical for autonomous moving platforms (like self-driving cars and social robots) if they are to navigate human-centric environments. This is challenging because human motion is inherently multimodal: given a history of human motion paths, there are many socially plausible ways that people could move in the future. We tackle this problem by combining tools from sequence prediction and generative adversarial networks: a recurrent sequence-to-sequence model observes motion histories and predicts future behavior, using a novel pooling mechanism to aggregate information across people. We predict socially plausible futures by training adversarially against a recurrent discriminator, and encourage diverse predictions with a novel variety loss. Through experiments on several datasets we demonstrate that our approach outperforms prior work in terms of accuracy, variety, collision avoidance, and computational complexity."
+	},
+	{
+		"title": "Image Generation from Scene Graphs",
+		"author": "Justin Johnson, Agrim Gupta, Fei-Fei Li",
+		"publishDate": "2018",
+		"summaryAll": "To truly understand the visual world our models should be able not only to recognize images but also generate them. To this end, there has been exciting recent progress on generating images from natural language descriptions. These methods give stunning results on limited domains such as descriptions of birds or flowers, but struggle to faithfully reproduce complex sentences with many objects and relationships. To overcome this limitation we propose a method for generating images from scene graphs, enabling explicitly reasoning about objects and their relationships. Our model uses graph convolution to process input graphs, computes a scene layout by predicting bounding boxes and segmentation masks for objects, and converts the layout to an image with a cascaded refinement network. The network is trained adversarially against a pair of discriminators to ensure realistic outputs. We validate our approach on Visual Genome and COCO-Stuff, where qualitative results, ablations, and user studies demonstrate our methodu0027s ability to generate complex images with multiple objects."
+	},
+	{
+		"title": "MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels",
+		"author": "Lu Jiang, Zhengyuan Zhou, Thomas Leung, Jia Li, Fei-Fei Li",
+		"publishDate": "2018",
+		"summaryAll": "Recent deep networks are capable of memorizing the entire data even when the labels are completely random. To overcome the overfitting on corrupted labels, we propose a novel technique of learning another neural network, called MentorNet, to supervise the training of the base deep networks, namely, StudentNet. During training, MentorNet provides a curriculum (sample weighting scheme) for StudentNet to focus on the sample the label of which is probably correct. Unlike the existing curriculum that is usually predefined by human experts, MentorNet learns a data-driven curriculum dynamically with StudentNet. Experimental results demonstrate that our approach can significantly improve the generalization performance of deep networks trained on corrupted training data. Notably, to the best of our knowledge, we achieve the best-published result on WebVision, a large benchmark containing 2.2 million images of real-world noisy labels. The code are at this https URL"
+	}
+],
+  "patentVO": [],
+  "bookVO": [
+    {
+      "id": "m.20121101-ZDLW-889-0511",
+      "title": "网络安全技术与实训",
+      "author": "杨文虎, <mark class=highlight>李飞飞</mark>",
+      "summary": "本书围绕网络安全的定义、标准、模型以及常见的网络安全威胁进行系统介绍和分析，从网络管理",
+      "summaryAll": "本书围绕网络安全的定义、标准、模型以及常见的网络安全威胁进行系统介绍和分析，从网络管理与安全防护入手，详细讲述和分析入侵检测、数据加密、身份验证、防火墙以及无线网安全等多方面的理论与技术，同时结合现场工程应用，将网络安全管理技术与主流系统软硬件结合，强调对实践能力的培养。",
+      "publisher": "人民邮电出版社",
+      "categoryNo": "978-7-115-24981-4",
+      "publishDate": "2011-07-01",
+      "category": "工业技术|自动化技术、计算机技术|计算技术、计算机技术|计算机的应用|计算机网络|计算机网络安全"
+    },
+    {
+      "id": "m.20070713-m002-w011-104",
+      "title": "做人做事的心机全集",
+      "author": "<mark class=highlight>李飞飞</mark>",
+      "summary": "本书围绕着敢想敢做，时刻想着“出人头地”的“心机”、做事做到位的“心机”、权力场上要进",
+      "summaryAll": "本书围绕着敢想敢做，时刻想着“出人头地”的“心机”、做事做到位的“心机”、权力场上要进退自如的“心机”、职场上要出奇制胜的“心机”、办公室里能屈能伸的“心机”、情场上要获取爱情的“心机”等主题，介绍了做人做事的种种心机手段和各种手段产生的内在规律。",
+      "publisher": "中国国际广播出版社",
+      "categoryNo": "978-7-5078-2782-8",
+      "publishDate": "2007-04-01",
+      "category": ""
+    },
+    {
+      "id": "m.20100205-m802-w008-016",
+      "title": "做人做事的“心机”全集",
+      "author": "<mark class=highlight>李飞飞</mark>",
+      "summary": "本书围绕着敢想敢做，时刻想着“出人头地”的“心机”、做事做到位的“心机”、权力场上要进",
+      "summaryAll": "本书围绕着敢想敢做，时刻想着“出人头地”的“心机”、做事做到位的“心机”、权力场上要进退自如的“心机”、职场上要出奇制胜的“心机”、办公室里能屈能伸的“心机”、情场上要获取爱情的“心机”等主题，介绍了做人做事的种种心机手段和各种手段产生的内在规律。",
+      "publisher": "中国国际广播出版社",
+      "categoryNo": "978-7-5078-2782-8",
+      "publishDate": "2007-04-01",
+      "category": "哲学、宗教|心理学|个性心理学（人格心理学）|信念、意志、行为"
+    }
+  ],
+  "standardVO": []
+}

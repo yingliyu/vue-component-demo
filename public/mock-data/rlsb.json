@@ -1,0 +1,1950 @@
+{
+  "subjectVO": {
+    "id": "561",
+    "subjectWord": "人脸识别",
+    "subjectWordEn": null,
+    "wiki": "人脸识别，是基于人的脸部特征信息进行身份识别的一种生物识别技术。用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到的人脸进行脸部识别的一系列相关技术，通常也叫做人像识别、面部识别。"
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"人脸识别","type":"keyword","level":"1","colorIdx":"0"},
+      {"code":"1","name":"目标检测","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"2","name":"表情识别","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"3","name":"度量学习","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"4","name":"山世光","type":"expert","level":"2","colorIdx":"0"},
+      {"code":"5","name":"李子青","type":"expert","level":"2","colorIdx":"0"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      ],
+    "expertReco": [
+      {
+        "id": 170862,
+        "name": "Fatih Tasgetiren M.",
+        "headImg": "/img/expert_logo/2019-06/FatihTasgetiren.png",
+        "institution": "Yasar Universitesi",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": [
+      "Sparse representation",
+      "Pattern recognition",
+      "Feature extraction"
+    ],
+    "journalsReco": [
+      "IEEE Access",
+      "Journal of Experimental Psychology: Applied",
+      "Cognitive Neuropsychology"
+    ],
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 1,
+        "code": 0,
+        "name": "人脸识别",
+        "type": "keyword",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": "人脸识别，是基于人的脸部特征信息进行身份识别的一种生物识别技术。用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到的人脸进行脸部识别的一系列相关技术，通常也叫做人像识别、面部识别。",
+        "layoutList": [
+          "人脸识别，是基于人的脸部特征信息进行身份识别的一种生物识别技术。用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到的人脸进行脸部识别的一系列相关技术，通常也叫做人像识别、面部识别。"
+        ]
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "目标检测",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": "目标检测是与计算机视觉和图像处理有关的计算机技术，其涉及在数字图像和视频中检测特定类（例如人，建筑物或汽车）的语义对象的实例。经过深入研究的目标检测领域包括人脸检测和行人检测。目标检测在计算机视觉的许多领域都有应用，包括图像检索和视频监控。",
+        "layoutList": [
+          "目标检测是与计算机视觉和图像处理有关的计算机技术，其涉及在数字图像和视频中检测特定类（例如人，建筑物或汽车）的语义对象的实例。经过深入研究的目标检测领域包括人脸检测和行人检测。目标检测在计算机视觉的许多领域都有应用，包括图像检索和视频监控。"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "表情识别",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": "表情识别是指从给定的静态图像或动态视频序列中分离出特定的表情状态，从而确定被识别对象的心理情绪。",
+        "layoutList": [
+          "表情识别是指从给定的静态图像或动态视频序列中分离出特定的表情状态，从而确定被识别对象的心理情绪。"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "度量学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": "度量学习与回归和分类密切相关，但目标是从示例中学习测量两个对象有多相似或相关的相似性函数。它在排名，推荐系统，视觉识别跟踪，面部验证和说话人验证方面具有应用。",
+        "layoutList": [
+          "度量学习与回归和分类密切相关，但目标是从示例中学习测量两个对象有多相似或相关的相似性函数。它在排名，推荐系统，视觉识别跟踪，面部验证和说话人验证方面具有应用。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "山世光",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": "山世光，博士，研究员，博士生导师。分别于1997年和1999年在哈尔滨工业大学计算机系获得学士和硕士学位；2004年在中科院计算所获计算机应用专业博士学位。主要从事图像处理与理解、计算机视觉、模式识别、机器学习、智能人机交互界面等相关研究工作，特别是与人脸识别相关的研究工作。迄今已在国际/国内期刊、国际会议上发表/录用学术论文150余篇，其中IEEE Trans. on PAMI, IEEE Trans. on Image Processing等国际期刊论文30余篇，计算机视觉领域一流国际会议(CVPR, ICCV, ECCV)论文27篇。与博士生王瑞平合作完成的有关流形到流形距离的论文获CVPR2008 Best Student Poster Award Runner-up奖。现任国际刊物Neurocomputing和EURASIP Journal of Image and Video Processing的编委(AE)，Frontiers of Computer Science的青年编委，曾担任国际期刊IJPRAI、PRL专刊的客座编辑(Guest Editor)，应邀担任了ICPR2014, FG2013, ICPR2012, ACCV2012, ICCV2011的Area Chair，ACCV2014的Workshop Chair, ACM ICMI2010的Local Chair。长期担任IEEE T PAMI/IP/CSVT等十多个重要国际期刊以及国内主流学报的审稿人。",
+        "layoutList": [
+          "山世光，博士，研究员，博士生导师。分别于1997年和1999年在哈尔滨工业大学计算机系获得学士和硕士学位；2004年在中科院计算所获计算机应用专业博士学位。主要从事图像处理与理解、计算机视觉、模式识别、机器学习、智能人机交互界面等相关研究工作，特别是与人脸识别相关的研究工作。迄今已在国际/国内期刊、国际会议上发表/录用学术论文150余篇，其中IEEE Trans. on PAMI, IEEE Trans. on Image Processing等国际期刊论文30余篇，计算机视觉领域一流国际会议(CVPR, ICCV, ECCV)论文27篇。与博士生王瑞平合作完成的有关流形到流形距离的论文获CVPR2008 Best Student Poster Award Runner-up奖。现任国际刊物Neurocomputing和EURASIP Journal of Image and Video Processing的编委(AE)，Frontiers of Computer Science的青年编委，曾担任国际期刊IJPRAI、PRL专刊的客座编辑(Guest Editor)，应邀担任了ICPR2014, FG2013, ICPR2012, ACCV2012, ICCV2011的Area Chair，ACCV2014的Workshop Chair, ACM ICMI2010的Local Chair。长期担任IEEE T PAMI/IP/CSVT等十多个重要国际期刊以及国内主流学报的审稿人。"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 5,
+        "name": "李子青",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": "IEEE院士，获得了工程学士从湖南大学，中国，工程硕士从萨里大学，英国国防科技，中国和博士学位的大学。目前，他是在一个教授模式识别国家重点实验室和主任中心的生物识别与安全技术研究（CBSR），自动化研究所（中科院自动化所），以及中心的物联网研究（VIOT）的视觉互联网的导演，中国科学院。从2000年到2004年，他在微软亚洲研究院担任研究员。在此之前，他是一名副教授南洋 理工大学， 新加坡。他因为对人脸识别，模式识别和计算机视觉领域的贡献而受到提升。",
+        "layoutList": [
+          "IEEE院士，获得了工程学士从湖南大学，中国，工程硕士从萨里大学，英国国防科技，中国和博士学位的大学。目前，他是在一个教授模式识别国家重点实验室和主任中心的生物识别与安全技术研究（CBSR），自动化研究所（中科院自动化所），以及中心的物联网研究（VIOT）的视觉互联网的导演，中国科学院。从2000年到2004年，他在微软亚洲研究院担任研究员。在此之前，他是一名副教授南洋 理工大学， 新加坡。他因为对人脸识别，模式识别和计算机视觉领域的贡献而受到提升。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 6,
+        "name": "表情识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 8,
+        "code": 7,
+        "name": "目标检测",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 8,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 9,
+        "name": "人脸检测",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 10,
+        "name": "Xilin Chen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 11,
+        "name": "Yong Li",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 12,
+        "name": "Kongming Liang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 13,
+        "name": "Hong Chang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 14,
+        "name": "Zhen Lei",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 15,
+        "name": "Dong Yi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 16,
+        "name": "Shifeng Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 17,
+        "name": "Rui Zhu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 18,
+        "name": "Ross B. Girshick",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": "2012年在芝加哥大学，在Pedro Felzenszwalb教授下完成了计算机视觉的博士学位，随后两年在Jitendra Malik领导下担任加州大学伯克利分校的博士后，从伯克利开始，我在微软研究院雷德蒙做了一年多的研究员。 现在，我作为一名研究科学家，与 Face bookai Research(Fair) 中出色的研究人员和工程师一起开始了一次新的冒险。",
+        "layoutList": [
+          "2012年在芝加哥大学，在Pedro Felzenszwalb教授下完成了计算机视觉的博士学位，随后两年在Jitendra Malik领导下担任加州大学伯克利分校的博士后，从伯克利开始，我在微软研究院雷德蒙做了一年多的研究员。 现在，我作为一名研究科学家，与 Face bookai Research(Fair) 中出色的研究人员和工程师一起开始了一次新的冒险。"
+        ]
+      },
+      {
+        "id": 20,
+        "code": 19,
+        "name": "Bastian Leibe",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": "主要研究方向:计算机视觉中的目标识别与分类，特别是与三维估计和跟踪相结合;自上而下的分割;机器学习。",
+        "layoutList": [
+          "主要研究方向:计算机视觉中的目标识别与分类，特别是与三维估计和跟踪相结合;自上而下的分割;机器学习。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 20,
+        "name": "图像识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 22,
+        "code": 21,
+        "name": "计算机视觉",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 23,
+        "code": 22,
+        "name": "路径规划",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 24,
+        "code": 23,
+        "name": "目标识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 24,
+        "name": "Kaiming He",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 25,
+        "name": "Alexander Kirillov",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 26,
+        "name": "Jitendra Malik",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 27,
+        "name": "Pablo Arbelaez",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 28,
+        "name": "Luc Van Gool",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 29,
+        "name": "Konrad Schindler",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 30,
+        "name": "Bernt Schiele",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 31,
+        "name": "Krystian Mikolajczyk",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 32,
+        "name": "Jeffrey F. Cohn",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": "马萨诸塞大学博士影响分析组董事，首席研究员研究方向情感; 社交联系; 萧条; 强迫症; 面部表情; 影响",
+        "layoutList": [
+          "杰弗里·科恩，匹兹堡大学心理学、精神病学和智能系统教授，卡内基梅隆大学机器人研究所计算机科学副教授。他领导跨学科和跨机构的努力，开发先进的自动分析和综合面部表情和韵律的方法，并将这些工具应用于人类情感、社会发展、非语言沟通、精神病理学和生物医学的研究。他的研究得到了美国国立卫生研究院、国家科学基金会、自闭症基金会、海军研究办公室和国防高级研究计划局等赞助机构的资助。曾担任FG2020、FG2017、FG2015、FG2008、情感计算与智能交互国际会议(ACII 2009)、多模态界面国际会议(ACM 2014)总主席。他过去的合作编辑IEEE在情感计算(TAC)和有“特殊问题对情感计算IEEE交易模式分析与机器智能,杂志的形象和视觉计算、模式识别字母,计算机视觉和图像理解和ACM交易互动的智能系统。"
+        ]
+      },
+      {
+        "id": 34,
+        "code": 33,
+        "name": "陈熙霖",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": "陈熙霖博士，研究员，IEEE Fellow, IAPR Fellow, 中国计算机学会会士，中科院“百人计划”入选者并获终期评估优秀，国家杰出青年基金获得者。主要研究领域为计算机视觉、模式识别、多媒体技术以及多模式人机接口。先后主持多项自然科学基金重大、重点项目、973计划课题等项目的研究。曾任IEEE Trans. on Image Processing的Associate Editor，目前是IEEE Trans. on Multimedia和Journal of Visual Communication and Image Representation的Associate Editor、Journal of Computer Science and Technology领域编委、计算机学报副主编、人工智能与模式识别副主编，担任过FG2013 / FG 2018 General Chair以及CVPR 2017 / CVPR 2019， ICCV 2019等的Area Chair。陈熙霖博士先后获得国家自然科学二等奖1项，国家科技进步二等奖4项，省部级科技进步奖九项。合作出版专著1本，在国内外重要刊物和会议上发表论文200多篇。",
+        "layoutList": [
+          "陈熙霖博士，研究员，IEEE Fellow, IAPR Fellow, 中国计算机学会会士，中科院“百人计划”入选者并获终期评估优秀，国家杰出青年基金获得者。主要研究领域为计算机视觉、模式识别、多媒体技术以及多模式人机接口。先后主持多项自然科学基金重大、重点项目、973计划课题等项目的研究。曾任IEEE Trans. on Image Processing的Associate Editor，目前是IEEE Trans. on Multimedia和Journal of Visual Communication and Image Representation的Associate Editor、Journal of Computer Science and Technology领域编委、计算机学报副主编、人工智能与模式识别副主编，担任过FG2013 / FG 2018 General Chair以及CVPR 2017 / CVPR 2019， ICCV 2019等的Area Chair。陈熙霖博士先后获得国家自然科学二等奖1项，国家科技进步二等奖4项，省部级科技进步奖九项。合作出版专著1本，在国内外重要刊物和会议上发表论文200多篇。"
+        ]
+      },
+      {
+        "id": 35,
+        "code": 34,
+        "name": "动作单元",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 35,
+        "name": "多标签学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 37,
+        "code": 36,
+        "name": "人脸识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 38,
+        "code": 37,
+        "name": "对抗网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 39,
+        "code": 38,
+        "name": "Takeo Kanade",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 40,
+        "code": 39,
+        "name": "Mohammad H. Mahoor",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 40,
+        "name": "Fernando De la Torre",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 41,
+        "name": "Wen-Sheng Chu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 42,
+        "name": "Shiguang Shan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 43,
+        "name": "Wen Gao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 44,
+        "name": "Meina Kan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 45,
+        "name": "Lanqing Hu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 46,
+        "name": "Kilian Q. Weinberger",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": "是康奈尔大学计算机科学系的副教授。他获得了博士学位。来自宾夕法尼亚大学机器学习学院，在Lawrence Saul的监督下，以及他在牛津大学的数学和计算机学士学位。在他的职业生涯中，他曾在ICML（2004年），CVPR（2004年，2017年），AISTATS（2005年）和KDD（2014年，亚军奖）中获得多项最佳论文奖。2011年，他获得了杰出的AAAI高级课程主席奖，并于2012年获得了NSF职业奖。他当选为ICML 2016和AAAI 2018的联合项目主席。2016年，他获得了Daniel M Lazar '29卓越教学奖。基利安 温伯格“研究重点是机器学习及其应用。特别是，他专注于资源约束下的学习，度量学习，高斯过程，计算机视觉和深度学习。在加入康奈尔大学之前，他是圣路易斯华盛顿大学的副教授，之前他曾在雅虎担任研究科学家。",
+        "layoutList": [
+          "是康奈尔大学计算机科学系的副教授。他获得了博士学位。来自宾夕法尼亚大学机器学习学院，在Lawrence Saul的监督下，以及他在牛津大学的数学和计算机学士学位。在他的职业生涯中，他曾在ICML（2004年），CVPR（2004年，2017年），AISTATS（2005年）和KDD（2014年，亚军奖）中获得多项最佳论文奖。2011年，他获得了杰出的AAAI高级课程主席奖，并于2012年获得了NSF职业奖。他当选为ICML 2016和AAAI 2018的联合项目主席。2016年，他获得了Daniel M Lazar '29卓越教学奖。基利安 温伯格“研究重点是机器学习及其应用。特别是，他专注于资源约束下的学习，度量学习，高斯过程，计算机视觉和深度学习。在加入康奈尔大学之前，他是圣路易斯华盛顿大学的副教授，之前他曾在雅虎担任研究科学家。"
+        ]
+      },
+      {
+        "id": 48,
+        "code": 47,
+        "name": "李航",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": "字节跳动科技人工智能实验室的主任，。2017年加入字节跳动技术公司。1990年至2001年在NEC公司的研究实验室工作，2001年至2012年在微软亚洲研究院工作，2012年至2017年在华为技术有限公司工作。1988年在京都大学获得电子电气工程学士学位，1990年在京都大学获得电子电气工程硕士学位。1998年我在东京大学获得了计算机科学博士学位。研究领域包括自然语言处理、信息检索、机器学习和数据挖掘。",
+        "layoutList": [
+          "字节跳动科技人工智能实验室的主任，。2017年加入字节跳动技术公司。1990年至2001年在NEC公司的研究实验室工作，2001年至2012年在微软亚洲研究院工作，2012年至2017年在华为技术有限公司工作。1988年在京都大学获得电子电气工程学士学位，1990年在京都大学获得电子电气工程硕士学位。1998年我在东京大学获得了计算机科学博士学位。研究领域包括自然语言处理、信息检索、机器学习和数据挖掘。"
+        ]
+      },
+      {
+        "id": 49,
+        "code": 48,
+        "name": "高斯过程",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 49,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 50,
+        "name": "机器翻译",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 51,
+        "name": "信息检索",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 53,
+        "code": 52,
+        "name": "Jacob R. Gardner",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 54,
+        "code": 53,
+        "name": "Andrew Gordon Wilson",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 55,
+        "code": 54,
+        "name": "Gao Huang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 56,
+        "code": 55,
+        "name": "Laurens van der Maaten",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 56,
+        "name": "Zhengdong Lu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 57,
+        "name": "Qun Liu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 58,
+        "name": "Tie-Yan Liu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 59,
+        "name": "Tao Qin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 60,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": "Face recognition using a fusion method based on bidirectional 2DPCA/Face recognition based on two subspaces linear discriminant analysis/Minimum Bayes error features for visual recognition/Subspace manifold learning with sample weights/A critical band of phase alignment for discrimination but not recognition of human faces/The Effects of Face Inversion on the Perception of Long-Range and Local Spatial Relations in Eye and Mouth Configuration/Face recognition using spatially constrained earth mover's distance",
+        "layoutList": [
+          "Face recognition using a fusion method based on bidirectional 2DPCA",
+          "Face recognition based on two subspaces linear discriminant analysis",
+          "Minimum Bayes error features for visual recognition",
+          "Subspace manifold learning with sample weights",
+          "A critical band of phase alignment for discrimination but not recognition of human faces",
+          "The Effects of Face Inversion on the Perception of Long-Range and Local Spatial Relations in Eye and Mouth Configuration",
+          "Face recognition using spatially constrained earth mover's distance"
+        ]
+      },
+      {
+        "id": 62,
+        "code": 61,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "人脸识别",
+        "layout": "一种基于双目摄像头的智能电视人脸识别方法/一种基于局部对比模式的人脸识别方法/基于图像传感器成像系统的人脸识别算法/基于分布式压缩传感的近红外与可见光图像人脸识别方法/一种基于子空间的增量学习人脸识别方法/基于多尺度韦伯局部特征和分层决策融合的人脸识别方法/结合生物特征与局部图像特征的并行人脸识别方法",
+        "layoutList": [
+          "一种基于双目摄像头的智能电视人脸识别方法",
+          "一种基于局部对比模式的人脸识别方法",
+          "基于图像传感器成像系统的人脸识别算法",
+          "基于分布式压缩传感的近红外与可见光图像人脸识别方法",
+          "一种基于子空间的增量学习人脸识别方法",
+          "基于多尺度韦伯局部特征和分层决策融合的人脸识别方法",
+          "结合生物特征与局部图像特征的并行人脸识别方法"
+        ]
+      },
+      {
+        "id": 63,
+        "code": 62,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": "Query expansion for VHR image detection/Mining large satellite image repositories using semi-supervised methods/Underground object detection based on cross correlation and Hough transform/Object detection by parts using appearance, structural and shape features/Finding objects at indoor environment combined with depth information/IAIR-CarPed: A psychophysically annotated dataset with fine-grained and layered semantic labels for object recognition/Improving sub-pixel accuracy for long range stereo",
+        "layoutList": [
+          "Query expansion for VHR image detection",
+          "Mining large satellite image repositories using semi-supervised methods",
+          "Underground object detection based on cross correlation and Hough transform",
+          "Object detection by parts using appearance, structural and shape features",
+          "Finding objects at indoor environment combined with depth information",
+          "IAIR-CarPed: A psychophysically annotated dataset with fine-grained and layered semantic labels for object recognition",
+          "Improving sub-pixel accuracy for long range stereo"
+        ]
+      },
+      {
+        "id": 64,
+        "code": 63,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "人脸识别",
+        "layout": "一种运动目标检测方法及装置/基于小波降噪的LS-SVM海面小目标检测的方法/基于增强约束稀疏回归的半监督高光谱亚像元目标检测法/基于角点高斯特性分析的红外小目标检测方法/基于纹理和运动模式融合的运动目标检测算法/一种基于混合高斯模型的运动目标检测方法/基于稀疏表示和视皮层注意机制的目标检测方法",
+        "layoutList": [
+          "一种运动目标检测方法及装置",
+          "基于小波降噪的LS-SVM海面小目标检测的方法",
+          "基于增强约束稀疏回归的半监督高光谱亚像元目标检测法",
+          "基于角点高斯特性分析的红外小目标检测方法",
+          "基于纹理和运动模式融合的运动目标检测算法",
+          "一种基于混合高斯模型的运动目标检测方法",
+          "基于稀疏表示和视皮层注意机制的目标检测方法"
+        ]
+      },
+      {
+        "id": 65,
+        "code": 64,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": "Neural activities associated with emotion recognition observed in men and women/Cognitive and emotion recognition deficits in obsessive-compulsive disorder/Audio-visual affect recognition/Gender differences in facial emotion recognition in persons with chronic schizophrenia/Are the windows to the soul the same in the East and West? Cultural differences in using the eyes and mouth as cues to recognize emotions in Japan and the United States/Age differences in recognition of emotion in lexical stimuli and facial expressions/Research on E-learning system model based on affective computing",
+        "layoutList": [
+          "Neural activities associated with emotion recognition observed in men and women",
+          "Cognitive and emotion recognition deficits in obsessive-compulsive disorder",
+          "Audio-visual affect recognition",
+          "Gender differences in facial emotion recognition in persons with chronic schizophrenia",
+          "Are the windows to the soul the same in the East and West? Cultural differences in using the eyes and mouth as cues to recognize emotions in Japan and the United States",
+          "Age differences in recognition of emotion in lexical stimuli and facial expressions",
+          "Research on E-learning system model based on affective computing"
+        ]
+      },
+      {
+        "id": 66,
+        "code": 65,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "人脸识别",
+        "layout": "一种人脸表情识别方法及人脸表情识别装置/人脸表情识别方法和人脸表情识别装置/一种人脸表情识别模型训练方法、装置及设备/面部表情识别方法和装置/一种表情识别的方法、装置、终端设备及存储介质/基于人脸表情识别的智慧家电控制系统及方法/人脸表情识别方法及人脸表情识别系统",
+        "layoutList": [
+          "一种人脸表情识别方法及人脸表情识别装置",
+          "人脸表情识别方法和人脸表情识别装置",
+          "一种人脸表情识别模型训练方法、装置及设备",
+          "面部表情识别方法和装置",
+          "一种表情识别的方法、装置、终端设备及存储介质",
+          "基于人脸表情识别的智慧家电控制系统及方法",
+          "人脸表情识别方法及人脸表情识别系统"
+        ]
+      },
+      {
+        "id": 67,
+        "code": 66,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": "Extending the relevant component analysis algorithm for metric learning using both positive and negative equivalence constraints/Locally linear metric adaptation with application to semi-supervised clustering and image retrieval/A kernel approach for semisupervised metric learning/Kernel-based distance metric learning for content-based image retrieval/Efficient near-duplicate image detection by learning from examples/Semi-supervised dimensionality reduction using pairwise equivalence constraints/Distance metric learning for large margin nearest neighbor classification",
+        "layoutList": [
+          "Extending the relevant component analysis algorithm for metric learning using both positive and negative equivalence constraints",
+          "Locally linear metric adaptation with application to semi-supervised clustering and image retrieval",
+          "A kernel approach for semisupervised metric learning",
+          "Kernel-based distance metric learning for content-based image retrieval",
+          "Efficient near-duplicate image detection by learning from examples",
+          "Semi-supervised dimensionality reduction using pairwise equivalence constraints",
+          "Distance metric learning for large margin nearest neighbor classification"
+        ]
+      },
+      {
+        "id": 68,
+        "code": 67,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "人脸识别",
+        "layout": "一种基于距离度量学习行人重验证的方法/一种工业过程中基于度量学习与时间序列的故障诊断方法/基于深度学习和度量学习的极化SAR地物分类方法/一种基于加权成对约束度量学习算法的说话人识别方法/一种同时实现聚类、分类和度量学习的模式识别方法/一种基于度量学习和支持向量机相集成的行人再识别方法/基于距离度量学习的交通警情等级预测方法",
+        "layoutList": [
+          "一种基于距离度量学习行人重验证的方法",
+          "一种工业过程中基于度量学习与时间序列的故障诊断方法",
+          "基于深度学习和度量学习的极化SAR地物分类方法",
+          "一种基于加权成对约束度量学习算法的说话人识别方法",
+          "一种同时实现聚类、分类和度量学习的模式识别方法",
+          "一种基于度量学习和支持向量机相集成的行人再识别方法",
+          "基于距离度量学习的交通警情等级预测方法"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 4,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "id": 60,
+        "source": 0,
+        "target": 60
+      },
+      {
+        "id": 61,
+        "source": 0,
+        "target": 61
+      },
+      {
+        "id": 18,
+        "source": 1,
+        "target": 18
+      },
+      {
+        "id": 19,
+        "source": 1,
+        "target": 19
+      },
+      {
+        "id": 62,
+        "source": 1,
+        "target": 62
+      },
+      {
+        "id": 63,
+        "source": 1,
+        "target": 63
+      },
+      {
+        "id": 32,
+        "source": 2,
+        "target": 32
+      },
+      {
+        "id": 33,
+        "source": 2,
+        "target": 33
+      },
+      {
+        "id": 64,
+        "source": 2,
+        "target": 64
+      },
+      {
+        "id": 65,
+        "source": 2,
+        "target": 65
+      },
+      {
+        "id": 46,
+        "source": 3,
+        "target": 46
+      },
+      {
+        "id": 47,
+        "source": 3,
+        "target": 47
+      },
+      {
+        "id": 66,
+        "source": 3,
+        "target": 66
+      },
+      {
+        "id": 67,
+        "source": 3,
+        "target": 67
+      },
+      {
+        "id": 6,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "id": 7,
+        "source": 4,
+        "target": 7
+      },
+      {
+        "id": 8,
+        "source": 5,
+        "target": 8
+      },
+      {
+        "id": 9,
+        "source": 5,
+        "target": 9
+      },
+      {
+        "id": 10,
+        "source": 6,
+        "target": 10
+      },
+      {
+        "id": 11,
+        "source": 6,
+        "target": 11
+      },
+      {
+        "id": 12,
+        "source": 7,
+        "target": 12
+      },
+      {
+        "id": 13,
+        "source": 7,
+        "target": 13
+      },
+      {
+        "id": 14,
+        "source": 8,
+        "target": 14
+      },
+      {
+        "id": 15,
+        "source": 8,
+        "target": 15
+      },
+      {
+        "id": 16,
+        "source": 9,
+        "target": 16
+      },
+      {
+        "id": 17,
+        "source": 9,
+        "target": 17
+      },
+      {
+        "id": 20,
+        "source": 18,
+        "target": 20
+      },
+      {
+        "id": 21,
+        "source": 18,
+        "target": 21
+      },
+      {
+        "id": 22,
+        "source": 19,
+        "target": 22
+      },
+      {
+        "id": 23,
+        "source": 19,
+        "target": 23
+      },
+      {
+        "id": 24,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 25,
+        "source": 20,
+        "target": 25
+      },
+      {
+        "id": 26,
+        "source": 21,
+        "target": 26
+      },
+      {
+        "id": 27,
+        "source": 21,
+        "target": 27
+      },
+      {
+        "id": 28,
+        "source": 22,
+        "target": 28
+      },
+      {
+        "id": 29,
+        "source": 22,
+        "target": 29
+      },
+      {
+        "id": 30,
+        "source": 23,
+        "target": 30
+      },
+      {
+        "id": 31,
+        "source": 23,
+        "target": 31
+      },
+      {
+        "id": 34,
+        "source": 32,
+        "target": 34
+      },
+      {
+        "id": 35,
+        "source": 32,
+        "target": 35
+      },
+      {
+        "id": 36,
+        "source": 33,
+        "target": 36
+      },
+      {
+        "id": 37,
+        "source": 33,
+        "target": 37
+      },
+      {
+        "id": 38,
+        "source": 34,
+        "target": 38
+      },
+      {
+        "id": 39,
+        "source": 34,
+        "target": 39
+      },
+      {
+        "id": 40,
+        "source": 35,
+        "target": 40
+      },
+      {
+        "id": 41,
+        "source": 35,
+        "target": 41
+      },
+      {
+        "id": 42,
+        "source": 36,
+        "target": 42
+      },
+      {
+        "id": 43,
+        "source": 36,
+        "target": 43
+      },
+      {
+        "id": 44,
+        "source": 37,
+        "target": 44
+      },
+      {
+        "id": 45,
+        "source": 37,
+        "target": 45
+      },
+      {
+        "id": 48,
+        "source": 46,
+        "target": 48
+      },
+      {
+        "id": 49,
+        "source": 46,
+        "target": 49
+      },
+      {
+        "id": 50,
+        "source": 47,
+        "target": 50
+      },
+      {
+        "id": 51,
+        "source": 47,
+        "target": 51
+      },
+      {
+        "id": 52,
+        "source": 48,
+        "target": 52
+      },
+      {
+        "id": 53,
+        "source": 48,
+        "target": 53
+      },
+      {
+        "id": 54,
+        "source": 49,
+        "target": 54
+      },
+      {
+        "id": 55,
+        "source": 49,
+        "target": 55
+      },
+      {
+        "id": 56,
+        "source": 50,
+        "target": 56
+      },
+      {
+        "id": 57,
+        "source": 50,
+        "target": 57
+      },
+      {
+        "id": 58,
+        "source": 51,
+        "target": 58
+      },
+      {
+        "id": 59,
+        "source": 51,
+        "target": 59
+      }
+    ]
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [
+    {
+      "id": "Periodical_jgzz201904035",
+      "title": "基于激光扫描的面部智能识别人机交互界面",
+      "summary": "传统构建的基于光照变换Gabor小波的<mark class=highlight>人脸识别</mark>界面,对面部信息缺失的图像识别效果差",
+      "summaryAll": "传统构建的基于光照变换Gabor小波的人脸识别界面,对面部信息缺失的图像识别效果差,面部智能识别准确率低.设计基于激光扫描的面部智能识别人机交互界面,采用面部识别模块、LCD模块、处理器以及人机交互模块,实现面部扫描、数据处理以及人机交互功能;通过型号STC99C520RD的处理器,对面部识别模块获取的面部扫描信息实施处理,并将处理结果存储到存储器中.使用基于激光扫描的三维重建方法获取面部三维图像后,通过PCA智能面部识别方法,实现面部三维图像特征的智能识别.实验结果证明,所设计界面在不同时间跨度下的面部特征识别准确率均值高达95.93%,在面部激光扫描图像缺失的情况下,识别准确率仍在93%以上,说明该界面具有较高的面部智能识别精度.The traditional face recognition interface based on the light transform Gabor wavelet has poor image recognition effect and low accuracy of facial intelligent recognition.The facial intelligent recognition interface based on laser scanning is designed.It uses facial recognition modules,LCD modules,processors,and human-computer interaction modules to achieve facial scanning,data processing,and human-computer interaction functions.The facial scanning information obtained by the facial recognition module is processed by the processor model STC99C520RD,and the processing results are stored in memory.After using the 3D reconstruction method based on laser scanning to obtain the 3D image of the face,the intelligent recognition of facial 3D image features is realized by PCA intelligent facial recognition method.The experimental results show that the average accuracy of facial feature recognition under different time spans is as high as 95.93%.In the absence of facial laser scanning images,the accuracy of recognition is still more than 93%,indicating that the interface has higher facial intelligence.Recognition accuracy.",
+      "author": "王一炜",
+      "keywords": ",Intelligent <mark class=highlight>recognition</mark>,human-machine",
+      "citedIndex": 0,
+      "publishDate": "2019-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjgc201903043",
+      "title": "面向VTM的交互式活体检测算法",
+      "summary": "为提升远程视频柜员机<mark class=highlight>人脸识别</mark>登录系统的识别率和安全性, 将改进的眨眼检测、背景检测和随机组合动作指令相结合",
+      "summaryAll": "为提升远程视频柜员机人脸识别登录系统的识别率和安全性, 将改进的眨眼检测、背景检测和随机组合动作指令相结合, 提出一种交互式活体检测算法.基于OpenCV级联分类器人脸检测和局部二值特征人脸对齐算法, 结合坐标比例和眼球色素变化改进眨眼检测.利用背景检测和随机组合动作指令抵御动态视频攻击, 加入图像质量检测与校正功能, 使系统在弱光、歪斜等环境影响下对活体人脸检测有较好的检测效果.在活体人脸数据库CASIA-FASD和自建样本库上进行实验, 结果表明, 该算法识别率达到97.67％, 与多光谱、卷积神经网络等检测算法相比性能有明显的提升.In order to improve the recognition rate and security of the Video Teller Machine (VTM) face recognition login system, an interactive liveness detection algorithm that combines improved blink detection, background detection and random combined action instructions is proposed.Based on the OpenCV cascade classifier face detection and Local Binary Feature (LBF) face alignment algorithm, combining the coordinate proportion and the eye pigment change, the detection method is improved.Uses the background detection and the random combination action instruction to resist the dynamic video attack.Making use of the image quality detection and correction function, the system in weak light, skew and the other environmental condition has a good performance as well.Experiments are carried out on liveness face database CASIA-FASD and self-built sample library, the result shows that the recognition rate reaches 97.67％, which is obviously improved than multispectral, convolutional neural network, and the other existing detection algorithms.",
+      "author": "马钰锡",
+      "keywords": ",<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>,blink detection,background",
+      "citedIndex": 0,
+      "publishDate": "2019-03-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjgcysj201903045",
+      "title": "融合均匀局部二元模式和稀疏表示的<mark class=highlight>人脸识别</mark>",
+      "summary": "problems, a <mark class=highlight>face</mark> <mark class=highlight>recognition</mark> method was",
+      "summaryAll": "针对当前人脸识别受噪声等干扰导致识别效果不佳的问题, 提出一种人脸识别方法, 利用具有抗光照不变性的近红外人脸图像进行人脸识别算法分析.为增强算法在图像抗噪声方面的性能, 通过均匀局部二元模式提取人脸图像的特征;为避免细节纹理的缺失, 采用对人脸图像分块处理的方法建立特征;通过引入稀疏分类算法, 进行人脸识别.实验结果表明, 该人脸识别算法相比传统方法具有良好的稳健性与识别率, 达到了提高人脸识别算法性能的目的.In view of the poor results of the current face recognition caused by noise and other problems, a face recognition method was presented.The near-infrared face image with anti-illumination-invariant for the research of face recognition algorithm was used.To enhance the performance of anti-noise, the uniform local binary pattern was utilized to extract face features.The face image was blocked to avoid the detail texture missing and construct face features.A method of sparse representation for face classification was used.Experimental results demonstrate that the proposed method is robust with better recognition compared with the traditional method.The face recognition algorithm can benefit a lot from the proposed approach.",
+      "author": "高洪涛",
+      "keywords": ",<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>,near-infrared <mark class=highlight>face</mark>,sparse",
+      "citedIndex": 0,
+      "publishDate": "2019-03-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_dpjyqrsxtyy201903016",
+      "title": "用FPGA实现卷积神经网络的人脸检测系统",
+      "summary": "detection is widely used in <mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "summaryAll": "人脸检测技术被广泛应用在人脸识别和人脸追踪中,并且逐渐在嵌入式系统中应用.近年来,卷积神经网络使人脸检测技术在检测效果上取得了巨大的进步.在FPGA平台上,采用软硬件协同的方法实现了一个从数据采集到显示完整的基于卷积神经网络的人脸检测系统.实验结果表明,硬件数据格式采用16位定点数的情况下,本文的系统对人脸有良好的检测效果.Face detection is widely used in face recognition and face tracking, and is applied in embedded system.In recent years, face detection has achieved a great improvement in detection result with the help of convolutional neural network (CNN).By software-hardware co-design, a CNN based face detection system is proposed, which is implemented from data acquisition to display on FPGA platform.The test results show that under the circumstance that the data precision is 16-bit fixed point, the system has a good face detection result.",
+      "author": "曾宇航",
+      "keywords": "人脸检测系统,卷积神经网络,FPGA,软硬件协同设计,<mark class=highlight>face</mark> detection",
+      "citedIndex": 0,
+      "publishDate": "2019-03-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_wjfz201903009",
+      "title": "基于Gabor小波和LBPH的实时<mark class=highlight>人脸识别</mark>系统",
+      "summary": "a real-time <mark class=highlight>face</mark> <mark class=highlight>recognition</mark> algorithm",
+      "summaryAll": "针对当前流行的人脸识别算法存在的光照敏感、鲁棒性差等局限性,为提高识别效率,提出了一种基于Gabor小波和LBPH算法的实时人脸识别算法.首先将人脸图像与Gabor核函数进行卷积得到人脸特征图像,并将其串联在人脸特征空间;然后使用LBPH提取该空间人脸特征,并通过匹配LBPH直方图序列的相似度来实现分类.此外,基于ARM平台对文中算法进行实现,形成了实时人脸识别系统.由于系统使用MySQL数据库管理人脸数据,因此可以实现实时的管理效果.该系统在自建单样本人脸数据库中能达到92％的识别率,相比传统算法识别率更高、实时性更强.Aiming at the limitations of illumination sensitivity and poor robustness for current popular face recognition algorithm, in order to improve the recognition efficiency, we propose a real-time face recognition algorithm based on Gabor wavelet and LBPH algorithm. We first fuse the face feature image obtained by convolution of the face image with the Gabor kernel and concatenate it in the face feature space, and then use LBPH to extract the facial feature of the space and achieve the classification by matching the similarity of the LBPH histogram sequence. Moreover, a real-time face recognition system is established based on ARM platform. As the system uses the MySQL database to manage face data, dynamic management can be achieved. The system achieves 92％ recognition rate in self built single face database. Compared with traditional algorithm, it has higher recognition rate and stronger real-time performance.",
+      "author": "张伟",
+      "keywords": ",MySQL,<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2019-03-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xxwxjsjxt201902029",
+      "title": "移动端人脸图像无参考质量快速评估方法",
+      "summary": "When <mark class=highlight>face</mark> <mark class=highlight>recognition</mark> is performed on the",
+      "summaryAll": "人工智能系统能够准确进行人脸识别的重要前提是,采集到的人脸图像数据足够清晰. 正确的对人脸图像质量进行评估,能够为后期的人脸识别提供指导性的意见. 本文针对移动端进行人脸识别时,由于人脸采集过程中常常会出现人脸图像模糊、姿态不正、昏暗等情况,从而导致人脸识别错误的问题,提出了一种基于深度学习的移动端人脸图像无参考质量评估方法.由于目前没有公开的用于评估人脸图像质量的数据集,本文采用自建数据集的形式进行实验. 首先对数据集中的人脸图像进行局部归一化预处理,然后利用该数据集通过迁移学习的方式对轻量级网络MobileNet 重新训练,并将训练得到的最终模型移植到手机上. 为了证明本文提出算法的优异性,对算法准确率、运行时间和CPU 占用率进行测量并和现有的优异算法DIIVINE 和 BRISQUE 进行比较,实验结果证明本文提出的方法能够快速准确的对人脸图像进行评估同时CPU 占用率较低,本文提出的方法有重要的应用价值.The premise that artificial intelligence system can recognize face image accurately is that the collected face image must be clear enough. The correct assessment of the quality of the face images can provide guidance for the later recognition. When face recognition is performed on the mobile devices,face image often suffers from motion blur,distortion of posture,dimness of light,and occlusion during the process of face collection,which results in incorrect recognition. In this paper,a no-reference image quality assesment algorithm based on deep learning for mobile devices is proposed to solve the problem. Since there is no public authoritative dataset for quality assessment of damaged face images at present,we built our own damaged face image dataset and used our dataset to get the final model by re-training the pre-trained MobileNet. In order to prove the superiority of the proposed algorithm,we measure the running time and CPU occupancy rate of the algorithm through experiments,and compare it with the existing excellent algorithms CORNIA and BRISQUE. Experiment results show that the proposed method can evaluate face images in real time and accurately, and occupancy rate of CPU is low. The method proposed in this paper has important application value.",
+      "author": "何长婷",
+      "keywords": "no-reference image quality assessment,<mark class=highlight>face</mark>",
+      "citedIndex": 0,
+      "publishDate": "2019-02-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xxwxjsjxt201902031",
+      "title": "基于特征脸-灰度变换融合的<mark class=highlight>人脸识别</mark>方法",
+      "summary": "为了解决神经网络在<mark class=highlight>人脸识别</mark>过程中复杂度高、运算量大、难以向嵌入式设备应用迁移问题",
+      "summaryAll": "为了解决神经网络在人脸识别过程中复杂度高、运算量大、难以向嵌入式设备应用迁移问题,提出一种通过特征脸进行特征消除、通过灰度变换进行特征增强的人脸图像处理方法.该方法对采集的图片进行裁剪、校正处理,通过Dlib模型使人脸关键点处于相同坐标,进而将对正的图像通过特征脸-灰度变化预处理方法获得新的特征表达,将该表达矩阵送入浅层网络测试识别性能并探究特征脸数目对准确率的影响.实验表明,该方法在FERET与ORL数据集的识别准确率均明显提高,并且在浅层网络上依然保持较高的准确率,分别达到95.1％,96.14％.To solve the high complexity, large computational complexity and difficultly of migration to embedded devices of the neural network in face recognition, this paper proposes a feature learning algorithm model to eigenfaces and gray-scale transformation, which removes features by eigenfaces and enhances feature by gray transformation. This model crops and corrects images and makes the key points of face at the same coordinates by dlib and obtains the compact characteristic features by eigenface-gray-scale transformation.As the input of the shallowneural network, the nonlinear classification is used to test recognition performance and explore the number of eigenfaces howto impact accuracy. The experimental results showthat the accuracy of this method is obviously improved the accuracy in both FERET and ORL datasets, and the accuracy is still high in shallownetworks, reaching 95. 1％ and 96. 14％ respectively.",
+      "author": "王忠民",
+      "keywords": "特征增强,特征消除,特征脸,灰度变换,嵌入式设备,浅层网络,feature enhancement,feature elimination,eigenfaces,gray-scale transformation,embedded devices,shallow network",
+      "citedIndex": 0,
+      "publishDate": "2019-02-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_dlyny201901008",
+      "title": "基于<mark class=highlight>人脸识别</mark>的人工智能防误操作管控系统",
+      "summary": "By applying the \"<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>\" technology",
+      "summaryAll": "近年来对于电网运行安全的重视程度不断提升, 而单一的\"防误操作\"管控手段由于技术不够完善可能会引起电网安全问题, 通常为了防止误操作, 变电站内会布设\"五防\"系统, 但\"五防\"系统或多或少都会存在一些技术上的不足.针对\"五防\"系统的设备解锁钥匙, 设计了一套基于人脸识别的智能防误操作管控产品, 通过应用\"人脸识别\"技术和信息通信技术, 依据运维人员提前提交的工作票信息, 现场识别申请人身份完成验证并远程提交许可请求, 由\"五防专责\"远方完成许可操作并自动生成使用记录, 实现运维过程智能化管控, 节省了运维操作时间, 提高了工作效率.In recent years, the power grid operation safety has been increasingly concerned, and only \"anti-misoperation\" control method may cause grid security problems due to insufficient technology. Usually, in order to prevent misoperation, a \"five-proof\" system will be deployed in the substation, but there are some technical deficiencies in the \"five-proof\" system more or less. In this paper, a set of intelligent anti-misoperation management and control products based on face recognition is designed for the device unlocking key of the \"five-proof\" system. By applying the \"face recognition\" technology and information communication technology, according to the work ticket information submitted in advance by operation and maintenance personnel, after the on-site identification of applicant identity, the verification and remote submission of the permission request, the \"five-proof responsible\" remotely complete the licensing operation and automatically generate usage records. The proposed method can achieve intelligent management and control of the operation and maintenance process, save operation and maintenance operations time, and improve work efficiency.",
+      "author": "赵雯莉",
+      "keywords": "变电站,防误操作,五防钥匙箱,<mark class=highlight>人脸识别</mark>,远程作业,智能管控,substation",
+      "citedIndex": 0,
+      "publishDate": "2019-01-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_syeklczz201901018",
+      "title": "<mark class=highlight>人脸识别</mark>技术在遗传综合征诊断中的应用",
+      "summary": "同一种综合征患儿常具有相似面容,如唐氏综合征等.随着人工智能在医疗领域的应用,<mark class=highlight>人脸识别</mark>技术已初步应用于唐氏综合征",
+      "summaryAll": "遗传综合征作为因遗传因素异常引起的畸形综合征,常伴颅面畸形的表现,同一种综合征患儿常具有相似面容,如唐氏综合征等.随着人工智能在医疗领域的应用,人脸识别技术已初步应用于唐氏综合征、德朗热综合征、22q11.2微缺失综合征和怒南综合征等疾病的诊断,取得一定成果,且近年研究表明其对综合征识别的正确率往往高于临床工作者的经验性诊断.未来,人脸识别技术有望广泛运用于遗传综合征的筛查、辅助诊断及科学研究.Genetic syndromes often involve craniofacial malformations,and certain syndromes are associated with a specific facial pattern such as Down syndrome.With the development of artificial intelligence in the medical field,face recognition technology has been successfully applied in the diagnosis of genetic syndrome,such as Down syndrome,Cornelia de Lange syndrome,22q11.2 deletion syndrome and Noonan syndrome.Some reports suggested that the detection rates of face recognition technology are higher than clinical specialists.In the future,face recognition technology is expected to be applied in the screening of and genetic syndromes,to help the diagnosis and to be applied in scientific research.",
+      "author": "李辛",
+      "keywords": "<mark class=highlight>人脸识别</mark>技术,遗传综合征,医学诊断,Human <mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2019-01-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjgcysj201901033",
+      "title": "最大熵轮廓提取下的脸部区域自适应提取算法",
+      "summary": "solve the problem of low accuracy of <mark class=highlight>face</mark>",
+      "summaryAll": "针对目前现有方法提取出的人脸区域准确度低的问题, 提出一种最大熵轮廓提取下的脸部区域自适应提取算法.使用最大熵阈值化方法对图片进行二值化处理, 将处理后得到的图像的轮廓作为水平集的初始演化曲线, 减少从初始曲线演化到人脸轮廓附近这一过程的演化次数, 用自适应的权重系数取代CV (Chan-Vese) 模型面积项的系数, 使模型能够根据图片的信息自适应演化, 提高模型的自适应性.使用自采集人脸库 (男女各20人, 每人20张不同光照、姿态的图片) 中的图片进行实验, 实验结果表明, 该算法比图割算法和传统的水平集算法在人脸区域提取方面具有更高的准确度.To solve the problem of low accuracy of face area extraction using existing methods, the adaptive extraction algorithm of face area extracted under the maximum entropy contour extraction was proposed.Maximum entropy threshold method was used for image binarization processing, and the outline of image after processing was got as the initial evolution of the level set curve, simplifying the process of evolution from initial curve to face contour.Adaptive weight coefficient was used to replace CV (Chan-Vese) model area of coefficient, enabling the model adaptively evolving according to the picture information, and the adaptability of the model was improved.With the acquisition faces library images as experimental data, experimental results show that the proposed algorithm has higher accuracy in terms of face region extraction compared with the graph cut algorithm and the traditional level set algorithm.",
+      "author": "苏航",
+      "keywords": "<mark class=highlight>人脸识别</mark>,图像增强,最大熵阈值法,改进的水平集,人脸区域提取,<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2019-01-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zdhxb201812005",
+      "title": "基于改进的Fisher准则的多示例学习视频<mark class=highlight>人脸识别</mark>算法",
+      "summary": "rate of the video <mark class=highlight>face</mark> <mark class=highlight>recognition</mark> based",
+      "summaryAll": "视频环境下目标的姿态变化使得人脸关键帧难以准确定位, 导致基于关键帧标识的视频人脸识别方法的识别率偏低.为解决上述问题, 本文提出一种基于Fisher加权准则的多示例学习视频人脸识别算法.该算法将视频人脸识别视为一个多示例问题, 将视频中归一化后的人脸帧图像作为视频包中的示例, 采用分块TPLBP级联直方图作为示例纹理特征, 示例特征的权值通过改进的Fisher准则获得.在训练集合的示例特征空间中, 采用多示例学习算法生成分类器, 进而实现对测试视频的分类及预测.通过在Honda/UCSD视频库和Youtube Face数据库中的相关实验, 该算法达到了较高的识别精度, 从而验证了算法的有效性.同时, 该方法对均匀光照变化、姿态变化等具有良好的鲁棒性.Due to the pose variation of target in video, it is difficult to accurately locate the face key frame and have a high recognition rate of the video face recognition based on key frame identification. To solve these problems, a video face recognition algorithm based on multi-instance learning is proposed in this paper. The algorithm takes each face video as a bag, and each normalized face frame as an instance in the bag. The feature of each instance is represented by cascading histograms of block TPLBP codes, and the weight of the instance feature is obtained by the improved Fisher criteria.The classifier is obtained in the feature space of training set by using a multiple instance learning algorithm, and then classification and prediction of test bag are realized. Experiments on the Honda/UCSD and YouTube Face databases show that the algorithm can achieve a higher recognition accuracy, and at the same time, the method is robust to illumination variation and expression variation.",
+      "author": "王玉",
+      "keywords": "<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>,local binary patterns",
+      "citedIndex": 0,
+      "publishDate": "2018-12-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_kjglyj201810005",
+      "title": "国际<mark class=highlight>人脸识别</mark>技术景观分析",
+      "summary": ",并对我国<mark class=highlight>人脸识别</mark>研究机构及相关企业提出有关建议.<mark class=highlight>Face</mark> <mark class=highlight>recognition</mark>",
+      "summaryAll": "人脸识别技术是人工智能的重要细分领域.针对现有研究缺乏系统的分析模型和定量的指标分析现状,提出技术演化趋势、技术集群特点和技术竞争态势三维技术景观分析框架,深入挖掘和分析国际人脸识别技术,并对我国人脸识别研究机构及相关企业提出有关建议.Face recognition technology is an important segment of artificial intelligence. Due to lack of systematic analysis model and quantitative index analysis of existing research,this paper designed a technological landscape analysis frame-work,respectively from the dimensions of technology overview,technology input and technology output to do face recogni-tion technological landscape analysis.Finally,some related proposes are provided for enterprises and research institutionsin China.",
+      "author": "章帆",
+      "keywords": "技术景观,<mark class=highlight>人脸识别</mark>,专利,technological landscape,<mark class=highlight>face</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-10-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgkjlwzx201820017",
+      "title": "基于图像信息的话者识别",
+      "summary": "个样本、每个样本包含连续20帧图片的实验数据集.将基于图像信息的话者识别分为借助<mark class=highlight>人脸识别</mark>技术找出人脸的嘴唇部分并执行唇动检测和对被检测出唇动的人脸进行<mark class=highlight>人脸识别</mark>",
+      "summaryAll": "提出了一种使用图像信息进行话者识别的方案,建立了一个共计916个样本、每个样本包含连续20帧图片的实验数据集.将基于图像信息的话者识别分为借助人脸识别技术找出人脸的嘴唇部分并执行唇动检测和对被检测出唇动的人脸进行人脸识别2个阶段.唇动检测模型通过2种方法获得:计算样本中每帧图片的人脸上下嘴唇间距与鼻部宽度的比例,并将该比例作为该帧图像的特征,基于总体样本特征使用支持向量机进行模型训练;对人脸的嘴唇部分进行裁剪,使用卷积神经网络对裁剪后的嘴唇图片提取特征,并将特征作为长短时记忆网络的输入进行模型的训练.实验结果表明,基于图像信息的话者识别能够达到较高的准确率.A speaker recognition scheme based on image information is proposed in this paper.A dataset with 916 samples is constructed, in which each sample includes 20 consecutive images.We achieve the task of speaker recognition based on image information through two steps:all mouth areas of the faces are found by face recognition technology to perform lip movement detection, and the faces which are detected by lip movements are recognized.The paper has designed two different methods to construct lip movement detection model.By obtaining the width of the nose and distance between the upper and lower lips on the face of each image in the sample, the ratio of distance to width is used as the feature for each image.A model can be trained by support vector machine based on these features.Cutting the lips of the face in each image, a convolutional neural network is used to extract the features of the cropped lip images.These features are used as inputs for long short time memory networks, and then the training of temporal classification is carried out.The experiment results show that speaker recognition based on image information can achieve high accuracy.",
+      "author": "刘培培",
+      "keywords": "<mark class=highlight>人脸识别</mark>,话者识别,唇动检测,支持向量机,卷积神经网络,长短时记忆网络,<mark class=highlight>face</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-09-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xddzjs201809018",
+      "title": "基于稀疏表示与特征融合的<mark class=highlight>人脸识别</mark>方法",
+      "summary": "针对<mark class=highlight>人脸识别</mark>在有遮挡、表情、光照的变化或受到噪声污染时鲁棒性变差问题,提出一种基于稀疏表示与特征融合的<mark class=highlight>人脸识别</mark>算法",
+      "summaryAll": "针对人脸识别在有遮挡、表情、光照的变化或受到噪声污染时鲁棒性变差问题,提出一种基于稀疏表示与特征融合的人脸识别算法.首先采用低秩恢复算法得到训练样本和测试样本的干净人脸图像,提取干净人脸图像的LBP,HOG,Gabor三种特征向量;然后对部分训练样本进行SRC分类测试,根据SRC的识别结果与分类残差定义一个损失函数,再利用正则化最小二乘法计算出使损失函数最小的权重向量;最后根据该权重向量重构规则化残差进行分类.在ORL,Extended Yale B和AR数据库上进行实验,结果表明,该算法优于利用单一特征识别的方法,并且对光照、噪声、遮挡等因素产生的影响有较好的泛化性能.Since the robustness of face recognition becomes worse due to the changes of sheltering,expression and illumination, or noise pollution,a face recognition algorithm based on sparse representation and feature fusion is proposed.The low?rank recovery algorithm is used to get the clean face images of training samples and test samples,and their feature vectors(LBP,HOG,Gabor) are extracted. The SRC classification test was performed for some training samples. A loss function is defined according to the rec?ognition result and classification residual of the SRC. The regularization least?square method is used to calculate the weight vector with minimum loss function,according to which the regularization residual is reconstructed for classification. The experiment of the method was performed on ORL,Extended Yale B and AR databases. The results show that the algorithm is superior to the single feature recognition method,and has better generalization performance on the influence of illumination,noise and sheltering.",
+      "author": "木立生",
+      "keywords": "<mark class=highlight>人脸识别</mark>,稀疏表示,低秩恢复,特征融合,鲁棒性,泛化性能,<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-09-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xddzjs201809013",
+      "title": "一种基于融合深度卷积神经网络与度量学习的<mark class=highlight>人脸识别</mark>方法",
+      "summary": "<mark class=highlight>recognition</mark> accuracy under unrestricted",
+      "summaryAll": "现有的卷积神经网络方法大多以增大类间距离为学习目标,而忽略类内距离的减小,这对于人脸识别来说,将导致一些非限制条件下(如姿态、光照等)的人脸无法被准确识别,为了解决此问题,提出一种基于融合度量学习算法和深度卷积神经网络的人脸识别方法.首先,提出一种基于多Inception结构的人脸特征提取网络,使用较少参数来提取特征;其次,提出一种联合损失的度量学习方法,将分类损失和中心损失进行加权联合;最后,将深度卷积神经网络和度量学习方法进行融合,在网络训练时,达到增大类间距离同时减小类内距离的学习目标.实验结果表明,该方法能提取出更具区分性的人脸特征,与分类损失方法及融合了其他度量学习方式的方法相比,提升了非限制条件下的人脸识别准确率.The current convolutional neural network(CNN)methods mostly take the increase of inter?class distance as the learning objective,but ignore the decrease of intra?class distance,which makes that the human face can′t be recognize accurately under some unrestricted conditions(such as posture and illumination). In order to eliminate the above problem,a face recogni?tion method based on deep CNN and metric learning method is proposed. A face feature extraction network based on multi?Incep?tion structure is presented to extract the feature with less parameters. A metric learning method based on joint loss is presented to perform the weighting joint for the softmax loss and center loss. The deep CNN and metric learning method are fused to reach the learning objective of inter?class distance increase and intra?class distance decrease. The experimental results indicate that the proposed method can extract the more discriminative facial features,and improve the more face recognition accuracy under unrestricted conditions than the Softmax loss method and methods fusing other metric learning modes.",
+      "author": "吕璐",
+      "keywords": "多Inception结构,深度卷积神经网络,度量学习方法,深度<mark class=highlight>人脸识别</mark>,特征提取",
+      "citedIndex": 0,
+      "publishDate": "2018-09-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjgcyyy201808033",
+      "title": "基于字典扩展的快速<mark class=highlight>人脸识别</mark>算法",
+      "summary": "提出了一种在多种人脸数据库上整体更为准确,且比经典基于稀疏表示的人脸分类算法更高效的<mark class=highlight>人脸识别</mark>算法",
+      "summaryAll": "利用比l1-范数最小化更高效的l2-范数最小化算法,提出了一种在多种人脸数据库上整体更为准确,且比经典基于稀疏表示的人脸分类算法更高效的人脸识别算法.它在传统的训练字典中加入了一个特征矩阵,增大特征信息在字典矩阵中的比重,从而提高识别的准确性.在一系列的实验结果中得出,该人脸识别算法比现有的其他几种典型算法更加准确,而且对噪声和遮挡块的抗干扰性也更强.This paper proposes an algorithm based on the l2-norm minimization which is much better than the l1-norm minimization.This algorithm is much more accurate on some database and efficient than the traditional sparse representation-based classification.The algorithm adds a feature dictionary into the training dictionary,which can increase the proportion of the feature information and raise the recognition rate. In a series of experiments, it can be found that the method is more accurate in the recognition rate and robust to both pixel corruption and block occlusion than other methods.",
+      "author": "聂栋栋",
+      "keywords": "<mark class=highlight>人脸识别</mark>,字典扩展,l2-范数最小化,<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>,dictionary",
+      "citedIndex": 0,
+      "publishDate": "2018-08-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_dzsjgc201807039",
+      "title": "基于对抗生成网络的身份保持人脸老化",
+      "summary": "<mark class=highlight>recognition</mark> network,then target age information",
+      "summaryAll": "基于从一张给定年龄的人脸输入图片准确预测出该人老龄化后的人脸图片,并且保持身份的目的,采用了基于条件对抗神经网络的无监督跨领域框架,然后将此框架应用到人脸身份保持的老龄化的任务中的方法.所采用的对抗神经网络通过预训练的人脸识别网络提取源图片的特征,然后将目标年龄信息附加在嵌入式特征空间里,并且送往生成器,随之施加了身份保持的约束.所提出的算法在生成CACD人脸数据集的老化人脸生成实验上产生了高质量,并且保持住身份信息的人脸图片,同时,在人脸跨年龄分类任务上取得了2.64％的识别率增益,进而验证了算法的高准确率和有效性.In this paper,based on the purpose of accurately predicting the synthesized aging face images from an original face image and preserving the identity information,we adopt an unsupervised crossdomain image generation framework based on a conditional Generative Adversarial Network,and apply it to the identity-preserved face aging task.To generate target domain alike images,we extract features of source images through a pre-trained face recognition network,then target age information is appended to the embedded features and sent to a generator,thus,an identity-preserved term is imposed.The proposed algorithm generates faces with high quality and preserves the identity information well.Meanwhile,compared with the best deep learning result on the CACD test set,the accurate rate of our model has been increased by 2.64％,which verifies its high accuracy and effectiveness.",
+      "author": "汤旭",
+      "keywords": "<mark class=highlight>人脸识别</mark>,人脸老化,对抗生成网络,CACD,<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>,",
+      "citedIndex": 0,
+      "publishDate": "2018-07-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_nygcxb201807025",
+      "title": "基于卷积神经网络面部图像识别的拖拉机驾驶员疲劳检测",
+      "summary": "established and human <mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "summaryAll": "针对疲劳驾驶极易造成拖拉机交通事故这一问题,该文提出了一种基于卷积神经网络面部特征识别的拖拉机驾驶员疲劳检测方法.首先,利用伽马亮度校正对驾驶员面部图像进行光照预处理,再通过小波包去除图像中的椒盐噪声和高斯噪声,对预处理后的图像分别通过 PCA-SCM 人脸特征识别定位算法和基于人脸核心特征库及肤色模型的人脸识别算法进行驾驶员面部的识别定位,并通过比对这2种算法识别的偏差大小校验算法识别的有效性,以减小拖拉机工作振动时采样对图像中人脸定位精度的影响.将提取到的驾驶员面部图像输入到卷积神经网络进行深度学习和训练,并建立驾驶员疲劳视觉检测模型,从而实现基于拖拉机驾驶员面部图像的疲劳检测.统计训练过程中各项参数变化情况并进行T-SNE降维迭代分析,与其他常规方法相比,CNN在检测准确度和检测效率方面都有较为明显的优势.试验表明,所提出的检测模型准确率98.9%,图片识别效率38 ms/帧(Inter i7-4510U双核处理器),能够实现拖拉机驾驶员疲劳状况的实时检测,该研究可为解决疲劳驾驶这一安全问题提供参考.Tractor is a popular tool for agricultural farming in the world. But many factors such as high labor intensity, absence of sleeping and monotonous environment make driver fatigued easily in farming season. Aiming at the phenomenon of fatigue driving which is the major reason for tractor traffic accidents, a tractor fatigue detection method based on facial feature recognition using convolution neural network was proposed. Firstly, 1200 driving images were sampled during different daytimes by 60 drivers in which the male accounted for 77%. Then the face images of tractor drivers were pretreated by gamma intensity correction (GIC) method, aimed to solve the problem of the uneven brightness of images with fast processing speed because of its simple algorithm, and hence reduce the influence of illumination of faces. Due to the complex working environment of the tractor and the special surrounding window design, wavelet denoising method was applied in image denoising because it is powerful for the removal of impulse noise and Gaussian noise which are the main noise in the images. In addition, principal component analysis – skin color model (PCA-SCM) method was used to detect and locate faces and then skin color model was applied to rectify and extract the facial area. For improving the face recognition precision, dual-face recognition and checking algorithm was proposed. Firstly, core feature face database was established and human face recognition classifier was generated. Secondly the core feature memory space of human face was formed to locate human face in image. Thirdly, to establish a Gaussian skin color model in YCbCr color space and perform the binary converting, bloat and corrosion methods were also applied to remove fake areas for improving accuracy. In the end, the obtained face position was compared with the previous one to evaluate the effectiveness of this image. Finally, the drivers' facial images were input to the convolution neural network (CNN) for training, and the driver fatigue detection model was established to identify the fatigue of tractor driver based on the face image. The neural network was mainly composed of an input layer, 2 convolution layers, 2 pooling layers, 2 fully connected layers and an output layer. The batch size was 30, and the convolution layer sampled 16 channels of input layer. After reducing the dimension of the feature map by the pooling layer, the full connection layer classified the extracted features and then the correctness rate and the loss rate were obtained. The AdamOptimizer was selected as the optimizer to improve the gradient descent by using the momentum (moving average of the parameters). The hyperparameters were dynamically adjusted to minimize the loss function of the network to achieve better discrimination. Additionally, the changes of weight parameter and bias parameter in convolutional layer and all-connected layer were analyzed, as well as the change trend of correctness rate and loss rate. The T-SNE dimensionality reduction iterative analysis was applied in CNN training. Compared with other methods of fatigue driving detection, such as dynamic template matching and BP (back propagation) neural network, CNN has obvious advantages in detecting correctness and detecting speed. Due to the unique convolutional kernel structure of CNN, more and more useful information in the image can be extracted more efficiently and quickly. CNN still has good detection efficiency compared with the fuzzy inference detection method. Experiments showed that the proposed detection model's accuracy rate is 98.9%, and the recognition time for each frame of image is 38 ms (Using Inter i7-4510U dual-core processor), which demonstrate that the proposed image processing method using CNN can realize fatigue detection of tractor driver in real time.",
+      "author": "卢伟",
+      "keywords": "<mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-07-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjxtyy201806021",
+      "title": "改进的加权稀疏表示<mark class=highlight>人脸识别</mark>算法",
+      "summary": "the l1norm minimization, we proposed a <mark class=highlight>face</mark>",
+      "summaryAll": "针对传统的加权稀疏表示分类方法在获取训练样本权重以及求解l1范数最小化问题中计算效率低的问题,提出了一种加权稀疏表示和对偶增广拉格朗日乘子法(DALM)相结合的人脸识别算法WSRC_DALM算法. 该算法主要采用高斯核函数计算每个训练样本与测试样本之间的相关性, 即获得训练样本相对于测试样本的权重; 接着利用DALM算法求解l1范数最小化模型, 实现测试样本的精准重构和分类, 最后在ORL和FEI人脸数据集上进行算法验证. 在ORL数据集中, WSRC_DALM算法的识别率高达99%, 相比经典的SRC和WSRC算法, 识别率分别提高了7%和4.8%, 同时计算效率比WSRC算法提高了约20倍; 在FEI数据集中, 多姿态变化下的人脸识别率接近于92%. 实验结果表明, WSRC_DALM算法在识别准确度和计算效率上具有明显的优势, 并且对较大类内变化具有较好的鲁棒性.Aiming at the problem of low efficiency in obtaining training sample weights and solving the l1norm minimization, we proposed a face recognition algorithm WSRC_DALM algorithm, which was combined with Weighted Sparse Representation Classification (WSRC) and Dual Augmented Lagrangian Multiplier method (DALM). In the method, the Gaussian kernel function mainly was used to calculate the correlation between each training sample and the test sample, to obtain training samples with respect to the weight of the test sample. Then, the DALM algorithm was used to solve the l1norm minimization model, to achieve the test sample accurate reconstruction and classification. Finally, the proposed algorithm was validated by ORL and FEI datasets. In the ORL dataset, the recognition rate of the algorithm is 99%, compared with the classical SRC and WSRC algorithms, the recognition rate is improved by 7% and 4.8% respectively, and the computational efficiency is 20 times higher than WSRC algorithm. And in the FEI dataset, pose-varied face recognition rate is close to 92%. WSRC_DALM algorithm has obvious advantages in recognition accuracy and computational efficiency, and it has good robustness to large intraclass changes.",
+      "author": "王林",
+      "keywords": "<mark class=highlight>人脸识别</mark>,加权稀疏表示,对偶增广拉格朗日乘子法,高斯核函数,鲁棒性,<mark class=highlight>face</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_wjfz201806004",
+      "title": "卷积网络的无监督特征提取对<mark class=highlight>人脸识别</mark>的研究",
+      "summary": "constructed is simple and effective,and its <mark class=highlight>recognition</mark>",
+      "summaryAll": "目前基于卷积神经网络的学习方法需要大量的有标注的数据.而实际应用中,标记大量的数据是非常困难的.为了解决此问题,提出了一种基于卷积神经网络的无监督特征提取方法.该方法结合了局部保持投影(LPP)算法和卷积神经网络,LPP算法可以很好地保留图像局部结构.文中采用LPP算法来进行卷积核的学习.构建的网络结构简单有效,识别效率优于有监督的卷积神经网络.实验结果表明,该方法在真实条件下的人脸数据集Yale和经典的FERET数据集上的性能优于当前主流的无监督特征学习方法.At present,the learning method based on convolutional neural network needs a large number of labeled data. In practical appli-cations,it is very difficult to mark large amounts of data. In order to solve this problem,we propose an unsupervised feature extraction method based on convolutional neural network,which combines the locality preserving projection ( LPP) and the convolutional neural network. The LPP can preserve the local structure of image greatly,so it is used to learn the convolution kernel. The network structure constructed is simple and effective,and its recognition efficiency is better than the supervised convolutional neural network. The experi-ment shows that the proposed method achieves better performance than the current mainstream unsupervised feature learning methods in both real-world Yale and the classical FERET dataset.",
+      "author": "杜柏圣",
+      "keywords": "<mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xxwxjsjxt201806007",
+      "title": "基于自学习深度卷积神经网络的姿态变化<mark class=highlight>人脸识别</mark>",
+      "summary": "<mark class=highlight>recognition</mark>.",
+      "summaryAll": "针对卷积神经网络结构设计依赖人为经验,网络深度、特征图个数设置缺乏理论依据,网络训练需大量训练样本支持,并结合姿态变化人脸识别存在的问题,提出姿态变化人脸底层特征图的样本扩充方法和深度卷积神经网络模型的自学习方法.首先,根据姿态人脸分布规律,将姿态人脸非线性流形空间划分为不同流形层和局部子空间,针对局部子空间内姿态人脸定义人脸底层特征构建方法,实现姿态变化人脸样本扩充.然后,通过网络结构初始化、网络结构全局和局部自适应扩展,获得自学习深度卷积神经网络,实现姿态变化人脸的深层非线性特征提取和识别.实验表明,本文所提方法丰富了卷积神经网络的理论研究,有效改善了姿态变化人脸识别的准确率.The construction of Convolutional Neural Network depends on human experience,the setting of network depth and number of feature maps lack theoretical basis,and the network training needs a large number of training samples. In this paper,combining with the difficulties of pose-varied face recognition,we propose a method of sample expansion based on pose-varied face low-level feature map and a novel self-learning method for deep Convolutional Neural Network model. First of all,according to the distribution of pose-varied faces,the pose-varied face manifold space is divided into different manifold layer and local subspace. For pose-varied faces in the subspace,the construction method of face low-level feature is defined and the expansion of training samples are realizes. Then,the self-learning deep Convolutional Neural Network is obtained through the network initialization,the global and local adaptive extension of network structure,this neural network realizes the deep nonlinear feature extraction and recognition of pose-varied faces. The experi-ment results show that the proposed method enriches the theoretical study of Convolutional Neural Network,and improves the accuracy of pose-varied face recognition.",
+      "author": "邹国锋",
+      "keywords": "poses variation,<mark class=highlight>face</mark> low-level feature",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xhcl201806012",
+      "title": "面向人脸表情识别的迁移卷积神经网络研究",
+      "summary": ",采用迁移学习方法将所得<mark class=highlight>人脸识别</mark>模型迁移到人脸表情识别任务上,并提出Softmax-MSE",
+      "summaryAll": "人脸表情识别是模式识别研究的一个重要领域,现实环境中人脸表情识别容易受到光照、姿态、个体表情差异等因素的影响,识别效果仍有待提高.为了取得更好的人脸表情识别效果,本文提出一种基于迁移卷积神经网络的人脸表情识别方法,本文在训练得到人脸识别网络模型的基础上,采用迁移学习方法将所得人脸识别模型迁移到人脸表情识别任务上,并提出Softmax-MSE损失函数和双激活层(Double Activate Layer,DAL)结构,以提高模型的识别能力.在FER2013数据库和SFEW2.0数据库上的实验表明,本文所提方法分别取得了61.59％和47.23％的主流识别效果.Facial Expression Recognition (FER) has always been an important field in pattern recognition.Because facial expression recognition can be easily affected by light,attitude and individual expression differences,facial expression recognition in the wild still did not obtain considerable progress.To achieve better facial expression recognition performance,a method of transferring face recognition net into facial expression net was proposed based on fine-tuning face recognition net.Furthermore,Softmax-MSE loss function and Double Activate Layer (DAL) structure were proposed to improve the discriminative ability of the model.The experiments were performed on FER 2013 dataset and SFEW 2.0 dataset and obtained overall classification accuracy of 61.59％ and 47.23％ respectively,which has achieved state-of-the-art performance.",
+      "author": "翟懿奎",
+      "keywords": "表情识别,深度卷积神经网络,迁移学习,facial expression <mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jcyyy201806019",
+      "title": "基于局部特征和深度神经网络的人脸性别判别模型研究",
+      "summary": "<mark class=highlight>recognition</mark> model based on local feature",
+      "summaryAll": "深度学习方法可以自动发现更佳数据以改善分类器性能.然而,在计算机视觉任务中,比如性别识别问题,有时候很难直接从整个图像进行学习.因此,提出一种新的基于局部特征和深度神经网络的人脸性别识别模型.首先,该模型从输入图像中提取数个局部特征,并将这些特征反馈给判别图像的深度神经网络,然后根据图像所属标签将每个局部特征分类.最后,使用简单的投票方案对整体图像进行判决.在FERET和CAS-PEAL-R1两个人脸图像资料库上进行了人脸性别分类实验,结果显示提出的方法优于其他深度学习方法,具有较好的准确性和稳定性.Depth learning method can automatically find better data to improve the performance of classifier.However,in computer vision tasks,such as gender recognition,it is difficult to learn directly from the entire image sometimes.Therefore,a new face recognition model based on local feature and depth neural network is proposed in this paper.Firstly,the model extracts several local features from the input image,and then these features are fed back to the depth neural network of the image,and then each local feature is classified according to the tag.Finally,a simple voting scheme is used to decide the whole image.The experiments of face gender classification are carried out on two face databases of FERET and CAS-PEAL-R1,and the results show that the proposed method is superior to other depth learning methods,and has better accuracy and stability.",
+      "author": "朱正国",
+      "keywords": ",<mark class=highlight>Face</mark> <mark class=highlight>recognition</mark>,Depth neural network,",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_gdgc201806014",
+      "title": "基于多核学习的多阶次分数阶傅里叶变换域<mark class=highlight>人脸识别</mark>",
+      "summary": "The experiments of <mark class=highlight>face</mark> <mark class=highlight>recognition</mark> on",
+      "summaryAll": "分数阶傅里叶变换是信号处理与分析的一个重要工具,通过将图像信号投影到不同角度的时频平面可以表征图像的内容信息,其在人脸识别任务中显示出很好的性能.但是分数阶傅里叶变换存在阶次选择的问题,即在没有先验知识的情况下,无法预先知道哪一个阶次的分数阶傅里叶变换域特征具有最好的判别性能.受机器学习中的多核学习理论启发,本文探讨了分数阶傅里叶变换中阶次选择问题和多核学习理论的联系,通过将不同阶次的分数阶傅里叶变化域特征的线性核矩阵作为多核学习网络的输入,结合支持向量机,交替优化更新多核网络中的系数和支持向量机的参数,自动学习多阶次分数阶傅里叶变换域特征的系数,实现多阶次分数阶傅里叶变换域特征的融合.将所提算法应用到人脸识别任务中,在ORL人脸数据集和扩展YaleB人脸数据集上的实验显示所提算法的可行性和有效性.Fractional Fourier transformation (FRFT) is a very useful tool for signal processing and analysis, which can well represent the content of the image by projecting it to the time-frequency plane. The features extracted by 2D-FRFT have shown very promising results for face recognition. However, there is one problem when dealing with 2D-FRFT: it is hard to know that which order of 2D-FRFT (the angle of projection of time-frequency plane) is best for the specific task without prior knowledge. In spirit of multiple kernel learning in machine learning, we discuss the relations between the order selection in 2D-FRFT and kernel selection in multiple kernel learning. By treating the li-near kernels over different features from 2D-FRFT with different orders as the input to multiple kernel learning framework, and also by applying support vector machines (SVM) on top of the learned kernels, we can update the weights in the multiple kernel learning framework and SVM parameters through alternative optimization. Therefore, the problem of order selection of 2D-FRFT is solved by the off-the-shelf algorithm of multiple kernel learning. The experiments of face recognition on ORL dataset and extended YaleB dataset show the effectiveness of the proposed algorithm.",
+      "author": "酒明远",
+      "keywords": "<mark class=highlight>recognition</mark>,feature fusion",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_hebgydxxb201805014",
+      "title": "水平集超像素及贝叶斯框架下的显著性检测",
+      "summary": "<mark class=highlight>recognition</mark> can be effectively utilized",
+      "summaryAll": "针对数字图像显著性检测过程中对超像素的分割及相应显著值的计算不准确问题,提出了一种基于水平集超像素和贝叶斯框架的数字图像显著性检测和更新算法.首先,对基于灰度不均匀的水平集方法的结果先进行分割合并操作,可以得到适应图像不同区域大小的水平集超像素.其次,使用图像内部与边缘超像素之间的颜色和距离差异来构建显著性图.接着,使用水平集超像素来表示显著区域,以图像边缘部分的超像素为基础,基于K均值聚类算法并在贝叶斯框架下提出三种更新算法,用来更新显著性图从而得到显著性结果;更新算法可以进一步提高显著图的准确率、召回率、F值这3个指标,降低平均绝对误差.最后,提出了基于人脸识别的检测算法来处理包含有人的图片.在三个公开的数据库上进行了定性和定量的大量实验评测,结果表明本文提出的显著性检测方法和更新算法在准确率、召回率、F值及平均绝对误差这四个指标上均优于FT、CA、XL、MR、wCO、BSCA等已有的图像显著性检测经典算法.Aiming at the inaccuracy of superpixel segmentation and the value calculation of saliency map in image saliency detection,this paper proposes an alternative form of saliency detection and updated algorithm based on the level set superpixels and Bayesian framework.A division or merger of the superpixels will achieve a level set method to form superpixels which are adaptive to the different regions of different size. The model's original map will be constructed by using color and space contrast between boundary and inner superpixels. The saliency region can be indicated with the level set superpixels and then three updated algorithms are effectively put forward via the Bayesian framework and based on K-means clustering algorithm. As a result of this update to the original mapping system,the final saliency result can be discovered in a manner that is a vast improvement of the existing method while still achieving a better level. Using our algorithm can improve the accuracy,recall rate,F value and reduce the mean absolute error value. Finally, this saliency detection algorithm for the face recognition can be effectively utilized to deal with the pictures containing people. The experimental results on three open databases show that our proposed algorithm is superior to FT, CA, XL, MR, wCO, BSCA and other saliency detection algorithms in accuracy,recall rate,F value and mean absolute error.",
+      "author": "陈炳才",
+      "keywords": "<mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-05-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyszgc201805009",
+      "title": "基于CS-LDP和LCCP特征融合的<mark class=highlight>人脸识别</mark>算法",
+      "summary": "<mark class=highlight>人脸识别</mark>是当前模式识别和人工智能的研究热点,论文提出中心对称的局部二阶微分模式",
+      "summaryAll": "人脸识别是当前模式识别和人工智能的研究热点,论文提出中心对称的局部二阶微分模式(center-symmetric local derivative pattern,CS-LDP)和中心对称二阶局部二值模式(local center-symmetric pattern,LCCP)特征融合的算法.该算法对图像分别提取CS-LDP特征和LCCP特征,并将两个特征融合得到最终的特征向量,最后通过计算直方图欧式距离来得到人脸识别结果.实验结果表明,CS-LDP提取图像的二阶微分特征,LCCP提取图像的凹凸特征,融合两种特征得到更为有效的图像特征的识别信息,在ORL、AR和Yale B人脸数据库上实验,相对于CS-LDP算法和LCCP算法,识别率均得到提高.Face recognition is an active research area in the artificial intelligence. In this paper,a hybrid method of cen-ter-symmetric local derivative pattern(CS-LDP)and local center-symmetric pattern(LCCP)algorithm are proposed. The algo-rithm of the image is extract CS-LDP feature information and LCCP feature information. Further more,the features calculated by CS-LDP and LCCP are combined to obtain the final texture features.Finally,The results of face recognition are obtained by calcu-lating the histogram of Euclidean distance.The results show that CS-LDP extracts the second order differential feature and LCCP ex-tracts the irregularities feature of images.Then effective image feature recognition information by integration of two features is gotten. Then experiments on ORL,AR and Yale B face database and done.Compared to CS-BP algorithm and LBP algorithm,the recogni-tion rate is improved.",
+      "author": "汤啸",
+      "keywords": "fusing,<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-05-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjxtyy201805032",
+      "title": "基于深度学习的证件照<mark class=highlight>人脸识别</mark>方法",
+      "summary": "research and implementation of <mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "summaryAll": "为解决安防业务中对人脸识别技术的迫切需求, 进行了基于深度学习的证件照人脸识别方法的研究与实现. 对人脸识别各关键技术环节进行了实现并进行了算法对比, 同时提出了使用Siamese网络进行特征重映射的方法进一步提升人脸识别精度. 实验结果表明, 使用证件照构建的人脸库, 通过基于深度学习的算法实现了高效精确的人脸识别.To solve the urgent technical requirement of face recognition in security industry, this research and implementation of face recognition based on deep learning for identification photos are carried out. The key technologies and algorithms of face recognition are implemented and compared. At the same time, to further improve accuracy, the method of feature remapping using Siamese network is proposed. Finally, the experimental results show that by using deep learning algorithms and face-library constructed by identification photos, efficient and accurate face recognition is achieved.",
+      "author": "张晓林",
+      "keywords": "<mark class=highlight>人脸识别</mark>,深度学习,证件照,人脸检测,相似度衡量,<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-05-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_szxxzyjsxyxb201805001",
+      "title": "基于tensor-flow神经网络算法改进的<mark class=highlight>人脸识别</mark>",
+      "summary": "针对传统应用于CIFIR-10数据集的基于tensor-flow神经网络算法需要对数据",
+      "summaryAll": "针对传统应用于CIFIR-10数据集的基于tensor-flow神经网络算法需要对数据集进行人为预处理、容易过拟合和准确率低等缺点,改变特征维度和加入卷积层CNN以提升迭代速率,通过drop out、权重衰减和L2正则化方法改善过拟合问题,并使用梯度下降法对神经网络模型进行优化,得到了收敛速率局部波动,但准确率、迭代效率都有较好的结果,为神经网络的设计提供了理论参考.The traditional tensor-flow neural network algorithm applied to the CIFIR-10 dataset has the disadvantages of artificial preprocessing, easily overfitting and low accuracy of the dataset. The feature dimension is changed and the convolutional layer CNN is added to increase the iteration rate. We can improve the over-fitting problem through the drop out, weight attenuation and L2 regularization method and use the gradient descent method to optimize the neural network model. The local fluctuation of convergence rate is obtained, but the accuracy and iterative efficiency have better results. It provides a theoretical reference for the design of neural network.",
+      "author": "邢立宁",
+      "keywords": "<mark class=highlight>人脸识别</mark>,卷积神经网络,正则化方法,过拟合,收敛,<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-05-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xhcl201804008",
+      "title": "图像集闭包建模的协同表示<mark class=highlight>人脸识别</mark>算法",
+      "summary": "image in <mark class=highlight>face</mark> <mark class=highlight>recognition</mark>,the extended",
+      "summaryAll": "针对样本集距离分类算法忽略样本集内部变化的不足,利用图像多重描述提供的互补信息,提出图像集闭包建模的协同表示人脸识别算法.首先,扩展具有多重描述能力的图像集,图像的中等强度像素携带鉴别信息,故利用原始图像生成中等像素图像,镜像图像可增添图像细节信息,故利用原始图像产生镜像图像,将此两种源域图像与原始图像联合构成扩展的图像集.然后,以无参建模构建扩展的图像集为字典闭包,同类异源域的测试图像构成图像集且构建为测试闭包,借鉴协同表示思想利用字典学习迭代求解闭包系数.最后,采用残差判别函数进行模式分类.本文方法不仅构建具有多重描述能力的图像集,而且充分利用样本集内部关联性从而获得较好的分类结果.本文分别在ORL、GT(Georgia Tech Face Database)、CMU HE、FERET人脸数据库上进行实验.The set-to-set distance based methods ignores the relationship between gallery sets,while representing the query set images individually over the gallery sets ignores the correlation between query set images.In view of multiple representations of images contributing to providing complementary information,hull of image set based collaborative representation for face recognition is proposed.Firstly,the extended image set with multiple representations is structured.Due to the images with pixels with moderate intensities of the original images carry discriminatory information and the mirror images can somewhat overcome the misalignment problem of the face image in face recognition,the extended image set can be obtained by jointing the domain images of the original images and mirror images and pixels with moderate intensities images.Secondly,the extended dictionary is modeled as hull dictionary with non-parametric approaches for image set modeling and the query set from the same class of different domain image sets is modeled as a hull.The idea of collaborative representation and iterations are used to solve the coefficient of hull.Finally,the query set is classified by using of residual error SRC criterion.This method not only structures the image set with multiple representations contributing to the accuracy of image classification,but also makes full use of the relationship between image sets.Experimental results verify the proposed algorithm effectiveness respectively in ORL、GT (Georgia Tech Face Database)、CMU PIE、FERET facial database.",
+      "author": "胡正平",
+      "keywords": "dictionary extension,<mark class=highlight>face</mark> <mark class=highlight>recognition</mark>,sparse",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_wjfz201804002",
+      "title": "智能摔倒检测监控系统设计",
+      "summary": "室内老人摔倒成为广泛关注的社会问题.并且,传统以安防为目的的监控系统侧重于人流检测以及<mark class=highlight>人脸识别</mark>等方面",
+      "summaryAll": "现代社会人口老龄化加剧,空巢老人现象日益普遍,室内老人摔倒成为广泛关注的社会问题.并且,传统以安防为目的的监控系统侧重于人流检测以及人脸识别等方面,而缺乏对室内人员行为尤其是摔倒事件的检测.对此,设计了一种居家环境中用于检测老人摔倒的智能监控系统.该系统选用EasyDarwin作为服务器,实现视频推流、在客户端拉取视频流播放等工作,利用帧间差分法、背景减除法等算法对监控场景进行目标行为的分析,使用科大讯飞SDK实现语音识别的功能,最终通过Zabbix实现系统的告警.在摄像头拍摄到老人摔倒行为后,视音频检测代码分析视频片段得到告警信息,通过邮件形式发送给用户.该系统融合了网络视频传输和视频内容分析技术,为现代社会中普遍存在的空巢老人生活安全问题提供了一种可靠的解决方案.The aging of the modern society and the prevalence of empty nesters are aggravated,which make the tumble of solitary people a widely concerned social problem.The traditional security monitoring systems are commonly utilized in the public or private residence for human flow monitoring or face detection,but without consideration of behavior detection,especially tumble detection.In this regard, we design an intelligent monitoring system of home environment for the detection of old people fall.In this system,EasyDarwin is utilized as a streaming server for video content delivery and storage.Specifically,the behavior recognition is implemented with the algorithms, such as the inner-frame difference and the background subtraction.The speech recognition is realized with iFLYTEK SDK.The alarm module design is based on Zabbix.After the camera shoots the old man's fall behavior,the video and audio detection code analyzes video clip to get the warning message and sends it to the user by email.Combining the network video transmission and video content analysis technology,the whole system can provide a practical solution for the life security problem of empty nesters in modern society.",
+      "author": "伍静",
+      "keywords": ",EasyDarwin,behavior detection,speech <mark class=highlight>recognition</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    }
+  ],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": [
+    {
+      "id": "79",
+      "nameCN": "(speaker <mark class=highlight>recognition</mark>)",
+      "nameEN": "Technology specification for automatic voiceprint recognition(speaker recognition)",
+      "standardNo": "SJ/T 11380-2008",
+      "categoryNoCN": "L;L71,电子元器件与信息技术, 信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本标准规定了声纹识别（系统）的术语与定义、数据交换格式与应用编程接口（VPR-API ",
+      "summaryAll": "本标准规定了声纹识别（系统）的术语与定义、数据交换格式与应用编程接口（VPR-API 1.0）。本标准适用于各种计算机、网络和智能设备配置的声纹识别系统。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2018-03-10",
+      "implementDate": "2018-03-10"
+    },
+    {
+      "id": "68",
+      "nameCN": "programming interface for Chinese speech <mark class=highlight>recognition</mark>",
+      "nameEN": "Specification of programming interface for Chinese speech recognition Internet service",
+      "standardNo": "GB/T 34083-2017",
+      "categoryNoCN": "L;L77,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.080",
+      "summary": "本标准规定了中文语音识别服务系统在互联网环境下提供服务的能力范围、输入数据、输出数据、",
+      "summaryAll": "本标准规定了中文语音识别服务系统在互联网环境下提供服务的能力范围、输入数据、输出数据、服务接口、接口返回值要求等。 本标准适用于基于互联网的中文语音识别服务系统接口的设计、开发和应用。  ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2017-07-31",
+      "implementDate": "2018-02-01"
+    },
+    {
+      "id": "81",
+      "nameCN": "General specification for fingerprint <mark class=highlight>recognition</mark>",
+      "nameEN": "General specification for fingerprint recognition device",
+      "standardNo": "SJ/T 11607-2016",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本标准规定了指纹识别设备的构成、分类、要求、试验方法、质量评定程序、标志、包装、运输和",
+      "summaryAll": "本标准规定了指纹识别设备的构成、分类、要求、试验方法、质量评定程序、标志、包装、运输和贮存等。本标准适用于各种类型指纹识别设备的研制、生产和检验等。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2016-01-15",
+      "implementDate": "2016-06-01"
+    },
+    {
+      "id": "82",
+      "nameCN": "<mark class=highlight>人脸识别</mark>设备通用规范",
+      "nameEN": "General specification for face recognition device",
+      "standardNo": "SJ/T 11608-2016",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本标准适用于各种类型<mark class=highlight>人脸识别</mark>设备的研制、生产和检验等。 ",
+      "summaryAll": "本标准规定了人脸识别设备的构成、要求、试验方法、质量评定程序、标志、包装、运输和贮存等。本标准适用于各种类型人脸识别设备的研制、生产和检验等。 ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2016-01-15",
+      "implementDate": "2016-06-01"
+    },
+    {
+      "id": "15",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第4部分：指纹图像数据",
+      "nameEN": "Information technology―Biometric data interchange formats―Part 4: Finger image data",
+      "standardNo": "GB/T 26237.4-2014",
+      "categoryNoCN": "L;L71,电子元器件与信息技术，信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本部分规定了一个用来从一个或多个符合ISO/IEC 19785-1 CBEFF数据结构",
+      "summaryAll": "本部分规定了一个用来从一个或多个符合ISO/IEC 19785-1 CBEFF数据结构的 指/掌纹图像区域进行存储、记录和传输信息的数据记录交换格式，可用来进行指纹图像数据的交换和比较。本部分定义了可用于个体认证和鉴定的指纹图像数据交换的测量内容、格式和单位。该信息由 一些必选项和可选项构成，包括扫描参数、压缩或未压缩图像以及供方规定的信息，且可以在使用自动 设备和系统进行基于指纹图像区域进行鉴定和认证的组织之间进行交换9按照本部分进行编译和格式化的信息可在机读媒介上记录或使用数据通信设施进行传输。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-12-05",
+      "implementDate": "2015-05-01"
+    },
+    {
+      "id": "16",
+      "nameCN": "technology-Biometric data interchange formats- Part 5:<mark class=highlight>Face</mark>",
+      "nameEN": "Information technology-Biometric data interchange formats- Part 5:Face image data",
+      "standardNo": "GB/T 26237.5-2014",
+      "categoryNoCN": "L;L70,电子元器件与信息技术，信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本部分: 一一规定了一张/多张相片和人脸图像短视频流的存储、记录和传输的数据格式。规定",
+      "summaryAll": "本部分: 一一规定了一张/多张相片和人脸图像短视频流的存储、记录和传输的数据格式。规定了人脸图像拍摄时的场景约束; 一一规定了人脸图像的拍摄方法; 规定了数字人脸图像的存储格式; 提供了人脸图像拍摄的最佳范例。 本部分适用于人脸图像数据的记录、存储和传输。 ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-12-05",
+      "implementDate": "2015-05-01"
+    },
+    {
+      "id": "17",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第6部分：虹膜图像数据",
+      "nameEN": "Information technology—Biometric data interchange formats—Part 6: Iris image data",
+      "standardNo": "GB/T 26237.6-2014",
+      "categoryNoCN": "L;L71,电子元器件与信息技术, 信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求",
+      "summaryAll": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求，工业机器人和工业机器人系统已在GB 11291.1中定义。集成包括以下方面： a) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废； b) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废的必要条件； c) 工业机器人系统或单元的部件设备。 本部分描述了与这些系统有关的基本危险和危险情况，并提出了消除和充分降低与这些危险相关的风险要求。虽然噪声波定为是工业机器人的一种主要危险，但是本部分不予考虑。本部\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0005\u0000\u0000\u0000\u0000舴凌\u0000\u0000\u0000\u0000\u0000\u0000￾￿凔￿￿￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-12-05",
+      "implementDate": "2015-05-01"
+    },
+    {
+      "id": "19",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第8部分：指纹型骨架数据",
+      "nameEN": "Information technology―Biometric data interchange formats―Part 8: Finger pattern skeletal data",
+      "standardNo": "GB/T 26237.8-2014",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本部分规定了基于指纹型骨架模式的指纹识别数据交换格式，适用于自动指纹识别的各种应用领域",
+      "summaryAll": "本部分规定了基于指纹型骨架模式的指纹识别数据交换格式，适用于自动指纹识别的各种应用领域。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-09-03",
+      "implementDate": "2015-02-01"
+    },
+    {
+      "id": "20",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第9部分：血管图像数据",
+      "nameEN": "Information technology―Biometric data interchange formats―Part 9: Vascular image data",
+      "standardNo": "GB/T 26237.9-2014",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.020",
+      "summary": "本部分规定的信息交换格式可以记录在机器可读的媒体上，也可以在数据通信设备上进行传输。",
+      "summaryAll": "本部分规定的信息交换格式可以记录在机器可读的媒体上，也可以在数据通信设备上进行传输。 ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-07-08",
+      "implementDate": "2014-12-01"
+    },
+    {
+      "id": "1",
+      "nameCN": "机器人与机器人装备 工业机器人的安全要求 第2部分：机器人系统与集成",
+      "nameEN": "Robots and robotic devices―Safety requirements for industrial robots―Part 2: Robot systems and integration",
+      "standardNo": "GB 11291.2-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求",
+      "summaryAll": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求，工业机器人和工业机器人系统已在GB 11291.1中定义。集成包括以下方面： a) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废； b) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废的必要条件； c) 工业机器人系统或单元的部件设备。 本部分描述了与这些系统有关的基本危险和危险情况，并提出了消除和充分降低与这些危险相关的风险要求。虽然噪声波定为是工业机器人的一种主要危险，但是本部分不予考虑。本部分也规定了对作为集成制造系统的部分的工业机器人系统的要求。本部分不专门涉及关于加工过程中的危险（如激光辐射、弹出碎片、焊接烟雾）其他标准适用于这些加工过程中的危险。",
+      "draftUnit": "",
+      "mandatoryStandard": "是",
+      "status": "现行",
+      "publishDate": "2013-12-17",
+      "implementDate": "2014-11-01"
+    },
+    {
+      "id": "7",
+      "nameCN": "工业机器人 性能规范及其试验方法",
+      "nameEN": "Industrial robots - Performance criteria and related test methods",
+      "standardNo": "GB/T 12642-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”",
+      "summaryAll": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”指的是工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-03-15"
+    },
+    {
+      "id": "24",
+      "nameCN": "工业机器人 用户编程指令",
+      "nameEN": "Industrial robot - User programme instruction",
+      "standardNo": "GB/T 29824-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬",
+      "summaryAll": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬运机器人、喷涂机器人、装配机器人（包含但不是全部）等工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-04-01"
+    },
+    {
+      "id": "25",
+      "nameCN": "机器人通信总线协议",
+      "nameEN": "Robot General Bus communication protocol",
+      "standardNo": "GB/T 29825-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": " 本标准规定了模块化机器人系统中的一种通信总线的数据格式和程序规范，包括协议层次、格式",
+      "summaryAll": " 本标准规定了模块化机器人系统中的一种通信总线的数据格式和程序规范，包括协议层次、格式定义、工作流程。 本标准主要适用于模块化机器人系统中不同功能模块构件之间的数据交互和信息共享。应用于非模块化机器人中的通信总线亦可参照使用本标准。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-04-01"
+    },
+    {
+      "id": "9",
+      "nameCN": "General specification for Chinese speech <mark class=highlight>recognition</mark>",
+      "nameEN": "General specification for Chinese speech recognition system",
+      "standardNo": "GB/T 21023-2007",
+      "categoryNoCN": "L;L71,电子元器件与信息技术, 信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本标准规定了中文语音识别系统的基本术语、分类、技术指标、测试方法、输入/输出以及中文语",
+      "summaryAll": "本标准规定了中文语音识别系统的基本术语、分类、技术指标、测试方法、输入/输出以及中文语音识别标准库等。　　本标准适用于各种计算机、网络和终端设备配置的中文语音识别系统。本标准的制定和实施主要用于指导中文语音识别系统的研制、应用和测试。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2007-06-29",
+      "implementDate": "2007-11-01"
+    },
+    {
+      "id": "8",
+      "nameCN": "工业机器人 性能试验实施规范",
+      "nameEN": "Industrial robot - Detailed implementation specification for performance and related test",
+      "standardNo": "GB/T 20868-2007",
+      "categoryNoCN": "J;J07,机械,机械综合",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时",
+      "summaryAll": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时的实施细则和操作步骤。　　本标准供工业机器人制造厂商、试验部门、机器人用户使用。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2007-01-18",
+      "implementDate": "2007-08-01"
+    },
+    {
+      "id": "3",
+      "nameCN": "technology-Vocabulary-Part 29:Artificial intelligence-Speech <mark class=highlight>recognition</mark>",
+      "nameEN": "Information technology-Vocabulary-Part 29:Artificial intelligence-Speech recognition and synthesis",
+      "standardNo": "GB/T 5271.29-2006",
+      "categoryNoCN": "L;L60,电子元器件与信息技术,计算机",
+      "categoryNoIN": "35;35.240.20",
+      "summary": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　为方便将此标准翻译成其他语言，给出的定义尽可能避免语言上的特殊性。　　本部分定义了有关语音识别和语音合成的概念。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2006-03-14",
+      "implementDate": "2006-07-01"
+    },
+    {
+      "id": "2",
+      "nameCN": "信息技术 词汇 第28部分: 人工智能 基本概念与专家系统",
+      "nameEN": "Information technology-Vocabulary-Part 28:Artificial intelligence-Basic concepts and expert system",
+      "standardNo": "GB/T 5271.28-2001",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.020",
+      "summary": "为方便人工智能方面的国际交流，特制定本标准。本标准给出了与信息处理领域相关的概念的术语",
+      "summaryAll": "为方便人工智能方面的国际交流，特制定本标准。本标准给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　本标准定义了有关人工智能与专家系统方面的概念。  ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2001-07-16",
+      "implementDate": "2002-03-01"
+    }
+  ]
+}

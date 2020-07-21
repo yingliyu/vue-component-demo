@@ -1,0 +1,1300 @@
+{
+  "expertVO": {
+    "id": 197239,
+    "name": "韩家炜",
+    "headImg": "/img/expert_logo/2017-08/2017-08-28-14-52-30__b2567d11-0c45-4c6a-a764-5a5cec935eb4.jpg",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "subjectArea": "计算机科学",
+    "country": "美国",
+    "totalIssues": 759,
+    "totalCitations": 54185,
+    "top1Citations": 0.1875,
+    "number1": 126,
+    "top10Citations": 0.549107,
+    "number10": 369,
+    "hIndex": 110,
+    "journalSend": null,
+    "subjectMatch": null,
+    "citedSituation": null,
+    "fwciinedx": 5.654,
+    "layoutList": [
+      "1949年8月11日－ ，现为美国伊利诺伊大学香槟分校计算机系教授，美国计算机协会院士和IEEE院士。",
+      "1949年8月11日出生于中国上海，1979年毕业于中国科学技术大学，1985年在威斯康星麦迪逊大学获得博士学位。他是2009年麦克道尔奖（the McDowell Award）的得主，由国际电气与电子工程师学会（IEEE）颁发的最高技术奖。",
+      "他是数据挖掘方面的研究专家，著有 Data Mining: Concepts and Techniques, 2nd edition, Morgan Kaufmann, ISBN 9781558609013 （中文译本：《数据挖掘：概念和技术》"
+    ]
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"韩家炜","type":"expert","level":"1","colorIdx":"0"},
+      {"code":"1","name":"荣誉","type":"honor","level":"2","colorIdx":"5"},
+      {"code":"2","name":"机构","type":"org","level":"2","colorIdx":"6"},
+      {"code":"3","name":"数据挖掘","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"4","name":"命名实体识别","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"5","name":"数据立方","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"6","name":"信息网络","type":"keyword","level":"2","colorIdx":"4"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"},
+      {"id":"5","source":"0","target":"6"}
+      
+      ],
+    "expertReco": [
+      {
+        "id": 224535,
+        "name": "Swagatam Das",
+        "headImg": "/img/expert_logo/2019-03/SwagatamDas.png",
+        "institution": "Indian Statistical Institute, Kolkata",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 860117,
+        "name": "高静",
+        "headImg": "/img/expert_logo/2019-03/2019-03-25-09-52-16__de395ebf-eb59-42ea-8c95-403974c9e143.jpg",
+        "institution": "University at Buffalo State University of New York",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 338504,
+        "name": "翟成祥",
+        "headImg": "/img/expert_logo/2019-01/2019-01-22-10-28-01__3b3250f0-36fd-4e0f-92d7-79400d581015.jpg",
+        "institution": "University of Illinois at Urbana-Champaign",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": [
+      "National Chiao Tung University Taiwan",
+      "University at Buffalo State University of New York",
+      "University of Connecticut"
+    ]
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 39,
+        "code": 41,
+        "name": "Guozhu Dong",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": "莱特州立大学教授，南加州大学博士。他的主要研究兴趣是数据挖掘、生物信息学和数据库。发表学术论文150余篇，出版专著150余章，出版专著《反数据挖掘:概念、算法与应用》和《序列数据挖掘》两本书，拥有美国专利4项，并分别获得IEEE ICDM 2005和PAKDD 2014年度最佳论文奖。他的著作被引用6500多次，h指数为39。他是两个国际会议的项目委员会联席主席。他曾在100多个会议项目/组织委员会任职。他是一个国际会议系列的指导委员会成员，也是一家国际期刊的编辑委员会成员。他的研究得到了政府机构(NSF、ARC、AFRL)和私营企业的资助。他是IEEE高级会员，ACM高级会员。",
+        "layoutList": [
+          "莱特州立大学教授，南加州大学博士。他的主要研究兴趣是数据挖掘、生物信息学和数据库。发表学术论文150余篇，出版专著150余章，出版专著《反数据挖掘:概念、算法与应用》和《序列数据挖掘》两本书，拥有美国专利4项，并分别获得IEEE ICDM 2005和PAKDD 2014年度最佳论文奖。他的著作被引用6500多次，h指数为39。他是两个国际会议的项目委员会联席主席。他曾在100多个会议项目/组织委员会任职。他是一个国际会议系列的指导委员会成员，也是一家国际期刊的编辑委员会成员。他的研究得到了政府机构(NSF、ARC、AFRL)和私营企业的资助。他是IEEE高级会员，ACM高级会员。"
+        ]
+      },
+      {
+        "id": 40,
+        "code": 42,
+        "name": "隐私保护",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 43,
+        "name": "基因挖掘",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 44,
+        "name": "显现模式",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 45,
+        "name": "数据挖掘",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 46,
+        "name": "Ada Wai-Chee Fu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 47,
+        "name": "Ke Wang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 48,
+        "name": "Daxin Jiang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 49,
+        "name": "Aidong Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 48,
+        "code": 50,
+        "name": "Jinyan Li",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 49,
+        "code": 51,
+        "name": "Kotagiri Ramamohanarao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 52,
+        "name": "Lei Duan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 53,
+        "name": "Changjie Tang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 54,
+        "name": "信息网络",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": "信息网络专指电子信息传输的通道,是构成这种通道的线路、设备的总称,是\"网络\"的一种。",
+        "layoutList": [
+          "信息网络专指电子信息传输的通道,是构成这种通道的线路、设备的总称,是\"网络\"的一种。"
+        ]
+      },
+      {
+        "id": 53,
+        "code": 55,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": "P-Rank: A comprehensive structural similarity measure over information networks/Fast computation of SimRank for static and dynamic information networks/iRIN: Image retrieval in image-rich information networks/LikeMiner: A system for mining the power of'like'in social media networks/RankCompete: Simultaneous ranking and clustering of information networks/Recommendation in heterogeneous information networks with implicit user feedback/Constructing topical hierarchies in heterogeneous information networks",
+        "layoutList": [
+          "P-Rank: A comprehensive structural similarity measure over information networks",
+          "Fast computation of SimRank for static and dynamic information networks",
+          "iRIN: Image retrieval in image-rich information networks",
+          "LikeMiner: A system for mining the power of'like'in social media networks",
+          "RankCompete: Simultaneous ranking and clustering of information networks",
+          "Recommendation in heterogeneous information networks with implicit user feedback",
+          "Constructing topical hierarchies in heterogeneous information networks"
+        ]
+      },
+      {
+        "id": 54,
+        "code": 57,
+        "name": "孙怡舟",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": "加州大学计算机科学学院副教授。在此之前，2013年以助理教授的身份进入东北大学。2012年12月获得伊利诺伊大学香槟分校计算机科学系博士学位。在北京大学获得计算机科学和统计学的硕士学位和学士学位。",
+        "layoutList": [
+          "加州大学计算机科学学院副教授。在此之前，2013年以助理教授的身份进入东北大学。2012年12月获得伊利诺伊大学香槟分校计算机科学系博士学位。在北京大学获得计算机科学和统计学的硕士学位和学士学位。"
+        ]
+      },
+      {
+        "id": 55,
+        "code": 58,
+        "name": "Xiao Yu",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": "Xiao Yu是阿尔托大学计算机科学系的博士后研究员，她的研究领域包括节能无线网络、移动云计算和移动人群感知。 ",
+        "layoutList": [
+          "Xiao Yu是阿尔托大学计算机科学系的博士后研究员，她的研究领域包括节能无线网络、移动云计算和移动人群感知。 "
+        ]
+      },
+      {
+        "id": 56,
+        "code": 59,
+        "name": "推荐系统",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 60,
+        "name": "社区网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 61,
+        "name": "贝叶斯",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 62,
+        "name": "数据挖掘",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 63,
+        "name": "Ting Chen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 64,
+        "name": "Liangjie Hong",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 62,
+        "code": 65,
+        "name": "Yupeng Gu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 63,
+        "code": 66,
+        "name": "Yanen Li",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 64,
+        "code": 67,
+        "name": "Jin Liu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 65,
+        "code": 68,
+        "name": "Xiao Liu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 66,
+        "code": 69,
+        "name": "Quanquan Gu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 67,
+        "code": 70,
+        "name": "Alice Leung",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "韩家炜",
+        "type": "expert",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "荣誉",
+        "type": "honor",
+        "level": 2,
+        "colorIdx": 5,
+        "keyword": "韩家炜",
+        "layout": "2009年 McDowell奖/2005年 IEEE计算机学会技术成就奖/2004年 ACM SIGKDD创新奖",
+        "layoutList": [
+          "2009年 McDowell奖",
+          "2005年 IEEE计算机学会技术成就奖",
+          "2004年 ACM SIGKDD创新奖"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "组织",
+        "type": "org",
+        "level": 2,
+        "colorIdx": 6,
+        "keyword": "韩家炜",
+        "layout": "伊利诺伊大学香槟分校",
+        "layoutList": [
+          "伊利诺伊大学香槟分校"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "数据挖掘",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": "数据挖掘（Data Mining）是一个跨学科的计算机科学分支 。它是用人工智能、机器学习、统计学和数据库的交叉方法在相对较大型的中发现模式的计算过程。",
+        "layoutList": [
+          "数据挖掘（Data Mining）是一个跨学科的计算机科学分支 。它是用人工智能、机器学习、统计学和数据库的交叉方法在相对较大型的中发现模式的计算过程。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": "Computing iceberg cubes by top-down and bottom-up integration: The starcubing approach/On compressing frequent patterns/Frequent Closed Sequence Mining without Candidate Maintenance/Classifying data streams with skewed class distributions and concept drifts/Data mining for image/video processing: A promising research frontier/Top-down mining of frequent closed patterns from very high dimensional data/Mining knowledge from databases: An information network analysis approach",
+        "layoutList": [
+          "Computing iceberg cubes by top-down and bottom-up integration: The starcubing approach",
+          "On compressing frequent patterns",
+          "Frequent Closed Sequence Mining without Candidate Maintenance",
+          "Classifying data streams with skewed class distributions and concept drifts",
+          "Data mining for image",
+          "video processing: A promising research frontier",
+          "Top-down mining of frequent closed patterns from very high dimensional data",
+          "Mining knowledge from databases: An information network analysis approach"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 6,
+        "name": "严熙锋",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": "Xifeng Yan是加州大学圣巴巴拉分校的副教授。他拥有Venkatesh Narayanamurti计算机科学系主任。他获得了博士学位。他于2006年在伊利诺伊大学厄巴纳 - 香槟分校获得计算机科学学士学位。他在2006年至2008年间担任IBM TJ Watson研究中心的研究人员。他一直致力于信息网络中的图形建模，管理和挖掘，计算机系统，社交媒体和生物信息学。他的作品被广泛引用，每个Google学术搜索引用超过9,000次，下载数千次。他获得了NSF职业奖，IBM发明成就奖，ACM-SIGMOD论文亚军奖和IEEE ICDM 10年最高影响力论奖。",
+        "layoutList": [
+          "Xifeng Yan是加州大学圣巴巴拉分校的副教授。他拥有Venkatesh Narayanamurti计算机科学系主任。他获得了博士学位。他于2006年在伊利诺伊大学厄巴纳 - 香槟分校获得计算机科学学士学位。他在2006年至2008年间担任IBM TJ Watson研究中心的研究人员。他一直致力于信息网络中的图形建模，管理和挖掘，计算机系统，社交媒体和生物信息学。他的作品被广泛引用，每个Google学术搜索引用超过9,000次，下载数千次。他获得了NSF职业奖，IBM发明成就奖，ACM-SIGMOD论文亚军奖和IEEE ICDM 10年最高影响力论奖。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 7,
+        "name": "俞士纶",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": "清华数据科学研究院院长Philip S. Yu，拥有超过300项美国专利，在谷歌学术上的H-index高达138，跟Michael I. Jordan伯仲之间，是名列全球计算机科学领域高引作者前十的华人。他主要研究领域是数据挖掘，特别是图数据/网络挖掘, 机器学习、社交媒体、保留隐私数据发布、数据流、数据库、互联网应用技术。",
+        "layoutList": [
+          "清华数据科学研究院院长Philip S. Yu，拥有超过300项美国专利，在谷歌学术上的H-index高达138，跟Michael I. Jordan伯仲之间，是名列全球计算机科学领域高引作者前十的华人。他主要研究领域是数据挖掘，特别是图数据/网络挖掘, 机器学习、社交媒体、保留隐私数据发布、数据流、数据库、互联网应用技术。"
+        ]
+      },
+      {
+        "id": 8,
+        "code": 8,
+        "name": "文本分类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 9,
+        "name": "知识图",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 10,
+        "name": "聚类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 11,
+        "name": "社区网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 12,
+        "name": "Yu Su",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 13,
+        "name": "Wenhu Chen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 14,
+        "name": "Huan Sun",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 15,
+        "name": "Mudhakar Srivatsa",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 16,
+        "name": "Charu C. Aggarwal",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 17,
+        "name": "Yuchen Zhao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 18,
+        "name": "Ming-Syan Chen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 19,
+        "name": "Chih-Hua Tai",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 20,
+        "code": 20,
+        "name": "命名实体识别",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": "命名实体识别（Named Entity Recognition，简称NER），又称作“专名识别”，是指识别文本中具有特定意义的实体，主要包括人名、地名、机构名、专有名词等。",
+        "layoutList": [
+          "命名实体识别（Named Entity Recognition，简称NER），又称作“专名识别”，是指识别文本中具有特定意义的实体，主要包括人名、地名、机构名、专有名词等。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 21,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": "Raw-to-End Name Entity Recognition in Social Media/Arabic Named Entity Recognition: What Works and What's Next/Learning Named Entity Tagger using Domain-Specific Dictionary/Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning/PENNER: Pattern-enhanced Nested Named Entity Recognition in Biomedical Literature/A probabilistic model for linking named entities in web text with heterogeneous information networks/Mining evidences for named entity disambiguation",
+        "layoutList": [
+          "Raw-to-End Name Entity Recognition in Social Media",
+          "Arabic Named Entity Recognition: What Works and What's Next",
+          "Learning Named Entity Tagger using Domain-Specific Dictionary",
+          "Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning",
+          "PENNER: Pattern-enhanced Nested Named Entity Recognition in Biomedical Literature",
+          "A probabilistic model for linking named entities in web text with heterogeneous information networks",
+          "Mining evidences for named entity disambiguation"
+        ]
+      },
+      {
+        "id": 22,
+        "code": 23,
+        "name": "任翔",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": "南加州大学计算机科学助理教授，在南加州大学信息科学研究所（ISI）任职。在南加州大学，是情报与知识发现（INK）研究实验室的主任，USC机器学习中心，NLP社区@USC和ISI知识图谱中心的成员。2018年，在Snap Inc担任兼职数据科学顾问。在南加州大学之前，是斯坦福大学的访问研究员，并获得了UIUC的计算机科学博士学位。 致力于机器学习和机器阅读的自然语言处理，专注于开发标签效率，事先知情的模型，从自然语言文本数据中提取机器可操作的知识（例如，组合，图形结构表示），以及对符号知识进行神经推理。对在缺乏监督和先验知识的情况下建模顺序/图形结构数据的空间中的问题感到特别兴奋。这包括神经符号学习，嘈杂数据学习，零/少射击学习和转移学习。 他的研究导致了一本书，题为“ 从文本中挖掘事实知识结构：努力之光方法”“超过50个顶级会议和期刊的出版物，涵盖了超过10个会议教程，并获得了谷歌，亚马逊，摩根大通和Snap的教师研究奖，以及其他奖项，包括ACM SIGKDD学位论文奖，最佳海报亚军，杰出论文奖，Google博士奖学金和Yelp数据集挑战奖。是福布斯30岁以下亚洲人的一员。",
+        "layoutList": [
+          "南加州大学计算机科学助理教授，在南加州大学信息科学研究所（ISI）任职。在南加州大学，是情报与知识发现（INK）研究实验室的主任，USC机器学习中心，NLP社区@USC和ISI知识图谱中心的成员。2018年，在Snap Inc担任兼职数据科学顾问。在南加州大学之前，是斯坦福大学的访问研究员，并获得了UIUC的计算机科学博士学位。 致力于机器学习和机器阅读的自然语言处理，专注于开发标签效率，事先知情的模型，从自然语言文本数据中提取机器可操作的知识（例如，组合，图形结构表示），以及对符号知识进行神经推理。对在缺乏监督和先验知识的情况下建模顺序/图形结构数据的空间中的问题感到特别兴奋。这包括神经符号学习，嘈杂数据学习，零/少射击学习和转移学习。 他的研究导致了一本书，题为“ 从文本中挖掘事实知识结构：努力之光方法”“超过50个顶级会议和期刊的出版物，涵盖了超过10个会议教程，并获得了谷歌，亚马逊，摩根大通和Snap的教师研究奖，以及其他奖项，包括ACM SIGKDD学位论文奖，最佳海报亚军，杰出论文奖，Google博士奖学金和Yelp数据集挑战奖。是福布斯30岁以下亚洲人的一员。"
+        ]
+      },
+      {
+        "id": 23,
+        "code": 24,
+        "name": "Jingbo Shang",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": "博士毕业于伊利诺斯大学香槟分校，现任大学圣地亚哥分校助理教授 方向是数据驱动，大规模的文本挖掘和网络挖掘",
+        "layoutList": [
+          "博士毕业于伊利诺斯大学香槟分校，现任大学圣地亚哥分校助理教授 方向是数据驱动，大规模的文本挖掘和网络挖掘"
+        ]
+      },
+      {
+        "id": 24,
+        "code": 25,
+        "name": "弱监督",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 26,
+        "name": "物联网",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 27,
+        "name": "序列标注",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 28,
+        "name": "模式挖掘",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 29,
+        "name": "Yu Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 30,
+        "name": "Meng Qu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 31,
+        "name": "Wen Chen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 32,
+        "name": "Lin Gui",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 33,
+        "name": "Liyuan Liu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 34,
+        "name": "Jian Peng",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 34,
+        "code": 35,
+        "name": "Meng Jiang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 35,
+        "code": 36,
+        "name": "Timothy P. Hanratty",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "韩家炜",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 37,
+        "name": "数据立方",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": "我们以B+树的结构建立了字段的索引，每个B+树结构的字段索引相当于一个数据平面，这样一个全局数据表与其多个重要字段的索引就组成了一个类似于立方体的数据组织结构，我们称之为“数据立方(DataCube)”。",
+        "layoutList": [
+          "我们以B+树的结构建立了字段的索引，每个B+树结构的字段索引相当于一个数据平面，这样一个全局数据表与其多个重要字段的索引就组成了一个类似于立方体的数据组织结构，我们称之为“数据立方(DataCube)”。"
+        ]
+      },
+      {
+        "id": 37,
+        "code": 38,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": "Doc2Cube: Allocating Documents to Text Cube Without Labeled Data/Multi-Dimensional, Phrase-Based Summarization in Text Cubes/STREAMCUBE: Hierarchical spatio-temporal hashtag clustering for event exploration over the Twitter stream/MiTexCube: MicroTextCluster Cube for online analysis of text cells and its applications/EventCube: multi-dimensional search and mining of structured and text data/A Text Cube Approach to Human, Social and Cultural Behavior in the Twitter Stream/Multidimensional Sensor Data Analysis in Cyber-Physical System: An Atypical Cube Approach",
+        "layoutList": [
+          "Doc2Cube: Allocating Documents to Text Cube Without Labeled Data",
+          "Multi-Dimensional, Phrase-Based Summarization in Text Cubes",
+          "STREAMCUBE: Hierarchical spatio-temporal hashtag clustering for event exploration over the Twitter stream",
+          "MiTexCube: MicroTextCluster Cube for online analysis of text cells and its applications",
+          "EventCube: multi-dimensional search and mining of structured and text data",
+          "A Text Cube Approach to Human, Social and Cultural Behavior in the Twitter Stream",
+          "Multidimensional Sensor Data Analysis in Cyber-Physical System: An Atypical Cube Approach"
+        ]
+      },
+      {
+        "id": 38,
+        "code": 40,
+        "name": "裴健",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "韩家炜",
+        "layout": "2002年加拿大西蒙弗雷泽大学计算机科学博士，1993 交通大学计算机科学学院硕士，1991年，上海交通大学计算机科学学士。研究方向数据挖掘，数据仓库和在线分析处理(OLAP)，数据库系统，生物信息学",
+        "layoutList": [
+          "2002年加拿大西蒙弗雷泽大学计算机科学博士，1993 交通大学计算机科学学院硕士，1991年，上海交通大学计算机科学学士。研究方向数据挖掘，数据仓库和在线分析处理(OLAP)，数据库系统，生物信息学"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": 41,
+        "source": 41,
+        "target": 44
+      },
+      {
+        "id": 42,
+        "source": 41,
+        "target": 45
+      },
+      {
+        "id": 43,
+        "source": 42,
+        "target": 46
+      },
+      {
+        "id": 44,
+        "source": 42,
+        "target": 47
+      },
+      {
+        "id": 45,
+        "source": 43,
+        "target": 48
+      },
+      {
+        "id": 46,
+        "source": 43,
+        "target": 49
+      },
+      {
+        "id": 47,
+        "source": 44,
+        "target": 50
+      },
+      {
+        "id": 48,
+        "source": 44,
+        "target": 51
+      },
+      {
+        "id": 49,
+        "source": 45,
+        "target": 52
+      },
+      {
+        "id": 50,
+        "source": 45,
+        "target": 53
+      },
+      {
+        "id": 52,
+        "source": 54,
+        "target": 55
+      },
+      {
+        "id": 53,
+        "source": 54,
+        "target": 57
+      },
+      {
+        "id": 54,
+        "source": 54,
+        "target": 58
+      },
+      {
+        "id": 55,
+        "source": 57,
+        "target": 59
+      },
+      {
+        "id": 56,
+        "source": 57,
+        "target": 60
+      },
+      {
+        "id": 57,
+        "source": 58,
+        "target": 61
+      },
+      {
+        "id": 58,
+        "source": 58,
+        "target": 62
+      },
+      {
+        "id": 59,
+        "source": 59,
+        "target": 63
+      },
+      {
+        "id": 60,
+        "source": 59,
+        "target": 64
+      },
+      {
+        "id": 61,
+        "source": 60,
+        "target": 65
+      },
+      {
+        "id": 62,
+        "source": 60,
+        "target": 66
+      },
+      {
+        "id": 63,
+        "source": 61,
+        "target": 67
+      },
+      {
+        "id": 64,
+        "source": 61,
+        "target": 68
+      },
+      {
+        "id": 65,
+        "source": 62,
+        "target": 69
+      },
+      {
+        "id": 66,
+        "source": 62,
+        "target": 70
+      },
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 19,
+        "source": 0,
+        "target": 20
+      },
+      {
+        "id": 35,
+        "source": 0,
+        "target": 37
+      },
+      {
+        "id": 51,
+        "source": 0,
+        "target": 54
+      },
+      {
+        "id": 4,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 3,
+        "target": 6
+      },
+      {
+        "id": 6,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "id": 7,
+        "source": 6,
+        "target": 8
+      },
+      {
+        "id": 8,
+        "source": 6,
+        "target": 9
+      },
+      {
+        "id": 9,
+        "source": 7,
+        "target": 10
+      },
+      {
+        "id": 10,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "id": 11,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "id": 12,
+        "source": 8,
+        "target": 13
+      },
+      {
+        "id": 13,
+        "source": 9,
+        "target": 14
+      },
+      {
+        "id": 14,
+        "source": 9,
+        "target": 15
+      },
+      {
+        "id": 15,
+        "source": 10,
+        "target": 16
+      },
+      {
+        "id": 16,
+        "source": 10,
+        "target": 17
+      },
+      {
+        "id": 17,
+        "source": 11,
+        "target": 18
+      },
+      {
+        "id": 18,
+        "source": 11,
+        "target": 19
+      },
+      {
+        "id": 20,
+        "source": 20,
+        "target": 21
+      },
+      {
+        "id": 21,
+        "source": 20,
+        "target": 23
+      },
+      {
+        "id": 22,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 23,
+        "source": 23,
+        "target": 25
+      },
+      {
+        "id": 24,
+        "source": 23,
+        "target": 26
+      },
+      {
+        "id": 25,
+        "source": 24,
+        "target": 27
+      },
+      {
+        "id": 26,
+        "source": 24,
+        "target": 28
+      },
+      {
+        "id": 27,
+        "source": 25,
+        "target": 29
+      },
+      {
+        "id": 28,
+        "source": 25,
+        "target": 30
+      },
+      {
+        "id": 29,
+        "source": 26,
+        "target": 31
+      },
+      {
+        "id": 30,
+        "source": 26,
+        "target": 32
+      },
+      {
+        "id": 31,
+        "source": 27,
+        "target": 33
+      },
+      {
+        "id": 32,
+        "source": 27,
+        "target": 34
+      },
+      {
+        "id": 33,
+        "source": 28,
+        "target": 35
+      },
+      {
+        "id": 34,
+        "source": 28,
+        "target": 36
+      },
+      {
+        "id": 36,
+        "source": 37,
+        "target": 38
+      },
+      {
+        "id": 37,
+        "source": 37,
+        "target": 40
+      },
+      {
+        "id": 38,
+        "source": 37,
+        "target": 41
+      },
+      {
+        "id": 39,
+        "source": 40,
+        "target": 42
+      },
+      {
+        "id": 40,
+        "source": 40,
+        "target": 43
+      }
+    ]
+  
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "STFNets: Learning Sensing Signals from the Time-Frequency Perspective with Short-Time Fourier Neural NetworksEI",
+		"author": "Shuochao Yao, Ailing Piao, Wenjun Jiang, Yiran Zhao, Huajie Shao, Shengzhong Liu, Dongxin Liu, Jinyang Li, Tianshi Wang, Shaohan Hu, ",
+		"publishDate": "2019",
+		"summaryAll": "Recent advances in deep learning motivate the use of deep neural networks in Internet-of-Things (IoT) applications. These networks are modelled after signal processing in the human brain, thereby leading to significant advantages at perceptual tasks such as vision and speech recognition. "
+	},
+	{
+		"title": "Cyberbullying Ends Here: Towards Robust Detection of Cyberbullying in Social MediaEI",
+		"author": "Carl Yang, Huy Hoang Do, Tomas Mikolov, Jiawei Han",
+		"publishDate": "2019",
+		"summaryAll": "The potentially detrimental effects of cyberbullying have led to the development of numerous automated, data-driven approaches, with emphasis on classification accuracy. Cyberbullying, as a form of abusive online behavior, although not well-defined, is a repetitive process, i.e., a sequence of aggressive messages sent from a bully to a victim over a period of time with the intent to harm the victim."
+	},
+	{
+		"title": "Performance Investigation of DFT-Spread OFDM Signal for Short Reach Communication Systems Beyond NG-PON2.EI",
+		"author": "Yupeng Li, Jiawei Han, Xiaonan Zhao",
+		"publishDate": "2019",
+		"summaryAll": "In this paper, we investigate the performance of a discrete Fourier transform (DFT)-spread OFDM signal in an intensity-modulation/direct-detection system. We find that DFT-spread OFDM could reduce the peak-to-average power ratio effectively and hence improve the nonlinearity tolerance."
+	},
+	{
+		"title": "Constructing and Mining Heterogeneous Information Networks from Massive TextEI",
+		"author": "Jingbo Shang, Jiaming Shen, Liyuan Liu, Jiawei Han",
+		"publishDate": "2019",
+		"summaryAll": "Real-world data exists largely in the form of unstructured texts. A grand challenge on data mining research is to develop effective and scalable methods that may transform unstructured text into structured knowledge. Based on our vision, it is highly beneficial to transform such text into structured heterogeneous information networks, on which actionable knowledge can be generated based on the user's need. In this tutorial, we provide a comprehensive overview on recent research and development in this direction. "
+	},
+	{
+		"title": "Annotating gene sets by mining large literature collections with protein networks.WOSEI",
+		"author": "Wang Sheng, Ma Jianzhu, Yu Michael Ku, Zheng Fan, Huang Edward W, Han Jiawei, Peng Jian, Ideker Trey",
+		"publishDate": "2018",
+		"summaryAll": "Analysis of patient genomes and transcriptomes routinely recognizes new gene sets associated with human disease. Here we present an integrative natural language processing system which infers common functions for a gene set through automatic mining of the scientific literature with biological networks. This system links genes with associated literature phrases and combines these links with protein interactions in a single heterogeneous network."
+	},
+	{
+		"title": "Towards Quality Aware Information Integration in Distributed Sensing Systems.EI",
+		"author": "Wenjun Jiang, Chenglin Miao, Lu Su, Qi Li, Shaohan Hu, Shiguang Wang, Jing Gao, Hengchang Liu, Tarek F. Abdelzaher, Jiawei Han, ",
+		"publishDate": "2018",
+		"summaryAll": "In this paper, we present GDA, a generalized decision aggregation framework that integrates information from distributed sensor nodes for decision making in a resource efficient manner. Different from traditional approaches, our proposed GDA framework is able to not only estimate the reliability of each sensor, but also take advantage of its confidence information, and thus achieves higher decision accuracy. "
+	},
+	{
+		"title": "SHINE+: A General Framework for Domain-Specific Entity Linking with Heterogeneous Information Networks.EI",
+		"author": "Wei Shen, Jiawei Han, Jianyong Wang, Xiaojie Yuan, Zhenglu Yang",
+		"publishDate": "2018",
+		"summaryAll": "Heterogeneous information networks that consist of multi-type, interconnected objects are becoming increasingly popular, such as social media networks and bibliographic networks. The task of linking named entity mentions detected from unstructured Web text with their corresponding entities in a heterogeneous information network is of practical importance for the problem of information network population."
+	}
+],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": []
+}

@@ -1,0 +1,1421 @@
+{
+  "subjectVO": {
+    "id": "C020039473",
+    "subjectWord": "机器翻译",
+    "subjectWordEn": null,
+    "wiki": "机器翻译（Machine Translation），又称为自动翻译，是利用计算机将一种自然语言(源语言)转换为另一种自然语言(目标语言)的过程。它是计算语言学的一个分支，是人工智能的终极目标之一，具有重要的科学研究价值。"
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"机器翻译","type":"keyword","level":"1","colorIdx":"0"},
+      {"code":"1","name":"语音识别","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"2","name":"词嵌入","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"3","name":"循环神经网络","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"4","name":"Hermann Ney","type":"expert","level":"2","colorIdx":"0"},
+      {"code":"5","name":"Raymond J. Mooney","type":"expert","level":"2","colorIdx":"0"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      ],
+    "expertReco": [
+      {
+        "id": 1074780,
+        "name": "刘群",
+        "headImg": "/img/expert_logo/2019-02/2019-02-21-16-30-50__207b0969-37da-4d28-a908-417cc0af47c1.jpg",
+        "institution": "Dublin City University",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 267673,
+        "name": "Benjamin Van",
+        "headImg": "/img/expert_logo/2019-02/BenjaminVan.jpg",
+        "institution": "Johns Hopkins University",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 408584,
+        "name": "蒋伟",
+        "headImg": "/img/expert_logo/2019-03/2019-03-26-14-57-29__159e85e8-35d3-4c76-8162-89571ef21fcf.jpg",
+        "institution": "University of Notre Dame",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 1,
+        "code": 0,
+        "name": "机器翻译",
+        "type": "keyword",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": "机器翻译（Machine Translation），又称为自动翻译，是利用计算机将一种自然语言(源语言)转换为另一种自然语言(目标语言)的过程。它是计算语言学的一个分支，是人工智能的终极目标之一，具有重要的科学研究价值。",
+        "layoutList": [
+          "机器翻译（Machine Translation），又称为自动翻译，是利用计算机将一种自然语言(源语言)转换为另一种自然语言(目标语言)的过程。它是计算语言学的一个分支，是人工智能的终极目标之一，具有重要的科学研究价值。"
+        ]
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "语音识别",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": "语音识别（Voice recognition）是一门交叉学科。近二十年来，语音识别技术取得显著进步，开始从实验室走向市场。人们预计，未来10年内，语音识别技术将进入工业、家电、通信、汽车电子、医疗、家庭服务、消费电子产品等各个领域。",
+        "layoutList": [
+          "语音识别（Voice recognition）是一门交叉学科。近二十年来，语音识别技术取得显著进步，开始从实验室走向市场。人们预计，未来10年内，语音识别技术将进入工业、家电、通信、汽车电子、医疗、家庭服务、消费电子产品等各个领域。"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "词嵌入",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": "词嵌入是自然语言处理（NLP）中语言模型与表征学习技术的统称。概念上而言，它是指把一个维数为所有词的数量的高维空间嵌入到一个维数低得多的连续向量空间中，每个单词或词组被映射为实数域上的向量。",
+        "layoutList": [
+          "词嵌入是自然语言处理（NLP）中语言模型与表征学习技术的统称。概念上而言，它是指把一个维数为所有词的数量的高维空间嵌入到一个维数低得多的连续向量空间中，每个单词或词组被映射为实数域上的向量。"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "循环神经网络",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": "循环神经网络（Recurrent Neural Network, RNN）是一类以序列（sequence）数据为输入，在序列的演进方向进行递归（recursion）且所有节点（循环单元）按链式连接的递归神经网络（recursive neural network）。",
+        "layoutList": [
+          "循环神经网络（Recurrent Neural Network, RNN）是一类以序列（sequence）数据为输入，在序列的演进方向进行递归（recursion）且所有节点（循环单元）按链式连接的递归神经网络（recursive neural network）。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "Hermann Ney",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": "IEEE研究员，德国亚琛工业大学的教授。主要研究方向:统计分类与机器学习自动语音识别统计机器翻译",
+        "layoutList": [
+          "IEEE研究员，德国亚琛工业大学的教授。主要研究方向:统计分类与机器学习自动语音识别统计机器翻译"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 5,
+        "name": "Raymond J. Mooney",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": "我在60年代和70年代在伊利诺伊州奥法隆小镇长大，从1967年开始，我就读于圣克莱尔小学，并于1975年开始在O'Fallon Township Highschool上学。在我17岁的时候看到我为高中英语课写的一篇论文的扫描版本（在打字机上！），题为 “高级人工智能：具有巨大潜力的高级人工智能”。我对AI的热情很早就开始了，并没有减弱; 然而，我对人工智能的进展速度及其积极的社会影响的预测已经成熟，并且（希望）变得更加现实。在1979年的秋天，我去了伊利诺伊大学的香槟 - 厄巴纳获得所有上面列出的程度。1987年12月，我完成了博士学位。在Gerald DeJong教授的指导下，他开始在德克萨斯大学奥斯汀分校的计算机科学系担任教职员工，在那里我享受着希望长期学术生涯的第四个十年的开始。",
+        "layoutList": [
+          "我在60年代和70年代在伊利诺伊州奥法隆小镇长大，从1967年开始，我就读于圣克莱尔小学，并于1975年开始在O'Fallon Township Highschool上学。在我17岁的时候看到我为高中英语课写的一篇论文的扫描版本（在打字机上！），题为 “高级人工智能：具有巨大潜力的高级人工智能”。我对AI的热情很早就开始了，并没有减弱; 然而，我对人工智能的进展速度及其积极的社会影响的预测已经成熟，并且（希望）变得更加现实。在1979年的秋天，我去了伊利诺伊大学的香槟 - 厄巴纳获得所有上面列出的程度。1987年12月，我完成了博士学位。在Gerald DeJong教授的指导下，他开始在德克萨斯大学奥斯汀分校的计算机科学系担任教职员工，在那里我享受着希望长期学术生涯的第四个十年的开始。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 6,
+        "name": "语音识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 8,
+        "code": 7,
+        "name": "语言建模",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 8,
+        "name": "自然语言处理",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 9,
+        "name": "强化学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 10,
+        "name": "Yunsu Kim",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 11,
+        "name": "Yingbo Gao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 12,
+        "name": "Kazuki Irie",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 13,
+        "name": "Albert Zeyer",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 14,
+        "name": "Jesse Thomason",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 15,
+        "name": "Aishwarya Padmakumar",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 16,
+        "name": "Scott Niekum",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 17,
+        "name": "Prasoon Goyal",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 18,
+        "name": "Samy Bengio",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": "Samy Bengio（蒙特利尔大学计算机科学博士，1993年）自2007年以来一直是谷歌的研究科学家。在此之前，他是IDIAP研究所统计机器学习的高级研究员，在那里他监督博士生和博士后研究员。他的研究兴趣涉及机器学习的许多领域，如深层架构，表示学习，序列处理，语音识别，图像理解，支持向量机，混合模型，大规模问题，多模态（面部和语音）人员认证，大脑计算机接口和文档检索。他是2017年神经信息处理系统（NIPS）的项目主席 - 机器学习的主要会议场所，机器学习研究期刊的行动编辑和机器学习期刊的编辑委员会。他还是国际学习代表大会（ICLR 2015,2016），BayLearn（2012-2015）主席和多模式相互作用机器学习研讨会（MLMI'2004-2006）的项目主席，以及IEEE信号处理神经网络研讨会（NNSP'2002），以及NIPS，ICML，ICLR，ECML和IJCAI等多个国际会议的计划委员会。",
+        "layoutList": [
+          "Samy Bengio（蒙特利尔大学计算机科学博士，1993年）自2007年以来一直是谷歌的研究科学家。在此之前，他是IDIAP研究所统计机器学习的高级研究员，在那里他监督博士生和博士后研究员。他的研究兴趣涉及机器学习的许多领域，如深层架构，表示学习，序列处理，语音识别，图像理解，支持向量机，混合模型，大规模问题，多模态（面部和语音）人员认证，大脑计算机接口和文档检索。他是2017年神经信息处理系统（NIPS）的项目主席 - 机器学习的主要会议场所，机器学习研究期刊的行动编辑和机器学习期刊的编辑委员会。他还是国际学习代表大会（ICLR 2015,2016），BayLearn（2012-2015）主席和多模式相互作用机器学习研讨会（MLMI'2004-2006）的项目主席，以及IEEE信号处理神经网络研讨会（NNSP'2002），以及NIPS，ICML，ICLR，ECML和IJCAI等多个国际会议的计划委员会。"
+        ]
+      },
+      {
+        "id": 20,
+        "code": 19,
+        "name": "Fernando C. N. Pereira",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": "谷歌的研究总监。他之前的职务包括宾夕法尼亚大学计算机和信息科学系系主任、美国电话电报公司(AT&T)实验室机器学习和信息检索系系主任，以及斯坦福国际研究所(SRI International)的研究和管理职位。1982年，他在爱丁堡大学获得了人工智能博士学位。他的主要研究兴趣是语言和生物序列的机器可学模型。",
+        "layoutList": [
+          "谷歌的研究总监。他之前的职务包括宾夕法尼亚大学计算机和信息科学系系主任、美国电话电报公司(AT&T)实验室机器学习和信息检索系系主任，以及斯坦福国际研究所(SRI International)的研究和管理职位。1982年，他在爱丁堡大学获得了人工智能博士学位。他的主要研究兴趣是语言和生物序列的机器可学模型。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 20,
+        "name": "特征提取",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 22,
+        "code": 21,
+        "name": "人脸认证",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 23,
+        "code": 22,
+        "name": "语义分析",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 24,
+        "code": 23,
+        "name": "半监督学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 24,
+        "name": "Hervé Bourlard",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 25,
+        "name": "Katrin Weber",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 26,
+        "name": "Norman Poh",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 27,
+        "name": "Sébastien Marcel",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 28,
+        "name": "Rahul Gupta",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 29,
+        "name": "Michael Ringgaard",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 30,
+        "name": "Slav Petrov",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 31,
+        "name": "Amarnag Subramanya",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 32,
+        "name": "Christopher D. Manning",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": "斯坦福大学语言学教授、斯坦福人工智能实验室(SAIL)主任。他的研究目标是能够智能处理、理解和生成人类语言材料的计算机。Manning是将深度学习应用于自然语言处理领域的领军人物，在树递归神经网络、词向量手套模型、情感分析、神经网络依赖分析、神经机器翻译、问答、深度语言理解等方面都有著名的研究成果。他还专注于分析的计算语言方法、健壮的文本推理和多语言语言处理，包括斯坦福依赖关系和通用依赖关系的主要开发人员。Manning与人合著了关于自然语言处理统计方法(NLP) (Manning and Schutze 1999)和信息检索(Manning, Raghavan, and Schutze, 2008)的领先教科书，以及关于ergativity和复杂谓词的语言学专著。他是ACM研究员，AAAI研究员，ACL研究员，ACL前主席(2015)。他的研究获得ACL、Coling、EMNLP和CHI最佳论文奖。1994年，他在澳大利亚国立大学获得学士学位，在斯坦福大学获得博士学位。在回到斯坦福大学之前，他曾在卡内基梅隆大学和悉尼大学担任教职。他是斯坦福NLP集团的创始人，负责斯坦福CoreNLP软件的开发。",
+        "layoutList": [
+          "斯坦福大学语言学教授、斯坦福人工智能实验室(SAIL)主任。他的研究目标是能够智能处理、理解和生成人类语言材料的计算机。Manning是将深度学习应用于自然语言处理领域的领军人物，在树递归神经网络、词向量手套模型、情感分析、神经网络依赖分析、神经机器翻译、问答、深度语言理解等方面都有著名的研究成果。他还专注于分析的计算语言方法、健壮的文本推理和多语言语言处理，包括斯坦福依赖关系和通用依赖关系的主要开发人员。Manning与人合著了关于自然语言处理统计方法(NLP) (Manning and Schutze 1999)和信息检索(Manning, Raghavan, and Schutze, 2008)的领先教科书，以及关于ergativity和复杂谓词的语言学专著。他是ACM研究员，AAAI研究员，ACL研究员，ACL前主席(2015)。他的研究获得ACL、Coling、EMNLP和CHI最佳论文奖。1994年，他在澳大利亚国立大学获得学士学位，在斯坦福大学获得博士学位。在回到斯坦福大学之前，他曾在卡内基梅隆大学和悉尼大学担任教职。他是斯坦福NLP集团的创始人，负责斯坦福CoreNLP软件的开发。"
+        ]
+      },
+      {
+        "id": 34,
+        "code": 33,
+        "name": "翟成祥",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": "研究兴趣:开发各种新颖的智能信息系统(如智能搜索引擎、推荐系统、文本分析引擎、智能任务助手等)，帮助人们管理和利用大量的数据(如，“大数据”)，尤其是文本数据。我特别感兴趣的是建立这样的智能系统，以改善健康、医疗、教育和加速科学发现，并建立在理论健全的框架、模型和算法的基础上，这些框架、模型和算法在经验上也是有效的。目前兴趣包括智能信息检索、文本数据挖掘、应用机器学习、人机协作优化、生物医学和健康信息学、智能教育系统。",
+        "layoutList": [
+          "研究兴趣:开发各种新颖的智能信息系统(如智能搜索引擎、推荐系统、文本分析引擎、智能任务助手等)，帮助人们管理和利用大量的数据(如，“大数据”)，尤其是文本数据。我特别感兴趣的是建立这样的智能系统，以改善健康、医疗、教育和加速科学发现，并建立在理论健全的框架、模型和算法的基础上，这些框架、模型和算法在经验上也是有效的。目前兴趣包括智能信息检索、文本数据挖掘、应用机器学习、人机协作优化、生物医学和健康信息学、智能教育系统。"
+        ]
+      },
+      {
+        "id": 35,
+        "code": 34,
+        "name": "机器翻译",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 35,
+        "name": "语义角色标注",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 37,
+        "code": 36,
+        "name": "信息检索",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 38,
+        "code": 37,
+        "name": "文本挖掘",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 39,
+        "code": 38,
+        "name": "Daniel Jurafsky",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 40,
+        "code": 39,
+        "name": "Daniel M. Cer",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 40,
+        "name": "Aria Haghighi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 41,
+        "name": "Kristina Toutanova",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 42,
+        "name": "Stefano Mizzaro",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 43,
+        "name": "Hui Fang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 44,
+        "name": "Jiawei Han",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 45,
+        "name": "Duo Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 46,
+        "name": "Geoffrey E. Hinton",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": "Geoffrey Everest Hinton（1947年12月6日出生）是一位英语加拿大认知心理学家和计算机科学家，最著名的是他在人工神经网络中的工作。自2013年起，他将他的时间划分为谷歌（谷歌）和多伦多大学。Hinton与DavidE.Rumelhart和RonaldJ.Williams共同撰写了一篇发表于1986年的论文，它推广了训练多层神经网络的反向传播算法，尽管他们不是第一个提出这种方法的。Hinton被一些人看作是深层学习社区的主要人物，被一些人称为\"深度学习(Deep)\"。由他的学生为ImaGenet挑战2012设计的Alexnet的引人注目的图像识别里程碑有助于彻底改变计算机视觉领域。欣顿与YoshuaBengio和YannLecun一起获得2018年图灵奖，用于深入学习。",
+        "layoutList": [
+          "Geoffrey Everest Hinton（1947年12月6日出生）是一位英语加拿大认知心理学家和计算机科学家，最著名的是他在人工神经网络中的工作。自2013年起，他将他的时间划分为谷歌（谷歌）和多伦多大学。Hinton与DavidE.Rumelhart和RonaldJ.Williams共同撰写了一篇发表于1986年的论文，它推广了训练多层神经网络的反向传播算法，尽管他们不是第一个提出这种方法的。Hinton被一些人看作是深层学习社区的主要人物，被一些人称为\"深度学习(Deep)\"。由他的学生为ImaGenet挑战2012设计的Alexnet的引人注目的图像识别里程碑有助于彻底改变计算机视觉领域。欣顿与YoshuaBengio和YannLecun一起获得2018年图灵奖，用于深入学习。"
+        ]
+      },
+      {
+        "id": 48,
+        "code": 47,
+        "name": "Alex (Sandy) Pentland",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": "麻省理工学院连接科学与人类动力学实验室的主任，他曾帮助创建和指导麻省理工学院媒体实验室和印度的亚洲媒体实验室。他是世界上被引用最多的科学家之一。他获得过许多奖项，比如《哈佛商业评论》的麦肯锡奖，DARPA的互联网40周年纪念，以及布兰代斯隐私奖。他是谷歌、美国电话电报公司(AT&T)、日产汽车(Nissan)咨询委员会的创始成员，也是联合国秘书长。他是一位连续创业家，与人共同创办了十多家公司，包括数据透明实验室(Data Transparency Lab)、哈佛大学-奥迪-麻省理工学院(harvard -奥迪- mit)数据运营联盟(Data apop Alliance)和数据驱动设计研究所(Institute for Data Driven Design)等社会企业。他是美国国家工程学院的成员，也是世界经济论坛的领导人。Sandy和他的学生一起开创了计算社会科学、组织工程、可穿戴计算(谷歌Glass)、图像理解和现代生物识别技术。他最近的著作是《社会物理学》和《诚实的信号》。",
+        "layoutList": [
+          "麻省理工学院连接科学与人类动力学实验室的主任，他曾帮助创建和指导麻省理工学院媒体实验室和印度的亚洲媒体实验室。他是世界上被引用最多的科学家之一。他获得过许多奖项，比如《哈佛商业评论》的麦肯锡奖，DARPA的互联网40周年纪念，以及布兰代斯隐私奖。他是谷歌、美国电话电报公司(AT&T)、日产汽车(Nissan)咨询委员会的创始成员，也是联合国秘书长。他是一位连续创业家，与人共同创办了十多家公司，包括数据透明实验室(Data Transparency Lab)、哈佛大学-奥迪-麻省理工学院(harvard -奥迪- mit)数据运营联盟(Data apop Alliance)和数据驱动设计研究所(Institute for Data Driven Design)等社会企业。他是美国国家工程学院的成员，也是世界经济论坛的领导人。Sandy和他的学生一起开创了计算社会科学、组织工程、可穿戴计算(谷歌Glass)、图像理解和现代生物识别技术。他最近的著作是《社会物理学》和《诚实的信号》。"
+        ]
+      },
+      {
+        "id": 49,
+        "code": 48,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 49,
+        "name": "计算机视觉",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 50,
+        "name": "社交网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 51,
+        "name": "物体跟踪",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 53,
+        "code": 52,
+        "name": "Ilya Sutskever",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 54,
+        "code": 53,
+        "name": "Volodymyr Mnih",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 55,
+        "code": 54,
+        "name": "Richard S. Zemel",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 56,
+        "code": 55,
+        "name": "Max Welling",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 56,
+        "name": "Fabio Pianesi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 57,
+        "name": "Person information",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 58,
+        "name": "Trevor Darrell",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 59,
+        "name": "Kenneth B. Russell",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 60,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": "Speech translation enhanced ASR for European parliament speeches - On the influence of ASR performance on speech translation/Integrating speech recognition and machine translation/Improving speech transcription for Mandarin-english translation/Consensus network decoding for statistical machine translation system combination/Speech recognition system combination for machine translation/The impact of ASR on speech-to-speech translation performance/On efficient coupling of ASR and SMT for speech translation",
+        "layoutList": [
+          "Speech translation enhanced ASR for European parliament speeches - On the influence of ASR performance on speech translation",
+          "Integrating speech recognition and machine translation",
+          "Improving speech transcription for Mandarin-english translation",
+          "Consensus network decoding for statistical machine translation system combination",
+          "Speech recognition system combination for machine translation",
+          "The impact of ASR on speech-to-speech translation performance",
+          "On efficient coupling of ASR and SMT for speech translation"
+        ]
+      },
+      {
+        "id": 62,
+        "code": 61,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "机器翻译",
+        "layout": "一种基于分布式并行计算框架的机器翻译方法/机器翻译反馈/面向统计机器翻译的训练语料质量评价及选取方法/一种用于统计机器翻译的参数调整方法/一种融合句法树和统计机器翻译技术的翻译方法与装置/机器翻译测评装置及方法/使用依存丛林的统计机器翻译方法",
+        "layoutList": [
+          "一种基于分布式并行计算框架的机器翻译方法",
+          "机器翻译反馈",
+          "面向统计机器翻译的训练语料质量评价及选取方法",
+          "一种用于统计机器翻译的参数调整方法",
+          "一种融合句法树和统计机器翻译技术的翻译方法与装置",
+          "机器翻译测评装置及方法",
+          "使用依存丛林的统计机器翻译方法"
+        ]
+      },
+      {
+        "id": 63,
+        "code": 62,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": "Thai speech processing technology: A review/Prediction of speech recognition from audibility in older listeners with hearing loss: Effects of age, amplification, and background noise/Feature compensation with model-based estimation for noise masking/Incremental language modeling for automatic transcription of broadcast news/Reducing computation time of the rapid unsupervised speaker adaptation based on HMM-sufficient statistics/A speech-controlled environmental control system for people with severe dysarthria/Personal Digital Assistant in an orthopaedic wireless ward: The HandHealth project",
+        "layoutList": [
+          "Thai speech processing technology: A review",
+          "Prediction of speech recognition from audibility in older listeners with hearing loss: Effects of age, amplification, and background noise",
+          "Feature compensation with model-based estimation for noise masking",
+          "Incremental language modeling for automatic transcription of broadcast news",
+          "Reducing computation time of the rapid unsupervised speaker adaptation based on HMM-sufficient statistics",
+          "A speech-controlled environmental control system for people with severe dysarthria",
+          "Personal Digital Assistant in an orthopaedic wireless ward: The HandHealth project"
+        ]
+      },
+      {
+        "id": 64,
+        "code": 63,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "机器翻译",
+        "layout": "一种移动终端的语音识别联系人的方法/基于单词级别的备选生成的语音识别系统及方法/一种语音识别控制方法/一种基于语音识别的智能电子记分牌/语音识别多功能笔/一种具有语音识别功能的宠物门系统/用于移动设备的语音识别系统和方法",
+        "layoutList": [
+          "一种移动终端的语音识别联系人的方法",
+          "基于单词级别的备选生成的语音识别系统及方法",
+          "一种语音识别控制方法",
+          "一种基于语音识别的智能电子记分牌",
+          "语音识别多功能笔",
+          "一种具有语音识别功能的宠物门系统",
+          "用于移动设备的语音识别系统和方法"
+        ]
+      },
+      {
+        "id": 65,
+        "code": 64,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": "Convolution neural network for relation extraction/Word embedding: Continuous space representation for natural language/Continuous word embeddings for detecting local text reuses at the semantic level/Task specific continuous word representations for mono and multi-lingual spoken language understanding/Word embeddings: A semi-supervised learning method for slot-filling in spoken dialog systems/A short texts matching method using shallow features and deep features/Using recurrent neural networks for slot filling in spoken language understanding",
+        "layoutList": [
+          "Convolution neural network for relation extraction",
+          "Word embedding: Continuous space representation for natural language",
+          "Continuous word embeddings for detecting local text reuses at the semantic level",
+          "Task specific continuous word representations for mono and multi-lingual spoken language understanding",
+          "Word embeddings: A semi-supervised learning method for slot-filling in spoken dialog systems",
+          "A short texts matching method using shallow features and deep features",
+          "Using recurrent neural networks for slot filling in spoken language understanding"
+        ]
+      },
+      {
+        "id": 66,
+        "code": 65,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "机器翻译",
+        "layout": "一种词嵌入向量的确定方法、装置及设备/一种将文本转化为词嵌入、文本分类方法和装置/基于词嵌入的流形主题模型的建模方法/一种基于词嵌入的高斯LDA的优化求解方式/词嵌入模型的训练方法及装置/小语种词嵌入模型的生成方法、系统及问答方法和系统/基于社交媒体的词嵌入方法、系统、终端设备及存储介质",
+        "layoutList": [
+          "一种词嵌入向量的确定方法、装置及设备",
+          "一种将文本转化为词嵌入、文本分类方法和装置",
+          "基于词嵌入的流形主题模型的建模方法",
+          "一种基于词嵌入的高斯LDA的优化求解方式",
+          "词嵌入模型的训练方法及装置",
+          "小语种词嵌入模型的生成方法、系统及问答方法和系统",
+          "基于社交媒体的词嵌入方法、系统、终端设备及存储介质"
+        ]
+      },
+      {
+        "id": 67,
+        "code": 66,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": "Global exponential periodicity and global exponential stability of a class of recurrent neural networks with various activation functions and time-varying delays/An image-based feature tracking algorithm for real-time measurement of clad height/Exponential stability of reaction-diffusion fuzzy recurrent neural networks with time-varying delays/Using a wiener-type recurrent neural network with the minimum description length principle for dynamic system identification/Transient air-fuel ratio estimation in spark ignition engine using recurrent neural networks/Zhang neural network for linear time-varying equation solving and its robotic application/Two k-winners-take-all networks with discontinuous activation functions",
+        "layoutList": [
+          "Global exponential periodicity and global exponential stability of a class of recurrent neural networks with various activation functions and time-varying delays",
+          "An image-based feature tracking algorithm for real-time measurement of clad height",
+          "Exponential stability of reaction-diffusion fuzzy recurrent neural networks with time-varying delays",
+          "Using a wiener-type recurrent neural network with the minimum description length principle for dynamic system identification",
+          "Transient air-fuel ratio estimation in spark ignition engine using recurrent neural networks",
+          "Zhang neural network for linear time-varying equation solving and its robotic application",
+          "Two k-winners-take-all networks with discontinuous activation functions"
+        ]
+      },
+      {
+        "id": 68,
+        "code": 67,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "机器翻译",
+        "layout": "基于差异循环神经网络的意图识别方法/一种改进鲸鱼算法的循环神经网络短期电力负荷预测方法/一种基于深度循环神经网络的心功能自动分析方法/一种基于循环神经网络的智能故障诊断方法/一种基于循环神经网络的数据预测方法/基于双向门控循环神经网络的序列中单一元素分类方法/一种基于循环神经网络的动态模型辨识方法及系统",
+        "layoutList": [
+          "基于差异循环神经网络的意图识别方法",
+          "一种改进鲸鱼算法的循环神经网络短期电力负荷预测方法",
+          "一种基于深度循环神经网络的心功能自动分析方法",
+          "一种基于循环神经网络的智能故障诊断方法",
+          "一种基于循环神经网络的数据预测方法",
+          "基于双向门控循环神经网络的序列中单一元素分类方法",
+          "一种基于循环神经网络的动态模型辨识方法及系统"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 4,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "id": 60,
+        "source": 0,
+        "target": 60
+      },
+      {
+        "id": 61,
+        "source": 0,
+        "target": 61
+      },
+      {
+        "id": 18,
+        "source": 1,
+        "target": 18
+      },
+      {
+        "id": 19,
+        "source": 1,
+        "target": 19
+      },
+      {
+        "id": 62,
+        "source": 1,
+        "target": 62
+      },
+      {
+        "id": 63,
+        "source": 1,
+        "target": 63
+      },
+      {
+        "id": 32,
+        "source": 2,
+        "target": 32
+      },
+      {
+        "id": 33,
+        "source": 2,
+        "target": 33
+      },
+      {
+        "id": 64,
+        "source": 2,
+        "target": 64
+      },
+      {
+        "id": 65,
+        "source": 2,
+        "target": 65
+      },
+      {
+        "id": 46,
+        "source": 3,
+        "target": 46
+      },
+      {
+        "id": 47,
+        "source": 3,
+        "target": 47
+      },
+      {
+        "id": 66,
+        "source": 3,
+        "target": 66
+      },
+      {
+        "id": 67,
+        "source": 3,
+        "target": 67
+      },
+      {
+        "id": 6,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "id": 7,
+        "source": 4,
+        "target": 7
+      },
+      {
+        "id": 8,
+        "source": 5,
+        "target": 8
+      },
+      {
+        "id": 9,
+        "source": 5,
+        "target": 9
+      },
+      {
+        "id": 10,
+        "source": 6,
+        "target": 10
+      },
+      {
+        "id": 11,
+        "source": 6,
+        "target": 11
+      },
+      {
+        "id": 12,
+        "source": 7,
+        "target": 12
+      },
+      {
+        "id": 13,
+        "source": 7,
+        "target": 13
+      },
+      {
+        "id": 14,
+        "source": 8,
+        "target": 14
+      },
+      {
+        "id": 15,
+        "source": 8,
+        "target": 15
+      },
+      {
+        "id": 16,
+        "source": 9,
+        "target": 16
+      },
+      {
+        "id": 17,
+        "source": 9,
+        "target": 17
+      },
+      {
+        "id": 20,
+        "source": 18,
+        "target": 20
+      },
+      {
+        "id": 21,
+        "source": 18,
+        "target": 21
+      },
+      {
+        "id": 22,
+        "source": 19,
+        "target": 22
+      },
+      {
+        "id": 23,
+        "source": 19,
+        "target": 23
+      },
+      {
+        "id": 24,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 25,
+        "source": 20,
+        "target": 25
+      },
+      {
+        "id": 26,
+        "source": 21,
+        "target": 26
+      },
+      {
+        "id": 27,
+        "source": 21,
+        "target": 27
+      },
+      {
+        "id": 28,
+        "source": 22,
+        "target": 28
+      },
+      {
+        "id": 29,
+        "source": 22,
+        "target": 29
+      },
+      {
+        "id": 30,
+        "source": 23,
+        "target": 30
+      },
+      {
+        "id": 31,
+        "source": 23,
+        "target": 31
+      },
+      {
+        "id": 34,
+        "source": 32,
+        "target": 34
+      },
+      {
+        "id": 35,
+        "source": 32,
+        "target": 35
+      },
+      {
+        "id": 36,
+        "source": 33,
+        "target": 36
+      },
+      {
+        "id": 37,
+        "source": 33,
+        "target": 37
+      },
+      {
+        "id": 38,
+        "source": 34,
+        "target": 38
+      },
+      {
+        "id": 39,
+        "source": 34,
+        "target": 39
+      },
+      {
+        "id": 40,
+        "source": 35,
+        "target": 40
+      },
+      {
+        "id": 41,
+        "source": 35,
+        "target": 41
+      },
+      {
+        "id": 42,
+        "source": 36,
+        "target": 42
+      },
+      {
+        "id": 43,
+        "source": 36,
+        "target": 43
+      },
+      {
+        "id": 44,
+        "source": 37,
+        "target": 44
+      },
+      {
+        "id": 45,
+        "source": 37,
+        "target": 45
+      },
+      {
+        "id": 48,
+        "source": 46,
+        "target": 48
+      },
+      {
+        "id": 49,
+        "source": 46,
+        "target": 49
+      },
+      {
+        "id": 50,
+        "source": 47,
+        "target": 50
+      },
+      {
+        "id": 51,
+        "source": 47,
+        "target": 51
+      },
+      {
+        "id": 52,
+        "source": 48,
+        "target": 52
+      },
+      {
+        "id": 53,
+        "source": 48,
+        "target": 53
+      },
+      {
+        "id": 54,
+        "source": 49,
+        "target": 54
+      },
+      {
+        "id": 55,
+        "source": 49,
+        "target": 55
+      },
+      {
+        "id": 56,
+        "source": 50,
+        "target": 56
+      },
+      {
+        "id": 57,
+        "source": 50,
+        "target": 57
+      },
+      {
+        "id": 58,
+        "source": 51,
+        "target": 58
+      },
+      {
+        "id": 59,
+        "source": 51,
+        "target": 59
+      }
+    ]
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO":[{
+		"title": "BLEU: a method for automatic evaluation of machine translation",
+		"author": "Kishore Papineni,Salim Roukos,Todd Ward,Wei-jing Zhu",
+		"publishDate": "2002",
+		"summaryAll": "Human evaluations of machine translation are extensive but expensive. Human evaluations can take months to finish and involve human labor that can not be reused."
+	},
+	{
+		"title": "Moses: open source toolkit for statistical machine translation",
+		"author": "Philipp Koehn,Hieu Hoang,Alexandra Birch,Chris Callison-Burch,Marcello Federico,Nicola Bertoldi,Brooke Cowan,Wade Shen,Christine Moran,Richard Zens,Chris Dyer,Ondřej Bojar",
+		"publishDate": "2007",
+		"summaryAll": "We describe an open-source toolkit for statistical machine translation whose novel contributions are (a) support for linguistically motivated factors, (b) confusion network decoding, and (c) efficient data formats for translation models and language models. "
+	},
+	{
+		"title": "The mathematics of statistical machine translation: parameter estimation",
+		"author": "Peter F. Brown,Vincent J. Della Pietra,Stephen A. Della Pietra,Robert L. Mercer",
+		"publishDate": "1993",
+		"summaryAll": "We describe a series of five statistical models of the translation process and give algorithms for estimating the parameters of these models given a set of pairs of sentences that are translations of one another."
+	},
+	{
+		"title": "Minimum error rate training in statistical machine translation",
+		"author": "Franz Josef Och",
+		"publishDate": "2003",
+		"summaryAll": "Often, the training procedure for statistical machine translation models is based on maximum likelihood or related criteria. A general problem of this approach is that there is only a loose relation to the final translation quality on unseen text. "
+	},
+	{
+		"title": "EuroParl: A Parallel Corpus for Statistical Machine Translation",
+		"author": "Koehn Philipp",
+		"publishDate": "2005",
+		"summaryAll": "We collected a corpus of parallel text in 11 lan- guages from the proceedings of the European Par- liament, which are published on the web1. This cor- pus has found widespread use in the NLP commu- nity."
+	},
+	{
+		"title": "A statistical approach to machine translation",
+		"author": "Peter F. Brown,John Cocke,Stephen A. Della Pietra,Vincent J. Della Pietra,Fredrick Jelinek,John D. Lafferty,Robert L. Mercer,Paul S. Roossin",
+		"publishDate": "1990",
+		"summaryAll": "In this paper, we present a statistical approach to machine translation. We describe the application of our approach to translation from French to English and give preliminary results."
+	},
+	{
+		"title": "Statistical Machine Translation",
+		"author": "Philipp Koehn,Kevin Knight",
+		"publishDate": "2010",
+		"summaryAll": "This introductory text to statistical machine translation (SMT) provides all of the theories and methods needed to build a statistical machine translator, such as Google Language Tools and Babelfish."
+	}
+],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": [
+    {
+      "id": "1",
+      "nameCN": "机器人与机器人装备 工业机器人的安全要求 第2部分：机器人系统与集成",
+      "nameEN": "Robots and robotic devices―Safety requirements for industrial robots―Part 2: Robot systems and integration",
+      "standardNo": "GB 11291.2-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求",
+      "summaryAll": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求，工业机器人和工业机器人系统已在GB 11291.1中定义。集成包括以下方面： a) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废； b) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废的必要条件； c) 工业机器人系统或单元的部件设备。 本部分描述了与这些系统有关的基本危险和危险情况，并提出了消除和充分降低与这些危险相关的风险要求。虽然噪声波定为是工业机器人的一种主要危险，但是本部分不予考虑。本部分也规定了对作为集成制造系统的部分的工业机器人系统的要求。本部分不专门涉及关于加工过程中的危险（如激光辐射、弹出碎片、焊接烟雾）其他标准适用于这些加工过程中的危险。",
+      "draftUnit": "",
+      "mandatoryStandard": "是",
+      "status": "现行",
+      "publishDate": "2013-12-17",
+      "implementDate": "2014-11-01"
+    },
+    {
+      "id": "7",
+      "nameCN": "工业机器人 性能规范及其试验方法",
+      "nameEN": "Industrial robots - Performance criteria and related test methods",
+      "standardNo": "GB/T 12642-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”",
+      "summaryAll": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”指的是工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-03-15"
+    },
+    {
+      "id": "24",
+      "nameCN": "工业机器人 用户编程指令",
+      "nameEN": "Industrial robot - User programme instruction",
+      "standardNo": "GB/T 29824-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬",
+      "summaryAll": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬运机器人、喷涂机器人、装配机器人（包含但不是全部）等工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-04-01"
+    },
+    {
+      "id": "25",
+      "nameCN": "机器人通信总线协议",
+      "nameEN": "Robot General Bus communication protocol",
+      "standardNo": "GB/T 29825-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": " 本标准规定了模块化机器人系统中的一种通信总线的数据格式和程序规范，包括协议层次、格式",
+      "summaryAll": " 本标准规定了模块化机器人系统中的一种通信总线的数据格式和程序规范，包括协议层次、格式定义、工作流程。 本标准主要适用于模块化机器人系统中不同功能模块构件之间的数据交互和信息共享。应用于非模块化机器人中的通信总线亦可参照使用本标准。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-04-01"
+    },
+    {
+      "id": "8",
+      "nameCN": "工业机器人 性能试验实施规范",
+      "nameEN": "Industrial robot - Detailed implementation specification for performance and related test",
+      "standardNo": "GB/T 20868-2007",
+      "categoryNoCN": "J;J07,机械,机械综合",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时",
+      "summaryAll": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时的实施细则和操作步骤。　　本标准供工业机器人制造厂商、试验部门、机器人用户使用。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2007-01-18",
+      "implementDate": "2007-08-01"
+    },
+    {
+      "id": "3",
+      "nameCN": "信息技术 词汇 第29部分:人工智能 语音识别与合成",
+      "nameEN": "Information technology-Vocabulary-Part 29:Artificial intelligence-Speech recognition and synthesis",
+      "standardNo": "GB/T 5271.29-2006",
+      "categoryNoCN": "L;L60,电子元器件与信息技术,计算机",
+      "categoryNoIN": "35;35.240.20",
+      "summary": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　为方便将此标准翻译成其他语言，给出的定义尽可能避免语言上的特殊性。　　本部分定义了有关语音识别和语音合成的概念。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2006-03-14",
+      "implementDate": "2006-07-01"
+    },
+    {
+      "id": "4",
+      "nameCN": "technolgy—Vocabulary—Part 31:Artificial intelligence—<mark class=highlight>Machine</mark>",
+      "nameEN": "Information technolgy—Vocabulary—Part 31:Artificial intelligence—Machine learning",
+      "standardNo": "GB/T 5271.31-2006",
+      "categoryNoCN": "L;L60,电子元器件与信息技术,计算机",
+      "categoryNoIN": "35;35.240.20",
+      "summary": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　为方便将此标准翻译成其他语言，给出的定义尽可能避免语言上的特殊性。　　本部分定义了有关人工智能中机器学习的概念。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2006-03-14",
+      "implementDate": "2006-07-01"
+    }
+  ]
+}

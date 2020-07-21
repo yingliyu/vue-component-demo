@@ -1,0 +1,1294 @@
+{
+  "expertVO": {
+    "id": 847512,
+    "name": "Yann Lecun",
+    "headImg": "/img/expert_logo/2018-09/2018-09-12-10-46-11__0bcba347-4ad9-489e-95f4-554c4efdf126.jpg",
+    "institution": "New York University",
+    "subjectArea": "计算机科学",
+    "country": "美国",
+    "totalIssues": 128,
+    "totalCitations": 20134,
+    "top1Citations": 0.28125,
+    "number1": 36,
+    "top10Citations": 0.585938,
+    "number10": 75,
+    "hIndex": 52,
+    "journalSend": null,
+    "subjectMatch": null,
+    "citedSituation": null,
+    "fwciinedx": 10.618,
+    "layoutList": [
+      "Facebook人工智能研究中心主任，NYU数据科学中心主任，纽约大学工程学院系计算机科学、神经科学、以及电子与计算机工程教授。",
+      "主要研究兴趣是机器学习，计算机视觉，移动机器人和计算神经科学。也对数据压缩，数字图书馆，计算物理以及机器学习的所有应用（视觉，语音，语言，文档理解，数据挖掘，生物信息学）感兴趣。"
+    ]
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"Yann Lecun","type":"expert","level":"1","colorIdx":"0"},
+      {"code":"1","name":"荣誉","type":"honor","level":"2","colorIdx":"5"},
+      {"code":"2","name":"机构","type":"org","level":"2","colorIdx":"6"},
+      {"code":"3","name":"几何深度学习","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"4","name":"语义分割","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"5","name":"卷积神经网络","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"6","name":"图像识别","type":"keyword","level":"2","colorIdx":"4"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"},
+      {"id":"5","source":"0","target":"6"}
+      ],
+    "expertReco": [
+      {
+        "id": 2017250,
+        "name": "曹进德",
+        "headImg": "/img/domain_logo/2017250.jpg",
+        "institution": "Southeast University",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 914005,
+        "name": "王子栋",
+        "headImg": "/img/expert_logo/2019-03/2019-03-21-13-26-15__512381b6-9622-4ec3-8ccc-3e1e534cc672.jpg",
+        "institution": "Brunel University London",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 376304,
+        "name": "黄煦涛",
+        "headImg": "/img/domain_logo/35513984600.jpg",
+        "institution": "University of Illinois at Urbana-Champaign",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": [
+      "Neural network",
+      "Machine learning",
+      "Pattern recognition",
+      "Feature extraction"
+    ],
+    "journalsReco": null,
+    "institutionsReco": [
+      "Facebook",
+      "AT&T Inc."
+    ]
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 65,
+        "code": 68,
+        "name": "Patrice Y. Simard",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 66,
+        "code": 69,
+        "name": "Isabelle Guyon",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 67,
+        "code": 70,
+        "name": "Hans Peter Graf",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "Yann Lecun",
+        "type": "expert",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "荣誉",
+        "type": "honor",
+        "level": 2,
+        "colorIdx": 5,
+        "keyword": "Yann",
+        "layout": "2018年 图灵奖/2018年 哈罗德·彭德奖/2016年 在墨西哥城被IPN授予荣誉博士学位/2015年 帕米杰出研究员奖/2014年 IEEE神经网络先驱奖",
+        "layoutList": [
+          "2018年 图灵奖",
+          "2018年 哈罗德·彭德奖",
+          "2016年 在墨西哥城被IPN授予荣誉博士学位",
+          "2015年 帕米杰出研究员奖",
+          "2014年 IEEE神经网络先驱奖"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "组织",
+        "type": "org",
+        "level": 2,
+        "colorIdx": 6,
+        "keyword": "Yann",
+        "layout": "纽约大学",
+        "layoutList": [
+          "纽约大学"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "几何深度学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": "对深度技术的研究主要集中在欧几里得域（即网格）上定义的数据上。 尽管如此，在许多不同的领域，如：生物学，物理学，网络科学，推荐系统和计算机图形学; 人们可能不得不处理在非欧几里得域上定义的数据（即图和流形）。 直到最近，深度学习在这些特定领域的采用一直滞后，主要是因为数据的非欧几里德性质使得基本操作（例如卷积）的定义相当难以捉摸。 在这种意义上，几何深度学习将深度学习技术扩展到图/流形结构化数据。",
+        "layoutList": [
+          "对深度技术的研究主要集中在欧几里得域（即网格）上定义的数据上。 尽管如此，在许多不同的领域，如：生物学，物理学，网络科学，推荐系统和计算机图形学; 人们可能不得不处理在非欧几里得域上定义的数据（即图和流形）。 直到最近，深度学习在这些特定领域的采用一直滞后，主要是因为数据的非欧几里德性质使得基本操作（例如卷积）的定义相当难以捉摸。 在这种意义上，几何深度学习将深度学习技术扩展到图/流形结构化数据。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": "Geometric Deep Learning: Going beyond Euclidean data./A Mathematical Motivation for Complex-Valued Convolutional Networks. /Geometric deep learning: going beyond Euclidean data./A theoretical argument for complex-valued convolutional networks. /Signal recovery from Pooling Representations./Spectral Networks and Locally Connected Networks on Graphs.",
+        "layoutList": [
+          "Geometric Deep Learning: Going beyond Euclidean data.",
+          "A Mathematical Motivation for Complex-Valued Convolutional Networks. ",
+          "Geometric deep learning: going beyond Euclidean data.",
+          "A theoretical argument for complex-valued convolutional networks. ",
+          "Signal recovery from Pooling Representations.",
+          "Spectral Networks and Locally Connected Networks on Graphs."
+        ]
+      },
+      {
+        "id": 6,
+        "code": 6,
+        "name": "Joan Bruna",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": "加州大学伯克利分校助理教授应用数学博士，法国巴黎理工大学，2013年。硕士，电信，西班牙加泰罗尼亚理工大学，2004年。，数学，加泰罗尼亚理工大学，西班牙，2002年。机器学习、信号处理和高维统计等多个领域。",
+        "layoutList": [
+          "加州大学伯克利分校助理教授应用数学博士，法国巴黎理工大学，2013年。硕士，电信，西班牙加泰罗尼亚理工大学，2004年。，数学，加泰罗尼亚理工大学，西班牙，2002年。机器学习、信号处理和高维统计等多个领域。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 7,
+        "name": "Arthur Szlam",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": "在加州大学洛杉矶分校(UCLA)做了3年数学博士",
+        "layoutList": [
+          "在加州大学洛杉矶分校(UCLA)做了3年数学博士"
+        ]
+      },
+      {
+        "id": 8,
+        "code": 8,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 9,
+        "name": "图神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 10,
+        "name": "对话智能",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 11,
+        "name": "策略规划",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 12,
+        "name": "Rob Fergus",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 13,
+        "name": "Wojciech Zaremba",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 14,
+        "name": "Spencer R. Klein",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 15,
+        "name": "Michael M. Bronstein",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 16,
+        "name": "Jason Weston",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 17,
+        "name": "Douwe Kiela",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 18,
+        "name": "Sainbayar Sukhbaatar",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 19,
+        "name": "Amy Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 20,
+        "code": 20,
+        "name": "语义分割",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": "语义分割(semantic segmentation)其实就是对每个像素点进行预测分类（dense prediction）。这也应该是第一个训练对像素进行预测并且采用了有监督预训练的端到端FCN网络，可以对任意尺寸的输入利用现有的网络对其进行密集预测（dense prediction）。学习和推理能在全图通过密集的前馈计算和反向传播一次执行（whole-image-ata-time）。网内上采样层能在像素级别预测和通过下采样池化学习。",
+        "layoutList": [
+          "语义分割(semantic segmentation)其实就是对每个像素点进行预测分类（dense prediction）。这也应该是第一个训练对像素进行预测并且采用了有监督预训练的端到端FCN网络，可以对任意尺寸的输入利用现有的网络对其进行密集预测（dense prediction）。学习和推理能在全图通过密集的前馈计算和反向传播一次执行（whole-image-ata-time）。网内上采样层能在像素级别预测和通过下采样池化学习。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 21,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": "Predicting Future Instance Segmentation by Forecasting Convolutional Features./Predicting Deeper into the Future of Semantic Segmentation./Causal graph-based video segmentation/Indoor Semantic Segmentation using depth information/Causal graph-based video segmentation/Road Scene Segmentation from a Single Image/Semantic Road Segmentation via Multi-scale Ensembles of Learned Features",
+        "layoutList": [
+          "Predicting Future Instance Segmentation by Forecasting Convolutional Features.",
+          "Predicting Deeper into the Future of Semantic Segmentation.",
+          "Causal graph-based video segmentation",
+          "Indoor Semantic Segmentation using depth information",
+          "Causal graph-based video segmentation",
+          "Road Scene Segmentation from a Single Image",
+          "Semantic Road Segmentation via Multi-scale Ensembles of Learned Features"
+        ]
+      },
+      {
+        "id": 22,
+        "code": 23,
+        "name": "Camille Couprie",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": "2015年，以研究科学家的身份加入了Facebook人工智能研究。研究主要针对各种目的的图像生成建模，还探索了用有限数量的注释实现可视理解的方法。",
+        "layoutList": [
+          "2015年，以研究科学家的身份加入了Facebook人工智能研究。研究主要针对各种目的的图像生成建模，还探索了用有限数量的注释实现可视理解的方法。"
+        ]
+      },
+      {
+        "id": 23,
+        "code": 24,
+        "name": "Jakob J. Verbeek",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": "Inria Grenoble的高级研究员，在 Thoth research team从事机器学习和计算机视觉方面的工作。",
+        "layoutList": [
+          "Inria Grenoble的高级研究员，在 Thoth research team从事机器学习和计算机视觉方面的工作。"
+        ]
+      },
+      {
+        "id": 24,
+        "code": 25,
+        "name": "特征学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 26,
+        "name": "图像分割",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 27,
+        "name": "图像分类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 28,
+        "name": "度量学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 29,
+        "name": "Laurent Najman",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 30,
+        "name": "Clément Farabet",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 31,
+        "name": "Hugues Talbot",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 32,
+        "name": "Leo J. Grady",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 33,
+        "name": "Cordelia Schmid",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 34,
+        "name": "Matthieu Guillaumin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 34,
+        "code": 35,
+        "name": "Gabriela Csurka",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 35,
+        "code": 36,
+        "name": "Thomas Mensink",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 37,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": "卷积神经网络是一种前馈人工神经网络，其神经元之间的连接模式受到动物视觉皮层组织的启发。个体皮质神经元响应于被称为感受野的空间受限区域中的刺激。不同神经元的感受区域部分重叠，使得它们平铺视野。单个神经元对其感受野内的刺激的响应可以通过卷积运算在数学上近似。",
+        "layoutList": [
+          "卷积神经网络是一种前馈人工神经网络，其神经元之间的连接模式受到动物视觉皮层组织的启发。个体皮质神经元响应于被称为感受野的空间受限区域中的刺激。不同神经元的感受区域部分重叠，使得它们平铺视野。单个神经元对其感受野内的刺激的响应可以通过卷积运算在数学上近似。"
+        ]
+      },
+      {
+        "id": 37,
+        "code": 38,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": "DeSIGN: Design Inspiration from Generative Networks./A Closer Look at Spatiotemporal Convolutions for Action Recognition./Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks./Very Deep Convolutional Networks for Text Classification./A Closer Look at Spatiotemporal Convolutions for Action Recognition./Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches.",
+        "layoutList": [
+          "DeSIGN: Design Inspiration from Generative Networks.",
+          "A Closer Look at Spatiotemporal Convolutions for Action Recognition.",
+          "Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks.",
+          "Very Deep Convolutional Networks for Text Classification.",
+          "A Closer Look at Spatiotemporal Convolutions for Action Recognition.",
+          "Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches."
+        ]
+      },
+      {
+        "id": 38,
+        "code": 40,
+        "name": "Pierre Sermanet",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": "视觉、语音和机器人深度学习博士学位",
+        "layoutList": [
+          "视觉、语音和机器人深度学习博士"
+        ]
+      },
+      {
+        "id": 39,
+        "code": 41,
+        "name": "Koray Kavukcuoglu",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": "DeepMind的VP，曾是一名研究科学家，领导着深度学习团队。纽约大学博士，研究方向为用于物体识别的特征提取器和多阶段架构的无监督学习。",
+        "layoutList": [
+          "DeepMind的VP，曾是一名研究科学家，领导着深度学习团队。纽约大学博士，研究方向为用于物体识别的特征提取器和多阶段架构的无监督学习。"
+        ]
+      },
+      {
+        "id": 40,
+        "code": 42,
+        "name": "表征学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 43,
+        "name": "深度信念网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 44,
+        "name": "图像生成",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 45,
+        "name": "音频合成",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 46,
+        "name": "Sergey Levine",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 47,
+        "name": "Corey Lynch",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 48,
+        "name": "Urs Muller",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 49,
+        "name": "Raia Hadsell",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 48,
+        "code": 50,
+        "name": "Alex Graves",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 49,
+        "code": 51,
+        "name": "Oriol Vinyals",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 52,
+        "name": "Karen Simonyan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 53,
+        "name": "Nal Kalchbrenner",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 54,
+        "name": "图像识别",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": "图像识别（Image Identification），是指利用计算机对图像进行处理、分析和理解，以识别各种不同模式的目标和对像的技术。",
+        "layoutList": [
+          "图像识别（Image Identification），是指利用计算机对图像进行处理、分析和理解，以识别各种不同模式的目标和对像的技术。"
+        ]
+      },
+      {
+        "id": 53,
+        "code": 55,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": "Unsupervised Image Matching and Object Discovery as Optimization./Inspirational Adversarial Image Generation./Road Scene Segmentation from a Single Image. /Regularized estimation of image statistics by Score Matching./Automatic recognition of biological particles in microscopic images. /A Sparse and Locally Shift Invariant Feature Extractor Applied to Document Images./Guest Editorial Applications Of Artificial Neural Networks To Image Processing.",
+        "layoutList": [
+          "Unsupervised Image Matching and Object Discovery as Optimization.",
+          "Inspirational Adversarial Image Generation.",
+          "Road Scene Segmentation from a Single Image. ",
+          "Regularized estimation of image statistics by Score Matching.",
+          "Automatic recognition of biological particles in microscopic images. ",
+          "A Sparse and Locally Shift Invariant Feature Extractor Applied to Document Images.",
+          "Guest Editorial Applications Of Artificial Neural Networks To Image Processing."
+        ]
+      },
+      {
+        "id": 54,
+        "code": 57,
+        "name": "Lawrence D. Jackel",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": "人工智能专家",
+        "layoutList": [
+          "人工智能专家"
+        ]
+      },
+      {
+        "id": 55,
+        "code": 58,
+        "name": "John S. Denker",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": "人工智能专家",
+        "layoutList": [
+          "人工智能专家"
+        ]
+      },
+      {
+        "id": 56,
+        "code": 59,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 60,
+        "name": "字符识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 61,
+        "name": "模式识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 62,
+        "name": "字符识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 63,
+        "name": "Wayne E. Hubbard",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 64,
+        "name": "Donnie Henderson",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 62,
+        "code": 65,
+        "name": "Eduard Säckinger",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 63,
+        "code": 66,
+        "name": "Bernhard E. Boser",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 64,
+        "code": 67,
+        "name": "Bernard Victorri",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yann",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 19,
+        "source": 0,
+        "target": 20
+      },
+      {
+        "id": 35,
+        "source": 0,
+        "target": 37
+      },
+      {
+        "id": 51,
+        "source": 0,
+        "target": 54
+      },
+      {
+        "id": 4,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 3,
+        "target": 6
+      },
+      {
+        "id": 6,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "id": 7,
+        "source": 6,
+        "target": 8
+      },
+      {
+        "id": 8,
+        "source": 6,
+        "target": 9
+      },
+      {
+        "id": 9,
+        "source": 7,
+        "target": 10
+      },
+      {
+        "id": 10,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "id": 11,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "id": 12,
+        "source": 8,
+        "target": 13
+      },
+      {
+        "id": 13,
+        "source": 9,
+        "target": 14
+      },
+      {
+        "id": 14,
+        "source": 9,
+        "target": 15
+      },
+      {
+        "id": 15,
+        "source": 10,
+        "target": 16
+      },
+      {
+        "id": 16,
+        "source": 10,
+        "target": 17
+      },
+      {
+        "id": 17,
+        "source": 11,
+        "target": 18
+      },
+      {
+        "id": 18,
+        "source": 11,
+        "target": 19
+      },
+      {
+        "id": 20,
+        "source": 20,
+        "target": 21
+      },
+      {
+        "id": 21,
+        "source": 20,
+        "target": 23
+      },
+      {
+        "id": 22,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 23,
+        "source": 23,
+        "target": 25
+      },
+      {
+        "id": 24,
+        "source": 23,
+        "target": 26
+      },
+      {
+        "id": 25,
+        "source": 24,
+        "target": 27
+      },
+      {
+        "id": 26,
+        "source": 24,
+        "target": 28
+      },
+      {
+        "id": 27,
+        "source": 25,
+        "target": 29
+      },
+      {
+        "id": 28,
+        "source": 25,
+        "target": 30
+      },
+      {
+        "id": 29,
+        "source": 26,
+        "target": 31
+      },
+      {
+        "id": 30,
+        "source": 26,
+        "target": 32
+      },
+      {
+        "id": 31,
+        "source": 27,
+        "target": 33
+      },
+      {
+        "id": 32,
+        "source": 27,
+        "target": 34
+      },
+      {
+        "id": 33,
+        "source": 28,
+        "target": 35
+      },
+      {
+        "id": 34,
+        "source": 28,
+        "target": 36
+      },
+      {
+        "id": 36,
+        "source": 37,
+        "target": 38
+      },
+      {
+        "id": 37,
+        "source": 37,
+        "target": 40
+      },
+      {
+        "id": 38,
+        "source": 37,
+        "target": 41
+      },
+      {
+        "id": 39,
+        "source": 40,
+        "target": 42
+      },
+      {
+        "id": 40,
+        "source": 40,
+        "target": 43
+      },
+      {
+        "id": 41,
+        "source": 41,
+        "target": 44
+      },
+      {
+        "id": 42,
+        "source": 41,
+        "target": 45
+      },
+      {
+        "id": 43,
+        "source": 42,
+        "target": 46
+      },
+      {
+        "id": 44,
+        "source": 42,
+        "target": 47
+      },
+      {
+        "id": 45,
+        "source": 43,
+        "target": 48
+      },
+      {
+        "id": 46,
+        "source": 43,
+        "target": 49
+      },
+      {
+        "id": 47,
+        "source": 44,
+        "target": 50
+      },
+      {
+        "id": 48,
+        "source": 44,
+        "target": 51
+      },
+      {
+        "id": 49,
+        "source": 45,
+        "target": 52
+      },
+      {
+        "id": 50,
+        "source": 45,
+        "target": 53
+      },
+      {
+        "id": 52,
+        "source": 54,
+        "target": 55
+      },
+      {
+        "id": 53,
+        "source": 54,
+        "target": 57
+      },
+      {
+        "id": 54,
+        "source": 54,
+        "target": 58
+      },
+      {
+        "id": 55,
+        "source": 57,
+        "target": 59
+      },
+      {
+        "id": 56,
+        "source": 57,
+        "target": 60
+      },
+      {
+        "id": 57,
+        "source": 58,
+        "target": 61
+      },
+      {
+        "id": 58,
+        "source": 58,
+        "target": 62
+      },
+      {
+        "id": 59,
+        "source": 59,
+        "target": 63
+      },
+      {
+        "id": 60,
+        "source": 59,
+        "target": 64
+      },
+      {
+        "id": 61,
+        "source": 60,
+        "target": 65
+      },
+      {
+        "id": 62,
+        "source": 60,
+        "target": 66
+      },
+      {
+        "id": 63,
+        "source": 61,
+        "target": 67
+      },
+      {
+        "id": 64,
+        "source": 61,
+        "target": 68
+      },
+      {
+        "id": 65,
+        "source": 62,
+        "target": 69
+      },
+      {
+        "id": 66,
+        "source": 62,
+        "target": 70
+      }
+    ]
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic.EI",
+		"author": "Mikael Henaff, Alfredo Canziani, Yann LeCun",
+		"publishDate": "2019",
+		"summaryAll": "Learning a policy using only observational data is challenging because the distribution of states it induces at execution time may differ from the distribution observed during training. We propose to train a policy by unrolling a learned model of the environment dynamics over multiple time steps while explicitly penalizing two costs: the original cost the policy seeks to optimize, and an uncertainty cost which represents its divergence from the states it is trained on. "
+	},
+	{
+		"title": "Unsupervised Image Matching and Object Discovery as Optimization.EI",
+		"author": "Huy V. Vo, Francis Bach, Minsu Cho, Kai Han, Yann LeCun, Patrick P&eacute;rez, Jean Ponce",
+		"publishDate": "2019",
+		"summaryAll": "Learning with complete or partial supervision is powerful but relies on ever-growing human annotation efforts. As a way to mitigate this serious problem, as well as to serve specific applications, unsupervised learning has emerged as an important field of research. In computer vision, unsupervised learning comes in various guises. "
+	},
+	{
+		"title": "Byte-Level Recursive Convolutional Auto-Encoder for Text.EI",
+		"author": "Xiang Zhang, Yann LeCun",
+		"publishDate": "2018",
+		"summaryAll": "This article proposes to auto-encode text at byte-level using convolutional networks with a recursive architecture. The motivation is to explore whether it is possible to have scalable and homogeneous text generation at byte-level in a non-sequential fashion through the simple task of auto-encoding. We show that non-sequential text generation from a fixed-length representation is not only possible, but also achieved much better auto-encoding results than recurrent networks. "
+	},
+	{
+		"title": "Predicting Future Instance Segmentations by Forecasting Convolutional Features.EI",
+		"author": "Pauline Luc, Camille Couprie, Yann LeCun, Jakob Verbeek",
+		"publishDate": "2018",
+		"summaryAll": "Anticipating future events is an important prerequisite towards intelligent behavior. Video forecasting has been studied as a proxy task towards this goal. Recent work has shown that to predict semantic segmentation of future frames, forecasting at the semantic level is more effective than forecasting RGB frames and then segmenting these. In this paper we consider the more challenging problem of future instance segmentation, which additionally segments out individual objects."
+	},
+	{
+		"title": "Adversarially-Trained Normalized Noisy-Feature Auto-Encoder for Text Generation.EI",
+		"author": "Xiang Zhang, Yann LeCun",
+		"publishDate": "2018",
+		"summaryAll": "This article proposes Adversarially-Trained Normalized Noisy-Feature Auto-Encoder (ATNNFAE) for byte-level text generation. An ATNNFAE consists of an auto-encoder where the internal code is normalized on the unit sphere and corrupted by additive noise. Simultaneously, a replica of the decoder (sharing the same parameters as the AE decoder) is used as the generator and fed with random latent vectors. "
+	},
+	{
+		"title": "Comparing Dynamics: Deep Neural Networks versus Glassy Systems.EI",
+		"author": "Marco Baity-Jesi, Levent Sagun, M. Geiger, S. Spigler, Gérard Ben Arous, C. Cammarota, Yann LeCun, M. Wyart, G. Biroli",
+		"publishDate": "2018",
+		"summaryAll": "We analyze numerically the training dynamics of deep neural networks (DNN) by using methods developed in statistical physics of glassy systems. The two main issues we address are the complexity of the loss-landscape and of the dynamics within it, and to what extent DNNs share similarities with glassy systems. "
+	}
+],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": []
+}

@@ -1,0 +1,1703 @@
+{
+  "subjectVO": {
+    "id": "35832",
+    "subjectWord": "目标检测",
+    "subjectWordEn": null,
+    "wiki": "目标检测是与计算机视觉和图像处理有关的计算机技术，其涉及在数字图像和视频中检测特定类（例如人，建筑物或汽车）的语义对象的实例。经过深入研究的目标检测领域包括人脸检测和行人检测。目标检测在计算机视觉的许多领域都有应用，包括图像检索和视频监控。"
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"目标检测","type":"keyword","level":"1","colorIdx":"0"},
+      {"code":"1","name":"人脸识别","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"2","name":"边缘检测","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"3","name":"图像分类","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"4","name":"Ross B. Girshick","type":"expert","level":"2","colorIdx":"0"},
+      {"code":"5","name":"Bastian Leibe","type":"expert","level":"2","colorIdx":"0"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      ],
+    "expertReco": null,
+    "subjectReco": [
+      "Computer vision",
+      "Feature extraction"
+    ],
+    "journalsReco": [
+      "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "IEEE Geoscience and Remote Sensing Letters",
+      "IEEE Network"
+    ],
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 48,
+        "code": 47,
+        "name": "谭铁牛",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": "谭铁牛，男， 1964 年生，研究员、博士生导师，中国科学院院士。中国科学技术大学兼职教授。1984 年获西安交通大学学士学位，1986 年和1989 年分别获英国伦敦大学帝国理工学院硕士与博士学位。 1989-1997 年在英国 Reading 大学计算机科学系工作，历任该系博士后研究员、高级研究员和讲师 (lecturer) 研究员。研究方向：图象处理、计算机视觉和模式识别。曾担任中国科学院自动化研究所所长、中国科学技术大学自动化系主任等职务。2013年当选中国科学院院士。现任中国科学院副院长。在国内外重要学术期刊和国际学术会议上已发表论文 250 多篇 , 获准和申请专利20项。主持多项由 973 计划、 863 计划、国家自然科学基金委、国家杰出青年科学基金以及国际合作等资助的科研项目。曾当选为中科院十大杰出青年，获得中科院盈科优秀青年学者奖、中国青年五四奖章。现为 IEEE Fellow ，还担任中国图象图形学会常务副理事长、中国计算机学会和中国自动化学会副理事长、国家高技术研究发展计划（ 863 计划）信息技术领域专家委员会成员、国际权威期刊《 Pattern Recognition 》和《 Image and Vision Computing 》以及国内核心期刊《自动化学报》和《中国图象图形学报》等多种刊物的副主编或编委。作为 IEEE 北京分会副主席和 IEEE 国际视觉监控系列研讨会创始人与会议主席 , 为众多的国际学术会议和国际学术期刊担当审稿人。是全国青联常委、中央国家机关青联副主席、中科院青年联合会主席、欧美同学会理事留英分会副会长、中国青年科技工作者协会副会长。",
+        "layoutList": [
+          "谭铁牛，男， 1964 年生，研究员、博士生导师，中国科学院院士。中国科学技术大学兼职教授。1984 年获西安交通大学学士学位，1986 年和1989 年分别获英国伦敦大学帝国理工学院硕士与博士学位。 1989-1997 年在英国 Reading 大学计算机科学系工作，历任该系博士后研究员、高级研究员和讲师 (lecturer) 研究员。研究方向：图象处理、计算机视觉和模式识别。曾担任中国科学院自动化研究所所长、中国科学技术大学自动化系主任等职务。2013年当选中国科学院院士。现任中国科学院副院长。在国内外重要学术期刊和国际学术会议上已发表论文 250 多篇 , 获准和申请专利20项。主持多项由 973 计划、 863 计划、国家自然科学基金委、国家杰出青年科学基金以及国际合作等资助的科研项目。曾当选为中科院十大杰出青年，获得中科院盈科优秀青年学者奖、中国青年五四奖章。现为 IEEE Fellow ，还担任中国图象图形学会常务副理事长、中国计算机学会和中国自动化学会副理事长、国家高技术研究发展计划（ 863 计划）信息技术领域专家委员会成员、国际权威期刊《 Pattern Recognition 》和《 Image and Vision Computing 》以及国内核心期刊《自动化学报》和《中国图象图形学报》等多种刊物的副主编或编委。作为 IEEE 北京分会副主席和 IEEE 国际视觉监控系列研讨会创始人与会议主席 , 为众多的国际学术会议和国际学术期刊担当审稿人。是全国青联常委、中央国家机关青联副主席、中科院青年联合会主席、欧美同学会理事留英分会副会长、中国青年科技工作者协会副会长。"
+        ]
+      },
+      {
+        "id": 49,
+        "code": 48,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 49,
+        "name": "物体识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 50,
+        "name": "人脸识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 51,
+        "name": "物体检测",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 53,
+        "code": 52,
+        "name": "Andrea Vedaldi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 54,
+        "code": 53,
+        "name": "Alison Noble",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 55,
+        "code": 54,
+        "name": "David A. Forsyth",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 56,
+        "code": 55,
+        "name": "Joseph L. Mundy",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 56,
+        "name": "Zhenan Sun",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 57,
+        "name": "Xiang Wu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 58,
+        "name": "Kaiqi Huang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 59,
+        "name": "Ran He",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 60,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": "Query expansion for VHR image detection/Mining large satellite image repositories using semi-supervised methods/Underground object detection based on cross correlation and Hough transform/Object detection by parts using appearance, structural and shape features/Finding objects at indoor environment combined with depth information/IAIR-CarPed: A psychophysically annotated dataset with fine-grained and layered semantic labels for object recognition/Improving sub-pixel accuracy for long range stereo",
+        "layoutList": [
+          "Query expansion for VHR image detection",
+          "Mining large satellite image repositories using semi-supervised methods",
+          "Underground object detection based on cross correlation and Hough transform",
+          "Object detection by parts using appearance, structural and shape features",
+          "Finding objects at indoor environment combined with depth information",
+          "IAIR-CarPed: A psychophysically annotated dataset with fine-grained and layered semantic labels for object recognition",
+          "Improving sub-pixel accuracy for long range stereo"
+        ]
+      },
+      {
+        "id": 62,
+        "code": 61,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": "一种运动目标检测方法及装置/基于小波降噪的LS-SVM海面小目标检测的方法/基于增强约束稀疏回归的半监督高光谱亚像元目标检测法/基于角点高斯特性分析的红外小目标检测方法/基于纹理和运动模式融合的运动目标检测算法/一种基于混合高斯模型的运动目标检测方法/基于稀疏表示和视皮层注意机制的目标检测方法",
+        "layoutList": [
+          "一种运动目标检测方法及装置",
+          "基于小波降噪的LS-SVM海面小目标检测的方法",
+          "基于增强约束稀疏回归的半监督高光谱亚像元目标检测法",
+          "基于角点高斯特性分析的红外小目标检测方法",
+          "基于纹理和运动模式融合的运动目标检测算法",
+          "一种基于混合高斯模型的运动目标检测方法",
+          "基于稀疏表示和视皮层注意机制的目标检测方法"
+        ]
+      },
+      {
+        "id": 63,
+        "code": 62,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": "Face recognition using a fusion method based on bidirectional 2DPCA/Face recognition based on two subspaces linear discriminant analysis/Minimum Bayes error features for visual recognition/Subspace manifold learning with sample weights/A critical band of phase alignment for discrimination but not recognition of human faces/The Effects of Face Inversion on the Perception of Long-Range and Local Spatial Relations in Eye and Mouth Configuration/Face recognition using spatially constrained earth mover's distance",
+        "layoutList": [
+          "Face recognition using a fusion method based on bidirectional 2DPCA",
+          "Face recognition based on two subspaces linear discriminant analysis",
+          "Minimum Bayes error features for visual recognition",
+          "Subspace manifold learning with sample weights",
+          "A critical band of phase alignment for discrimination but not recognition of human faces",
+          "The Effects of Face Inversion on the Perception of Long-Range and Local Spatial Relations in Eye and Mouth Configuration",
+          "Face recognition using spatially constrained earth mover's distance"
+        ]
+      },
+      {
+        "id": 64,
+        "code": 63,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": "一种基于双目摄像头的智能电视人脸识别方法/一种基于局部对比模式的人脸识别方法/基于图像传感器成像系统的人脸识别算法/基于分布式压缩传感的近红外与可见光图像人脸识别方法/一种基于子空间的增量学习人脸识别方法/基于多尺度韦伯局部特征和分层决策融合的人脸识别方法/结合生物特征与局部图像特征的并行人脸识别方法",
+        "layoutList": [
+          "一种基于双目摄像头的智能电视人脸识别方法",
+          "一种基于局部对比模式的人脸识别方法",
+          "基于图像传感器成像系统的人脸识别算法",
+          "基于分布式压缩传感的近红外与可见光图像人脸识别方法",
+          "一种基于子空间的增量学习人脸识别方法",
+          "基于多尺度韦伯局部特征和分层决策融合的人脸识别方法",
+          "结合生物特征与局部图像特征的并行人脸识别方法"
+        ]
+      },
+      {
+        "id": 65,
+        "code": 64,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": "Extraction of the sonogram indices with mathematical morphology/Improved multiresolution sequential edge linking and its application in medical image/Study on a fast method for sub-pixel edge detection/An Efficient Automatic Video Segmentation Method Based on Intersection of Frame Differences/Measurement of swollen volume of polymer melt due to gas dissolution/Algorithm for image edge detection based on two-dimension continuous wavelet transform/Feature extraction for structured surface based on surface networks and edge detection",
+        "layoutList": [
+          "Extraction of the sonogram indices with mathematical morphology",
+          "Improved multiresolution sequential edge linking and its application in medical image",
+          "Study on a fast method for sub-pixel edge detection",
+          "An Efficient Automatic Video Segmentation Method Based on Intersection of Frame Differences",
+          "Measurement of swollen volume of polymer melt due to gas dissolution",
+          "Algorithm for image edge detection based on two-dimension continuous wavelet transform",
+          "Feature extraction for structured surface based on surface networks and edge detection"
+        ]
+      },
+      {
+        "id": 66,
+        "code": 65,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": "一种音圈马达磁体边缘检测方法/基于窗口改进的多级中值滤波的图像边缘检测方法/一种数学形态学和LoG算子结合的边缘检测算法/一种基于特定类灰度图像的边缘检测方法/一种基于亚像素边缘检测的四一七条码识别方法/挡风玻璃边缘检测传感器\n基于directionlet变换的彩色图像边缘检测方法",
+        "layoutList": [
+          "一种音圈马达磁体边缘检测方法",
+          "基于窗口改进的多级中值滤波的图像边缘检测方法",
+          "一种数学形态学和LoG算子结合的边缘检测算法",
+          "一种基于特定类灰度图像的边缘检测方法",
+          "一种基于亚像素边缘检测的四一七条码识别方法",
+          "挡风玻璃边缘检测传感器\n基于directionlet变换的彩色图像边缘检测方法"
+        ]
+      },
+      {
+        "id": 67,
+        "code": 66,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": "Multilevel structure in behaviour and in the brain: A model of Fuster's hierarchy/Evenness control of rapier loom tension by using neural network/Application of genetic algorithm for self adaptation, symmetry and congruity in reservoir mid-long hydraulic power operation/A neural network ensemble method with jittered training data for time series forecasting/Mining the fuzzy control rules of aeration in a Submerged Biofilm Wastewater Treatment Process/Computational intelligence in photonics technology and optical networks: A survey and future perspectives/Polarized DIS structure functions from neural networks",
+        "layoutList": [
+          "Multilevel structure in behaviour and in the brain: A model of Fuster's hierarchy",
+          "Evenness control of rapier loom tension by using neural network",
+          "Application of genetic algorithm for self adaptation, symmetry and congruity in reservoir mid-long hydraulic power operation",
+          "A neural network ensemble method with jittered training data for time series forecasting",
+          "Mining the fuzzy control rules of aeration in a Submerged Biofilm Wastewater Treatment Process",
+          "Computational intelligence in photonics technology and optical networks: A survey and future perspectives",
+          "Polarized DIS structure functions from neural networks"
+        ]
+      },
+      {
+        "id": 68,
+        "code": 67,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": "基于人工神经网络模型超声造影特征自动识别系统及方法/基于最优结构搜索的神经网络动态加速平台设计方法及神经网络动态加速平台/结合卷积神经网络和概念机递归神经网络的图像分类方法/神经网络训练方法、神经网络系统和计算机系统/基于多重孪生神经网络与区域神经网络的目标跟踪方法/神经网络电路装置、神经网络、神经网络处理方法及神经网络的执行程序/卷积神经网络和脉冲神经网络的融合结构及方法",
+        "layoutList": [
+          "基于人工神经网络模型超声造影特征自动识别系统及方法",
+          "基于最优结构搜索的神经网络动态加速平台设计方法及神经网络动态加速平台",
+          "结合卷积神经网络和概念机递归神经网络的图像分类方法",
+          "神经网络训练方法、神经网络系统和计算机系统",
+          "基于多重孪生神经网络与区域神经网络的目标跟踪方法",
+          "神经网络电路装置、神经网络、神经网络处理方法及神经网络的执行程序",
+          "卷积神经网络和脉冲神经网络的融合结构及方法"
+        ]
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "目标检测",
+        "type": "keyword",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": "目标检测是与计算机视觉和图像处理有关的计算机技术，其涉及在数字图像和视频中检测特定类（例如人，建筑物或汽车）的语义对象的实例。经过深入研究的目标检测领域包括人脸检测和行人检测。目标检测在计算机视觉的许多领域都有应用，包括图像检索和视频监控。",
+        "layoutList": [
+          "目标检测是与计算机视觉和图像处理有关的计算机技术，其涉及在数字图像和视频中检测特定类（例如人，建筑物或汽车）的语义对象的实例。经过深入研究的目标检测领域包括人脸检测和行人检测。目标检测在计算机视觉的许多领域都有应用，包括图像检索和视频监控。"
+        ]
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "人脸识别",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": "人脸识别，是基于人的脸部特征信息进行身份识别的一种生物识别技术。用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到的人脸进行脸部识别的一系列相关技术，通常也叫做人像识别、面部识别。",
+        "layoutList": [
+          "人脸识别，是基于人的脸部特征信息进行身份识别的一种生物识别技术。用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到的人脸进行脸部识别的一系列相关技术，通常也叫做人像识别、面部识别。"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "边缘检测",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": "边缘检测（Edge Detection）是图像处理和计算机视觉中的基本问题，边缘检测的目的是标识数字图像中亮度变化明显的点。图像属性中的显着变化通常反映了属性的重要事件和变化。这些包括（i）深度上的不连续、（ii）表面方向不连续、（iii）物质属性变化和（iv）场景照明变化。",
+        "layoutList": [
+          "边缘检测（Edge Detection）是图像处理和计算机视觉中的基本问题，边缘检测的目的是标识数字图像中亮度变化明显的点。图像属性中的显着变化通常反映了属性的重要事件和变化。这些包括（i）深度上的不连续、（ii）表面方向不连续、（iii）物质属性变化和（iv）场景照明变化。"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "图像分类",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": "图像分类，根据各自在图像信息中所反映的不同特征，把不同类别的目标区分开来的图像处理方法。它利用计算机对图像进行定量分析，把图像或图像中的每个像元或区域划归为若干个类别中的某一种，以代替人的视觉判读。",
+        "layoutList": [
+          "图像分类，根据各自在图像信息中所反映的不同特征，把不同类别的目标区分开来的图像处理方法。它利用计算机对图像进行定量分析，把图像或图像中的每个像元或区域划归为若干个类别中的某一种，以代替人的视觉判读。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "Ross B. Girshick",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": "2012年在芝加哥大学，在Pedro Felzenszwalb教授下完成了计算机视觉的博士学位，随后两年在Jitendra Malik领导下担任加州大学伯克利分校的博士后，从伯克利开始，我在微软研究院雷德蒙做了一年多的研究员。 现在，我作为一名研究科学家，与 Face bookai Research(Fair) 中出色的研究人员和工程师一起开始了一次新的冒险。",
+        "layoutList": [
+          "2012年在芝加哥大学，在Pedro Felzenszwalb教授下完成了计算机视觉的博士学位，随后两年在Jitendra Malik领导下担任加州大学伯克利分校的博士后，从伯克利开始，我在微软研究院雷德蒙做了一年多的研究员。 现在，我作为一名研究科学家，与 Face bookai Research(Fair) 中出色的研究人员和工程师一起开始了一次新的冒险。"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 5,
+        "name": "Bastian Leibe",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": "主要研究方向:计算机视觉中的目标识别与分类，特别是与三维估计和跟踪相结合;自上而下的分割;机器学习。",
+        "layoutList": [
+          "主要研究方向:计算机视觉中的目标识别与分类，特别是与三维估计和跟踪相结合;自上而下的分割;机器学习。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 6,
+        "name": "图像识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 8,
+        "code": 7,
+        "name": "计算机视觉",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 8,
+        "name": "路径规划",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 9,
+        "name": "目标识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 10,
+        "name": "Kaiming He",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 11,
+        "name": "Alexander Kirillov",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 12,
+        "name": "Jitendra Malik",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 13,
+        "name": "Pablo Arbelaez",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 14,
+        "name": "Luc Van Gool",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 15,
+        "name": "Konrad Schindler",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 16,
+        "name": "Bernt Schiele",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 17,
+        "name": "Krystian Mikolajczyk",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 18,
+        "name": "山世光",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": "山世光，博士，研究员，博士生导师。分别于1997年和1999年在哈尔滨工业大学计算机系获得学士和硕士学位；2004年在中科院计算所获计算机应用专业博士学位。主要从事图像处理与理解、计算机视觉、模式识别、机器学习、智能人机交互界面等相关研究工作，特别是与人脸识别相关的研究工作。迄今已在国际/国内期刊、国际会议上发表/录用学术论文150余篇，其中IEEE Trans. on PAMI, IEEE Trans. on Image Processing等国际期刊论文30余篇，计算机视觉领域一流国际会议(CVPR, ICCV, ECCV)论文27篇。与博士生王瑞平合作完成的有关流形到流形距离的论文获CVPR2008 Best Student Poster Award Runner-up奖。现任国际刊物Neurocomputing和EURASIP Journal of Image and Video Processing的编委(AE)，Frontiers of Computer Science的青年编委，曾担任国际期刊IJPRAI、PRL专刊的客座编辑(Guest Editor)，应邀担任了ICPR2014, FG2013, ICPR2012, ACCV2012, ICCV2011的Area Chair，ACCV2014的Workshop Chair, ACM ICMI2010的Local Chair。长期担任IEEE T PAMI/IP/CSVT等十多个重要国际期刊以及国内主流学报的审稿人。",
+        "layoutList": [
+          "山世光，博士，研究员，博士生导师。分别于1997年和1999年在哈尔滨工业大学计算机系获得学士和硕士学位；2004年在中科院计算所获计算机应用专业博士学位。主要从事图像处理与理解、计算机视觉、模式识别、机器学习、智能人机交互界面等相关研究工作，特别是与人脸识别相关的研究工作。迄今已在国际/国内期刊、国际会议上发表/录用学术论文150余篇，其中IEEE Trans. on PAMI, IEEE Trans. on Image Processing等国际期刊论文30余篇，计算机视觉领域一流国际会议(CVPR, ICCV, ECCV)论文27篇。与博士生王瑞平合作完成的有关流形到流形距离的论文获CVPR2008 Best Student Poster Award Runner-up奖。现任国际刊物Neurocomputing和EURASIP Journal of Image and Video Processing的编委(AE)，Frontiers of Computer Science的青年编委，曾担任国际期刊IJPRAI、PRL专刊的客座编辑(Guest Editor)，应邀担任了ICPR2014, FG2013, ICPR2012, ACCV2012, ICCV2011的Area Chair，ACCV2014的Workshop Chair, ACM ICMI2010的Local Chair。长期担任IEEE T PAMI/IP/CSVT等十多个重要国际期刊以及国内主流学报的审稿人。"
+        ]
+      },
+      {
+        "id": 20,
+        "code": 19,
+        "name": "李子青",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": "IEEE院士，获得了工程学士从湖南大学，中国，工程硕士从萨里大学，英国国防科技，中国和博士学位的大学。目前，他是在一个教授模式识别国家重点实验室和主任中心的生物识别与安全技术研究（CBSR），自动化研究所（中科院自动化所），以及中心的物联网研究（VIOT）的视觉互联网的导演，中国科学院。从2000年到2004年，他在微软亚洲研究院担任研究员。在此之前，他是一名副教授南洋 理工大学， 新加坡。他因为对人脸识别，模式识别和计算机视觉领域的贡献而受到提升。",
+        "layoutList": [
+          "IEEE院士，获得了工程学士从湖南大学，中国，工程硕士从萨里大学，英国国防科技，中国和博士学位的大学。目前，他是在一个教授模式识别国家重点实验室和主任中心的生物识别与安全技术研究（CBSR），自动化研究所（中科院自动化所），以及中心的物联网研究（VIOT）的视觉互联网的导演，中国科学院。从2000年到2004年，他在微软亚洲研究院担任研究员。在此之前，他是一名副教授南洋 理工大学， 新加坡。他因为对人脸识别，模式识别和计算机视觉领域的贡献而受到提升。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 20,
+        "name": "表情识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 22,
+        "code": 21,
+        "name": "目标检测",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 23,
+        "code": 22,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 24,
+        "code": 23,
+        "name": "人脸检测",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 24,
+        "name": "Xilin Chen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 25,
+        "name": "Yong Li",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 26,
+        "name": "Kongming Liang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 27,
+        "name": "Hong Chang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 28,
+        "name": "Zhen Lei",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 29,
+        "name": "Dong Yi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 30,
+        "name": "Shifeng Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 31,
+        "name": "Rui Zhu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 32,
+        "name": "Rachid Deriche",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": "是法国IniaSophiaAntipolis（法国）的研究总监，在那里他领导了研究项目Athena，旨在利用计算成像来探索中枢神经系统。他已经出版了60多个期刊和180多个会议论文，其中谷歌学者H索引为67。他被称为边缘检测算法的开发，该算法被命名为在他之后。",
+        "layoutList": [
+          "是法国IniaSophiaAntipolis（法国）的研究总监，在那里他领导了研究项目Athena，旨在利用计算成像来探索中枢神经系统。他已经出版了60多个期刊和180多个会议论文，其中谷歌学者H索引为67。他被称为边缘检测算法的开发，该算法被命名为在他之后。"
+        ]
+      },
+      {
+        "id": 34,
+        "code": 33,
+        "name": "Alan L. Yuille",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": "Alan L. Yuille教授是约翰霍普金斯大学彭博社认知科学和计算机科学的杰出教授。他负责组成认知、视觉和学习的研究小组。他隶属于大脑、心智和机器中心，以及美国国家科学基金会（NSF）在计算、硅视觉皮层方面的研究。",
+        "layoutList": [
+          "Alan L. Yuille教授是约翰霍普金斯大学彭博社认知科学和计算机科学的杰出教授。他负责组成认知、视觉和学习的研究小组。他隶属于大脑、心智和机器中心，以及美国国家科学基金会（NSF）在计算、硅视觉皮层方面的研究。"
+        ]
+      },
+      {
+        "id": 35,
+        "code": 34,
+        "name": "连通性映射",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 35,
+        "name": "图像分割",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 37,
+        "code": 36,
+        "name": "图像分类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 38,
+        "code": 37,
+        "name": "随机森林",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 39,
+        "code": 38,
+        "name": "Olivier D. Faugeras",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 40,
+        "code": 39,
+        "name": "Christophe Lenglet",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 40,
+        "name": "Maxime Descoteaux",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 41,
+        "name": "Demian Wassermann",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 42,
+        "name": "Lingxi Xie",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 43,
+        "name": "Yan Wang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 44,
+        "name": "Wei Shen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 45,
+        "name": "Bo Wang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "目标检测",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 46,
+        "name": "Andrew Zisserman",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "目标检测",
+        "layout": "（1957年出生）是一位英国计算机科学家和牛津大学教授，以及计算机视觉研究人员。截至2014年，他与Deepad有关联。",
+        "layoutList": [
+          "（1957年出生）是一位英国计算机科学家和牛津大学教授，以及计算机视觉研究人员。截至2014年，他与Deepad有关联。"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": 50,
+        "source": 47,
+        "target": 50
+      },
+      {
+        "id": 51,
+        "source": 47,
+        "target": 51
+      },
+      {
+        "id": 52,
+        "source": 48,
+        "target": 52
+      },
+      {
+        "id": 53,
+        "source": 48,
+        "target": 53
+      },
+      {
+        "id": 54,
+        "source": 49,
+        "target": 54
+      },
+      {
+        "id": 55,
+        "source": 49,
+        "target": 55
+      },
+      {
+        "id": 56,
+        "source": 50,
+        "target": 56
+      },
+      {
+        "id": 57,
+        "source": 50,
+        "target": 57
+      },
+      {
+        "id": 58,
+        "source": 51,
+        "target": 58
+      },
+      {
+        "id": 59,
+        "source": 51,
+        "target": 59
+      },
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 4,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "id": 60,
+        "source": 0,
+        "target": 60
+      },
+      {
+        "id": 61,
+        "source": 0,
+        "target": 61
+      },
+      {
+        "id": 18,
+        "source": 1,
+        "target": 18
+      },
+      {
+        "id": 19,
+        "source": 1,
+        "target": 19
+      },
+      {
+        "id": 62,
+        "source": 1,
+        "target": 62
+      },
+      {
+        "id": 63,
+        "source": 1,
+        "target": 63
+      },
+      {
+        "id": 32,
+        "source": 2,
+        "target": 32
+      },
+      {
+        "id": 33,
+        "source": 2,
+        "target": 33
+      },
+      {
+        "id": 64,
+        "source": 2,
+        "target": 64
+      },
+      {
+        "id": 65,
+        "source": 2,
+        "target": 65
+      },
+      {
+        "id": 46,
+        "source": 3,
+        "target": 46
+      },
+      {
+        "id": 47,
+        "source": 3,
+        "target": 47
+      },
+      {
+        "id": 66,
+        "source": 3,
+        "target": 66
+      },
+      {
+        "id": 67,
+        "source": 3,
+        "target": 67
+      },
+      {
+        "id": 6,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "id": 7,
+        "source": 4,
+        "target": 7
+      },
+      {
+        "id": 8,
+        "source": 5,
+        "target": 8
+      },
+      {
+        "id": 9,
+        "source": 5,
+        "target": 9
+      },
+      {
+        "id": 10,
+        "source": 6,
+        "target": 10
+      },
+      {
+        "id": 11,
+        "source": 6,
+        "target": 11
+      },
+      {
+        "id": 12,
+        "source": 7,
+        "target": 12
+      },
+      {
+        "id": 13,
+        "source": 7,
+        "target": 13
+      },
+      {
+        "id": 14,
+        "source": 8,
+        "target": 14
+      },
+      {
+        "id": 15,
+        "source": 8,
+        "target": 15
+      },
+      {
+        "id": 16,
+        "source": 9,
+        "target": 16
+      },
+      {
+        "id": 17,
+        "source": 9,
+        "target": 17
+      },
+      {
+        "id": 20,
+        "source": 18,
+        "target": 20
+      },
+      {
+        "id": 21,
+        "source": 18,
+        "target": 21
+      },
+      {
+        "id": 22,
+        "source": 19,
+        "target": 22
+      },
+      {
+        "id": 23,
+        "source": 19,
+        "target": 23
+      },
+      {
+        "id": 24,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 25,
+        "source": 20,
+        "target": 25
+      },
+      {
+        "id": 26,
+        "source": 21,
+        "target": 26
+      },
+      {
+        "id": 27,
+        "source": 21,
+        "target": 27
+      },
+      {
+        "id": 28,
+        "source": 22,
+        "target": 28
+      },
+      {
+        "id": 29,
+        "source": 22,
+        "target": 29
+      },
+      {
+        "id": 30,
+        "source": 23,
+        "target": 30
+      },
+      {
+        "id": 31,
+        "source": 23,
+        "target": 31
+      },
+      {
+        "id": 34,
+        "source": 32,
+        "target": 34
+      },
+      {
+        "id": 35,
+        "source": 32,
+        "target": 35
+      },
+      {
+        "id": 36,
+        "source": 33,
+        "target": 36
+      },
+      {
+        "id": 37,
+        "source": 33,
+        "target": 37
+      },
+      {
+        "id": 38,
+        "source": 34,
+        "target": 38
+      },
+      {
+        "id": 39,
+        "source": 34,
+        "target": 39
+      },
+      {
+        "id": 40,
+        "source": 35,
+        "target": 40
+      },
+      {
+        "id": 41,
+        "source": 35,
+        "target": 41
+      },
+      {
+        "id": 42,
+        "source": 36,
+        "target": 42
+      },
+      {
+        "id": 43,
+        "source": 36,
+        "target": 43
+      },
+      {
+        "id": 44,
+        "source": 37,
+        "target": 44
+      },
+      {
+        "id": 45,
+        "source": 37,
+        "target": 45
+      },
+      {
+        "id": 48,
+        "source": 46,
+        "target": 48
+      },
+      {
+        "id": 49,
+        "source": 46,
+        "target": 49
+      }
+    ]
+  ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [
+    {
+      "id": "Periodical_zgjcdl201904004",
+      "title": "基于OpenCV的运动目标识别跟踪",
+      "summary": "实时<mark class=highlight>目标检测</mark>与跟踪系统是近年来计算机视觉与模式识别领域的研究热点之一.本文主要是在",
+      "summaryAll": "实时目标检测与跟踪系统是近年来计算机视觉与模式识别领域的研究热点之一.本文主要是在Visual Studio2012平台下, 使用计算机视觉库OpenCV对运动图像进行形态学图像预处理, 以及调用CamShift算法对实时运动目标进行识别跟踪.该算法首先计算目标是HSV空间下的HUE分量直方图, 通过直方图反向投影得到目标像素的概率分布, 再调用CV库中的CamShift算法, 自动跟踪并调整目标窗口的中心位置与大小.实验结果表明, 该算法性能良好, 能够有效地进行实时目标追踪.real-time object detection and tracking system is one of the hot spots in computer vision and pattern recognition in recent years. This paper mainly USES OpenCV, a computer vision library, to preprocess morphological images of motion images under the Visual Studio2012 platform, and calls CamShift algorithm to identify and track real-time moving objects. In this paper, the recognition and tracking stage and the CamShift algorithm are mainly written.This algorithm firstly calculates the HUE component histogram target under the HSV space, the probability distribution of the target pixel is obtained by reverse projection histogram, then call CV repository CamShift algorithm, automatic tracking and adjusting the center of the target window location and size. Experimental results show that the algorithm has good performance and can effectively track real-time target.",
+      "author": "石泽琼",
+      "keywords": "目标跟踪,OpenCV,CamShift,target tracking,OpenCV,CamShift",
+      "citedIndex": 0,
+      "publishDate": "2019-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_dbdxxb201902005",
+      "title": "基于深度神经网络剪枝的两阶段遥感图像<mark class=highlight>目标检测</mark>",
+      "summary": "、速度慢、精确度低.为此提出基于深度神经网络剪枝的两阶段<mark class=highlight>目标检测</mark>(<mark class=highlight>object</mark>",
+      "summaryAll": "在高分辨率遥感图像目标检测中,受云雾、光照、复杂背景、噪声等因素影响,现有目标检测方法虚警率高、速度慢、精确度低.为此提出基于深度神经网络剪枝的两阶段目标检测(object detection based on deep pruning,ODDP)方法.首先,给出深度神经网络剪枝方法,基于深度神经网络剪枝分别提出自主学习区域提取网络算法与优化训练分类网络算法;然后,将上述两算法用于卷积神经网络,得到两阶段目标检测模型.实验结果表明,在NWPU VHR-10高分辨率遥感数据集上,相比现有目标检测方法,ODDP的检测速度和精度均有一定提升.",
+      "author": "王生生",
+      "keywords": "计算机视觉,<mark class=highlight>目标检测</mark>,高分辨率遥感图像,深度学习,卷积神经网络",
+      "citedIndex": 0,
+      "publishDate": "2019-02-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgtxtxxb-a201902012",
+      "title": "面向智能监控的行为识别",
+      "summary": "<mark class=highlight>detection</mark>)并结合LSTM(long short-term memory",
+      "summaryAll": "目的 为了进一步提高智能监控场景下行为识别的准确率和时间效率,提出了一种基于YOLO(you only look once:unified,real-time object detection)并结合LSTM(long short-term memory)和CNN(convolutional neural network)的人体行为识别算法LC-YOLO(LSTM and CNN based on YOLO).方法 利用YOLO目标检测的实时性,首先对监控视频中的特定行为进行即时检测,获取目标大小、位置等信息后进行深度特征提取;然后,去除图像中无关区域的噪声数据;最后,结合LSTM建模处理时间序列,对监控视频中的行为动作序列做出最终的行为判别.结果 在公开行为识别数据集KTH和MSR中的实验表明,各行为平均识别率达到了96.6％,平均识别速度达到215 ms,本文方法 在智能监控的行为识别上具有较好效果.结论 提出了一种行为识别算法,实验结果 表明算法有效提高了行为识别的实时性和准确率,在实时性要求较高和场景复杂的智能监控中有较好的适应性和广泛的应用前景.",
+      "author": "马钰锡",
+      "keywords": "行为识别,<mark class=highlight>目标检测</mark>,深度学习,卷积神经网络,循环神经网络",
+      "citedIndex": 0,
+      "publishDate": "2019-02-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xzsfdxxb-zrkx201901016",
+      "title": "融合图的流形排序与引导学习的显著性<mark class=highlight>目标检测</mark>",
+      "summary": "while preserving high recall in salient <mark class=highlight>object</mark>",
+      "summaryAll": "为了在显著性目标检测中保持高的召回率的同时提高准确率,本文提出了3点改进思路.第一,从超像素中提取简单的视觉特征,如颜色、方向和空间信息;第二,为了克服经典的基于图的流形排序(MR)的显著性目标检测算法中背景先验假设的缺点,使用仿射传导聚类算法(APC)自动聚合超像素为不同的特征类别.根据目标与背景(改进的)边缘连通度的不同,图像边缘的超像素会得到较大的权重即较大的背景概率值,这样边缘上真正的背景超像素就会筛选出来.同时,使用改进的MR算法计算图像的显著性值.第三,为了进一步增强算法的性能,前面第二步的结果可以作为“弱”显著图,利用引导学习算法从中产生“强”显著图得出最终结果.基于3个标准图像库的实验结果证明,本文提出的算法在性能上超过了其它3种优秀算法.To increase precision while preserving high recall in salient object detection,three schemes have been proposed.First,simple visual features,namely color,orientation,and spatial information,are used to represent image superpixels.Second,to overcome the shortage of the boundary prior assumption based on graph-based manifold ranking (MR),the affinity propagation clustering (APC) is utilized to aggregate the superpixels (nodes) to different feature clusters adaptively.According to the modified boundary connectivity,the superpixels along the image boundaries are assigned with different background weights (the values of background probability).The real background seeds are selected and an improved MR method is employed to compute saliency.Third,to further improve the performance,the result of the second step acts as the weak saliency map.The bootstrap learning algorithm is used to generate the strong saliency map and the final result.Comparing with other three state-of-the-art algorithms on three public benchmark datasets,our experimental results demonstrate that our approach outperforms other algorithms.",
+      "author": "张笃振",
+      "keywords": "显著图,流形排序,引导学习,边缘连通度,saliency map,manifold ranking (MR),bootstrap learning,boundary connectivity",
+      "citedIndex": 0,
+      "publishDate": "2019-01-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyjyfz201901015",
+      "title": "多媒体内容理解的研究现状与展望",
+      "summary": "<mark class=highlight>detection</mark>, cross-media retrieval, visual",
+      "summaryAll": "随着多媒体和网络技术的迅猛发展,海量的图像、视频、文本、音频等多媒体数据快速涌现.这些不同媒体的数据在形式上多源异构,语义上相互关联.认知科学研究表明,人脑生理组织结构决定了其对外界的感知和认知过程是跨越多种感官信息的融合处理.如何对不同媒体的数据进行语义分析和关联建模以实现多媒体内容理解,成为了一个研究和应用的关键问题,受到了学术界和工业界的广泛关注.选取了多媒体内容理解的5个最新热点研究方向:图像细分类与检索、视频分类与目标检测、跨媒体检索、视觉描述与生成、视觉问答,分别阐述了它们的基本概念、代表性方法、研究现状等,并进一步阐述了多媒体内容理解面临的重要挑战,同时给出未来的发展趋势,旨在帮助读者全面了解多媒体内容理解的研究现状,吸引更多研究人员投身相关研究并为他们提供技术参考,推动该领域的进一步发展.With the rapid development of multimedia and Internet technologies, a large amount of multimedia data has been rapidly emerging, such as image, video, text and audio.Data of different media types from multi-source is heterogeneous in the form but relevant in the semantic.As indicated in the research of cognitive science, the perception and cognition of the environment is through the fusion across different sensory organs of human, which is decided by the human brain's organization structure.Therefore, it has been a key challenge to perform data semantic analysis and correlation modeling across different media types, for achieving comprehensive multimedia content understanding, which has drawn wide interests of both academic and industrial areas.In this paper, the basic concepts, representative methods and research status of 5latest highlighting research topics of multimedia content understanding are referred, including fine-grained image classification and retrieval, video classification and object detection, cross-media retrieval, visual description and generation, and visual question answering.This paper further presents the major challenges of multimedia content understanding, as well as gives the development trend in the future.The goal of this paper is to help readers get a comprehensive understanding on the research status of multimedia content understanding, draw more attention of researchers to relevant research topics, and provide the technical insights to promote further development of this area.",
+      "author": "彭宇新",
+      "keywords": "多媒体内容理解,图像细分类与检索,视频分类与<mark class=highlight>目标检测</mark>,跨媒体检索,视觉描述与生成",
+      "citedIndex": 0,
+      "publishDate": "2019-01-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xadzkjdx201901020",
+      "title": "自适应权值卷积特征的鲁棒目标跟踪算法",
+      "summary": "parameters.At the same time,an EdgeBoxes <mark class=highlight>detection</mark>",
+      "summaryAll": "针对传统基于固定权值卷积特征的深度学习跟踪算法在部分视频跟踪失败的问题,提出一种新颖的基于响应图和熵函数的评估各卷积神经网络层跟踪性能的方法.该方法能根据评估结果自动调整各层的权值系数;同时引入边界框检测机制,当跟踪响应最大值小于给定阈值时,采用滑动窗口采样一定数量的边界框,并对边界框进行评估,生成初始建议边界框;最后在初始建议边界框的基础上进行相关滤波跟踪,并给出模型更新策略.将文中算法与其他9种算法在OTB-2013视频数据库上进行跟踪仿真,实验结果表明,所提算法具有较高的中心点距离准确率和跟踪成功覆盖率.To solve the tracking failure problem in some videos caused by traditional deep learning tracking algorithms with fixed weight convolutional features,this paper proposes a novel tracking method combing the response map and the entropy function which considers the performance of each layer of convolutional neural networks and automatically adjusts the weight parameters.At the same time,an EdgeBoxes detection scheme is introduced when the maximum value of tracking response is less than a given threshold.A great number of bounding boxes are extracted by a sliding window and are evaluated by the EdgeBoxes detection scheme which generates the original proposal bounding boxes.Finally,the tracking method based on the correlation filter are conducted on the original proposal bounding boxes with the update scheme given.We have tested the proposed algorithm and nine state-of-the-art approaches on OTB-2013video databases.Experimental results demonstrate that the proposed method has a higher precision and overlap rate.",
+      "author": "王海军",
+      "keywords": "目标跟踪,自适应权值,相关滤波,<mark class=highlight>目标检测</mark>,<mark class=highlight>object</mark> tracking,adaptive",
+      "citedIndex": 0,
+      "publishDate": "2019-01-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_hbgxycsjsxb201901010",
+      "title": "基于增量学习的X射线安检系统检测算法研究",
+      "summary": "the algorithm can detect new dangerous <mark class=highlight>object</mark>",
+      "summaryAll": "针对现有智能X射线安检系统对新出现的异种危险物无法进行有效检测以及重新训练模型效率低的问题, 研究了一种基于增量学习的X射线安检系统目标检测算法.该算法将传统目标检测网络faster rcnn中的特征提取器替换为残差网络, 并在该网络的最后全连接层通过增加对应于新类的目标分类与边框回归神经元构成目标检测的增量学习网络, 在该增量网络的损失函数中引入蒸馏损失解决新数据更新网络引起的灾难遗忘问题.最后, 在X射线安检系统原7类数据训练模型的基础上依次增加1类新目标数据继续训练并检测, 新增目标识别率不低于90％.该算法在保持网络对旧类检测能力的同时, 也能将新增危险物以较高的精度检测出来.A target detection algorithm for X-ray security inspection system based on incremental learning was studied aiming at problems that the existing intelligent X-ray security inspection system can't effectively detect heterogeneous dangerous objects which emerges newly, and retraining is inefficient.In the method, the feature extractor of faster rcnn which was in traditional target detection network was replaced by the residual network, and an incremental learning network was constructed of Target Detection by adding target classification and border regression neurons corresponding new classes in the last fully connected layer of the network, and that distillation loss was introduced in the loss function of the incremental network to solve the catastrophic forgetting problem which was caused by updating the network with only new data.Finally, based on the original 7-class data training model of the X-ray security system, one class of new target data is sequentially added to continue training and detection, and recognition rate of the new target is not less than 90％.The experimental results show that the algorithm can detect new dangerous object with high precision while maintaining the detection ability of old classes.",
+      "author": "田敏皓",
+      "keywords": "<mark class=highlight>object</mark> <mark class=highlight>detection</mark>,security inspection system",
+      "citedIndex": 0,
+      "publishDate": "2019-01-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgkjlwzx201820013",
+      "title": "基于局部特征的铁路驾驶员<mark class=highlight>目标检测</mark>",
+      "summary": "a multiple <mark class=highlight>object</mark> <mark class=highlight>detection</mark> method based",
+      "summaryAll": "针对移动背景、光照变化和目标遮挡给铁路驾驶员目标检测带来的困难,将驾驶员局部区域作为感兴趣目标,提出了基于局部特征的多目标检测,采用自下而上的局部特征提取思路,将帧差法和肤色信息结合,有效地检测手部和头部,并用颜色迁移法避免光照干扰;采用针对头部图像梯度特征的HOG+SVM训练分类器,自动识别图像中的头部,对检测到的目标进行分类.实验结果显示,与传统Cascade相比,所提方法满足实时性要求,而且准确率较高,能够有效地检测目标.The noise induced by moving background, illumination variation and object occlusion brings difficulties for object detection of train driver.This paper proposed a multiple object detection method based on local features by regarding local areas as object of interest, which is a bottom-up processing for local feature extraction.The combination of frame difference and skin color information can effectively detect the hands and head.Meanwhile, color transfer was used to avoid illumination interference.HOG+SVM was used to train a classifier for the gradient feature of head, which automatically recognizes head in the image to classify the detected objects.The experimental results demonstrate that the proposed method meets the real-time demand and has high accuracy compared with the traditional Cascade, which can effectively detect the object.",
+      "author": "王正友",
+      "keywords": "<mark class=highlight>目标检测</mark>,特征提取,帧差法,支持向量机,梯度特征,<mark class=highlight>object</mark> <mark class=highlight>detection</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-09-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_nygcxb201809024",
+      "title": "基于时空域联合信息的高原鼠兔运动<mark class=highlight>目标检测</mark>",
+      "summary": "The traditional <mark class=highlight>object</mark> <mark class=highlight>detection</mark> method",
+      "summaryAll": "自然场景下的高原鼠兔序列图像对比度低,边缘较弱,目标包含多色彩且目标运动具有突变性.针对传统运动目标检测方法不能精确提取多色彩目标轮廓的问题,提出一种基于时空域联合信息的运动目标检测方法.首先,利用背景减法确定当前帧图像中目标的形心位置,得到粗分割图像及初始轮廓,然后用改进Chan-Vese(CV)模型对粗分割图像进行分割,改进 Chan-Vese 模型对多色彩目标图像适应性强,从而获得精确的目标轮廓.鉴于几何活动轮廓模型在图像分割过程中需不断初始化水平集函数,且初始化计算量随图像规模的增大而增多,该文在背景减法获得目标形心的基础上,以形心为中心,截取包含目标的图像块作为粗分割图像,然后利用改进 Chan-Vese 模型对粗分割图像精确分割,以减少分割耗时.该文对包含50帧图像的视频处理,试验结果显示:该文方法耗时仅为15.25 s,相似度指数平均为0.852929, Jaccard指数平均为0.74457.和背景减与CV模型相结合的运动目标检测方法相比,该文方法过分割率低,无冗余轮廓,且耗时短;和背景减与改进 CV 模型相结合的运动目标检测方法相比,该文实时性更高;该文所提出的目标检测方法可精确提取目标轮廓且实时性高.Ochotona curzoniae is an endemic species and key species in the alpine meadow of the Tibetan Plateau and also it is a main kind of organism that destroys the grassland ecology of the plateau. In order to prevent the dangers of the ochotona curzoniae, we need to study the living habits of ochotona curzoniae and investigate the degree of harm of ochotona curzoniae, and then we can control the number of ochotona curzoniae through the effective preventive measures. With the development of sensing technology and image processing, we can provide an objective basis through intelligent monitoring system to control the damage of ochotona curzoniae. The object detection of ochotona curzoniae is a key technology in the intelligent monitoring equipment because it can provide the object contour feature for behavior analysis of ochotona curzoniae. The object detection of ochotona curzoniae is very difficult, because the ochotona curzoniae video possesses the characteristics of complex background, low contrast, the object color with intensity inhomogeneity, diversity and mutability. The traditional object detection method cannot extract the object contours accurately. This paper presents a fast object detection method based on space-time domain. Firstly, the centroid position of the object in the current frame image is determined by the background subtraction, and then the rough segmented image and the initial contour are obtained based on the centroid position. The rough segmented image is segmented by the improved Chan-Vese model, and then we can obtain the object contours. In view of the fact that the level set function needs to be initialized in the process of improved Chan-Vese model, and the initialized computation is enhanced with the increase of the image scale, the centroid of the object is taken as the center to intercept the image containing the object as the roughly segmented image. Then, the improved Chan-Vese model is used to segment the roughly segmented image, so as to reduce the time consumption of Chan-Vese model segmentation. In addition, as Chan-Vese model can't fully segment the image of object whose color is diverse and mutable, we use the improved Chan-Vese model to segment the roughly segmented image. The internal pixels of image evolution contours were processed by K-means clustering, and the clustering center point values were obtained. The internal fitting values of Chan-Vese model were constructed by the clustering center point values and the image mean filtered intensity information, thereby improving the adaptability of Chan-Vese model for complex object image segmentation.In addition, rectangular Dirac function was used to replace regularized Dirac function in the energy function of Chan-Vese model, and the calculation of level set evolution equation could be limited to the zero level set so as to avoid the influence of the image background disturbance on the segmentation result. In this paper, the video processing with 50 frames of images shows that the time consumption of this method is only 15.25 s, the average value of Dice similarity coefficient is 0.852 929, and the average value of Jaccard index is 0.744 57. In summary, the object detection method proposed in this paper can accurately extract the object contour and has a high real-time performance.",
+      "author": "张爱华",
+      "keywords": "图像处理,图像分割,算法,背景减法,改进Chan-Vese模型,时空域联合,高原鼠兔,image processing,image segmentation,algorithms,background subtraction,improved Chan-Vese model,spatio-temporal combination,Ochotona curzoniae",
+      "citedIndex": 0,
+      "publishDate": "2018-09-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xxwxjsjxt201806013",
+      "title": "适宜于高清监控视频的多ROI背景建模方法",
+      "summary": "两种方法检测时间上相较与Online RPCA背景建模方法时间大大减少,并且检测效果上保证<mark class=highlight>目标检测</mark>的精确度",
+      "summaryAll": "针对智能监控领域精确运动检测的高实时性的需求,本文提出两种基于RPCA背景建模方法.方法I 提出平均网格化背景建模法,该方法通过对视频每帧图像进行网格化切分,对每一网格视频帧图像运用多线程并行进行背景建模;方法II提出基于RPCA的多ROI背景建模法,由于视频监控中,往往只有几处感兴趣的目标区域,该方法通过设定多ROI区域级联后进行背景建模,则无须对整个视频帧图像进行背景建模.实验表明,两种方法检测时间上相较与Online RPCA背景建模方法时间大大减少,并且检测效果上保证目标检测的精确度,能够满足对于高清视频的实时监控.Aiming at the high real time demand of accurate motion detection in the field of intelligent video surveillance,two kinds of background modeling methods based on RPCA are proposed in this paper. Method I proposes an average grid background modeling method,the grid is segmented separately for each frame of the video,and the background mod-eling of each grid video frame image is carried out by using multi-thread parallel method. Method II proposes based on RPCA Multi-ROI background modeling method,be-cause video surveillance often only a few region of interest,the methodby setting the multi-ROI region cascade after the background modeling,no need for entire video frame image backgroundmodeling. Experiments show that there is significant improvement of the running speed and ensure the accuracy of target detection of the proposed two background modeling approaches,which is more capable of modeling background of HD surveillance videos than the classical online RPCA approaches.",
+      "author": "汪舟",
+      "keywords": "<mark class=highlight>detection</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgtxtxxb-a201806006",
+      "title": "区域建议网络的细粒度车型识别",
+      "summary": "position through the <mark class=highlight>object</mark> <mark class=highlight>detection</mark>",
+      "summaryAll": "目的 细粒度车型识别旨在通过任意角度及场景下的车辆外观图像识别出其生产厂家、品牌型号、年款等信息,在智慧交通、安防等领域具有重要意义.针对该问题,目前主流方法已由手工特征提取向卷积神经网络为代表的深度学习方法过渡.但该类方法仍存在弊端,首先是识别时须指定车辆的具体位置,其次是无法充分利用细粒度目标识别其视觉差异主要集中在关键的目标局部的特点.为解决这些问题,提出基于区域建议网络的细粒度识别方法,并成功应用于车型识别.方法 区域建议网络是一种全卷积神经网络,该方法首先通过卷积神经网络提取图像深层卷积特征,然后在卷积特征上滑窗产生区域候选,之后将区域候选的特征经分类层及回归层得到其为目标的概率及目标的位置,最后将这些区域候选通过目标检测网络获取其具体类别及目标的精确位置,并通过非极大值抑制算法得到最终识别结果.结果 该方法在斯坦福BMW-10数据集的识别准确率为76.38％,在斯坦福Cars-196数据集识别准确率为91.48％,不仅大幅领先于传统手工特征方法,也取得了与目前最优的方法相当的识别性能.该方法同时在真实自然场景中取得了优异的识别效果.结论 区域建议网络不仅为目标检测提供了目标的具体位置,而且提供了具有区分度的局部区域,为细粒度目标识别提供了一种新的思路.该方法克服了传统目标识别对于目标位置的依赖,并且能够实现一图多车等复杂场景下的车型细粒度识别,具有更好的鲁棒性及实用性.Objective Over the past few decades,studies on visual object recognition have mostly focused on the category level,such as ImageNet Large-scale Visual Recognition Challenge and PASCAL VOC challenge.With the powerful feature extraction of convolutional neural networks (CNNs),many studies have begun to focus on challenging visual tasks aimed at the subtle classification of subcategories,which is called fine-grained visual pattem recognition.Fine-grained car model recognition is designed to recognize the exact make,model,and year of a car from an arbitrary viewpoint,which is essential in intelligent transportation,public security,and other fields.Research on this field mainly includes three aspects:finding and extracting features of discriminative parts,using the alignment algorithm or 3D object representations to eliminate the effects of posture and angle,and looking for powerful feature extractors such as CNN features.The three methods presented have various degrees of defect,the bottleneck of most part-based models is accurate part localization,and methods generally report adequate part localization only when a known bounding box at test time is given.3D object representations and many other alignment algorithms need complex preprocessing or post-processing of training samples,such as co-segmentation and 3D geometry estimation.Currently,methods based on CNNs significantly outperform those of previous works,which rely on handcrafted features for fine-grained classification,but the location of objects is essential even at test time due to the subtle difference between categories.These methods are difficult to apply in real intelligent transportation because a video frame in a real traffic monitoring scenario typically shows multiple cars in which each car object and parts cannot be assigned with a bounding box.To solve these problems,the present study proposes a fine-grained car recognition method based on deep fully CNNs called region proposal network (RPN),which automatically proposes regions of discriminative parts and car objects.Our method can be trained in an end-to-end manner and without requiring a bounding box at test time.Method RPN is a type of fully CNN that simultaneously predicts object bounding box and scores at each position,which has made remarkable achievements in the field of object detection.We improve RPN with an outstanding deep CNN called deep residual network (ResNet).First,the deep convolution feature of the image is extracted by the ResNet pipeline.Then,we slide a small network over the convolutional feature map and each sliding window is mapped to a low-dimensional vector.The vector is fed into a box-regression layer and box-classification layer;the former outputs the probability of a region,which includes an object,whereas the latter outputs the coordinates of the region by bounding-box regression.Finally,these object regional candidates obtain the specific category and corrected object position through the object detection network and the final recognition result through the non-maximal suppression algorithm.To quickly optimize the model parameters,we use the ImageNet pre-training model to initialize the RPN and object detection network and then share convolutional features between them through joint optimization.Result First,we verify the performance of the proposed method on several public fine-grained car datasets.Stanford BMW-10 dataset has 512 pictures,including 10 BMW serials.However,most CNNs suffered from over-fitting and thus obtained poor results due to the limit of training samples.The Stanford Cars-196 dataset is currently the most widely used dataset for fine-grained car recognition,with 16185 images of 196 fine-grained car models covering SUVs,coupes,convertibles,pickup trucks,and trucks,to name a few.Second,apart from using the public dataset,we conduct the recognition experiment under a real traffic monitoring video.Finally,we carefully analyze the misrecognized samples of our models to explore the improved room of fine-grained methods.Recognition accuracy could be significantly improved by training data augmentation,and all our experiments only use image horizontal flip as data augmentation to compare with other methods with the same standard.The recognition accuracy of this method is 76.38％ in the Stanford BMW-1O dataset and 91.48％ in the Stanford Cars-196 dataset.The method also achieves excellent recognition effect in a traffic monitoring video.In particular,our method is trained in an end-to-end manner and requires no knowledge of object or part bounding box at test time.The RPN provides not only an object detection network with the specific location of the car object but also the distinguishable region,which contributes to the classification.The misrecognized samples are mostly at the same makes,which have tiny visual difference.Methods based on handcrafted global feature templates,such asHOG,achieve 28.3％ recognition accuracy on the Stanford BMW-10 dataset.The most valuable 3D object representations,which trains from 59040 synthetic images,achieves 76.0％ less accuracy than that of our methods.The state-of-the-art method of the Stanford Car-196 dataset without bounding-box annotation is recurrent attention CNN,which is published on CVPR2017 and achieved 92.5％ recognition accuracy by combining features at three scales via a fully connected layer.Experiments show that our method not only outperforms significantly traditional methods based on handcrafted feature but is also comparable with the current state-of-the-art methods.Conclusion We introduce a new deep learning method,which is used in fine-grained car recognition,that overcomes the dependence of the traditional object recognition on the object location and can realize the recognition of cars under complex scenes,such as multiple vehicles and dense vehicles with high accuracy.The findings of this study can provide new ideas for fine-grained object recognition.Compared with traditional methods,the proposed model is better in terms of robustness and practicability.",
+      "author": "杨娟",
+      "keywords": "深度学习,卷积神经网络,车型识别,细粒度分类,图像分类,deep learning,convolutional neural networks,car recognition,fine-grained recognition,image classification",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jdgc201806001",
+      "title": "基于深度学习的气泡水平尺自动矫正系统研究",
+      "summary": "针对气泡水平尺大角度偏斜工件的自动矫正问题,对深度学习<mark class=highlight>目标检测</mark>领域的模型进行了研究",
+      "summaryAll": "针对气泡水平尺大角度偏斜工件的自动矫正问题,对深度学习目标检测领域的模型进行了研究,设计了一种基于深度学习的自动矫正方案.在不同光照条件的气泡工件图片样本集上,采用k-means聚类方法,分析了不同anchor box数量对YOLO检测性能的影响,对比了YOLO与SSD两种模型的检测准确率和平均IOU;同时结合概率霍夫变换与最小二乘法,设计了两种气泡工件参考线边缘拟合方法,并对比了两种拟合方法计算工件偏斜角度的准确度;针对应用场景,采用Client/Server网络结构,服务端接收客户端采集的图像并将计算结果返回,客户端控制电机对偏斜工件进行了自动矫正.研究结果表明:该方案能对气泡大角度偏斜的工件进行检测,相比现有方案矫正的效率更高.Aiming at the automatic correction of the bubble level with large angle of inclination,the models in the field of deep learning ob-ject detection were studied,and a method based on deep learning object detection models was designed.The YOLO and SSD models were trained on the data set of bubble level images with different light conditions.By adopting K-means clustering algorithm,the effect of different anchor box numbers on YOLO model's performance was analyzed.And two models'detection accuracy and average IOU werecompared.Two edge fitting methods combining Progressive Probabilistic Hough transform with least square method were designed and two methods'accuracy was compared.Aiming at this application,Client/Server network structure was used.The images were sent to the server and calculated.The calculation results were sent back to the client to control motor to correct the bubble level.The results indicate that the proposed method can detect the bubble level with large angle of inclination,and is more efficient than the conventional methods.",
+      "author": "刘尧",
+      "keywords": "气泡水平尺,YOLO,SSD,概率霍夫变换,最小二乘法,bubble level,YOLO,SSD,progressive probabilistic hough transform,least square method",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgtxtxxb-a201806001",
+      "title": "数字视频区域篡改的检测与定位",
+      "summary": "and the algorithm based on the moving <mark class=highlight>object</mark>",
+      "summaryAll": "目的 数字视频区域篡改是指视频帧图像的某个关键区域被覆盖或被替换,经过图像编辑和修补之后,该关键区域的修改痕迹很难通过肉眼来分辨.视频图像的关键区域承载了视频序列的关键语义信息.如果该篡改操作属于恶意的伪造行为,将产生非常严重的影响和后果.因此,视频区域篡改的检测与定位研究具有重要的研究价值和应用前景.方法 数字图像的复制粘贴篡改检测已经取得较大的研究进展,相关研究成果也很多.但是,数字视频区域篡改的检测与定位不能直接采用数字图像的复制一粘贴篡改取证算法.数字视频区域篡改检测与定位是数字视频被动取证研究领域中的一个新兴的研究方向,近年来越来越多的学者在该领域开展研究工作.目前,数字视频的区域篡改检测与定位研究还缺少完善的理论支撑和通用的检测与定位算法.在广泛调研最近几年的最新研究成果的基础上,对数字视频区域篡改的被动取证概念及重要性进行了介绍,将现有的数字视频区域篡改被动取证算法分为4类:基于噪声模式的算法、基于像素相关性的算法、基于视频内容特征的算法和基于抽象统计特征的算法.然后,对这些区域篡改检测与定位的算法进行对比分析,并介绍现有的视频区域篡改软件和算法,以及篡改检测算法的测试数据库.最后,对本研究领域存在的问题和挑战进行总结,并对未来的研究趋势进行展望.结果 选取了20篇文献中的18种算法,分别介绍每种算法的算法原理,并对这些算法进行对比分析.大部分的算法都宣称可以检测并定位出篡改可疑区域,但是检测和定位的精度、计算复杂度都各有差异.其中,基于时空域的像素相关性分析的算法具有较好的检测和定位效果,并且支持运动背景视频中的运动目标删除篡改检测和定位.基于光流平滑性异常的算法和基于运动目标检测的算法都是基于公开的视频篡改测试库进行比较测试的,两种算法都具有较好的检测和定位效果.基于隐写分析特征提取的集成分类算法虽然只能实现时域上的篡改定位,不能实现更精细的空域篡改定位,但是该算法为基于机器学习的大规模视频篡改取证研究提供了新思路和可能的发展方向,具有较大的指导意义.结论 由于视频编码压缩引入噪声,以及视频区域篡改软件工具和技术的改进,视频区域篡改检测和定位仍是一个极具挑战的课题.未来几年,基于视频内容特征和抽象统计特征的视频区域篡改检测和定位算法,有可能结合深度学习算法,得到进一步的研究和发展;相关的理论算法、系统模型和评价标准等研究成果将逐步完善.Objective Digital video regional tampering is a technology that can overwrite or replace a critical area of a video frame.After image inpainting,the modified traces of the critical area cannot be directly identified by human eyes.The critical region of the video frame carries the key semantic information of the video sequence.If the video regional tampering is a malicious behavior of the attacker,then it will have a serious impact.Therefore,detection and localization of video regional tampering have significant research value and application prospects.Method The detection of digital image copymove tampering has been successful and many methods have been proposed.However,the detection and localization of digital video regional tampering cannot directly use tampering detection algorithms of digital images.Video tampering detection and localization are new research topics in digital video passive forensics.In recent years,numerous scholars have focused on the research on video tampering detection.However,no systematic theoretical framework or universal algorithm for regional tampering detection and location of digital videos is available at present.The concept and importance of digital video regional tampering forensics are first introduced based on extensive studies and achievements reported on the existing literature.Then,the current passive forensic algorithms for video regional tampering are divided into the following four categories:based on pattern noise,based on pixel correlation,based on video codec features,and based on statistical features.These passive forensic algorithms are discussed and compared,and video regional tampering tools and video forensic data sets are introduced.Finally,we summarize the problems and challenges and propose possible future research trends in video regional tampering detection and location.Result In this study,we select 18 algorithms in 20 works to introduce the methods of each algorithm and compare the algorithms individually.Most of the algorithms claim that they can detect and locate tampering region,but the accuracy and computational complexity of detection and localization are different.Among these methods,the algorithm based on pixel spatial-temporal coherence analysis has achieved good detection and localization performance in moving background video sequences.The algorithm based on the optical flow smoothing anomaly and the algorithm based on the moving object detection have obtained good detection performance on the public video forgery dataset.The ensemble classification algorithm based on steganalysis feature extraction is a tampering localization method in the temporal domain based on machine learning and steganalysis feature extraction.Although this method cannot achieve spatial tampering localization,it develops a new research direction based on machine learning for large-scale video tampering detection.Conclusion Video regional tampering detection and localization are challenging research topics due to the noise introduced by video compression and the improvement of video tampering software tools.In the next several years,the video regional tampering detection and localization algorithm based on video content feature and abstract statistical characteristics may be further studied and developed in combination with deep learning networks.Furthermore,theoretical framework,system model,and evaluation standard will be gradually improved.",
+      "author": "姚晔",
+      "keywords": "抽象统计特征,video passive forensic,tampering <mark class=highlight>detection</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_dianxjs201806011",
+      "title": "一种多视角自适应的模板匹配<mark class=highlight>目标检测</mark>方法",
+      "summary": "基于灰度的模板匹配方法难以解决航空图像多视角变换问题,而基于特征点的模板匹配方法难以解",
+      "summaryAll": "基于灰度的模板匹配方法难以解决航空图像多视角变换问题,而基于特征点的模板匹配方法难以解决低分辨率小目标模板图像匹配不稳定的问题.为此,提出了一种基于变换矩阵空间优化搜索的模板匹配方法.首先将多视角下的投影变换空间进行离散化建模,利用归一化灰度的模板与实时图像,以投影后模板图像与实时图像之间的绝对误差和( SAD)建立优化模型;然后通过优化搜索算法寻找到模板图像与实时图像之间的最优变换矩阵,检测出实时图像中的包含的模板目标;最后针对搜索的时间复杂度较高问题设计了基于分支界限法的加速算法.利用公开数据集和实际图像进行仿真实验,结果表明所提的模板匹配方法相比传统特征匹配方法对于高斯噪声、高斯模糊和图像有损压缩等图像退化具有更好的适应性,在大视角差异和低分辨率条件下具有更低的投影误差和更高的稳定性,并解决了单模板多目标的匹配检测问题.Gray-level-based template matching method is difficult to solve the problem of projective varia-tions due to multiple viewpoints of images,and feature-based matching method can't yet handle the tem-plate image of small target with low resolution. Aiming at above problems, a template matching method based on optimization searching in projective transform matrix space is proposed. Firstly,the optimization search space is established by discretizing the real projective space of multiple views. Secondly,an optimi-zation model is created with the sum of absolute difference( SAD) of normalized template and real-time im-ages. Thirdly,an optimization searching algorithm is designed for finding the optimal projective matrix be-tween template and real-time images,which means that the targets in the real-time images corresponding to the template have been detected. Finally,for the high time complexity of the searching algorithm,a new algorithm based on branch and boundary is designed to accelerate the optimization searching. Experiments on VOC 2010 data-set and captured images of actual complex scene demonstrate that the proposed method performs more adaptively than SIFT-based matching method on degradations of images,such as Gaussian blurring,Gaussian noise and JPEG compression,and also more robust with lower projective error for images matching with low resolution and great difference of multiple viewpoints. Particularly,the proposed method perfectly solves matching of single template with images of multi-target.",
+      "author": "袁伟",
+      "keywords": "<mark class=highlight>目标检测</mark>,模板匹配,多视角差异,分支界限法,<mark class=highlight>object</mark> <mark class=highlight>detection</mark>,",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xajtdxxb201806002",
+      "title": "一种高分辨率遥感图像视感知<mark class=highlight>目标检测</mark>算法",
+      "summary": ".An effective <mark class=highlight>object</mark> <mark class=highlight>detection</mark> approach",
+      "summaryAll": "针对大幅面高分辨率光学遥感图像目标检测尚存在着检测精度和效率低的问题,提出了一种高分辨率遥感图像视感知目标检测算法.该算法首先通过显著区域有选择性的引导获取场景中的子区域,将计算资源转移到可能包含目标的区域中,以降低计算复杂度;然后,利用基于单次检测器(YOLO)卷积神经网络目标检测模型获取预选目标;最后,提出目标语义关联抑制对获取的预选目标进行筛选得到有效目标,能够减少虚假目标的干扰,降低虚警率.所提算法在公开NWPU_VHR-10数据集上的平均检测精度为0.865,高于对比算法,在包含更多高分辨率的LUT VHR-VOC-2数据集上,比YOLO的检测效果更好.实验结果表明,所提算法提高了大幅面高分辨率遥感图像的目标检测精度.An effective object detection approach with visual perception for high-resolution remote sensing images is proposed to address the problem that the accuracy and speed of existing object detection algorithms of remote sensing images are low,especially in large-scale and high-resolution remote sensing images.Firstly,some sub-regions are selected in the scene using a saliency map,and then transfer computing resources to the area that may contain objects to reduce the computational complexity.Then,pre-selected objects are obtained by a fast learning model YOLO (you only look once).An object semantic association suppress is proposed to screen the pre-selected objects for effective objects.It reduces the interference of false objects for reducing the false alarm probability.Experimental results on NWPU_VHR-10 dataset show that the proposed algorithm is the best,and the mean average precision (mAP) is 86.53％.The results of the proposed algorithm are much better than those of YOLO on LUT_VHRVOC-2 dataset which contains more large-scale and high-resolution remote sensing images.It is concluded that the performance of the high-resolution remote sensing image is improved by the proposed algorithm.",
+      "author": "李策",
+      "keywords": "remote sensing image,<mark class=highlight>object</mark> <mark class=highlight>detection</mark>,",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjgcysj201806032",
+      "title": "结合梯度直方图贝叶斯理论视频行人检测",
+      "summary": ",生成概率图像;采用OTSU方法自适应分割概率图像,得到每一帧图像最终的行人<mark class=highlight>目标检测</mark>结果",
+      "summaryAll": "面向监控视频的行人检测应用需求,提出一种结合贝叶斯理论的行人检测方法.采用Vibe算法提取前景目标区域,得到二值掩膜图像,降低背景区域引起的虚警现象和时间耗费;在前景区域提取方向梯度直方图特征,采用支持向量机分类器检测行人目标,得到行人目标矩形窗口集;基于二值掩膜图像和行人目标矩形窗口集,计算各像素点属于行人目标的先验概率和似然,基于贝叶斯理论估计后验概率,生成概率图像;采用OTSU方法自适应分割概率图像,得到每一帧图像最终的行人目标检测结果.在Caltech数据集的行人检测结果表明,该方法的真正率和检测帧率高,假正率极低.A pedestrian detection method based on Bayesian theory was proposed for facing pedestrian detection application need of surveillance video.The Vibe algorithm was used to extract foreground object regions,and a binary mask image was obtained,for reducing false alarm phenomena and time consuming caused by these background regions.Features of histogram of oriented gradients on foreground regions were extracted,and support vector machines classifier was used to detect pedestrian objects and a set of pedestrian objects' rectangles was obtained.Prior and likelihood of each pixel belonging to the pedestrian were computed based on the binary mask image and the set of pedestrian objects' rectangles,and posterior probability was estimated and a probability image was generated based on Bayesian theory.OTSU method was used to segment the probability image adaptively,and final pedestrian detection results of each frame were obtained.The pedestrian detection results on Caltech dataset show that,the proposed method has high true positive and detection frame rate,and very low false positive.",
+      "author": "武海燕",
+      "keywords": "行人检测,贝叶斯理论,方向梯度直方图,支持向量机,运动检测,pedestrian <mark class=highlight>detection</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgtxtxxb-a201806007",
+      "title": "复合域的显著性<mark class=highlight>目标检测</mark>方法",
+      "summary": "目的 针对显著性<mark class=highlight>目标检测</mark>方法生成显著图时存在背景杂乱、检测区域不准确的问题,提出基于复合域的显著性<mark class=highlight>目标检测</mark>方法",
+      "summaryAll": "目的 针对显著性目标检测方法生成显著图时存在背景杂乱、检测区域不准确的问题,提出基于复合域的显著性目标检测方法.方法 首先,在空间域用多尺度视网膜增强算法对原图像进行初步处理;然后,在初步处理过的图像上建立无向图并提取节点特征,重构超复数傅里叶变换到频域上得到平滑振幅谱、相位谱和欧拉谱,通过多尺度高斯核的平滑,得到背景抑制图;同时,利用小波变换在小波域上的具有多层级特性对图像提取多特征,并计算出多特征的显著性图;最后,利用提出的自适应阈值选择法将背景抑制图与多特征的显著性图进行融合,选择得到最终的显著图.结果 对标准测试数据集MSRA10K和THUR15K中的图像进行显著性目标检测实验,同目前较流行的6种显著性目标检测方法对比,结果表明上述问题通过本文方法得到了很好地解决,即使在背景复杂的情况下,本文算法的准确率、召回率均高于对比算法,在MSRA10K数据集中,平均绝对误差(MAE)值为0.106,在THUR15K数据集中,平均绝对误差(MAE)值降低至0.068,平均结构性指标S-measure值为0.844 9.结论 基于复合域的显著性目标检测方法,融合多个域的优势,在抑制杂乱的背景的同时提高了准确率,适用于自然景物、生物、建筑以及交通工具等显著性目标图像的检测.Objective Saliency object detection with development of human visual attention mechanism has been widely studied by computer vision researchers.Visual significance is an important mechanism of human visual system.It simulates the human visual attention mechanism,extracts the most interesting areas of the scene quickly and accurately,and ignores redundant information.Saliency object detection has been widely used in image compression,segmentation,redirection,video coding,target detection,recognition,and many other tasks.Although numerous significant target detection methods are available,problems remain.For example,the detection results look well when the background is simple,but when the background is complex,the results may have some uncertainty as regards the environment,cluttered background in the area around the target,or influence of selection on the significant target detection method.The problem of cluttered background and inaccurate detection area often occurs when the salient object detection method generates significant graphs.To solve these problems,saliency object detection method is proposed based on complex domain.The complex domain combines frequency,spatial,and wavelet domains;takes advantage of the complex domain to combine the advantages on three domains;and suppresses the background to obtain an accurate and clear salient target area.Method Environmental conditions are one of the key factors that influence saliency object detection;for example,weak light or foggy days can cause unclear images and lead to poor results of significant target detection.Multi-scale retinex is an image enhancement algorithm based on color theory.By introducing multi-scale retinex algorithm,the image restoration is realized by linear weighting in the process of dynamically scaling a picture.First,multi-scale retinex enhancement algorithm is used to preliminarily process the original image in spatial domain and exclude environmental impacts.Mter image processing,the brightness becomes more appropriate to the real scene brightness,and the foreground and background contrast is also significantly improved.In addition to the environmental impact,the background areas of the non-significant target often occupy most of the image space in the saliency object detection images.These background areas increase the error detection problem and reduce the accuracy rate.Experiments found that most background areas are the sky,trees,grasslands,and buildings,which are beyond the scope of this study.The characteristics of the background areas with repeatability can be suppressed by hyper-complex Fourier transform.Then,undirected graph is established and node features on the images are extracted preliminarily.The hyper-complex Fourier transform in the frequency domain is reconstructed to acquire the smoothing amplitude spectrum,phase spectrum,and Euler spectrum.Then,background suppression graphs are obtained through the smoothness of multi-scale Gaussian kernel.At the same time,the multi-level feature of wavelet transform in the wavelet domain is utilized to extract multiple features in terms of images,and the saliency graph of multiple features is calculated.The saliency graph effectively preserves the details of the image because of the unique localization characteristics of the wavelet domain.Finally,the proposed adaptive threshold selection method is used to fuse the background suppression diagram with the saliency graph of multiple features and the final saliency graph is selected and obtained.The final saliency figure suppresses the back-ground while preserving the details of the image.Result To make the experimental effect persuasive,saliency object detection experiments in the standard test dataset images MSRA10K and THUR15k are conducted.MSRA10K datasets consist of 10 000 images of hand-annotated and accurate to pixel-level salient target annotations,including images of natural scenery,biology,architecture,and transportation.THUR15K datasets consist of 15 000 web images with five keywords,namely,butterflies,airplanes,giraffes,cups,and dogs,representing significant targets with pixel precision as the former datasets.The two datasets are public standard image databases and are widely used in salient target detection and image segmentation.A total of 300 background-complex pictures are selected from each dataset,under the same experimental conditions,and compared with six popular significant target detection methods.Results show that the problems presented by our method had a good solution.Even in a complex environment,the accuracy and recall rate of the algorithm are higher than those of state-of-the-art contrast algorithms.In MSRA10k datasets,the mean absolute error (MAE) value is 0.106;in THUR15K datasets,the mean absolute error value was reduced to 0.068,and the average structure (s) measure value was 0.844 9.The result of the MAE evaluation reflects the advantage of a saliency object detection method based on complex domain in terms of overall performance,and the s-measure indicates that the detected target is highly similar to the structure of the target of the ground truth graph.Conclusion Saliency object detection is a promising preprocessing operation in image processing and analysis.In this study,a new saliency object detection method based on complex domain is proposed.Multi-scale retinex algorithm in spatial domain can be used for pretreatment of images;it enhances contrast and prevents images from being affected by environmental factors.Hyper-complex Fourier transform in the frequency domain can suppress complex repetitive background regions,and the significant target detection method in the wavelet domain can completely describe the details of the target.Moreover,the proposed algorithm integrates the advantages of multiple domains and improves the accuracy while suppressing background clutter.Thus,the proposed algorithm is suitable for detecting significant target images,such as natural scenery,biology,architecture,and transportation.To improve the algorithm speed,our next research project aims to reduce the complexity of the algorithm by using the influence of wavelet transform function on time complexity.",
+      "author": "崔丽群",
+      "keywords": "显著性<mark class=highlight>目标检测</mark>,多尺度视网膜增强算法,超复数傅里叶变换,小波变换,自适应阈值选择法",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_ygjsyyy201806012",
+      "title": "基于深度学习的国产高分遥感影像飞机目标自动检测",
+      "summary": "paper can be generalized to other land <mark class=highlight>object</mark>",
+      "summaryAll": "基于高分辨率遥感影像进行飞机目标的自动检测对精确掌握飞机的空间位置具有重要意义.由于飞机姿态不一、背景复杂、轮廓不完整等原因,导致飞机自动检测的难度较大、检测精度不高.传统飞机检测方法主要基于人工特征和机器学习分类器,在算法鲁棒性、位移、旋转不变性等方面表现欠佳.为了解决上述问题,通过引入深度神经网络模型和迁移学习策略,基于国产高分辨率遥感影像实现了飞机目标的高精度检测.具体而言,首先构建了多尺度飞机样本数据库,并基于YOLO V2目标检测模型进行迁移学习,从而提高飞机检测模型的精度和鲁棒性.以上海浦东机场GF-2影像为例进行飞机目标检测实验,实验结果表明:飞机召回率为92.25％,正确率为94.93％;通过深度学习和模型迁移可以实现小样本情况下的飞机目标高精度检测.该方法可以推广到其他地物的检测和识别中,具有较好的推广意义和价值.It is of great significance to automatically detect aircrafts from remote sensing imagery to get their locations.However, due to aircraft posture variance, complicated background and incomplete outlines, it is challenging to achieve a high aircraft detection accuracy.Traditional aircraft detection methods are usually based on hand-crafted features and machine learning based classifiers, which is not robust enough for the translation and rotation variations.To tackle the above issues, this paper introduces deep convolutional neural network and the strategy of transfer learning to detect aircrafts from Chinses domestic satellite remote sensing images.Specifically, this paper first constructs an aircraft sample database, which consists aircrafts of different sizes and poses.Afterwards, YOLO V2 trained with natural images is utilized as the detection model and is further fine-tuned with aircraft samples to increase the robustness and performance.Experiments were done on the Shanghai Pudong airport from Chinese GF-2remote sensing data.Experimental results showed a good performance with a recall of 92.25％and a precision of 94.93％.It is indicated that deep learning together with model transfer can get a high aircraft detection accuracy with limited training samples.The method in this paper can be generalized to other land object detection problems which shows a good promotional value.",
+      "author": "李淑敏",
+      "keywords": "image,Deep learning,<mark class=highlight>Object</mark> <mark class=highlight>detection</mark>,Aircraft",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgtxtxxb-a201805001",
+      "title": "中国图像工程:2017",
+      "summary": "and edge <mark class=highlight>detection</mark>,and <mark class=highlight>object</mark> feature",
+      "summaryAll": "目的 本文是关于中国图像工程的年度文献系列综述之二十三.为了使国内广大从事图像工程研究和图像技术应用的科技人员能够较全面地了解国内图像工程研究和发展的现状,能够有针对性地查询有关文献,且向期刊编者和作者提供有用的参考,对2017年度图像工程相关文献进行了统计和分析.方法 从国内15种有关图像工程重要中文期刊在2017年发行的共148期上所发表的2 932篇学术研究和技术应用文献中,选取出771篇属于图像工程领域的文献,并根据各文献的主要内容将其分别归入图像处理、图像分析、图像理解、技术应用和综述评论5个大类,然后进一步分入23个专业小类(与前12年相同),并在此基础上分别进行各期刊各类文献的统计和分析.结果 根据对2017年统计数据的分析可以看出:图像分析方向当前得到了最多的关注,其中目标检测和识别、图像分割和边缘检测、目标特性的提取分析都是关注的焦点.遥感、雷达、测绘等领域的图像技术研究和应用都最为活跃.结论 中国图像工程在2017年的研究深度和广度还在提高和扩大,仍保持了快速发展的势头.Objective This is the twenty-third one in the annual survey series of the yearly important bibliographies on image engineering in China.The purpose of this statistic and analysis work is mainly to capture the up-to-date development of image engineering in China,to provide a targeted means of literature searching facility for readers working in related areas,and to supply a useful recommendation for the editors of journals and potential authors of papers.Method Considering the wide distribution of related publications in China,771 references on image engineering research and technique are selected carefully from 2 932 research papers published in 148 issues of a set of 15 Chinese journals.These 15 journals are considered as important journals in which papers concerning image engineering have higher quality and are relatively concentrated.Those selected references are classified first into 5 categories (image processing,image analysis,image understanding,technique application and survey),and then into 23 specialized classes according to their main contents (same as the last 12 years).Some analysis and discussions about the statistics made on the results of classifications by journal and by category are also presented,respectively.Result According to the analysis on the statistics in 2017,it seems that image analysis is getting the most attention,in which the focuses are mainly on object detection and recognition,image segmentation and edge detection,and object feature extraction and analysis.The researches and applications of image technology in the areas of remote sensing,radar and mapping are continuously very active.Conclusion This work shows a general and offthe-shelf picture of the various progresses,either for depth or for width,of image engineering in China in 2017.",
+      "author": "章毓晋",
+      "keywords": "图像工程,图像处理,图像分析,图像理解,技术应用,文献综述,文献统计,文献分类,文献计量学,image engineering,image processing,image analysis,image understanding,technique application,literature survey,literature statistics,literature classification,bibliometrics",
+      "citedIndex": 0,
+      "publishDate": "2018-05-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_wjfz201805013",
+      "title": "基于全卷积网络的<mark class=highlight>目标检测</mark>算法",
+      "summary": "(mAP)达到64.5.<mark class=highlight>Object</mark> <mark class=highlight>detection</mark> is a primary",
+      "summaryAll": "目标检测是计算机视觉的一项重要任务,其主要内容是定位图像中出现的目标,并对其进行分类.主流算法普遍基于卷积加全连接的结构,存在模型参数巨大、检测效率低下等问题.而在现实应用中,比如自动驾驶车载系统、智能监控系统中对行人、车辆等目标的检测,往往对目标检测算法的实时性具有较高要求.为此,提出一种基于全卷积神经网络的目标检测算法.网络结构完全采用卷积层实现,不仅用卷积进行特征提取,而且用卷积层进行预测,采用多任务学习,大大提高了检测效率并降低了模型复杂度.相比主流深度学习目标检测算法,如YOLO、Faster RCNN,该算法速度更快,模型参数更少,且保持相当的精度,在PASCAL VOC2007权威目标检测库上的平均准确率(mAP)达到64.5.Object detection is a primary mission in computer vision that focuses on localization and classification of objects in an image. Almost all the mainstream algorithms use convolution structure followed by fully connected layer,which lead to huge number of model parameters and poor efficiency.In real application like automatic driving,intelligence CCTV and so on,high inference efficiency is re-quired.For this,we propose a fully convolutional based object detection algorithm.The network structure is implemented by convolution layer,both feature extraction and prediction through convolution.Multi-task learning is utilized to improve detection efficiency greatly and reduce the complexity of model.Compared to YOLO and Faster RCNN,the proposed algorithm is faster,less in model parameters and maintain its precision.The average accuracy on PASCAL VOC2007 dataset reaches to 64.5.",
+      "author": "施泽浩",
+      "keywords": "<mark class=highlight>目标检测</mark>,深度学习,全卷积神经网络,回归,计算机视觉,<mark class=highlight>object</mark> <mark class=highlight>detection</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-05-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjkx201805043",
+      "title": "基于难负样本挖掘的改进Faster RCNN训练方法",
+      "summary": "<mark class=highlight>目标检测</mark>方法甚高速卷积神经网络(Faster Region-based Convolutional",
+      "summaryAll": "目标检测方法甚高速卷积神经网络(Faster Region-based Convolutional Neural Network,Faster RCNN)在训练过程中存在负样本远多于正样本的问题,即数据集不平衡问题.针对该问题,提出了一个综合定位误差和分类误差的判别函数用于判别难正样本,基于该函数和难负样本挖掘提出了改进的自助采样法,并提出了基于该自助采样的“五步训练法”用于训练Faster RCNN.与传统的Faster RCNN训练方法相比,五步法加强了对难样本的学习,提高了网络泛化能力,减少了误判;训练出的模型在Pascal VOC2007数据集上测试的平均正确率均值(mean Average Precision,mAP)提高了2.4％,在FDDB(Face Detection Data Set and Benchmark)相同检出率下误检率降低了3.2％,且边框拟合度更高.In the training process of object detection method named Faster RCNN (Faster Region-based Convolutional Neural Network),there is a data imbalance problem which means that training data contains an overwhelming number of negative examples.Aiming at this problem,a discriminant function was proposed to distinguish hard positive exam ples,which combines location loss and classification loss.Based on this function and hard negative mining,an improved bootstrap sampling method was proposed.Five-step training method was proposed by introducing the bootstrap sampling into traditional Faster RCNN training.Comparing with the traditional training,this method improves network's generalization ability,reduces false positive rate,and can learn hard example better.The experimental results show that the model trained by five step attains 2.4％ higher mAP(mean Average Precision) on Pascal VOC 2007 dataset,reduces false positive by 3.2％ on FDDB(Face Detection Data Set and Benchmark) with the same true positive rate,and gets higher fitting degree of boundary box.",
+      "author": "艾拓",
+      "keywords": "<mark class=highlight>Object</mark> <mark class=highlight>detection</mark>,Hard negative mining,Bootstrap",
+      "citedIndex": 0,
+      "publishDate": "2018-05-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgtxtxxb-a201804013",
+      "title": "融合双特征图信息的图像显著性检测方法",
+      "summary": "image segmentation,image compression,and <mark class=highlight>object</mark>",
+      "summaryAll": "目的 图像的显著性检测是将图像中最重要的、包含丰富信息的区域标记出来,并应用到图像分割、图像压缩、图像检索、目标识别等重要领域.针对现有研究方法显著性目标检测结果不完整以及单一依靠颜色差异检测方法的局限性,提出一种综合图像底层颜色对比特征图和图像颜色空间分布特征图的显著性检测方法,能够有效而完整地检测出图像中的显著性区域.方法 本文方法结合了SLIC超像素分割和K-means聚类算法进行图像特征的提取.首先,对图像进行SLIC (simple linear iterative clustering)分割,根据像素块之间的颜色差异求取颜色对比特征图;其次,按照颜色特征对图像进行K-means聚类,依据空间分布紧凑性和颜色分布统一性计算每个类的初步颜色空间分布特征.由于聚类结果中不包含空间信息,本文将聚类后的结果映射到超像素分割的像素块上,进一步优化颜色空间分布图;最后,通过融合颜色对比显著图和图像颜色空间分布特征图得到最终的显著图.结果 针对公开的图像测试数据库MSRA-1000,本文方法与当前几种流行的显著性检测算法进行了对比实验,实验结果表明,本文方法得到的显著性区域更准确、更完整.结论 本文提出了一种简单有效的显著性检测方法,结合颜色对比特征图和图像颜色空间分布特征图可以准确的检测出显著性区域.该结果可用于目标检测等实际问题,但该方法存在一定的不足,对于背景色彩过于丰富且与特征区域有近似颜色的图像,该方法得到的结果有待改进.今后对此算法的优化更加侧重于通用性.Objective Saliency detection of images aims to predict areas that are most important and contain abundant information in an image.It has been applied to image segmentation,image compression,and object recognition,etc..Numerous algorithms can be used to compute the saliency of an image,but the resulting saliency map may be incomplete and limited for methods that use color information of images only.A new saliency detection method that combines the color contrast with the color space distribution of images is proposed.Method Simple linear iterative clustering (SLIC) super-pixel segmentation algorithm and K-means clustering algorithm are used to obtain relevant features to reduce time complexity.We utilize a smoothing filter that can remove the noise of images to acquire a smooth image.We divide our algorithm into three steps.First,the image is preprocessed by using the SLIC algorithm,and a color contrast map is obtained according to the color difference among pixel blocks.Pixel is a basic unit of an image.The difference between a pixel and its surroundings in color can partly determine if the pixel is contained in the salient area.According to this rule,we use pixel block instead of pixel to compute the color difference among pixel blocks and combine the distance among pixel blocks to obtain a color contrast map.Second,K-means clustering of the image according to color feature is performed.The filtered image is classified into M classes according to the features in LAB space,and the initial color space distribution of each class is computed on the basis of the compactness of spatial distribution and the uniformity of color distribution.The spatial color distribution of each class is mapped to super-pixel blocks,and the color space distribution map is further optimized to avoid the lack of spatial information in the clustering results.Third,the color contrast map is combined with the feature map of the image color spatial distribution to obtain the final saliency map.Result Our method is compared with several popular detection algorithms on a public image test database called MSRA-1000.Experimental results demonstrate that the saliency map obtained in this study is accurate and complete,which illustrates the effectiveness of the proposed method.The resulting precision-recall and receiver operating characteristic curves show that the proposed method has high accuracy under the same recall rate or the same false positive rate.Conclusion The proposed algorithm combines SLIC super-pixel segmentation and K-means clustering,which optimizes the advantages of the two methods and reduces time complexity.However,the proposed method still has some shortcomings.For example,the color space distribution of images with a complex color distribution may not be good enough,which will result in an incomplete final saliency map.Improvement of the proposed algorithm will concentrate on general applications.",
+      "author": "崔玲玲",
+      "keywords": ",超像素分割,K-means聚类,颜色对比度,空间分布性,saliency <mark class=highlight>detection</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyyyj201804067",
+      "title": "基于深度学习方法的复杂场景下车辆<mark class=highlight>目标检测</mark>",
+      "summary": ",进行车辆目标的检测识别.相比传统机器学习<mark class=highlight>目标检测</mark>算法,基于深度学习的<mark class=highlight>目标检测</mark>算法在检测准确度和执行效率上优势明显",
+      "summaryAll": "针对实际交通场景下的车辆目标,应用深度学习目标分类算法中具有代表性的Faster R-CNN框架,结合ImageNet中的车辆数据集,把场景中的目标检测问题转换为目标的二分类问题,进行车辆目标的检测识别.相比传统机器学习目标检测算法,基于深度学习的目标检测算法在检测准确度和执行效率上优势明显.通过本实验结果分析表明,该方法在识别精度以及速度上均取得了显著的提高.In recent years,deep learning algorithm has been widely used in the field of object detection.Vehicle objects come from the real traffic scene,this paper applied the faster R-CNN framework,which was a representative of the deep learning object classification algorithm,and combined with the ImageNet dataset,converted object detection problem into a binary classification problem in the scene to detection and recognization.Compared with target detection algorithm in traditional machine learning,it has obvious advantages in detection accuracy and execution efficiency based on deep learning.The experimental results show that the method has achieved a remarkable improvement in both recognition accuracy and speed.",
+      "author": "宋焕生",
+      "keywords": "<mark class=highlight>detection</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyyyj201804061",
+      "title": "基于边缘帧差和高斯混合模型的行人<mark class=highlight>目标检测</mark>",
+      "summary": "易受环境噪声和光照突变影响、易产生虚假目标等问题,提出一种基于高斯混合模型的改进算法,用于视频中行人<mark class=highlight>目标检测</mark>",
+      "summaryAll": "针对高斯混合模型存在背景更新收敛性差、易受环境噪声和光照突变影响、易产生虚假目标等问题,提出一种基于高斯混合模型的改进算法,用于视频中行人目标检测.通过将帧差法引入高斯混合模型,快速区分背景区域和运动目标区域,从而提取前景中完整的行人目标.结合视频帧边缘和边缘帧差信息,采用多种模型更新率,提高高斯混合模型对复杂背景的自适应性和快速收敛性,从而消除环境噪声和光照突变的影响,避免检测出虚假目标.实验结果表明,相比传统高斯混合模型,该方法可以有效去除噪声和光照的干扰,收敛性更佳、行人检测效果更鲁棒.For the Gaussian mixture model (GMM) was weak in convergence,sensitive to ambient noise and sudden light change,and prone to detect false target,this paper proposed an improved algorithm based on GMM for moving pedestrian detection in videos.It introduced the information of frame difference into GMM background model,which quickly distinguished the background region and the moving object region,to extract the complete moving pedestrian in the foreground.Then,the background model mixed with the edge detection and edge frame difference in the video,and adopted different rates of background updating.It improved the adaptability and accelerated the speed of convergence,to eliminate the affection of noise and illumination change,and also removed the false target.The experimental results show that the improved algorithm is more efficient than traditional GMM to remove the influence of noise and illumination,and has better convergence and robustness in the pedestrian object detection.",
+      "author": "苏剑臣",
+      "keywords": "model,false target,<mark class=highlight>object</mark> <mark class=highlight>detection</mark>,edge",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_ckjs201804017",
+      "title": "双目视觉运动目标跟踪定位系统的设计",
+      "summary": "针对运动目标在被遮挡时跟踪丢失问题,采用双目视觉对运动目标进行跟踪定位.首先,利用背景差分法实现<mark class=highlight>目标检测</mark>",
+      "summaryAll": "针对运动目标在被遮挡时跟踪丢失问题,采用双目视觉对运动目标进行跟踪定位.首先,利用背景差分法实现目标检测;然后,利用Kalman滤波器改进的CamShift算法与FAST角点检测算法相结合,通过缩小角点检测的范围,提高预测的准确性和跟踪速度,同时有效解决了目标跟踪丢失问题;最后,通过双目立体视觉视差原理求出目标的三维坐标,实现对目标的定位.实验结果表明,该系统有效地解决了目标跟踪丢失问题,且算法实时性良好,有利于工业上使用机器人对运动目标的精确抓取.To solve the problem that loss of object information under occlusion causes the failure of tracking,binocular vision is used to track and locate the moving object.Firstly,the background difference method was used to achieve target detection.Secondly,this method that FAST (feature from accelerated segment test) corner detection algorithm that was combined with the optimized CamShift algorithm based on Kalman filtering was employed to reduce the search scope to improve the prediction accuracy and tracking speed,and effectively solve the problem of object loss.Finally,the three-dimensional coordinates of moving target were calculated with binocular stereo vision parallax principle,and the moving target could be located.The experimental results show that this system effectively solves the problem of targets tracking loss,and the algorithm has good realtime performance,which is helpful for robots to grab the moving targets accurately in the industry.",
+      "author": "李鹏飞",
+      "keywords": "tracking,background difference,FAST comer <mark class=highlight>detection</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_rjxb201804013",
+      "title": "基于深度学习的图片中商品参数识别方法",
+      "summary": ".受限于网络的复杂度和检测算法的设计,<mark class=highlight>目标检测</mark>的速度和精度成为一个trade-off",
+      "summaryAll": "计算机计算性能的提升使得深度学习成为了可能.作为计算机视觉领域的重要发展方向之一的目标检测也开始结合深度学习方法并广泛应用于各行各业.受限于网络的复杂度和检测算法的设计,目标检测的速度和精度成为一个trade-off.目前电商领域的飞速发展产生了大量包含商品参数的图片,使用传统方法难以有效地提取出图片中的商品参数信息.针对这一问题,提出了一种将深度学习检测算法和传统OCR技术相结合的方法,在保证识别速度的同时大大提升了识别的精度.所研究的问题包括检测模型、针对特定数据训练、图片预处理以及文字识别等.首先比较了现有的目标检测算法,权衡其优缺点,然后使用YOLO模型完成检测任务,并针对YOLO模型中存在的不足进行了一定的改进和优化,得到了一个专用于检测图片中商品参数的目标检测模型,最后使用tesseract完成文字提取任务.在将整个流程结合到一起后,该系统不仅有着较好的识别精度,而且是高效和健壮的.最后讨论了优势和不足之处,并指出了未来工作的方向.The improvements of computing performance make deep learning possible.As one of the important research directions in the field of computer vision,object detection has combined with deep learning methods and is widely used in all walks of life.Limited by the complexity of the network and the design of the detection algorithm,the speed and precision of the object detection becomes a trade-off.At present,the rapid development of electronic commerce has produced a large number of pictures containing the product parameters.The traditional method is hard to extract the information of the product parameters in the picture.This paper presents a method of combining deep learning detection algorithm with the traditional OCR technology to ensure the detection speed and at the same time greatly improve the accuracy of recognition.The paper focuses the following problems:The detection model,training for specific data,image preprocessing and character recognition.First,existing object detection algorithms are compared and their advantages and disadvantages are assessed.While the YOLO model is used to do the detection work,some improvements is proposed to overcome the shortcomings in the YOLO model.In addition,an object detection model is designed to detect the product parameters in images.Finally,tesseract is used to do the character recognition work.The experimental results show that the new system is efficient and effective in parameter recognition.At the end of this paper,the innovation and disadvantage of the presented method are discussed.",
+      "author": "丁明宇",
+      "keywords": "<mark class=highlight>目标检测</mark>,图像切割,光学字符识别,商品参数,深度学习,<mark class=highlight>object</mark> <mark class=highlight>detection</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_mssbyrgzn201804005",
+      "title": "基于深度卷积网络的<mark class=highlight>目标检测</mark>综述",
+      "summary": "Then the whole <mark class=highlight>object</mark> <mark class=highlight>detection</mark> process",
+      "summaryAll": "在基于区域的卷积神经网络提出后,深度卷积网络开始在目标检测领域普及,更快的基于区域的卷积神经网络将整个目标检测过程合成在一个统一的深度网络框架上.随后YOLO和SSD等目标检测框架的提出进一步提升目标检测的效率.文中系统总结基于深度网络的目标检测方法,归为2类:基于候选窗口的目标检测框架和基于回归的目标检测框架.基于候选窗口的目标检测框架首先需要在输入的图像上产生很多的候选窗口,然后对这些候选窗口进行判别.这里的判别包括:对窗口包含物体的类别(包括背景)进行判断、对窗口的位置进行回归.基于回归的目标检测方法将图像目标检测看作是一个回归的过程.在此基础上,在PASCAL VOC和COCO等主流数据库上对比目前两类目标检测框架中的主流方法,分析两类方法各自的优势.最后根据当前深度网络目标检测方法的发展趋势,对目标检测方法未来的研究热点做出合理预测.Deep convolutional network is prevalent in object detection task. Region-based convolutional neural network(RCNN) bridges the gap between the classification of deep convolutional network and the object detection task well. Then the whole object detection process is aggregated into a unified deep framework by Faster-RCNN. You only look once(YOLO) and single shot multibox detector (SSD) effectively improve the efficiency of object detection. Different deep object detection frameworks are comprehensively analyzed and divided into two categories: the proposal based framework and the regression based framework. The proposal based framework is utilized to generate thousands of candidate proposals and then classification and bounding box regression are conducted on these proposals. The regression based framework outputs the bounding box position through some special iterations directly. Furthermore, the advantage for different kinds of frameworks is demonstrated through adequate experiments on the mainstream database like PASCAL_VOC and COCO. Finally, the development direction of object detection is discussed.",
+      "author": "吴帅",
+      "keywords": "Network,<mark class=highlight>Object</mark> <mark class=highlight>Detection</mark>,Candidate Proposals",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_dsjs201804012",
+      "title": "基于多目标区域的图像检索",
+      "summary": "提出了一种基于多目标区域的图像检索模型,并实现了一款高效的检索算法.首先借助于<mark class=highlight>目标检测</mark>算法定位出图像中的目标",
+      "summaryAll": "针对传统的基于目标区域的图像检索算法中存在的\"语义鸿沟\"问题,以及基于全局特征的图像检索算法不能很好地处理多目标检索问题,提出了一种基于多目标区域的图像检索模型,并实现了一款高效的检索算法.首先借助于目标检测算法定位出图像中的目标,然后使用卷积神经网络(CNN)提取各个目标的特征,最后采用新提出的多目标区域相似度测量方法计算其与数据库图像的相似度并返回检索结果.实验表明,所提算法与现有的其他检索算法相比,在多目标图像检索任务上性能更佳.For the problem of＂semantic gap＂which exists in the traditional image retrieval based on the objective region algorithm, and the image retrieval based on global feature algorithm can not process the multi-objective retrieval problem well,an image re-trieval model based on multiple objective region is proposed,and an efficient retrieval algorithm is coded.Firstly,the object detec-tion algorithm is utilized to locate the multiple objective regions of the image,and then the Convolutional Neural Network (CNN) is utilized to extract their features.Finally,the newly proposed similarity measure based on multiple objective regions is utilized to measure the similarity between it and every database image and the retrieval result is sorted accordingly.Experimental results show that,compared with other existing retrieval algorithms,the proposed algorithm has better performance in the retrieval task of multi-object image.",
+      "author": "高珊",
+      "keywords": "<mark class=highlight>目标检测</mark>,图像检索,卷积神经网络,特征提取,<mark class=highlight>object</mark> <mark class=highlight>detection</mark>,",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_yjyxs201804008",
+      "title": "基于深度卷积神经网络的输电线路可见光图像<mark class=highlight>目标检测</mark>",
+      "summary": "visible images of transmission lines.T he <mark class=highlight>detection</mark>",
+      "summaryAll": "为了检测输电线路可见光图像中的塔材、玻璃绝缘子和复合绝缘子,本文采用了一种基于深度卷积神经网络的技术.通过有人直升机搭载高清相机拍摄19条不同的输电线路近600张图片,对图片中的背景、塔材、玻璃绝缘子和复合绝缘子目标进行人工标注及分块,采用数据扩展生成包含15万个样本的输电线路图像库.构造5层深度卷积神经网络,首先用Cifar-100数据集对网络进行预训练,然后用输电线路图像库进行网络调优.本文方法在检测真阳率为90%时,假阳率低于10%,明显优于传统方法,可用于输电线路可见光图像中的塔材、玻璃绝缘子和复合绝缘子检测,检测结果可用于诊断参考或进一步的目标状态分析.可对输电线路可见光图像中的塔材和绝缘子目标进行检测,并可扩展到其它类型目标的检测.A deep convolutional neural network based method is adopted to detect objects such as tow-er,glass insulator and composite insulator in visible images of transmission lines.About 600 visible images of 19 different transmission lines are captured by manned helicopter with high-definition cam-era.All of the images are then annotated manually and segmented into blocks with 4 different labels:background,tower,glass insulator and composite insulator.These blocks are then augmented to around 150000 training samples which comprise the transmission line image dataset.A five-layer deep convolutional neural network is designed and pre-trained by using Cifar-100 dataset,the trained net-work is then fine-tuned by using transmission line image dataset.The experimental results show that when detection true positive rate is 90%,the false alarm rate is less than 10%,which is obviously su-perior to the traditional methods.It can be used for the detection of tower,glass insulator and com-posite insulator in visible images of transmission lines.T he detection result can be used as reference for diagnosis or state analysis of transmission lines.This method can be used to detect tower and insu-lator in visible images of transmission lines,and can be extended to detect other typical objects.",
+      "author": "周筑博",
+      "keywords": "line image,insulator,<mark class=highlight>object</mark> <mark class=highlight>detection</mark>,",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_cqgxyxb201804026",
+      "title": "基于深度学习的复杂背景下<mark class=highlight>目标检测</mark>",
+      "summary": "、多目标以及不同程度的遮挡、伪装等情况进行试验,得出该方法具有一定的鲁棒性.<mark class=highlight>Object</mark>",
+      "summaryAll": "针对某些静态图像背景复杂,受环境因素(光照、遮挡、掩盖等)影响较大的问题,提出一种基于深度学习算法的卷积神经网络(convolutional neural networks,CNN)结构对目标进行检测.利用CNN网络可自主提取图像特征并进行学习的优点,避免了复杂的人工特征选择和提取过程.通过一种区域合并的方法进行端到端的交替训练,在复杂背景图像的处理中体现出较优的性能.CNN的局部连接、权值共享及池化操作等特性使之可以有效地降低网络的复杂度、减少训练参数的数目、提高检测效率.试验验证结果表明:此方法在互联网图像数据库检测方面达到了较高的精度.采用坦克模型图像对复杂背景下的单目标、多目标以及不同程度的遮挡、伪装等情况进行试验,得出该方法具有一定的鲁棒性.Object detection in complex background is one of the key problems in computer vision. The main task is to identify and locate the objects in the image.For some static images with complex background and influenced by environmental factors(light,occlusion,concealment etc.),a convolutional neural network(CNN)structure based on deep learning algorithm is proposed to detect the object.The CNN network can automatically extract the features of the image and the advantages of learning to avoid the complex artificial feature selection and extraction process;the end-to-end training is carried out by a method of regional merging,which shows better performance in the processing of complex background images.The local connection,weight sharing and pooling operations of CNN can effectively reduce the complexity of the network,reduce the number of training parameters and improve the detection efficiency.Through the test verification,this method achieves high detection accuracy on the Internet image dataset,and uses the tank model images to test the single target, multi-target and different degree of occlusion and camouflage in the complex background.The method has the advantages of robustness.",
+      "author": "王志",
+      "keywords": "<mark class=highlight>目标检测</mark>,复杂背景,深度学习,特征提取,<mark class=highlight>object</mark> <mark class=highlight>detection</mark>,complex",
+      "citedIndex": 0,
+      "publishDate": "2018-04-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    }
+  ],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": [
+    {
+      "id": "43",
+      "nameCN": "data storage and management - Part 2:<mark class=highlight>Object</mark>",
+      "nameEN": "Information technology - Cloud data storage and management - Part 2:Object - based cloud storage application interface",
+      "standardNo": "GB/T 31916.2-2015",
+      "categoryNoCN": "L;L79,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.100.05",
+      "summary": " 本部分给出了基于对象的云数据存储（以下简称云存储）体系结构，规定了基于对 象的云存储",
+      "summaryAll": " 本部分给出了基于对象的云数据存储（以下简称云存储）体系结构，规定了基于对 象的云存储的应用接口通用要求和应用接口定义。 本部分适用于基于对象的云存储的设计、开发和使用。  ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2015-09-11",
+      "implementDate": "2016-05-01"
+    },
+    {
+      "id": "6",
+      "nameCN": "工业车辆 安全要求和验证 第1部分：自行式工业车辆（除无人驾驶车辆、伸缩臂式叉车和载运车）",
+      "nameEN": "Industrial trucks――Safety requirements and verification―Part 1: Self-propelled industrial trucks, other than driverless trucks, variable-reach trucks and burden-carrier trucks",
+      "standardNo": "GB 10827.1-2014",
+      "categoryNoCN": "J;J83,机械,通用机械与设备",
+      "categoryNoIN": "53;53.060",
+      "summary": "GB 10827的本部分规定了如ISO 5053所定义的下列自行式工业车辆(以下简称“",
+      "summaryAll": "GB 10827的本部分规定了如ISO 5053所定义的下列自行式工业车辆(以下简称“车辆”)的安全要求及其验证方法:a) 平衡重式叉车;b) 前移式叉车(具有可伸缩的门架或货叉架);c) 插腿式叉车;d) 托盘堆垛车;e) 高起升平台搬运车;f) 操作台起升高度不大于1 200 mm的车辆;g) 侧面式叉车(单侧);h) 侧面堆垛式叉车(两侧和三向);i) 托盘搬运车;j) 双向和多向运行叉车;k) 牵引力不大于20 000N的牵引车;l) 平衡重式越野叉车;m) 其他以蓄电池、柴油、汽油或液化石油气为动力的工业车辆。对于操作台起升高度大于1 200 mm的车辆和/或带着载荷起升至1 200 mm以上运行的车辆,本部分应与ISO 3691-3一起使用。本部分不适用于自行式伸缩臂式叉车、无人驾驶车辆和载运车,ISO 3691-2、ISO 3691-4和ISO 3691-6分别适用于这些车辆。本部分不适用于在苛刻条件下(如极端天气、冷库应用、危险环境)工作的车辆,这些情况需要有特殊防护措施。本部分涉及了除以下情形外,有关机械在制造商预期用途下使用和可预见条件下误用的,如附录B所列的所有重大危险、危险状态或危险事件。本部分不包括下列情况可能发生的危险:--在制造过程中;--搬运能自由摆动的悬吊载荷时;--在公路上使用时;--在潜在爆炸性环境中操作时;--在与货架之间的单侧间隙小于500 mm的狭窄通道上使用时;--驾驶拖曳载荷的坐驾式车辆时,由于采用非人类工效学姿势而引起;--驾驶额定起重量大于10 000 kg",
+      "draftUnit": "",
+      "mandatoryStandard": "是",
+      "status": "现行",
+      "publishDate": "2014-07-24",
+      "implementDate": "2014-12-01"
+    }
+  ]
+}

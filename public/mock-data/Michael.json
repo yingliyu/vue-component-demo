@@ -1,0 +1,1020 @@
+{
+  "expertVO": {
+    "id": 1972463,
+    "name": "Michael I. Jordan",
+    "headImg": "/img/expert_logo/2019-04/2019-04-22-10-37-04__3e40059d-c927-4f70-9a44-35f4d687269b.jpg",
+    "institution": "UC Berkeley",
+    "subjectArea": "计算机科学",
+    "country": "美国",
+    "totalIssues": 390,
+    "totalCitations": 58631,
+    "top1Citations": 0.185629,
+    "number1": 62,
+    "top10Citations": 0.520958,
+    "number10": 174,
+    "hIndex": 91,
+    "journalSend": null,
+    "subjectMatch": null,
+    "citedSituation": null,
+    "fwciinedx": 6.226,
+    "layoutList": [
+      "1956年－ ，美国计算机科学和统计学学者，主要研究机器学习和人工智能。目前担任加州大学伯克利分校电机工程与计算机系和统计学系教授。2016年，据《科学》报道，迈克尔·I·乔丹是当今世界最有影响力的计算机科学家。",
+      "他的重要贡献包括指出了机器学习与统计学之间的联系，并推动机器学习界广泛认识到贝叶斯网络的重要性。他还以近似推断变分方法的形式化、最大期望算法在机器学习的普及方面的工作而知名。",
+      "美国国家科学院、美国国家工程院和美国艺术与科学院院士，IEEE、ACM、SIAM、AAAI等学术机构的会士。他也是2007年IEEE神经网络先驱奖、2009年ACM/AAAI Allen Newell奖的得主。"
+    ]
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"Michael I. Jordan","type":"expert","level":"1","colorIdx":"0"},
+      {"code":"1","name":"荣誉","type":"honor","level":"2","colorIdx":"5"},
+      {"code":"2","name":"机构","type":"org","level":"2","colorIdx":"6"},
+      {"code":"3","name":"深度学习","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"4","name":"文本分类","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"5","name":"无监督学习","type":"keyword","level":"2","colorIdx":"3"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      ],
+    "expertReco": [
+      {
+        "id": 356571,
+        "name": "Hong Yan",
+        "headImg": "/img/expert_logo/2019-04/HongYan.png",
+        "institution": "City University of Hong Kong",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 1978600,
+        "name": "丁宏强",
+        "headImg": "/img/expert_logo/2019-04/2019-04-03-15-45-30__81c3c465-eac2-456f-a20c-031df61a9898.jpg",
+        "institution": "University of Texas at Arlington",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 957989,
+        "name": "David Blei",
+        "headImg": "/img/expert_logo/2019-04/2019-04-11-14-57-37__4ba8ee2a-4e05-4c2e-ad8b-5fa6a3748ac3.jpg",
+        "institution": "Columbia University in the City of New York",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": [
+      "UC"
+    ]
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 1,
+        "code": 0,
+        "name": "Michael I. Jordan",
+        "type": "expert",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "荣誉",
+        "type": "honor",
+        "level": 2,
+        "colorIdx": 5,
+        "keyword": "Michael",
+        "layout": "2016年 最具影响力的计算机科学家/2015年 David E. Rumelhart 奖/2010年 计算机机械协会会员/2009年 ACM/AAAI Allen Newell奖/2004年 ICML学生最佳论文奖/1991年 ACC最佳论文奖/奈曼讲师/美国艺术与科学研究院成员/国家工程院成员/NSF总统青年研究员奖/美国国家科学院成员/IEEE神经网络先锋奖/ACM - AAAI Allen Newell奖",
+        "layoutList": [
+          "2016年 最具影响力的计算机科学家",
+          "2015年 David E. Rumelhart 奖",
+          "2010年 计算机机械协会会员",
+          "2009年 ACM",
+          "AAAI Allen Newell奖",
+          "2004年 ICML学生最佳论文奖",
+          "1991年 ACC最佳论文奖",
+          "奈曼讲师",
+          "美国艺术与科学研究院成员",
+          "国家工程院成员",
+          "NSF总统青年研究员奖",
+          "美国国家科学院成员",
+          "IEEE神经网络先锋奖",
+          "ACM - AAAI Allen Newell奖"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "组织",
+        "type": "org",
+        "level": 2,
+        "colorIdx": 6,
+        "keyword": "Michael",
+        "layout": "加利福尼亚大学伯克利分校",
+        "layoutList": [
+          "加利福尼亚大学伯克利分校"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": "深度学习是机器学习的技术和研究领域之一，通过建立具有层次结构的人工神经网络，在计算系统中实现人工智能 。由于阶层ANN能够对输入信息进行逐层提取和筛选，因此深度学习具有表征学习能力 ，可以实现端到端的监督学习和非监督学习。",
+        "layoutList": [
+          "深度学习是机器学习的技术和研究领域之一，通过建立具有层次结构的人工神经网络，在计算系统中实现人工智能 。由于阶层ANN能够对输入信息进行逐层提取和筛选，因此深度学习具有表征学习能力 ，可以实现端到端的监督学习和非监督学习。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": "Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers. /Generalized Zero-Shot Learning with Deep Calibration Network./A Deep Generative Model for Semi-Supervised Classification with Noisy Labels./Deep Transfer Learning with Joint Adaptation Networks./A Nested HDP for Hierarchical Topic Models.",
+        "layoutList": [
+          "Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers. ",
+          "Generalized Zero-Shot Learning with Deep Calibration Network.",
+          "A Deep Generative Model for Semi-Supervised Classification with Noisy Labels.",
+          "Deep Transfer Learning with Joint Adaptation Networks.",
+          "A Nested HDP for Hierarchical Topic Models."
+        ]
+      },
+      {
+        "id": 6,
+        "code": 6,
+        "name": "Max Tegmark",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": "生于1967年5月5日出生的马克斯·夏皮罗是一位瑞典裔美国物理学家和宇宙学家。他是麻省理工学院的教授，也是基础问题研究所的科学主任。他还是生命未来研究所的联合创始人，也是有效利他主义运动的支持者，并接受了埃隆·马斯克的捐赠，以调查来自先进人工智能的生存风险。 ",
+        "layoutList": [
+          "生于1967年5月5日出生的马克斯·夏皮罗是一位瑞典裔美国物理学家和宇宙学家。他是麻省理工学院的教授，也是基础问题研究所的科学主任。他还是生命未来研究所的联合创始人，也是有效利他主义运动的支持者，并接受了埃隆·马斯克的捐赠，以调查来自先进人工智能的生存风险。 "
+        ]
+      },
+      {
+        "id": 7,
+        "code": 7,
+        "name": "Yann LeCun",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": "Yann LeCun 生于1960年7月8日)是一名法国裔美国计算机科学家，主要从事机器学习、计算机视觉、移动机器人和计算神经科学等领域。他是纽约大学数学科学学院的银教授，以及Facebook首席人工智能科学家副总裁。他以使用卷积神经网络(CNN)在光学字符识别和计算机视觉方面的工作而闻名，也是卷积网的创始人之一。他也是djvu图像压缩技术的主要创建者之一。他与莱昂·伯杜合作开发了繁茂的编程语言。他是2018年ACM上午会议的共同获奖者。",
+        "layoutList": [
+          "Yann LeCun 生于1960年7月8日)是一名法国裔美国计算机科学家，主要从事机器学习、计算机视觉、移动机器人和计算神经科学等领域。他是纽约大学数学科学学院的银教授，以及Facebook首席人工智能科学家副总裁。他以使用卷积神经网络(CNN)在光学字符识别和计算机视觉方面的工作而闻名，也是卷积网的创始人之一。他也是djvu图像压缩技术的主要创建者之一。他与莱昂·伯杜合作开发了繁茂的编程语言。他是2018年ACM上午会议的共同获奖者。"
+        ]
+      },
+      {
+        "id": 8,
+        "code": 8,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 9,
+        "name": "无监督学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 10,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 11,
+        "name": "无监督学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 12,
+        "name": "Yurui Qu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 13,
+        "name": "Min Qiu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 14,
+        "name": "Peter Y. Lu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 15,
+        "name": "Samuel Kim",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 16,
+        "name": "Pablo Sprechmann",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 17,
+        "name": "Afonso S. Bandeira",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 18,
+        "name": "Ross Goroshin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 19,
+        "name": "Joan Bruna",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 20,
+        "code": 20,
+        "name": "文本分类",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": "文本分类用电脑对文本集(或其他实体或物件)按照一定的分类体系或标准进行自动分类标记。属于一种基于分类体系的自动分类，是朴素贝叶斯分类方法。",
+        "layoutList": [
+          "文本分类用电脑对文本集(或其他实体或物件)按照一定的分类体系或标准进行自动分类标记。属于一种基于分类体系的自动分类，是朴素贝叶斯分类方法。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 21,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": "Active site prediction using evolutionary and structural information./Learning Semantic Correspondences with Less Supervision./Online System Problem Detection by Mining Patterns of Console Logs./Word Alignment via Quadratic Assignment. /Statistical modeling of biomedical corpora: mining the Caenorhabditis Genetic Center Bibliography for genes related to life span./Matching Words and Pictures.",
+        "layoutList": [
+          "Active site prediction using evolutionary and structural information.",
+          "Learning Semantic Correspondences with Less Supervision.",
+          "Online System Problem Detection by Mining Patterns of Console Logs.",
+          "Word Alignment via Quadratic Assignment. ",
+          "Statistical modeling of biomedical corpora: mining the Caenorhabditis Genetic Center Bibliography for genes related to life span.",
+          "Matching Words and Pictures."
+        ]
+      },
+      {
+        "id": 22,
+        "code": 23,
+        "name": "Alexis Conneau",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": "将深度学习应用于Facebook人工智能的自然语言处理的研究员。",
+        "layoutList": [
+          "将深度学习应用于Facebook人工智能的自然语言处理的研究员。"
+        ]
+      },
+      {
+        "id": 23,
+        "code": 24,
+        "name": "LoïcBarrault",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": "勒芒大学LIUM实验室语言与语音技术(LST)团队的副教授。2008年在阿维尼翁大学获得自动语音识别博士学位。研究方向为机器翻译和语音识别",
+        "layoutList": [
+          "勒芒大学LIUM实验室语言与语音技术(LST)团队的副教授。2008年在阿维尼翁大学获得自动语音识别博士学位。研究方向为机器翻译和语音识别"
+        ]
+      },
+      {
+        "id": 24,
+        "code": 25,
+        "name": "自然语言处理",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 26,
+        "name": "机器翻译",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 27,
+        "name": "机器翻译",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 28,
+        "name": "语音识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 29,
+        "name": "Isabelle Augenstein",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 30,
+        "name": "Spandana Gella",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 31,
+        "name": "Guillaume Lample",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 32,
+        "name": "Myle Ott",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 33,
+        "name": "Marta R. Costa-jussà",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 34,
+        "name": "Holger Schwenk",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 34,
+        "code": 35,
+        "name": "Abir Masmoudi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 35,
+        "code": 36,
+        "name": "Fethi Bougares",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 37,
+        "name": "无监督学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": "无监督学习（Unsupervised Learning）是机器学习的一种方法，没有给定事先标记过的训练范例，自动对输入的资料进行分类或分群。无监督学习的主要运用包含：聚类分析（Cluster Analysis）、关联规则（Association Rule）、维度缩减（Dimensionality Reduce）。它是监督式学习和强化学习等策略之外的一种选择。",
+        "layoutList": [
+          "无监督学习（Unsupervised Learning）是机器学习的一种方法，没有给定事先标记过的训练范例，自动对输入的资料进行分类或分群。无监督学习的主要运用包含：聚类分析（Cluster Analysis）、关联规则（Association Rule）、维度缩减（Dimensionality Reduce）。它是监督式学习和强化学习等策略之外的一种选择。"
+        ]
+      },
+      {
+        "id": 37,
+        "code": 38,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": "Optimistic Concurrency Control for Distributed Unsupervised Learning./Unsupervised Domain Adaptation with Residual Transfer Networks./\nOn Gradient Descent Ascent for Nonconvex-Concave Minimax Problems./A Unified Probabilistic Model for Global and Local Unsupervised Feature Selection. /Policy-Gradient Algorithms Have No Guarantees of Convergence in Continuous Action and State Multi-Agent Settings./Unsupervised Kernel Dimension Reduction./Learning Semantic Correspondences with Less Supervision./A Mean Field Learning Algorithm for Unsupervised Neural Networks.",
+        "layoutList": [
+          "Optimistic Concurrency Control for Distributed Unsupervised Learning.",
+          "Unsupervised Domain Adaptation with Residual Transfer Networks.",
+          "\nOn Gradient Descent Ascent for Nonconvex-Concave Minimax Problems.",
+          "A Unified Probabilistic Model for Global and Local Unsupervised Feature Selection. ",
+          "Policy-Gradient Algorithms Have No Guarantees of Convergence in Continuous Action and State Multi-Agent Settings.",
+          "Unsupervised Kernel Dimension Reduction.",
+          "Learning Semantic Correspondences with Less Supervision.",
+          "A Mean Field Learning Algorithm for Unsupervised Neural Networks."
+        ]
+      },
+      {
+        "id": 38,
+        "code": 40,
+        "name": "Soumith Chintala",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": "Soumith Chintala是Facebook AI Research的研究员，他在那里从事深度学习，强化学习，生成图像模型，视频游戏代理和大规模高性能深度学习。在2014年8月加入Facebook之前，他曾在MuseAmi工作，在那里他建立了针对移动设备的音乐和视觉的深度学习模型。他拥有纽约大学CS的硕士学位，并在Yann LeCun的纽约大学实验室里建立了深度学习模型，用于行人检测，自然图像OCR，深度图像等。",
+        "layoutList": [
+          "Soumith Chintala是Facebook AI Research的研究员，他在那里从事深度学习，强化学习，生成图像模型，视频游戏代理和大规模高性能深度学习。在2014年8月加入Facebook之前，他曾在MuseAmi工作，在那里他建立了针对移动设备的音乐和视觉的深度学习模型。他拥有纽约大学CS的硕士学位，并在Yann LeCun的纽约大学实验室里建立了深度学习模型，用于行人检测，自然图像OCR，深度图像等。"
+        ]
+      },
+      {
+        "id": 39,
+        "code": 41,
+        "name": "Pierre Sermanet",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": "视觉、语音和机器人深度学习博士学位",
+        "layoutList": [
+          "视觉、语音和机器人深度学习博士"
+        ]
+      },
+      {
+        "id": 40,
+        "code": 42,
+        "name": "物体检测",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 43,
+        "name": "语义分割",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 44,
+        "name": "模仿学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 45,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 46,
+        "name": "Sergey Zagoruyko",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 47,
+        "name": "Adam Lerer",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 48,
+        "name": "Pauline Luc",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 49,
+        "name": "Camille Couprie",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 48,
+        "code": 50,
+        "name": "Kelvin Xu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 49,
+        "code": 51,
+        "name": "Sergey Levine",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 52,
+        "name": "MichaëlMathieu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 53,
+        "name": "David Eigen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Michael",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 19,
+        "source": 0,
+        "target": 20
+      },
+      {
+        "id": 35,
+        "source": 0,
+        "target": 37
+      },
+      {
+        "id": 4,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 3,
+        "target": 6
+      },
+      {
+        "id": 6,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "id": 7,
+        "source": 6,
+        "target": 8
+      },
+      {
+        "id": 8,
+        "source": 6,
+        "target": 9
+      },
+      {
+        "id": 9,
+        "source": 7,
+        "target": 10
+      },
+      {
+        "id": 10,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "id": 11,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "id": 12,
+        "source": 8,
+        "target": 13
+      },
+      {
+        "id": 13,
+        "source": 9,
+        "target": 14
+      },
+      {
+        "id": 14,
+        "source": 9,
+        "target": 15
+      },
+      {
+        "id": 15,
+        "source": 10,
+        "target": 16
+      },
+      {
+        "id": 16,
+        "source": 10,
+        "target": 17
+      },
+      {
+        "id": 17,
+        "source": 11,
+        "target": 18
+      },
+      {
+        "id": 18,
+        "source": 11,
+        "target": 19
+      },
+      {
+        "id": 20,
+        "source": 20,
+        "target": 21
+      },
+      {
+        "id": 21,
+        "source": 20,
+        "target": 23
+      },
+      {
+        "id": 22,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 23,
+        "source": 23,
+        "target": 25
+      },
+      {
+        "id": 24,
+        "source": 23,
+        "target": 26
+      },
+      {
+        "id": 25,
+        "source": 24,
+        "target": 27
+      },
+      {
+        "id": 26,
+        "source": 24,
+        "target": 28
+      },
+      {
+        "id": 27,
+        "source": 25,
+        "target": 29
+      },
+      {
+        "id": 28,
+        "source": 25,
+        "target": 30
+      },
+      {
+        "id": 29,
+        "source": 26,
+        "target": 31
+      },
+      {
+        "id": 30,
+        "source": 26,
+        "target": 32
+      },
+      {
+        "id": 31,
+        "source": 27,
+        "target": 33
+      },
+      {
+        "id": 32,
+        "source": 27,
+        "target": 34
+      },
+      {
+        "id": 33,
+        "source": 28,
+        "target": 35
+      },
+      {
+        "id": 34,
+        "source": 28,
+        "target": 36
+      },
+      {
+        "id": 36,
+        "source": 37,
+        "target": 38
+      },
+      {
+        "id": 37,
+        "source": 37,
+        "target": 40
+      },
+      {
+        "id": 38,
+        "source": 37,
+        "target": 41
+      },
+      {
+        "id": 39,
+        "source": 40,
+        "target": 42
+      },
+      {
+        "id": 40,
+        "source": 40,
+        "target": 43
+      },
+      {
+        "id": 41,
+        "source": 41,
+        "target": 44
+      },
+      {
+        "id": 42,
+        "source": 41,
+        "target": 45
+      },
+      {
+        "id": 43,
+        "source": 42,
+        "target": 46
+      },
+      {
+        "id": 44,
+        "source": 42,
+        "target": 47
+      },
+      {
+        "id": 45,
+        "source": 43,
+        "target": 48
+      },
+      {
+        "id": 46,
+        "source": 43,
+        "target": 49
+      },
+      {
+        "id": 47,
+        "source": 44,
+        "target": 50
+      },
+      {
+        "id": 48,
+        "source": 44,
+        "target": 51
+      },
+      {
+        "id": 49,
+        "source": 45,
+        "target": 52
+      },
+      {
+        "id": 50,
+        "source": 45,
+        "target": 53
+      }
+    ]
+   ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "Cost-Effective Incentive Allocation via Structured Counterfactual Inference.EI",
+		"author": "Romain Lopez, Chenchen Li, Xiang Yan, Junwu Xiong, Michael I. Jordan, Yuan Qi, Le Song",
+		"publishDate": "2019",
+		"summaryAll": "We address a practical problem ubiquitous in modern industry, in which a mediator tries to learn a policy for allocating strategic financial incentives for customers in a marketing campaign and observes only bandit feedback. In contrast to traditional policy optimization frameworks, we rely on a specific assumption for the reward structure and we incorporate budget constraints. We develop a new two-step method for solving this constrained counterfactual policy optimization problem. "
+	},
+	{
+		"title": "Challenges with EM in application to weakly identifiable mixture models.EI",
+		"author": "Raaz Dwivedi, Nhat Ho, Koulik Khamaru, Martin J. Wainwright, Michael I. Jordan, Bin Yu",
+		"publishDate": "2019",
+		"summaryAll": "We study a class of weakly identifiable location-scale mixture models for which the maximum likelihood estimates based on $n$ i.i.d. samples are known to have lower accuracy than the classical $n^{- frac{1}{2}}$ error. We investigate whether the Expectation-Maximization (EM) algorithm also converges slowly for these models. We first demonstrate via simulation studies a broad range of over-specified mixture models for which the EM algorithm converges very slowly, both in one and higher dimensions. "
+	},
+	{
+		"title": "Bridging Theory and Algorithm for Domain Adaptation.EI",
+		"author": "Yuchen Zhang, Tianle Liu, Mingsheng Long, Michael I. Jordan",
+		"publishDate": "2019",
+		"summaryAll": "This paper addresses the problem of unsupervised domain adaption from theoretical and algorithmic perspectives. Existing domain adaptation theories naturally imply minimax optimization algorithms, which connect well with the adversarial-learning based domain adaptation methods. However, several disconnections still form the gap between theory and algorithm. "
+	},
+	{
+		"title": "Is There an Analog of Nesterov Acceleration for MCMC?EI",
+		"author": "Yi-An Ma, Niladri S. Chatterji, Xiang Cheng, Nicolas Flammarion, Peter Bartlett, Michael I. Jordan",
+		"publishDate": "2019",
+		"summaryAll": "We formulate gradient-based Markov chain Monte Carlo (MCMC) sampling as optimization on the space of probability measures, with Kullback-Leibler (KL) divergence as the objective function. We show that an underdamped form of the Langevin algorithm perform accelerated gradient descent in this metric. To characterize the convergence of the algorithm, we construct a Lyapunov functional and exploit hypocoercivity of the underdamped Langevin algorithm. "
+	},
+	{
+		"title": "Boundary Attack++: Query-Efficient Decision-Based Adversarial Attack.EI",
+		"author": "Jianbo Chen, Michael I. Jordan",
+		"publishDate": "2019",
+		"summaryAll": "Decision-based adversarial attack studies the generation of adversarial examples that solely rely on output labels of a target model. In this paper, decision-based adversarial attack was formulated as an optimization problem. Motivated by zeroth-order optimization, we develop Boundary Attack++, a family of algorithms based on a novel estimate of gradient direction using binary information at the decision boundary. "
+	}
+],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": []
+}

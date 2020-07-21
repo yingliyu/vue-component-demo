@@ -1,0 +1,1288 @@
+{
+  "expertVO": {
+    "id": 1882157,
+    "name": "Sebastian Thrun",
+    "headImg": "/img/1882157.jpg",
+    "institution": "Stanford University",
+    "subjectArea": "计算机科学",
+    "country": "美国",
+    "totalIssues": 260,
+    "totalCitations": 28358,
+    "top1Citations": 0.223077,
+    "number1": 58,
+    "top10Citations": 0.580769,
+    "number10": 151,
+    "hIndex": 83,
+    "journalSend": null,
+    "subjectMatch": null,
+    "citedSituation": null,
+    "fwciinedx": 7.35,
+    "layoutList": [
+      "德国人，谷歌无人车之父。",
+      "创办的Udacity，其目的就是要成为无人驾驶人才市场的稳定“货源”。",
+      "2003年开始就在斯坦福大学担任研究教授。",
+      "2011年，借助于斯坦福大学的“兼职”身份，Thrun参与了谷歌的“登月（Moonshot）”计划——Google X，其中包括自动驾驶汽车、谷歌眼镜和Project Loon热气球项目。其中，不少项目都与机器学习和人工智能技术相关。",
+      "在这期间，Thrun创立了自己的公司——Udacity。2011年7月5日，该公司正式成立，借助于斯坦福大学得天独厚的资源优势，Thrun和他的同事计算科学家Peter Norvig在Udacity平台上推出了一个免费在线课程“人工智能介绍”，吸引了190多个国家16万用户的关注。2014年8月，Thrun离开了Google X项目，全身心投入到Udacity公司。"
+    ]
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"Sebastian Thrun","type":"expert","level":"1","colorIdx":"0"},
+      {"code":"1","name":"荣誉","type":"honor","level":"2","colorIdx":"5"},
+      {"code":"2","name":"机构","type":"org","level":"2","colorIdx":"6"},
+      {"code":"3","name":"机器人","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"4","name":"无人驾驶","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"5","name":"深度学习","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"6","name":"信息过滤","type":"keyword","level":"2","colorIdx":"4"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"},
+      {"id":"5","source":"0","target":"6"}
+      ],
+    "expertReco": [
+      {
+        "id": 2017250,
+        "name": "曹进德",
+        "headImg": "/img/domain_logo/2017250.jpg",
+        "institution": "Southeast University",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 914005,
+        "name": "王子栋",
+        "headImg": "/img/expert_logo/2019-03/2019-03-21-13-26-15__512381b6-9622-4ec3-8ccc-3e1e534cc672.jpg",
+        "institution": "Brunel University London",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 376304,
+        "name": "黄煦涛",
+        "headImg": "/img/domain_logo/35513984600.jpg",
+        "institution": "University of Illinois at Urbana-Champaign",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": [
+      "Robot",
+      "Perception",
+      "Machine learning",
+      "Neural network"
+    ],
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 1,
+        "code": 0,
+        "name": "Sebastian Thrun",
+        "type": "expert",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "荣誉",
+        "type": "honor",
+        "level": 2,
+        "colorIdx": 5,
+        "keyword": "Sebatian",
+        "layout": "2006年 选为国家工程学院成员/2007年 选入勒奥波特迪纳科学院/2005年 美国国家科学基金会颁发的杰出5项职业奖之一/1999-2003年 奥林巴斯奖/2001年 德国社会表彰模式奖/2012年全球前100名思想家奖，max-Planck-研究奖/2011年 首个AAAI ed Fgenbaum奖中最具创造力的人之一/2011年 被FAST公司选为商界第五位最具创造力的人/2012年 美国教育界独创性奖",
+        "layoutList": [
+          "2006年 选为国家工程学院成员",
+          "2007年 选入勒奥波特迪纳科学院",
+          "2005年 美国国家科学基金会颁发的杰出5项职业奖之一",
+          "1999-2003年 奥林巴斯奖",
+          "2001年 德国社会表彰模式奖",
+          "2012年全球前100名思想家奖，max-Planck-研究奖",
+          "2011年 首个AAAI ed Fgenbaum奖中最具创造力的人之一",
+          "2011年 被FAST公司选为商界第五位最具创造力的人",
+          "2012年 美国教育界独创性奖"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "组织",
+        "type": "org",
+        "level": 2,
+        "colorIdx": 6,
+        "keyword": "Sebatian",
+        "layout": "斯坦福大学\n佐治亚理工学院（兼职）",
+        "layoutList": [
+          "斯坦福大学\n佐治亚理工学院（兼职）"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "机器人",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": "机器人（Robot）是自动执行工作的机器装置。它既可以接受人类指挥，又可以运行预先编排的程序，也可以根据以人工智能技术制定的原则纲领行动。它的任务是协助或取代人类工作的工作，例如生产业、建筑业，或是危险的工作。",
+        "layoutList": [
+          "机器人（Robot）是自动执行工作的机器装置。它既可以接受人类指挥，又可以运行预先编排的程序，也可以根据以人工智能技术制定的原则纲领行动。它的任务是协助或取代人类工作的工作，例如生产业、建筑业，或是危险的工作。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": "Policy-contingent abstraction for robust robot control.\nAutomatic calibration of RGBD and thermal cameras.\nAutomatic Online Calibration of Cameras and Lasers.\nUnsupervised Intrinsic Calibration of Depth Sensors via SLAM.\nTracking-Based Semi-Supervised Learning.\nPath Planning for Autonomous Vehicles in Unknown Semi-structured Environments.\nAleksandr Segal, Dirk Hähnel, Sebastian Thrun:",
+        "layoutList": [
+          "Policy-contingent abstraction for robust robot control.\nAutomatic calibration of RGBD and thermal cameras.\nAutomatic Online Calibration of Cameras and Lasers.\nUnsupervised Intrinsic Calibration of Depth Sensors via SLAM.\nTracking-Based Semi-Supervised Learning.\nPath Planning for Autonomous Vehicles in Unknown Semi-structured Environments.\nAleksandr Segal, Dirk Hähnel, Sebastian Thrun:"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 6,
+        "name": "Wolfram Burgard",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": "(1961年生于德国盖尔森基兴)是一名德国机器人学家。他是阿尔伯特·路德维格斯大学弗赖堡分校的正式教授，在那里他领导着自主智能系统实验室。众所周知，他对同时定位和映射(SLAM)问题做出了重大贡献，同时也为机器人技术做出了各种各样的贡献。 ",
+        "layoutList": [
+          "(1961年生于德国盖尔森基兴)是一名德国机器人学家。他是阿尔伯特·路德维格斯大学弗赖堡分校的正式教授，在那里他领导着自主智能系统实验室。众所周知，他对同时定位和映射(SLAM)问题做出了重大贡献，同时也为机器人技术做出了各种各样的贡献。 "
+        ]
+      },
+      {
+        "id": 7,
+        "code": 7,
+        "name": "Dieter Fox",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": "德国机器人专家和西雅图华盛顿大学计算机科学与工程系教授。他最令人称道的贡献等几个领域的机器人,人工智能,机器学习,无处不在的计算。Sebastian Thrun Wolfram Burgard和他是这本书的作者之一。",
+        "layoutList": [
+          "德国机器人专家和西雅图华盛顿大学计算机科学与工程系教授。他最令人称道的贡献等几个领域的机器人,人工智能,机器学习,无处不在的计算。Sebastian Thrun Wolfram Burgard和他是这本书的作者之一。"
+        ]
+      },
+      {
+        "id": 8,
+        "code": 8,
+        "name": "同步定位与地图构建",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 9,
+        "name": "贝叶斯",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 10,
+        "name": "目标识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 11,
+        "name": "多目标跟踪",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 12,
+        "name": "Cyrill Stachniss",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 13,
+        "name": "Giorgio Grisetti",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 14,
+        "name": "Kristian Kersting",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 15,
+        "name": "Christian Plagemann",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 16,
+        "name": "Xiaofeng Ren",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 17,
+        "name": "Liefeng Bo",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 18,
+        "name": "Armin B. Cremers",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 19,
+        "name": "Dirk Schulz",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 20,
+        "code": 20,
+        "name": "无人驾驶",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": "无人驾驶汽车是智能汽车的一种，也称为轮式移动机器人，主要依靠车内的以计算机系统为主的智能驾驶仪来实现无人驾驶的目的。",
+        "layoutList": [
+          "无人驾驶汽车是智能汽车的一种，也称为轮式移动机器人，主要依靠车内的以计算机系统为主的智能驾驶仪来实现无人驾驶的目的。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 21,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": "A probabilistic framework for car detection in images using context and scale./Traffic light mapping, localization, and state detection for autonomous vehicles. /Towards fully autonomous driving: Systems and algorithms./Path Planning for Autonomous Vehicles in Unknown Semi-structured Environments./Assisted Highway Lane Changing with RASCL./A probabilistic approach to mixed open-loop and closed-loop control, with application to extreme autonomous driving.",
+        "layoutList": [
+          "A probabilistic framework for car detection in images using context and scale.",
+          "Traffic light mapping, localization, and state detection for autonomous vehicles. ",
+          "Towards fully autonomous driving: Systems and algorithms.",
+          "Path Planning for Autonomous Vehicles in Unknown Semi-structured Environments.",
+          "Assisted Highway Lane Changing with RASCL.",
+          "A probabilistic approach to mixed open-loop and closed-loop control, with application to extreme autonomous driving."
+        ]
+      },
+      {
+        "id": 22,
+        "code": 23,
+        "name": "Michael Montemerlo",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": "他在移动机器人的有效概率方法领域做出了贡献。他就读于卡内基梅隆大学，1997年获得学士和硕士学位，2003年获得博士学位。他的论文导师是威廉·l·惠特克(William L. Whittaker)和塞巴斯蒂安·特龙(Sebastian Thrun)，两人都将指导DARPA Grand Challenge的获奖团队。在Thrun的领导下，Montemerlo成为斯坦福大学为Stanley编写软件的团队的领导者。",
+        "layoutList": [
+          "他在移动机器人的有效概率方法领域做出了贡献。他就读于卡内基梅隆大学，1997年获得学士和硕士学位，2003年获得博士学位。他的论文导师是威廉·l·惠特克(William L. Whittaker)和塞巴斯蒂安·特龙(Sebastian Thrun)，两人都将指导DARPA Grand Challenge的获奖团队。在Thrun的领导下，Montemerlo成为斯坦福大学为Stanley编写软件的团队的领导者。"
+        ]
+      },
+      {
+        "id": 23,
+        "code": 24,
+        "name": "David Stavens",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": "(DavidStavens)是一位美国企业家和科学家。他是Udacity的联合创始人和首席执行官，也是斯坦利的共同创建者，斯坦利是DARPA大挑战第二次无人驾驶汽车竞赛的赢家。斯塔文斯在机器人、机器学习和人工智能领域发表了论文。 ",
+        "layoutList": [
+          "(DavidStavens)是一位美国企业家和科学家。他是Udacity的联合创始人和首席执行官，也是斯坦利的共同创建者，斯坦利是DARPA大挑战第二次无人驾驶汽车竞赛的赢家。斯塔文斯在机器人、机器学习和人工智能领域发表了论文。 "
+        ]
+      },
+      {
+        "id": 24,
+        "code": 25,
+        "name": "机器人",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 26,
+        "name": "路径规划",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 27,
+        "name": "机器人",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 28,
+        "name": "路径规划",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 29,
+        "name": "Nicholas Roy",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 30,
+        "name": "Matt MacMahon",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 31,
+        "name": "Hendrik Dahlkamp",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 32,
+        "name": "Dirk Hähnel",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 33,
+        "name": "Scott Ettinger",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 34,
+        "name": "David Orenstein",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 34,
+        "code": 35,
+        "name": "Jan Becker",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 35,
+        "code": 36,
+        "name": "Ganymed Stanek",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 37,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": "深度学习是机器学习的技术和研究领域之一，通过建立具有层次结构的人工神经网络，在计算系统中实现人工智能 。由于阶层ANN能够对输入信息进行逐层提取和筛选，因此深度学习具有表征学习能力 ，可以实现端到端的监督学习和非监督学习。",
+        "layoutList": [
+          "深度学习是机器学习的技术和研究领域之一，通过建立具有层次结构的人工神经网络，在计算系统中实现人工智能 。由于阶层ANN能够对输入信息进行逐层提取和筛选，因此深度学习具有表征学习能力 ，可以实现端到端的监督学习和非监督学习。"
+        ]
+      },
+      {
+        "id": 37,
+        "code": 38,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": "Deep Learning for Single-View Instance Recognition./Dermatologist-level classification of skin cancer with deep neural networks./Skin Cancer Detection and Tracking Using Data Synthesis and Deep Learning./Learning to Track at 100 FPS with Deep Regression Networks.",
+        "layoutList": [
+          "Deep Learning for Single-View Instance Recognition.",
+          "Dermatologist-level classification of skin cancer with deep neural networks.",
+          "Skin Cancer Detection and Tracking Using Data Synthesis and Deep Learning.",
+          "Learning to Track at 100 FPS with Deep Regression Networks."
+        ]
+      },
+      {
+        "id": 38,
+        "code": 40,
+        "name": "Silvio Savarese",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": "Silvio Savarese是斯坦福大学计算机科学副教授和首届Mindtree Faculty Scholar。他获得了博士学位。他于2005年在加州理工学院获得电气工程专业，并于2005年至2008年在伊利诺伊大学厄巴纳 - 香槟分校担任贝克曼研究所研究员。他于2008年加入斯坦福大学，之后于2008年至2013年担任密歇根大学安娜堡分校电子与计算机工程副助理教授。他的研究兴趣包括计算机视觉，机器人知觉和机器学习。他获得了多项奖项，包括2016年CVPR的最佳学生论文奖，James R. Croes 2013年获得奖牌，2012年获得TRW汽车捐赠研究奖，2011年获得NSF职业奖，2010年获得谷歌研究奖。2002年，他因杰出的研究计划获得了Walker von Brimer奖。",
+        "layoutList": [
+          "Silvio Savarese是斯坦福大学计算机科学副教授和首届Mindtree Faculty Scholar。他获得了博士学位。他于2005年在加州理工学院获得电气工程专业，并于2005年至2008年在伊利诺伊大学厄巴纳 - 香槟分校担任贝克曼研究所研究员。他于2008年加入斯坦福大学，之后于2008年至2013年担任密歇根大学安娜堡分校电子与计算机工程副助理教授。他的研究兴趣包括计算机视觉，机器人知觉和机器学习。他获得了多项奖项，包括2016年CVPR的最佳学生论文奖，James R. Croes 2013年获得奖牌，2012年获得TRW汽车捐赠研究奖，2011年获得NSF职业奖，2010年获得谷歌研究奖。2002年，他因杰出的研究计划获得了Walker von Brimer奖。"
+        ]
+      },
+      {
+        "id": 39,
+        "code": 41,
+        "name": "David Held",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": "生于 1951，是一个专业从事政治理论和国际关系的英国政治科学家。他目前担任达勒姆大学政治和国际关系教授和大学学院硕士。他也是一个访问学者，在Libera大学的政治学教授， 以前他曾担任政治学教授格雷厄姆·瓦利斯和伦敦经济学院全球治理研究中心联合主任在世界主义，特别是世界主义民主的发展中占有突出地位。他一直是全球化、全球治理问题的积极学者，也是学术期刊“全球政策”(GlobalPolicy)的联合主编。",
+        "layoutList": [
+          "生于 1951，是一个专业从事政治理论和国际关系的英国政治科学家。他目前担任达勒姆大学政治和国际关系教授和大学学院硕士。他也是一个访问学者，在Libera大学的政治学教授， 以前他曾担任政治学教授格雷厄姆·瓦利斯和伦敦经济学院全球治理研究中心联合主任在世界主义，特别是世界主义民主的发展中占有突出地位。他一直是全球化、全球治理问题的积极学者，也是学术期刊“全球政策”(GlobalPolicy)的联合主编。"
+        ]
+      },
+      {
+        "id": 40,
+        "code": 42,
+        "name": "自监督学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 43,
+        "name": "迁移学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 44,
+        "name": "强化学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 45,
+        "name": "无人驾驶",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 46,
+        "name": "Yuke Zhu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 47,
+        "name": "Fei-Fei Li",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 48,
+        "name": "Jitendra Malik",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 49,
+        "name": "Amir Roshan Zamir",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 48,
+        "code": 50,
+        "name": "Pieter Abbeel",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 49,
+        "code": 51,
+        "name": "Carlos Florensa",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 52,
+        "name": "Jesse Levinson",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 53,
+        "name": "Dirk Langer",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 54,
+        "name": "信息过滤",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": "信息过滤有很多定义，Belkin和Croft的文章给出了这样的定义：信息过滤是用以描述一系列将信息传递给需要它的用户处理过程的总称。",
+        "layoutList": [
+          "信息过滤有很多定义，Belkin和Croft的文章给出了这样的定义：信息过滤是用以描述一系列将信息传递给需要它的用户处理过程的总称。"
+        ]
+      },
+      {
+        "id": 53,
+        "code": 55,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": "Learning to Segment and Track in RGBD./Multi-view image and ToF sensor fusion for dense 3D reconstruction./High-quality scanning using time-of-flight depth superresolution./The Information-Form Data Association Filter./Recovering Articulated Object Models from 3D Range Data.",
+        "layoutList": [
+          "Learning to Segment and Track in RGBD.",
+          "Multi-view image and ToF sensor fusion for dense 3D reconstruction.",
+          "High-quality scanning using time-of-flight depth superresolution.",
+          "The Information-Form Data Association Filter.",
+          "Recovering Articulated Object Models from 3D Range Data."
+        ]
+      },
+      {
+        "id": 54,
+        "code": 57,
+        "name": "Daphne Koller",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": "(1968年8月27日出生) 是斯坦福大学计算机科学系的一名以色列裔美国教授和麦克阿瑟奖学金获得者。她也是在线教育平台Coursera的创始人之一。她的一般研究领域是人工智能及其在生物医学科学中的应用。她的工作重点是表现、推理、学习和决策，最近她开始关注计算机视觉和计算生物学。和医生一起。斯坦福大学的安娜·佩恩(AnnaPenn)开发了物理评分，它使用各种数据元素来预测早产婴儿是否有可能有健康问题。在2004年麻省理工学院技术审查的一篇题为“关于贝叶斯机器学习主题的\"10个将改变您的世界的新兴技术\"”的文章中介绍了Koller。",
+        "layoutList": [
+          "(1968年8月27日出生) 是斯坦福大学计算机科学系的一名以色列裔美国教授和麦克阿瑟奖学金获得者。她也是在线教育平台Coursera的创始人之一。她的一般研究领域是人工智能及其在生物医学科学中的应用。她的工作重点是表现、推理、学习和决策，最近她开始关注计算机视觉和计算生物学。和医生一起。斯坦福大学的安娜·佩恩(AnnaPenn)开发了物理评分，它使用各种数据元素来预测早产婴儿是否有可能有健康问题。在2004年麻省理工学院技术审查的一篇题为“关于贝叶斯机器学习主题的\"10个将改变您的世界的新兴技术\"”的文章中介绍了Koller。"
+        ]
+      },
+      {
+        "id": 55,
+        "code": 58,
+        "name": "Zoubin Ghahramani",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": "Zoubin Ghahramani在宾夕法尼亚大学学习计算机科学和认知科学，1995年获得麻省理工学院博士学位，并且是多伦多大学的博士后研究员。他的学术生涯包括同时担任伦敦Gatsby计算神经科学部门的创始成员之一，并担任CMU机器学习部门的教员超过10年。他目前的研究重点是非参数贝叶斯建模和统计机器学习。他还致力于生物信息学，计量经济学和各种大规模数据建模问题的应用。他在计算机科学，统计学，工程学和神经科学等领域拥有200多种出版物。他曾在JMLR，JAIR，统计年鉴，机器学习的编辑委员会任职，贝叶斯分析，IEEE模式分析与机器智能交易（副主编）。他还曾担任国际机器学习协会理事会成员，并担任NIPS，ICML和AISTATS会议的计划主席。",
+        "layoutList": [
+          "Zoubin Ghahramani在宾夕法尼亚大学学习计算机科学和认知科学，1995年获得麻省理工学院博士学位，并且是多伦多大学的博士后研究员。他的学术生涯包括同时担任伦敦Gatsby计算神经科学部门的创始成员之一，并担任CMU机器学习部门的教员超过10年。他目前的研究重点是非参数贝叶斯建模和统计机器学习。他还致力于生物信息学，计量经济学和各种大规模数据建模问题的应用。他在计算机科学，统计学，工程学和神经科学等领域拥有200多种出版物。他曾在JMLR，JAIR，统计年鉴，机器学习的编辑委员会任职，贝叶斯分析，IEEE模式分析与机器智能交易（副主编）。他还曾担任国际机器学习协会理事会成员，并担任NIPS，ICML和AISTATS会议的计划主席。"
+        ]
+      },
+      {
+        "id": 56,
+        "code": 59,
+        "name": "知识库",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 60,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 61,
+        "name": "关联规则学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 62,
+        "name": "贝叶斯",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 63,
+        "name": "Joseph Y. Halpern",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 64,
+        "name": "Adam J. Grove",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 62,
+        "code": 65,
+        "name": "Nir Friedman",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 63,
+        "code": 66,
+        "name": "Eran Segal",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 64,
+        "code": 67,
+        "name": "David A. Knowles",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 65,
+        "code": 68,
+        "name": "Konstantina Palla",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 66,
+        "code": 69,
+        "name": "David L. Wild",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 67,
+        "code": 70,
+        "name": "Wei Chu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Sebatian",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 19,
+        "source": 0,
+        "target": 20
+      },
+      {
+        "id": 35,
+        "source": 0,
+        "target": 37
+      },
+      {
+        "id": 51,
+        "source": 0,
+        "target": 54
+      },
+      {
+        "id": 4,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 3,
+        "target": 6
+      },
+      {
+        "id": 6,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "id": 7,
+        "source": 6,
+        "target": 8
+      },
+      {
+        "id": 8,
+        "source": 6,
+        "target": 9
+      },
+      {
+        "id": 9,
+        "source": 7,
+        "target": 10
+      },
+      {
+        "id": 10,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "id": 11,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "id": 12,
+        "source": 8,
+        "target": 13
+      },
+      {
+        "id": 13,
+        "source": 9,
+        "target": 14
+      },
+      {
+        "id": 14,
+        "source": 9,
+        "target": 15
+      },
+      {
+        "id": 15,
+        "source": 10,
+        "target": 16
+      },
+      {
+        "id": 16,
+        "source": 10,
+        "target": 17
+      },
+      {
+        "id": 17,
+        "source": 11,
+        "target": 18
+      },
+      {
+        "id": 18,
+        "source": 11,
+        "target": 19
+      },
+      {
+        "id": 20,
+        "source": 20,
+        "target": 21
+      },
+      {
+        "id": 21,
+        "source": 20,
+        "target": 23
+      },
+      {
+        "id": 22,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 23,
+        "source": 23,
+        "target": 25
+      },
+      {
+        "id": 24,
+        "source": 23,
+        "target": 26
+      },
+      {
+        "id": 25,
+        "source": 24,
+        "target": 27
+      },
+      {
+        "id": 26,
+        "source": 24,
+        "target": 28
+      },
+      {
+        "id": 27,
+        "source": 25,
+        "target": 29
+      },
+      {
+        "id": 28,
+        "source": 25,
+        "target": 30
+      },
+      {
+        "id": 29,
+        "source": 26,
+        "target": 31
+      },
+      {
+        "id": 30,
+        "source": 26,
+        "target": 32
+      },
+      {
+        "id": 31,
+        "source": 27,
+        "target": 33
+      },
+      {
+        "id": 32,
+        "source": 27,
+        "target": 34
+      },
+      {
+        "id": 33,
+        "source": 28,
+        "target": 35
+      },
+      {
+        "id": 34,
+        "source": 28,
+        "target": 36
+      },
+      {
+        "id": 36,
+        "source": 37,
+        "target": 38
+      },
+      {
+        "id": 37,
+        "source": 37,
+        "target": 40
+      },
+      {
+        "id": 38,
+        "source": 37,
+        "target": 41
+      },
+      {
+        "id": 39,
+        "source": 40,
+        "target": 42
+      },
+      {
+        "id": 40,
+        "source": 40,
+        "target": 43
+      },
+      {
+        "id": 41,
+        "source": 41,
+        "target": 44
+      },
+      {
+        "id": 42,
+        "source": 41,
+        "target": 45
+      },
+      {
+        "id": 43,
+        "source": 42,
+        "target": 46
+      },
+      {
+        "id": 44,
+        "source": 42,
+        "target": 47
+      },
+      {
+        "id": 45,
+        "source": 43,
+        "target": 48
+      },
+      {
+        "id": 46,
+        "source": 43,
+        "target": 49
+      },
+      {
+        "id": 47,
+        "source": 44,
+        "target": 50
+      },
+      {
+        "id": 48,
+        "source": 44,
+        "target": 51
+      },
+      {
+        "id": 49,
+        "source": 45,
+        "target": 52
+      },
+      {
+        "id": 50,
+        "source": 45,
+        "target": 53
+      },
+      {
+        "id": 52,
+        "source": 54,
+        "target": 55
+      },
+      {
+        "id": 53,
+        "source": 54,
+        "target": 57
+      },
+      {
+        "id": 54,
+        "source": 54,
+        "target": 58
+      },
+      {
+        "id": 55,
+        "source": 57,
+        "target": 59
+      },
+      {
+        "id": 56,
+        "source": 57,
+        "target": 60
+      },
+      {
+        "id": 57,
+        "source": 58,
+        "target": 61
+      },
+      {
+        "id": 58,
+        "source": 58,
+        "target": 62
+      },
+      {
+        "id": 59,
+        "source": 59,
+        "target": 63
+      },
+      {
+        "id": 60,
+        "source": 59,
+        "target": 64
+      },
+      {
+        "id": 61,
+        "source": 60,
+        "target": 65
+      },
+      {
+        "id": 62,
+        "source": 60,
+        "target": 66
+      },
+      {
+        "id": 63,
+        "source": 61,
+        "target": 67
+      },
+      {
+        "id": 64,
+        "source": 61,
+        "target": 68
+      },
+      {
+        "id": 65,
+        "source": 62,
+        "target": 69
+      },
+      {
+        "id": 66,
+        "source": 62,
+        "target": 70
+      }
+    ]
+  ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "Simultaneous Localization and Mapping",
+		"author": "Sebastian Thrun",
+		"publishDate": "2017",
+		"summaryAll": "Dieses Kapitel gibt eine Einfuhrung in die Kartenerstellung und gleichzeitige Lokalisierung mobiler Sensorplattformen. Die gemeinsame Losung dieser beiden Probleme ist eine Voraussetzung fur die Realisierung vieler technischer Systeme von leichten Fluggeraten uber autonome Roboter bis hin zu mobilen Kameras. Als Simultaneous Localization and Mapping bezeichnet man die Aufgabe, die Trajektorie samt Orientierungsinformation einer sich bewegenden Plattform aus Beobachtungen zu schatzen und gleichzeitig eine Karte der Umgebung zu erstellen. Diese Aufgabe ist in vielen realen Systemen von entscheidender Bedeutung: einerseits stellen hochgenaue Karten mitunter einen Wert an sich fur den Benutzer oder eine spezielle Anwendung dar, andererseits benotigen beispielsweise autonome Roboter ein solches Modell, um zielgerichtet selbststandig navigieren zu konnen. Das Simultaneous Localization and Mapping Problem, beziehungsweise Teilprobleme davon, werden, je nach verwendeter Sensorik, auch als Bundelausgleichung, Structure from Motion oder SLAM bezeichnet."
+	},
+	{
+		"title": "Corrigendum: Dermatologist-level classification of skin cancer with deep neural networks",
+		"author": "Andre Esteva，Brett Kuprel，Roberto A. Novoa，Justin Ko，Susan M. Swetter，Helen M.Blanu，Sebastian Thrun",
+		"publishDate": "2017",
+		"summaryAll": "In the Acknowledgements section of this Letter, the sentence: “This study was supported by the Baxter Foundation, California Institute for Regenerative Medicine (CIRM) grants TT3-05501 and RB5-07469 and US National Institutes of Health (NIH) grants AG044815, AG009521, NS089533, AR063963 and AG020961 (H.M.B.)” should have read: “This study was supported by funding from the Baxter Foundation to H.M.B.” Furthermore, the last line of the Acknowledgements section should have read: “In addition, this work was supported by a National Institutes of Health (NIH) National Center for Advancing Translational Science Clinical and Translational Science Award (UL1 TR001085). The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.” The original Letter has been corrected online."
+	},
+	{
+		"title": "Robust real-time tracking combining 3D shape, color, and motion",
+		"author": "David Held，Jesse Levinson，Sebastian Thrun，Silvio Savarese",
+		"publishDate": "2016",
+		"summaryAll": "Real-time tracking algorithms often suffer from low accuracy and poor robustness when confronted with difficult, real-world data. We present a tracker that combines 3D shape, color (when available), and motion cues to accurately track moving objects in real-time. Our tracker allocates computational effort based on the shape of the posterior distribution. Starting with a coarse approximation to the posterior, the tracker successively refines this distribution, increasing in tracking accuracy over time. The tracker can thus be run for any amount of time, after which the current approximation to the posterior is returned. Even at a minimum runtime of 0.37 ms per object, our method outperforms all of the baseline methods of similar speed by at least 25% in root-mean-square (RMS) tracking error. If our tracker is allowed to run for longer, the accuracy continues to improve, and it continues to outperform all baseline methods. "
+	},
+	{
+		"title": "Learning to Track at 100 FPS with Deep Regression Networks",
+		"author": "David Held，Sebastian Thrun，Silvio Savarese",
+		"publishDate": "2016",
+		"summaryAll": "Machine learning techniques are often used in computer vision due to their ability to leverage large amounts of training data to improve performance. Unfortunately, most generic object trackers are still trained from scratch online and do not benefit from the large number of videos that are readily available for offline training. We propose a method for offline training of neural networks that can track novel objects at test-time at 100 fps. Our tracker is significantly faster than previous methods that use neural networks for tracking, which are typically very slow to run and not practical for real-time applications. Our tracker uses a simple feed-forward network with no online training required. The tracker learns a generic relationship between object motion and appearance and can be used to track novel objects that do not appear in the training set. We test our network on a standard tracking benchmark to demonstrate our tracker’s state-of-the-art performance. Further, our performance improves as we add more videos to our offline training set. To the best of our knowledge, our tracker (Our tracker is available at http://davheld.github.io/GOTURN/GOTURN.html) is the first neural-network tracker that learns to track generic objects at 100 fps."
+	},
+	{
+		"title": "Robust single-view instance recognition",
+		"author": "David Held，Sebastian Thrun，Silvio Savarese",
+		"publishDate": "2016",
+		"summaryAll": "Some robots must repeatedly interact with a fixed set of objects in their environment. To operate correctly, it is helpful for the robot to be able to recognize the object instances that it repeatedly encounters. However, current methods for recognizing object instances require that, during training, many pictures are taken of each object from a large number of viewing angles. This procedure is slow and requires much manual effort before the robot can begin to operate in a new environment. We have developed a novel procedure for training a neural network to recognize a set of objects from just a single training image per object. To obtain robustness to changes in viewpoint, we take advantage of a supplementary dataset in which we observe a separate (non-overlapping) set of objects from multiple viewpoints. After pre-training the network in a novel multi-stage fashion, the network can robustly recognize new object instances given just a single training image of each object. If more images of each object are available, the performance improves. We perform a thorough analysis comparing our novel training procedure to traditional neural network pre-training techniques as well as previous state-of-the-art approaches including keypoint-matching, template-matching, and sparse coding, and we demonstrate that our method significantly outperforms these previous approaches. Our method can thus be used to easily teach a robot to recognize a novel set of object instances from unknown viewpoints."
+	},
+	{
+		"title": "Skin Cancer Detection and Tracking using Data Synthesis and Deep Learning",
+		"author": "Yunzhu Li，Andre Esteva，Brett Kuprel，Rob Novoa，Justin Ko，Sebastian Thrun",
+		"publishDate": "2016",
+		"summaryAll": "Dense object detection and temporal tracking are needed across applications domains ranging from people-tracking to analysis of satellite imagery over time. The detection and tracking of malignant skin cancers and benign moles poses a particularly challenging problem due to the general uniformity of large skin patches, the fact that skin lesions vary little in their appearance, and the relatively small amount of data available. Here we introduce a novel data synthesis technique that merges images of individual skin lesions with full-body images and heavily augments them to generate significant amounts of data. We build a convolutional neural network (CNN) based system, trained on this synthetic data, and demonstrate superior performance to traditional detection and tracking techniques. Additionally, we compare our system to humans trained with simple criteria. Our system is intended for potential clinical use to augment the capabilities of healthcare providers. While domain-specific, we believe the methods invoked in this work will be useful in applying CNNs across domains that suffer from limited data availability."
+	}
+],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": []
+}

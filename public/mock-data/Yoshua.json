@@ -1,0 +1,1298 @@
+{
+  "expertVO": {
+    "id": 1819539,
+    "name": "Yoshua Bengio",
+    "headImg": "/img/expert_logo/2019-04/2019-04-17-09-50-38__0bfc2fd8-5b17-41fd-a0e9-5a3dde48326a.jpg",
+    "institution": "Universite de Montreal",
+    "subjectArea": "计算机科学",
+    "country": "加拿大",
+    "totalIssues": 284,
+    "totalCitations": 62308,
+    "top1Citations": 0.247899,
+    "number1": 59,
+    "top10Citations": 0.542017,
+    "number10": 129,
+    "hIndex": 77,
+    "journalSend": null,
+    "subjectMatch": null,
+    "citedSituation": null,
+    "fwciinedx": 11.334,
+    "layoutList":[
+      "1964年－ ，加拿大计算机科学家，因人工神经网络和深度学习领域的研究而闻名。",
+      "与Ian Goodfellow、Aaron Courville两人合著 Deep Learning。",
+      "与Geoffrey Hinton,Yann Lecun同为2018年图灵奖得主。"
+    ]
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"Yoshua Bengio","type":"expert","level":"1","colorIdx":"0"},
+      {"code":"1","name":"荣誉","type":"honor","level":"2","colorIdx":"5"},
+      {"code":"2","name":"机构","type":"org","level":"2","colorIdx":"6"},
+      {"code":"3","name":"递归神经网络","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"4","name":"机器翻译","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"5","name":"视频分析","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"6","name":"半监督学习","type":"keyword","level":"2","colorIdx":"4"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"},
+      {"id":"5","source":"0","target":"6"}
+      ],
+    "expertReco": [
+      {
+        "id": 2017250,
+        "name": "曹进德",
+        "headImg": "/img/domain_logo/2017250.jpg",
+        "institution": "Southeast University",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 914005,
+        "name": "王子栋",
+        "headImg": "/img/expert_logo/2019-03/2019-03-21-13-26-15__512381b6-9622-4ec3-8ccc-3e1e534cc672.jpg",
+        "institution": "Brunel University London",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 376304,
+        "name": "黄煦涛",
+        "headImg": "/img/domain_logo/35513984600.jpg",
+        "institution": "University of Illinois at Urbana-Champaign",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": [
+      "Neural network",
+      "Unsupervised learning",
+      "Speech recognition"
+    ],
+    "journalsReco": null,
+    "institutionsReco": [
+      "CIFAR",
+      "Canadian Institute for Advanced Research",
+      "Montreal Institute for Learning Algorithms"
+    ]
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 63,
+        "code": 66,
+        "name": "Guillaume Desjardins",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 64,
+        "code": 67,
+        "name": "Francis R. Bach",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 65,
+        "code": 68,
+        "name": "Mark W. Schmidt",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 66,
+        "code": 69,
+        "name": "Pierre-Antoine Manzagol",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 67,
+        "code": 70,
+        "name": "Guillaume Alain",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "Yoshua Bengio",
+        "type": "expert",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "荣誉",
+        "type": "honor",
+        "level": 2,
+        "colorIdx": 5,
+        "keyword": "Yoshua",
+        "layout": "2018. 图灵奖/2017. 玛丽维克多奖/2017. 加拿大皇家学会会员",
+        "layoutList": [
+          "2018. 图灵奖",
+          "2017. 玛丽维克多奖",
+          "2017. 加拿大皇家学会会员"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "组织",
+        "type": "org",
+        "level": 2,
+        "colorIdx": 6,
+        "keyword": "Yoshua",
+        "layout": "蒙特利尔大学",
+        "layoutList": [
+          "蒙特利尔大学"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "递归神经网络",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": "递归神经网络（recursive neural network）是具有树状阶层结构且网络节点按其连接顺序对输入信息进行递归的人工神经网络（Artificial Neural Network, ANN），是深度学习（deep learning）算法之一。",
+        "layoutList": [
+          "递归神经网络（recursive neural network）是具有树状阶层结构且网络节点按其连接顺序对输入信息进行递归的人工神经网络（Artificial Neural Network, ANN），是深度学习（deep learning）算法之一。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": "Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation./A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues./Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models./Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus./Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation./Hierarchical Neural Network Generative Models for Movie Dialogues.",
+        "layoutList": [
+          "Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation.",
+          "A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues.",
+          "Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models.",
+          "Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus.",
+          "Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation.",
+          "Hierarchical Neural Network Generative Models for Movie Dialogues."
+        ]
+      },
+      {
+        "id": 6,
+        "code": 6,
+        "name": "Aaron C. Courville",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": "2012年至今加拿大蒙特利尔大学信息技术和研究中心助理教授。主要研究方向为机器学习，深度学习，概率模型和推理，神经网络，无监督学习，计算机视觉，人工智能，认知模型，感知和学习，经典和操作条件。",
+        "layoutList": [
+          "2012年至今加拿大蒙特利尔大学信息技术和研究中心助理教授。主要研究方向为机器学习，深度学习，概率模型和推理，神经网络，无监督学习，计算机视觉，人工智能，认知模型，感知和学习，经典和操作条件。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 7,
+        "name": "Iulian Serban",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": "蒙特利尔大学的一名博士生，研究方向为深度学习模型与强化学习方法的整合，由Aaron Courville和yoshuabengio共同指导，并与麦吉尔大学的Joelle Pineau广泛合作。",
+        "layoutList": [
+          "蒙特利尔大学的一名博士生，研究方向为深度学习模型与强化学习方法的整合，由Aaron Courville和yoshuabengio共同指导，并与麦吉尔大学的Joelle Pineau广泛合作。"
+        ]
+      },
+      {
+        "id": 8,
+        "code": 8,
+        "name": "对抗网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 9,
+        "name": "注意力机制",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 10,
+        "name": "对话智能",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 11,
+        "name": "对话系统",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 12,
+        "name": "Mehdi Mirza",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 13,
+        "name": "Ian J. Goodfellow",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 14,
+        "name": "Hugo Larochelle",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 15,
+        "name": "Christopher J. Pal",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 16,
+        "name": "Ryan Lowe",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 17,
+        "name": "Joelle Pineau",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 18,
+        "name": "Michael Noseworthy",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 19,
+        "name": "Laurent Charlin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 20,
+        "code": 20,
+        "name": "机器翻译",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": "机器翻译（Machine Translation），又称为自动翻译，是利用计算机将一种自然语言(源语言)转换为另一种自然语言(目标语言)的过程。它是计算语言学的一个分支，是人工智能的终极目标之一，具有重要的科学研究价值。",
+        "layoutList": [
+          "机器翻译（Machine Translation），又称为自动翻译，是利用计算机将一种自然语言(源语言)转换为另一种自然语言(目标语言)的过程。它是计算语言学的一个分支，是人工智能的终极目标之一，具有重要的科学研究价值。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 21,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": "Fine-grained attention mechanism for neural machine translation./Context-dependent word representation for neural machine translation./On integrating a language model into neural machine translation./Context-dependent word representation for neural machine translation./A Character-level Decoder without Explicit Segmentation for Neural Machine Translation./Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism.",
+        "layoutList": [
+          "Fine-grained attention mechanism for neural machine translation.",
+          "Context-dependent word representation for neural machine translation.",
+          "On integrating a language model into neural machine translation.",
+          "Context-dependent word representation for neural machine translation.",
+          "A Character-level Decoder without Explicit Segmentation for Neural Machine Translation.",
+          "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism."
+        ]
+      },
+      {
+        "id": 22,
+        "code": 23,
+        "name": "Kyunghyun Cho",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": "纽约大学助理教授，方向为机器学习，自然语言处理",
+        "layoutList": [
+          "纽约大学助理教授，方向为机器学习，自然语言处理"
+        ]
+      },
+      {
+        "id": 23,
+        "code": 24,
+        "name": "Heeyoul Choi",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": "Handong Global University 助理教授研究方向人工智能、深度学习、机器学习、模式识别、认知科学",
+        "layoutList": [
+          "Handong Global University 助理教授研究方向人工智能、深度学习、机器学习、模式识别、认知科学"
+        ]
+      },
+      {
+        "id": 24,
+        "code": 25,
+        "name": "递归神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 26,
+        "name": "限制玻尔兹曼机",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 27,
+        "name": "参数学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 28,
+        "name": "情景识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 29,
+        "name": "Çaglar Gülçehre",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 30,
+        "name": "Razvan Pascanu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 31,
+        "name": "Alexander Ilin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 32,
+        "name": "Tapani Raiko",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 33,
+        "name": "Yoonsuck Choe",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 34,
+        "name": "Seungjin Choi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 34,
+        "code": 35,
+        "name": "Sangdo Park",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 35,
+        "code": 36,
+        "name": "Jaemo Sung",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 37,
+        "name": "视频分析",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": "视频分析，英文叫IVS(Intelligent Video System),也有叫CA(Content analyse),视频分析技术就是使用计算机图像视觉分析技术，通过将场景中背景和目标分离进而分析并追踪在摄像机场景内出现的目标。",
+        "layoutList": [
+          "视频分析，英文叫IVS(Intelligent Video System),也有叫CA(Content analyse),视频分析技术就是使用计算机图像视觉分析技术，通过将场景中背景和目标分离进而分析并追踪在摄像机场景内出现的目标。"
+        ]
+      },
+      {
+        "id": 37,
+        "code": 38,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": "EmoNets: Multimodal deep learning approaches for emotion recognition in video./Combining modality specific deep neural networks for emotion recognition in video./SampleRNN: An Unconditional End-to-End Neural Audio Generation Model",
+        "layoutList": [
+          "EmoNets: Multimodal deep learning approaches for emotion recognition in video.",
+          "Combining modality specific deep neural networks for emotion recognition in video.",
+          "SampleRNN: An Unconditional End-to-End Neural Audio Generation Model"
+        ]
+      },
+      {
+        "id": 38,
+        "code": 40,
+        "name": "Pascal Vincent",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": "人工智能专家",
+        "layoutList": [
+          "人工智能专家"
+        ]
+      },
+      {
+        "id": 39,
+        "code": 41,
+        "name": "Yann N. Dauphin",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": "2019年加入Google AI。此前在facebook AI研究公司工作近4年，帮助推动神经机器翻译方面的最新进展，并提高了对如何训练深层神经网络的理解。他在蒙特利尔大学与Yoshua Bengio合作，讨论如何扩大深度学习算法的范围获得博士学位。与合作者用算法赢得了两项国际人工智能比赛：2011年的无监督转移学习挑战和2014年的表情挑战。研究重点是了解和开发深度学习算法。对创建深度学习算法感兴趣，这些算法可以学习很少的监督和理解学习的原则。",
+        "layoutList": [
+          "2019年加入Google AI。此前在facebook AI研究公司工作近4年，帮助推动神经机器翻译方面的最新进展，并提高了对如何训练深层神经网络的理解。他在蒙特利尔大学与Yoshua Bengio合作，讨论如何扩大深度学习算法的范围获得博士学位。与合作者用算法赢得了两项国际人工智能比赛：2011年的无监督转移学习挑战和2014年的表情挑战。研究重点是了解和开发深度学习算法。对创建深度学习算法感兴趣，这些算法可以学习很少的监督和理解学习的原则。"
+        ]
+      },
+      {
+        "id": 40,
+        "code": 42,
+        "name": "梯度下降",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 43,
+        "name": "场景分类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 44,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 45,
+        "name": "策略生成",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 46,
+        "name": "César Laurent",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 47,
+        "name": "Xavier Bouthillier",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 48,
+        "name": "Xavier Glorot",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 49,
+        "name": "Salah Rifai",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 48,
+        "code": 50,
+        "name": "David Grangier",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 49,
+        "code": 51,
+        "name": "Michael Auli",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 52,
+        "name": "Mike Lewis",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 53,
+        "name": "Angela Fan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 54,
+        "name": "半监督学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": "半监督学习(Semi-Supervised Learning，SSL)是模式识别和机器学习领域研究的重点问题，是监督学习与无监督学习相结合的一种学习方法。半监督学习使用大量的未标记数据，以及同时使用标记数据，来进行模式识别工作。当使用半监督学习时，将会要求尽量少的人员来从事工作，同时，又能够带来比较高的准确性，因此，半监督学习目前正越来越受到人们的重视。",
+        "layoutList": [
+          "半监督学习(Semi-Supervised Learning，SSL)是模式识别和机器学习领域研究的重点问题，是监督学习与无监督学习相结合的一种学习方法。半监督学习使用大量的未标记数据，以及同时使用标记数据，来进行模式识别工作。当使用半监督学习时，将会要求尽量少的人员来从事工作，同时，又能够带来比较高的准确性，因此，半监督学习目前正越来越受到人们的重视。"
+        ]
+      },
+      {
+        "id": 53,
+        "code": 55,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": "Interpolation Consistency Training for Semi-supervised Learning./Word Representations: A Simple and General Method for Semi-Supervised Learning./Entropy Regularization. Semi-Supervised Learning./Large-Scale Algorithms. Semi-Supervised./Efficient Non-Parametric Function Induction in Semi-Supervised Learning./Semi-supervised Learning by Entropy Minimization.",
+        "layoutList": [
+          "Interpolation Consistency Training for Semi-supervised Learning.",
+          "Word Representations: A Simple and General Method for Semi-Supervised Learning.",
+          "Entropy Regularization. Semi-Supervised Learning.",
+          "Large-Scale Algorithms. Semi-Supervised.",
+          "Efficient Non-Parametric Function Induction in Semi-Supervised Learning.",
+          "Semi-supervised Learning by Entropy Minimization."
+        ]
+      },
+      {
+        "id": 54,
+        "code": 57,
+        "name": "Olivier Delalleau",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": "人工智能专家",
+        "layoutList": [
+          "人工智能专家"
+        ]
+      },
+      {
+        "id": 55,
+        "code": 58,
+        "name": "Nicolas Le Roux",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": "Google Brain研究员，研究方向为在机器学习，神经网络，优化，大规模学习和统计建模",
+        "layoutList": [
+          "Google Brain研究员，研究方向为在机器学习，神经网络，优化，大规模学习和统计建模"
+        ]
+      },
+      {
+        "id": 56,
+        "code": 59,
+        "name": "谱嵌入",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 60,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 61,
+        "name": "梯度下降",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 62,
+        "name": "Hessian 矩阵",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 63,
+        "name": "Marie Ouimet",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 64,
+        "name": "Jean-François Paiement",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 62,
+        "code": 65,
+        "name": "Olivier Breuleux",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 4,
+        "keyword": "Yoshua",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 19,
+        "source": 0,
+        "target": 20
+      },
+      {
+        "id": 35,
+        "source": 0,
+        "target": 37
+      },
+      {
+        "id": 51,
+        "source": 0,
+        "target": 54
+      },
+      {
+        "id": 4,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 3,
+        "target": 6
+      },
+      {
+        "id": 6,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "id": 7,
+        "source": 6,
+        "target": 8
+      },
+      {
+        "id": 8,
+        "source": 6,
+        "target": 9
+      },
+      {
+        "id": 9,
+        "source": 7,
+        "target": 10
+      },
+      {
+        "id": 10,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "id": 11,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "id": 12,
+        "source": 8,
+        "target": 13
+      },
+      {
+        "id": 13,
+        "source": 9,
+        "target": 14
+      },
+      {
+        "id": 14,
+        "source": 9,
+        "target": 15
+      },
+      {
+        "id": 15,
+        "source": 10,
+        "target": 16
+      },
+      {
+        "id": 16,
+        "source": 10,
+        "target": 17
+      },
+      {
+        "id": 17,
+        "source": 11,
+        "target": 18
+      },
+      {
+        "id": 18,
+        "source": 11,
+        "target": 19
+      },
+      {
+        "id": 20,
+        "source": 20,
+        "target": 21
+      },
+      {
+        "id": 21,
+        "source": 20,
+        "target": 23
+      },
+      {
+        "id": 22,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 23,
+        "source": 23,
+        "target": 25
+      },
+      {
+        "id": 24,
+        "source": 23,
+        "target": 26
+      },
+      {
+        "id": 25,
+        "source": 24,
+        "target": 27
+      },
+      {
+        "id": 26,
+        "source": 24,
+        "target": 28
+      },
+      {
+        "id": 27,
+        "source": 25,
+        "target": 29
+      },
+      {
+        "id": 28,
+        "source": 25,
+        "target": 30
+      },
+      {
+        "id": 29,
+        "source": 26,
+        "target": 31
+      },
+      {
+        "id": 30,
+        "source": 26,
+        "target": 32
+      },
+      {
+        "id": 31,
+        "source": 27,
+        "target": 33
+      },
+      {
+        "id": 32,
+        "source": 27,
+        "target": 34
+      },
+      {
+        "id": 33,
+        "source": 28,
+        "target": 35
+      },
+      {
+        "id": 34,
+        "source": 28,
+        "target": 36
+      },
+      {
+        "id": 36,
+        "source": 37,
+        "target": 38
+      },
+      {
+        "id": 37,
+        "source": 37,
+        "target": 40
+      },
+      {
+        "id": 38,
+        "source": 37,
+        "target": 41
+      },
+      {
+        "id": 39,
+        "source": 40,
+        "target": 42
+      },
+      {
+        "id": 40,
+        "source": 40,
+        "target": 43
+      },
+      {
+        "id": 41,
+        "source": 41,
+        "target": 44
+      },
+      {
+        "id": 42,
+        "source": 41,
+        "target": 45
+      },
+      {
+        "id": 43,
+        "source": 42,
+        "target": 46
+      },
+      {
+        "id": 44,
+        "source": 42,
+        "target": 47
+      },
+      {
+        "id": 45,
+        "source": 43,
+        "target": 48
+      },
+      {
+        "id": 46,
+        "source": 43,
+        "target": 49
+      },
+      {
+        "id": 47,
+        "source": 44,
+        "target": 50
+      },
+      {
+        "id": 48,
+        "source": 44,
+        "target": 51
+      },
+      {
+        "id": 49,
+        "source": 45,
+        "target": 52
+      },
+      {
+        "id": 50,
+        "source": 45,
+        "target": 53
+      },
+      {
+        "id": 52,
+        "source": 54,
+        "target": 55
+      },
+      {
+        "id": 53,
+        "source": 54,
+        "target": 57
+      },
+      {
+        "id": 54,
+        "source": 54,
+        "target": 58
+      },
+      {
+        "id": 55,
+        "source": 57,
+        "target": 59
+      },
+      {
+        "id": 56,
+        "source": 57,
+        "target": 60
+      },
+      {
+        "id": 57,
+        "source": 58,
+        "target": 61
+      },
+      {
+        "id": 58,
+        "source": 58,
+        "target": 62
+      },
+      {
+        "id": 59,
+        "source": 59,
+        "target": 63
+      },
+      {
+        "id": 60,
+        "source": 59,
+        "target": 64
+      },
+      {
+        "id": 61,
+        "source": 60,
+        "target": 65
+      },
+      {
+        "id": 62,
+        "source": 60,
+        "target": 66
+      },
+      {
+        "id": 63,
+        "source": 61,
+        "target": 67
+      },
+      {
+        "id": 64,
+        "source": 61,
+        "target": 68
+      },
+      {
+        "id": 65,
+        "source": 62,
+        "target": 69
+      },
+      {
+        "id": 66,
+        "source": 62,
+        "target": 70
+      }
+    ]
+  ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [
+    {
+      "id": "NSTLQK_NSTL_QKJJ0224798468",
+      "title": "Learning Deep Architectures for AI",
+      "summary": "Theoretical results suggest that in order t",
+      "summaryAll": "Theoretical results suggest that in order to learn the kind of complicated functions that can represent high-level abstractions (e.g., in vision, language, and other AI-level tasks), one may need deep architectures. Deep architectures are composed of multiple levels of non-linear operations, such as in neural nets with many hidden layers or in complicated propositional formulae re-using many sub-formulae. Searching the parameter space of deep architectures is a difficult task, but learning algorithms such as those for Deep Belief Networks have recently been proposed to tackle this problem with notable success, beating the state-of-the-art in certain areas. This monograph discusses the motivations and principles regarding learning algorithms for deep architectures, in particular those exploiting as building blocks unsupervised learning of single-layer models such as Restricted Boltzmann Machines, used to construct deeper models such as Deep Belief Networks.",
+      "author": "<mark class=highlight>Yoshua Bengio</mark>",
+      "keywords": "\n\n          ",
+      "citedIndex": 0,
+      "publishDate": "2009-01-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "title": "InfoMask: Masked Variational Latent Representation to Localize Chest Disease.EI",
+      "author": "Saeid Asgari Taghanaki, Mohammad Havaei, Tess Berthier, Francis Dutil, Lisa Di-Jorio, Ghassan Hamarneh, Yoshua Bengio",
+      "publishDate": "2019",
+      "summaryAll": "The scarcity of richly annotated medical images is limiting supervised deep learning based solutions to medical image analysis tasks, such as localizing discriminatory radiomic disease signatures. Therefore, it is desirable to leverage unsupervised and weakly supervised models. Most recent weakly supervised localization methods apply attention maps or region proposals in a multiple instance learning formulation. "
+    },
+    {
+      "title": "Towards Non-saturating Recurrent Units for Modelling Long-term Dependencies.EI",
+      "author": "Sarath Chandar, Chinnadhurai Sankar, Eugene Vorontsov, Samira Ebrahimi Kahou, Yoshua Bengio",
+      "publishDate": "2019",
+      "summaryAll": "Modelling long-term dependencies is a challenge for recurrent neural networks. This is primarily due to the fact that gradients vanish during training, as the sequence length increases. Gradients can be attenuated by transition operators and are attenuated or dropped by activation functions. Canonical architectures like LSTM alleviate this issue by skipping information through a memory mechanism. "
+    },
+    {
+      "title": "Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks.EI",
+      "author": "Santiago Pascual, Mirco Ravanelli, Joan Serr&agrave;, Antonio Bonafonte, Yoshua Bengio",
+      "publishDate": "2019",
+      "summaryAll": "Learning good representations without supervision is still an open issue in machine learning, and is particularly challenging for speech signals, which are often characterized by long sequences with a complex hierarchical structure. Some recent works, however, have shown that it is possible to derive useful speech representations by employing a self-supervised encoder-discriminator approach. "
+    },
+    {
+      "title": "Speech Model Pre-training for End-to-End Spoken Language Understanding.EI",
+      "author": "Loren Lugosch, Mirco Ravanelli, Patrick Ignoto, Vikrant Singh Tomar, Yoshua Bengio",
+      "publishDate": "2019",
+      "summaryAll": "Whereas conventional spoken language understanding (SLU) systems map speech to text, and then text to intent, end-to-end SLU systems map speech directly to intent through a single trainable model. Achieving high accuracy with these end-to-end models without a large amount of training data is difficult. We propose a method to reduce the data requirements of end-to-end SLU in which the model is first pre-trained to predict words and phonemes, thus learning good features for SLU. "
+    },
+    {
+      "title": "Hyperbolic Discounting and Learning over Multiple Horizons.EI",
+      "author": "William Fedus, Carles Gelada, Yoshua Bengio, Marc G. Bellemare, Hugo Larochelle",
+      "publishDate": "2019",
+      "summaryAll": "Reinforcement learning (RL) typically defines a discount factor as part of the Markov Decision Process. The discount factor values future rewards by an exponential scheme that leads to theoretical convergence guarantees of the Bellman equation. However, evidence from psychology, economics and neuroscience suggests that humans and animals instead have hyperbolic time-preferences. "
+    }
+  ],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": []
+}

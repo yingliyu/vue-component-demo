@@ -1,0 +1,1841 @@
+{
+  "subjectVO": {
+    "id": "217232",
+    "subjectWord": "度量学习",
+    "subjectWordEn": null,
+    "wiki": "度量学习与回归和分类密切相关，但目标是从示例中学习测量两个对象有多相似或相关的相似性函数。它在排名，推荐系统，视觉识别跟踪，面部验证和说话人验证方面具有应用。"
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"度量学习","type":"keyword","level":"1","colorIdx":"0"},
+      {"code":"1","name":"推荐系统","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"2","name":"信息检索","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"3","name":"分类","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"4","name":"Kilian Q. Weinberger","type":"expert","level":"2","colorIdx":"0"},
+      {"code":"5","name":"李航","type":"expert","level":"2","colorIdx":"0"}
+      ],
+    "relations":[
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      ],
+    "expertReco": [
+      {
+        "id": 1998749,
+        "name": "Yap-peng Tan",
+        "headImg": "/img/expert_logo/2019-04/2019-04-01-10-13-14__3f436677-8188-4eb2-b980-0997a655e21e.jpg",
+        "institution": "Nanyang Technological University",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 2026525,
+        "name": "林宙辰",
+        "headImg": "/img/expert_logo/2018-01/2018-01-19-09-27-04__deb04e95-d2b3-4776-9818-ed91616cee57.jpg",
+        "institution": "Shanghai Jiaotong University",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 183827,
+        "name": "Matthias Seeger",
+        "headImg": "/img/expert_logo/2018-01/MatthiasSeeger.png",
+        "institution": "Amazon",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": [
+      "Face recognition",
+      "Support vector machines",
+      "Feature extraction"
+    ],
+    "journalsReco": [
+      "IEEE Transactions on Geoscience and Remote Sensing",
+      "Proceedings of the International Conference on Document Analysis and Recognition, ICDAR",
+      "World Wide Web"
+    ],
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 41,
+        "code": 40,
+        "name": "Evangelos E. Papalexakis",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 41,
+        "name": "Nicholas D. Sidiropoulos",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 42,
+        "name": "Liu Yang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 43,
+        "name": "Chen Qu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 44,
+        "name": "Qingyao Ai",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 45,
+        "name": "Jiafeng Guo",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 46,
+        "name": "Andrew Zisserman",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": "（1957年出生）是一位英国计算机科学家和牛津大学教授，以及计算机视觉研究人员。截至2014年，他与Deepad有关联。",
+        "layoutList": [
+          "（1957年出生）是一位英国计算机科学家和牛津大学教授，以及计算机视觉研究人员。截至2014年，他与Deepad有关联。"
+        ]
+      },
+      {
+        "id": 48,
+        "code": 47,
+        "name": "黄煦涛",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": "信息学家。美国国籍。美国伊利诺斯大学Beckman学院教授。生于中国上海。1956年毕业于台湾大学电子系，1963年获美国麻省理工学院博士学位。1973－1980年曾任普渡大学电子工程学院信息处理实验室主任、教授。美国工程院院士。黄煦涛教授主要从事信息和信号处理方面的研究工作，发明了预测差分量化（PDQ）的两维传真（文档）压缩方法，该方法已发展为国际G3/G4FAX压缩标准；在多维数字信号处理领域中，提出了关于递归滤波器的稳定性的理论；建立了从二维图象序列中估计三维运动的公式，为图象处理和计算机视觉开启了新领域。此外，他的研究小组还实现了基于语音识别和可视手语分析以控制显示的原形系统。曾荣获多次最佳论文奖和Guggenheim;Fellow、A.V.Humboldt美国高级科学家奖、IEEE第3个千年奖等多项科技奖励。黄煦涛教授十分关注中国科学技术事业的发展。先后访问过我国多所大学和研究所，作学术报告，进行学术交流，帮助培养高级科研人才，并担任顾问和名誉教授等。还多次积极参与组织在中国召开的国际学术会议并作特邀报告。2002年当选为中国科学院外籍院士。",
+        "layoutList": [
+          "信息学家。美国国籍。美国伊利诺斯大学Beckman学院教授。生于中国上海。1956年毕业于台湾大学电子系，1963年获美国麻省理工学院博士学位。1973－1980年曾任普渡大学电子工程学院信息处理实验室主任、教授。美国工程院院士。黄煦涛教授主要从事信息和信号处理方面的研究工作，发明了预测差分量化（PDQ）的两维传真（文档）压缩方法，该方法已发展为国际G3/G4FAX压缩标准；在多维数字信号处理领域中，提出了关于递归滤波器的稳定性的理论；建立了从二维图象序列中估计三维运动的公式，为图象处理和计算机视觉开启了新领域。此外，他的研究小组还实现了基于语音识别和可视手语分析以控制显示的原形系统。曾荣获多次最佳论文奖和Guggenheim;Fellow、A.V.Humboldt美国高级科学家奖、IEEE第3个千年奖等多项科技奖励。黄煦涛教授十分关注中国科学技术事业的发展。先后访问过我国多所大学和研究所，作学术报告，进行学术交流，帮助培养高级科研人才，并担任顾问和名誉教授等。还多次积极参与组织在中国召开的国际学术会议并作特邀报告。2002年当选为中国科学院外籍院士。"
+        ]
+      },
+      {
+        "id": 49,
+        "code": 48,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 49,
+        "name": "目标识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 50,
+        "name": "聚类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 51,
+        "name": "情绪识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 53,
+        "code": 52,
+        "name": "Andrea Vedaldi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 54,
+        "code": 53,
+        "name": "Karen Simonyan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 55,
+        "code": 54,
+        "name": "Joseph L. Mundy",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 56,
+        "code": 55,
+        "name": "David A. Forsyth",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 56,
+        "name": "Jianchao Yang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 57,
+        "name": "Yingzhen Yang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 58,
+        "name": "Yuxiao Hu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 59,
+        "name": "Yun Fu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 60,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": "Extending the relevant component analysis algorithm for metric learning using both positive and negative equivalence constraints/Locally linear metric adaptation with application to semi-supervised clustering and image retrieval/A kernel approach for semisupervised metric learning/Kernel-based distance metric learning for content-based image retrieval/Efficient near-duplicate image detection by learning from examples/Semi-supervised dimensionality reduction using pairwise equivalence constraints/Distance metric learning for large margin nearest neighbor classification",
+        "layoutList": [
+          "Extending the relevant component analysis algorithm for metric learning using both positive and negative equivalence constraints",
+          "Locally linear metric adaptation with application to semi-supervised clustering and image retrieval",
+          "A kernel approach for semisupervised metric learning",
+          "Kernel-based distance metric learning for content-based image retrieval",
+          "Efficient near-duplicate image detection by learning from examples",
+          "Semi-supervised dimensionality reduction using pairwise equivalence constraints",
+          "Distance metric learning for large margin nearest neighbor classification"
+        ]
+      },
+      {
+        "id": 62,
+        "code": 61,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": "一种基于距离度量学习行人重验证的方法/一种工业过程中基于度量学习与时间序列的故障诊断方法/基于深度学习和度量学习的极化SAR地物分类方法/一种基于加权成对约束度量学习算法的说话人识别方法/一种同时实现聚类、分类和度量学习的模式识别方法/一种基于度量学习和支持向量机相集成的行人再识别方法/基于距离度量学习的交通警情等级预测方法",
+        "layoutList": [
+          "一种基于距离度量学习行人重验证的方法",
+          "一种工业过程中基于度量学习与时间序列的故障诊断方法",
+          "基于深度学习和度量学习的极化SAR地物分类方法",
+          "一种基于加权成对约束度量学习算法的说话人识别方法",
+          "一种同时实现聚类、分类和度量学习的模式识别方法",
+          "一种基于度量学习和支持向量机相集成的行人再识别方法",
+          "基于距离度量学习的交通警情等级预测方法"
+        ]
+      },
+      {
+        "id": 63,
+        "code": 62,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": "Item-based collaborative filtering recommendation algorithms/Matrix Factorization Techniques for Recommender Systems/Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions/Two-phase Blue-Red tree of rule-space model for the cognitive assessment evaluation and analysis - A case study of MTA course/An improved collaborative filtering recommendation algorithm not based on item rating/RR-UBPMF, A personalized music recommendation algorithm/Diversified Mobile App Recommendation Combining Topic Model and Collaborative Filtering",
+        "layoutList": [
+          "Item-based collaborative filtering recommendation algorithms",
+          "Matrix Factorization Techniques for Recommender Systems",
+          "Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions",
+          "Two-phase Blue-Red tree of rule-space model for the cognitive assessment evaluation and analysis - A case study of MTA course",
+          "An improved collaborative filtering recommendation algorithm not based on item rating",
+          "RR-UBPMF, A personalized music recommendation algorithm",
+          "Diversified Mobile App Recommendation Combining Topic Model and Collaborative Filtering"
+        ]
+      },
+      {
+        "id": 64,
+        "code": 63,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": "论坛的热帖推荐系统/一种软件推荐方法及推荐系统/一种数字电视节目推荐系统及方法/自适应推荐系统/一种基于用户亲密度的混合推荐系统及方法/权威作者和高质量论文推荐系统和推荐方法/基于主题的个性化研究方向推荐系统和推荐方法",
+        "layoutList": [
+          "论坛的热帖推荐系统",
+          "一种软件推荐方法及推荐系统",
+          "一种数字电视节目推荐系统及方法",
+          "自适应推荐系统",
+          "一种基于用户亲密度的混合推荐系统及方法",
+          "权威作者和高质量论文推荐系统和推荐方法",
+          "基于主题的个性化研究方向推荐系统和推荐方法"
+        ]
+      },
+      {
+        "id": 65,
+        "code": 64,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": "Assigning appropriate weights for the linear combination data fusion method in information retrieval\nSemantic hashing\nAn evaluation framework of user interaction with metadata surrogates\nPossibilistic networks for information retrieval\nEfficient parallel genetic immune clonal algorithm for information retrieval from textual web documents\nWeb page classification based on structural equivalence\nA library catalogue system using soundex retrieval",
+        "layoutList": [
+          "Assigning appropriate weights for the linear combination data fusion method in information retrieval\nSemantic hashing\nAn evaluation framework of user interaction with metadata surrogates\nPossibilistic networks for information retrieval\nEfficient parallel genetic immune clonal algorithm for information retrieval from textual web documents\nWeb page classification based on structural equivalence\nA library catalogue system using soundex retrieval"
+        ]
+      },
+      {
+        "id": 66,
+        "code": 65,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": "一种基于领域本体的语义信息检索系统及方法\n基于领域本体和模板逻辑的多语种问答接口快速构成方法",
+        "layoutList": [
+          "一种基于领域本体的语义信息检索系统及方法\n基于领域本体和模板逻辑的多语种问答接口快速构成方法"
+        ]
+      },
+      {
+        "id": 67,
+        "code": 66,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": "Training MLPs layer by layer using an objective function for internal representations/Abstract mathematical model of general management information systems/Research on constructing phylogenetics trees of ruminants basing on the database of milk protein gene sequences/Form, function, and regulation of protein tyrosine phosphatases and their involvement in human diseases/Likelihood-based vs distance-based evidential classifiers/Application of CFD simulation to suspension crystallization - Factors affecting size-dependent classification/Statistical properties and adaptive tuning of support vector machines",
+        "layoutList": [
+          "Training MLPs layer by layer using an objective function for internal representations",
+          "Abstract mathematical model of general management information systems",
+          "Research on constructing phylogenetics trees of ruminants basing on the database of milk protein gene sequences",
+          "Form, function, and regulation of protein tyrosine phosphatases and their involvement in human diseases",
+          "Likelihood-based vs distance-based evidential classifiers",
+          "Application of CFD simulation to suspension crystallization - Factors affecting size-dependent classification",
+          "Statistical properties and adaptive tuning of support vector machines"
+        ]
+      },
+      {
+        "id": 68,
+        "code": 67,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": "基于稀疏编码的监控车辆特征表示及分类方法/一种图书自动分类系统/硬币分类和计数垒币机/一种钱币分类清点整理机械装置/一种智能垃圾分类回收子母袋/合理分类处理下脚料的方法和设备/对手写字符图像进行分类的分类器、分类装置和分类方法",
+        "layoutList": [
+          "基于稀疏编码的监控车辆特征表示及分类方法",
+          "一种图书自动分类系统",
+          "硬币分类和计数垒币机",
+          "一种钱币分类清点整理机械装置",
+          "一种智能垃圾分类回收子母袋",
+          "合理分类处理下脚料的方法和设备",
+          "对手写字符图像进行分类的分类器、分类装置和分类方法"
+        ]
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "度量学习",
+        "type": "keyword",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": "度量学习与回归和分类密切相关，但目标是从示例中学习测量两个对象有多相似或相关的相似性函数。它在排名，推荐系统，视觉识别跟踪，面部验证和说话人验证方面具有应用。",
+        "layoutList": [
+          "度量学习与回归和分类密切相关，但目标是从示例中学习测量两个对象有多相似或相关的相似性函数。它在排名，推荐系统，视觉识别跟踪，面部验证和说话人验证方面具有应用。"
+        ]
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "推荐系统",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": "推荐系统是利用电子商务网站向客户提供商品信息和建议，帮助用户决定应该购买什么产品，模拟销售人员帮助客户完成购买过程。个性化推荐是根据用户的兴趣特点和购买行为，向用户推荐用户感兴趣的信息和商品。",
+        "layoutList": [
+          "推荐系统是利用电子商务网站向客户提供商品信息和建议，帮助用户决定应该购买什么产品，模拟销售人员帮助客户完成购买过程。个性化推荐是根据用户的兴趣特点和购买行为，向用户推荐用户感兴趣的信息和商品。"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "信息检索",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": "信息检索（Information Retrieval）是用户进行信息查询和获取的主要方式，是查找信息的方法和手段。狭义的信息检索仅指信息查询（Information Search）。即用户根据需要，采用一定的方法，借助检索工具，从信息集合中找出所需要信息的查找过程。广义的信息检索是信息按一定的方式进行加工、整理、组织并存储起来，再根据信息用户特定的需要将相关信息准确的查找出来的过程。又称信息的存储于检索。一般情况下，信息检索指的就是广义的信息检索。",
+        "layoutList": [
+          "信息检索（Information Retrieval）是用户进行信息查询和获取的主要方式，是查找信息的方法和手段。狭义的信息检索仅指信息查询（Information Search）。即用户根据需要，采用一定的方法，借助检索工具，从信息集合中找出所需要信息的查找过程。广义的信息检索是信息按一定的方式进行加工、整理、组织并存储起来，再根据信息用户特定的需要将相关信息准确的查找出来的过程。又称信息的存储于检索。一般情况下，信息检索指的就是广义的信息检索。"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "分类",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "度量学习",
+        "layout": "在机器学习和统计中，分类是基于包含其类别成员资格已知的观察（或实例）的训练数据集来识别新观察所属的一组类别（子群体）中的哪一个的问题。 例如，将给定的电子邮件分配给“垃圾邮件”或“非垃圾邮件”类、根据观察到的患者特征（性别，血压，某些症状的存在或不存在等）为给定患者分配诊断等。分类是模式识别的一部分。",
+        "layoutList": [
+          "在机器学习和统计中，分类是基于包含其类别成员资格已知的观察（或实例）的训练数据集来识别新观察所属的一组类别（子群体）中的哪一个的问题。 例如，将给定的电子邮件分配给“垃圾邮件”或“非垃圾邮件”类、根据观察到的患者特征（性别，血压，某些症状的存在或不存在等）为给定患者分配诊断等。分类是模式识别的一部分。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "Kilian Q. Weinberger",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": "是康奈尔大学计算机科学系的副教授。他获得了博士学位。来自宾夕法尼亚大学机器学习学院，在Lawrence Saul的监督下，以及他在牛津大学的数学和计算机学士学位。在他的职业生涯中，他曾在ICML（2004年），CVPR（2004年，2017年），AISTATS（2005年）和KDD（2014年，亚军奖）中获得多项最佳论文奖。2011年，他获得了杰出的AAAI高级课程主席奖，并于2012年获得了NSF职业奖。他当选为ICML 2016和AAAI 2018的联合项目主席。2016年，他获得了Daniel M Lazar '29卓越教学奖。基利安 温伯格“研究重点是机器学习及其应用。特别是，他专注于资源约束下的学习，度量学习，高斯过程，计算机视觉和深度学习。在加入康奈尔大学之前，他是圣路易斯华盛顿大学的副教授，之前他曾在雅虎担任研究科学家。",
+        "layoutList": [
+          "是康奈尔大学计算机科学系的副教授。他获得了博士学位。来自宾夕法尼亚大学机器学习学院，在Lawrence Saul的监督下，以及他在牛津大学的数学和计算机学士学位。在他的职业生涯中，他曾在ICML（2004年），CVPR（2004年，2017年），AISTATS（2005年）和KDD（2014年，亚军奖）中获得多项最佳论文奖。2011年，他获得了杰出的AAAI高级课程主席奖，并于2012年获得了NSF职业奖。他当选为ICML 2016和AAAI 2018的联合项目主席。2016年，他获得了Daniel M Lazar '29卓越教学奖。基利安 温伯格“研究重点是机器学习及其应用。特别是，他专注于资源约束下的学习，度量学习，高斯过程，计算机视觉和深度学习。在加入康奈尔大学之前，他是圣路易斯华盛顿大学的副教授，之前他曾在雅虎担任研究科学家。"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 5,
+        "name": "李航",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": "字节跳动科技人工智能实验室的主任，。2017年加入字节跳动技术公司。1990年至2001年在NEC公司的研究实验室工作，2001年至2012年在微软亚洲研究院工作，2012年至2017年在华为技术有限公司工作。1988年在京都大学获得电子电气工程学士学位，1990年在京都大学获得电子电气工程硕士学位。1998年我在东京大学获得了计算机科学博士学位。研究领域包括自然语言处理、信息检索、机器学习和数据挖掘。",
+        "layoutList": [
+          "字节跳动科技人工智能实验室的主任，。2017年加入字节跳动技术公司。1990年至2001年在NEC公司的研究实验室工作，2001年至2012年在微软亚洲研究院工作，2012年至2017年在华为技术有限公司工作。1988年在京都大学获得电子电气工程学士学位，1990年在京都大学获得电子电气工程硕士学位。1998年我在东京大学获得了计算机科学博士学位。研究领域包括自然语言处理、信息检索、机器学习和数据挖掘。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 6,
+        "name": "高斯过程",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 8,
+        "code": 7,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 8,
+        "name": "机器翻译",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 9,
+        "name": "信息检索",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 10,
+        "name": "Jacob R. Gardner",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 11,
+        "name": "Andrew Gordon Wilson",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 12,
+        "name": "Gao Huang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 13,
+        "name": "Laurens van der Maaten",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 14,
+        "name": "Zhengdong Lu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 15,
+        "name": "Qun Liu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 16,
+        "name": "Tie-Yan Liu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 17,
+        "name": "Tao Qin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 18,
+        "name": "Joseph A. Konstan",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": "是美国计算机科学家、著名的麦克奈特大学教授和明尼苏达大学杰出的大学教授。他的研究兴趣是人机交互、社会计算、在线社区以及互联网技术的医疗卫生应用。他最出名的是他在协作过滤推荐人(小组项目)方面的工作，以及他在艾滋病毒在线预防方面的工作。",
+        "layoutList": [
+          "是美国计算机科学家、著名的麦克奈特大学教授和明尼苏达大学杰出的大学教授。他的研究兴趣是人机交互、社会计算、在线社区以及互联网技术的医疗卫生应用。他最出名的是他在协作过滤推荐人(小组项目)方面的工作，以及他在艾滋病毒在线预防方面的工作。"
+        ]
+      },
+      {
+        "id": 20,
+        "code": 19,
+        "name": "Bamshad Mobasher",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": "Bamshad Mobasher博士是芝加哥德保罗大学计算机学院计算机科学教授和网络智能中心主任。他被认为是web数据挖掘、web个性化、预测用户建模和推荐系统领域的主要权威之一。他关于web挖掘和个性化的一些原创文章是该领域引用最多的文章之一。他在这些领域的工作已经被包括亚马逊在内的许多公司用作分析和个性化系统的一部分。作为网络智能中心（center for web intelligence）的主任，Bamshad Mobasher博士负责人工智能和人工智能方面的研究，定期与业界合作，解决与web数据分析、用户行为建模、web营销和业务分析相关的问题。",
+        "layoutList": [
+          "Bamshad Mobasher博士是芝加哥德保罗大学计算机学院计算机科学教授和网络智能中心主任。他被认为是web数据挖掘、web个性化、预测用户建模和推荐系统领域的主要权威之一。他关于web挖掘和个性化的一些原创文章是该领域引用最多的文章之一。他在这些领域的工作已经被包括亚马逊在内的许多公司用作分析和个性化系统的一部分。作为网络智能中心（center for web intelligence）的主任，Bamshad Mobasher博士负责人工智能和人工智能方面的研究，定期与业界合作，解决与web数据分析、用户行为建模、web营销和业务分析相关的问题。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 20,
+        "name": "协同过滤",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 22,
+        "code": 21,
+        "name": "用户反馈",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 23,
+        "code": 22,
+        "name": "上下文感知",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 24,
+        "code": 23,
+        "name": "社会化标注系统",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 24,
+        "name": "John Riedl",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 25,
+        "name": "Jonathan L. Herlocker",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 26,
+        "name": "F. Maxwell Harper",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 27,
+        "name": "Qian Zhao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 28,
+        "name": "Robin D. Burke",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 29,
+        "name": "Yong Zheng",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 30,
+        "name": "Jonathan Gemmell",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 31,
+        "name": "Thomas Schimoler",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 32,
+        "name": "Christos Faloutsos",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": "在美国卡内基梅隆大学（CarnegieMellonUniversity）的一名希腊计算机科学家和一名教授，他是一名希腊计算机科学家和一名教授。他已获得国家科学基金会(1989年)颁发的总统年轻调查员奖、22份最佳论文奖和若干教学奖。他曾担任Sigkdd执行委员会的成员。他已经出版了超过300篇文章，一本专著，并持有5项专利。他的研究兴趣包括数据流和网络的数据挖掘、分形、多媒体和生物信息学数据库的索引和性能。他还收到了ACM2010SIGKDD创新奖，并于2010年被任命为ACM的研究员。",
+        "layoutList": [
+          "在美国卡内基梅隆大学（CarnegieMellonUniversity）的一名希腊计算机科学家和一名教授，他是一名希腊计算机科学家和一名教授。他已获得国家科学基金会(1989年)颁发的总统年轻调查员奖、22份最佳论文奖和若干教学奖。他曾担任Sigkdd执行委员会的成员。他已经出版了超过300篇文章，一本专著，并持有5项专利。他的研究兴趣包括数据流和网络的数据挖掘、分形、多媒体和生物信息学数据库的索引和性能。他还收到了ACM2010SIGKDD创新奖，并于2010年被任命为ACM的研究员。"
+        ]
+      },
+      {
+        "id": 34,
+        "code": 33,
+        "name": "W. Bruce Croft",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": "1979年在英国剑桥大学获计算机科学博士学位，1974年在澳大利亚莫纳什大学获计算机科学硕士学位，1973年澳大利亚莫纳什大学获学士学位。Croft教授自 1979 年以来一直在麻省阿姆赫斯特大学任教，目前是杰出的计算机科学教授和智能信息检索中心主任。 从 2015 年到 2017 年，他担任信息和计算机科学学院院长。 从 2001 年到 2007 年，他是 UmassAmherst 计算机科学系的主席。",
+        "layoutList": [
+          "1979年在英国剑桥大学获计算机科学博士学位，1974年在澳大利亚莫纳什大学获计算机科学硕士学位，1973年澳大利亚莫纳什大学获学士学位。Croft教授自 1979 年以来一直在麻省阿姆赫斯特大学任教，目前是杰出的计算机科学教授和智能信息检索中心主任。 从 2015 年到 2017 年，他担任信息和计算机科学学院院长。 从 2001 年到 2007 年，他是 UmassAmherst 计算机科学系的主席。"
+        ]
+      },
+      {
+        "id": 35,
+        "code": 34,
+        "name": "知识图谱",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 35,
+        "name": "数据挖掘",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 37,
+        "code": 36,
+        "name": "对话系统",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 38,
+        "code": 37,
+        "name": "语义匹配",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 39,
+        "code": 38,
+        "name": "Namyong Park",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 40,
+        "code": 39,
+        "name": "Xin Luna Dong",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "度量学习",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 48,
+        "source": 46,
+        "target": 48
+      },
+      {
+        "id": 49,
+        "source": 46,
+        "target": 49
+      },
+      {
+        "id": 50,
+        "source": 47,
+        "target": 50
+      },
+      {
+        "id": 51,
+        "source": 47,
+        "target": 51
+      },
+      {
+        "id": 52,
+        "source": 48,
+        "target": 52
+      },
+      {
+        "id": 53,
+        "source": 48,
+        "target": 53
+      },
+      {
+        "id": 54,
+        "source": 49,
+        "target": 54
+      },
+      {
+        "id": 55,
+        "source": 49,
+        "target": 55
+      },
+      {
+        "id": 56,
+        "source": 50,
+        "target": 56
+      },
+      {
+        "id": 57,
+        "source": 50,
+        "target": 57
+      },
+      {
+        "id": 58,
+        "source": 51,
+        "target": 58
+      },
+      {
+        "id": 59,
+        "source": 51,
+        "target": 59
+      },
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 4,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "id": 60,
+        "source": 0,
+        "target": 60
+      },
+      {
+        "id": 61,
+        "source": 0,
+        "target": 61
+      },
+      {
+        "id": 18,
+        "source": 1,
+        "target": 18
+      },
+      {
+        "id": 19,
+        "source": 1,
+        "target": 19
+      },
+      {
+        "id": 62,
+        "source": 1,
+        "target": 62
+      },
+      {
+        "id": 63,
+        "source": 1,
+        "target": 63
+      },
+      {
+        "id": 32,
+        "source": 2,
+        "target": 32
+      },
+      {
+        "id": 33,
+        "source": 2,
+        "target": 33
+      },
+      {
+        "id": 64,
+        "source": 2,
+        "target": 64
+      },
+      {
+        "id": 65,
+        "source": 2,
+        "target": 65
+      },
+      {
+        "id": 46,
+        "source": 3,
+        "target": 46
+      },
+      {
+        "id": 47,
+        "source": 3,
+        "target": 47
+      },
+      {
+        "id": 66,
+        "source": 3,
+        "target": 66
+      },
+      {
+        "id": 67,
+        "source": 3,
+        "target": 67
+      },
+      {
+        "id": 6,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "id": 7,
+        "source": 4,
+        "target": 7
+      },
+      {
+        "id": 8,
+        "source": 5,
+        "target": 8
+      },
+      {
+        "id": 9,
+        "source": 5,
+        "target": 9
+      },
+      {
+        "id": 10,
+        "source": 6,
+        "target": 10
+      },
+      {
+        "id": 11,
+        "source": 6,
+        "target": 11
+      },
+      {
+        "id": 12,
+        "source": 7,
+        "target": 12
+      },
+      {
+        "id": 13,
+        "source": 7,
+        "target": 13
+      },
+      {
+        "id": 14,
+        "source": 8,
+        "target": 14
+      },
+      {
+        "id": 15,
+        "source": 8,
+        "target": 15
+      },
+      {
+        "id": 16,
+        "source": 9,
+        "target": 16
+      },
+      {
+        "id": 17,
+        "source": 9,
+        "target": 17
+      },
+      {
+        "id": 20,
+        "source": 18,
+        "target": 20
+      },
+      {
+        "id": 21,
+        "source": 18,
+        "target": 21
+      },
+      {
+        "id": 22,
+        "source": 19,
+        "target": 22
+      },
+      {
+        "id": 23,
+        "source": 19,
+        "target": 23
+      },
+      {
+        "id": 24,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 25,
+        "source": 20,
+        "target": 25
+      },
+      {
+        "id": 26,
+        "source": 21,
+        "target": 26
+      },
+      {
+        "id": 27,
+        "source": 21,
+        "target": 27
+      },
+      {
+        "id": 28,
+        "source": 22,
+        "target": 28
+      },
+      {
+        "id": 29,
+        "source": 22,
+        "target": 29
+      },
+      {
+        "id": 30,
+        "source": 23,
+        "target": 30
+      },
+      {
+        "id": 31,
+        "source": 23,
+        "target": 31
+      },
+      {
+        "id": 34,
+        "source": 32,
+        "target": 34
+      },
+      {
+        "id": 35,
+        "source": 32,
+        "target": 35
+      },
+      {
+        "id": 36,
+        "source": 33,
+        "target": 36
+      },
+      {
+        "id": 37,
+        "source": 33,
+        "target": 37
+      },
+      {
+        "id": 38,
+        "source": 34,
+        "target": 38
+      },
+      {
+        "id": 39,
+        "source": 34,
+        "target": 39
+      },
+      {
+        "id": 40,
+        "source": 35,
+        "target": 40
+      },
+      {
+        "id": 41,
+        "source": 35,
+        "target": 41
+      },
+      {
+        "id": 42,
+        "source": 36,
+        "target": 42
+      },
+      {
+        "id": 43,
+        "source": 36,
+        "target": 43
+      },
+      {
+        "id": 44,
+        "source": 37,
+        "target": 44
+      },
+      {
+        "id": 45,
+        "source": 37,
+        "target": 45
+      }
+    ]
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [
+    {
+      "id": "Periodical_xddzjs201809013",
+      "title": "一种基于融合深度卷积神经网络与<mark class=highlight>度量学习</mark>的人脸识别方法",
+      "summary": "A <mark class=highlight>metric</mark> <mark class=highlight>learning</mark> method based on joint",
+      "summaryAll": "现有的卷积神经网络方法大多以增大类间距离为学习目标,而忽略类内距离的减小,这对于人脸识别来说,将导致一些非限制条件下(如姿态、光照等)的人脸无法被准确识别,为了解决此问题,提出一种基于融合度量学习算法和深度卷积神经网络的人脸识别方法.首先,提出一种基于多Inception结构的人脸特征提取网络,使用较少参数来提取特征;其次,提出一种联合损失的度量学习方法,将分类损失和中心损失进行加权联合;最后,将深度卷积神经网络和度量学习方法进行融合,在网络训练时,达到增大类间距离同时减小类内距离的学习目标.实验结果表明,该方法能提取出更具区分性的人脸特征,与分类损失方法及融合了其他度量学习方式的方法相比,提升了非限制条件下的人脸识别准确率.The current convolutional neural network(CNN)methods mostly take the increase of inter?class distance as the learning objective,but ignore the decrease of intra?class distance,which makes that the human face can′t be recognize accurately under some unrestricted conditions(such as posture and illumination). In order to eliminate the above problem,a face recogni?tion method based on deep CNN and metric learning method is proposed. A face feature extraction network based on multi?Incep?tion structure is presented to extract the feature with less parameters. A metric learning method based on joint loss is presented to perform the weighting joint for the softmax loss and center loss. The deep CNN and metric learning method are fused to reach the learning objective of inter?class distance increase and intra?class distance decrease. The experimental results indicate that the proposed method can extract the more discriminative facial features,and improve the more face recognition accuracy under unrestricted conditions than the Softmax loss method and methods fusing other metric learning modes.",
+      "author": "吕璐",
+      "keywords": "Inception structure,deep CNN,<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-09-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjgcyyy201808004",
+      "title": "基于多任务卷积神经网络的车辆多属性识别",
+      "summary": "training for vehicle multi-attribute <mark class=highlight>learning</mark>",
+      "summaryAll": "细粒度车辆识别极具挑战性,尤其在两辆车的外型差异及其细微的时候.通过车辆的附加属性能够提高车辆识别效果,但一般的神经网络模型忽略了附加属性间的联系,提出一种基于改进的triplet loss作为损失函数的车辆多属性学习的卷积神经网络,用于实现细粒度车辆多属性识别.具体而言,通过对传统神经网络结构的改变,将车辆识别问题转化为多属性学习问题.对三元组损失函数进行改进用于训练网络以实现细粒度车辆识别.同时,创建了一个车辆多属性数据集并完成训练工作,结果显示了该方法的潜力.Fine-grained vehicle identification is challenging,especially when the two vehicles differ in appearance and subtleness.However,the general neural network model ignores the connection between the additional attributes.This paper proposes a convolution neural network based on improved triplet loss training for vehicle multi-attribute learning, which is used to implement fine-grained vehicle identification. Specifically, by changing the structure of the traditional neural network,the vehicle identification problem is transformed into a multi-attribute learning problem.In this paper,the triplet loss function is improved to train the network to achieve fine-grained vehicle identification.At the same time,it cre-ates a multi-attribute vehicle data set and completes the training work.The results show the potential of the method.",
+      "author": "王耀玮",
+      "keywords": ",convolution neural network,<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-08-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_wjfz201806028",
+      "title": "类不平衡稀疏重构<mark class=highlight>度量学习</mark>软件缺陷预测",
+      "summary": "<mark class=highlight>learning</mark>.",
+      "summaryAll": "软件缺陷预测是提升软件质量的重要手段.为了改善缺陷预测性能,目前许多机器学习领域的最新成果已经引入到软件缺陷预测中.但是,软件缺陷预测数据通常存在类别分布不平衡的问题,这会影响预测效果.针对这个问题,提出了类不平衡稀疏重构距离度量学习软件缺陷预测方法.该方法首先在度量学习中加入代价敏感因素,学习距离度量特征矩阵并解决软件缺陷预测中分类错误代价不同的问题.其次,通过在目标函数中加入权重来进一步提高小类样本距离度量学习的准确性.最后,为了解决预测阶段数据集的类别不平衡问题,采用了改进加权KNN算法预测测试样本标签.在NASA软件缺陷预测标准数据集上的实验结果证明了该方法能提高召回率与F-measure值,改善分类性能.Software defect prediction ( SDP) is an important method to improve the quality of software. Currently many latest results from machine learning has been applied to improve the performance of defect prediction. However,imbalance of class distribution usually exists in SDP dataset,which might affect the prediction performance. For this, we propose a novel software defect prediction method termed class-imbalance sparse reconstruction metric learning ( CSRML) . In CSRML,by introducing cost-sensitive factor into metric learning,a feature matrix of distance metric can be learned and the problem of different cost of misclassification can also be solved. And weight pa-rameter is added in objective function to further improve the accuracy of the small class samples distance metric learning. Finally,im-proved weighted KNN ( IWKNN) method is employed to predict the label of test sample for tackling class imbalance in prediction phase. Experiment on the NASA SDP dataset demonstrates that the proposed method can improve the recall rate, F-measure value and classifi-cation performance.",
+      "author": "史作婷",
+      "keywords": "<mark class=highlight>learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-06-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjgcysj201803037",
+      "title": "基于测度矩阵正则化的行人重识别算法",
+      "summary": "针对大多数的距离<mark class=highlight>度量学习</mark>算法由于缺少可靠训练样本出现的过拟合现象,提出一种对测度矩阵的正则化方法",
+      "summaryAll": "针对大多数的距离度量学习算法由于缺少可靠训练样本出现的过拟合现象,提出一种对测度矩阵的正则化方法.利用训练数据训练得到类间和类内协方差矩阵;利用倒数函数分别对两个协方差矩阵建立模型并进行正则化,获得正则化的测度矩阵;利用正则化后的测度矩阵对测试样本进行相似性度量.实验结果表明,该算法能够有效提高行人重识别精度.Aiming at the over-fitting problem caused by less reliable training samples in most of current distance metric learning algorithms,a person re-identification based on regularized metric matrix algorithm was proposed.The training data were utilized to generate the within-class covariance matrix and between-class covariance matrix.The two covariance matrices were modeled and regularized in reciprocal function manner respectively so that regularized metric matrix was obtained.The similarity of test samples was calculated using the regularized metric matrix.The experiments verify that the proposed method improves the accuracy of the person re-identification efficiently.",
+      "author": "郑舟恒",
+      "keywords": "训练样本,测度矩阵,协方差矩阵,倒数函数,正则化,training sample,<mark class=highlight>metric</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-03-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_hndxxb201802019",
+      "title": "结合加权子空间和相似度<mark class=highlight>度量学习</mark>的人脸验证方法研究",
+      "summary": "<mark class=highlight>learning</mark> methods,our learned <mark class=highlight>metric</mark> matrix",
+      "summaryAll": "在无约束条件下,人脸表情、姿态、光照以及背景等复杂因素可能导致人脸图像的类内变化大于类间变化.针对如何降低较大的类内变化对人脸验证研究的影响,本文结合加权子空间,提出了一种带先验相似性和先验距离约束的相似度度量学习方法.首先,利用类内人脸对样本,学习带权重的类内协方差矩阵,通过加权子空间的投影,从人脸图像中获得鲁棒性的人脸特征表达;其次,利用样本对的相似性与差异性,建立了带先验相似性和先验距离约束的相似度度量学习模型,优化后的度量矩阵可以有效提高特征向量的类内鲁棒性和类间判别性;最后,利用优化的度量矩阵计算人脸对的相似度.在 LFW(Labeled Faces in the Wild)数据集的实验验证了所提模型的有效性,与其它同类相似度度量学习方法相比,优化的度量矩阵更能准确地评估人脸间的相似性,并在受限训练集上取得了91.2%的识别率.Under the unconstrained conditions,intra-personal variation is much larger than the inter-personal variation in face images due to the affecting factors such as expression,posture,illumination and background etc.To reduce the influence of larger intra-personal on face verification,we proposed a simi-larity metric learning method with priori similarity and priori distance constraint by combining weighted subspace.First,the weighted intra-personal covariance matrix is learned by employing intra-personal face samples.By proj ecting into the intra-subspace,robust face feature representations can be obtained from face images.Second,we set up the similarity metric learning model with priori similarity and priori distance constraint,which effectively employs the similarity and discrimination information of samples that are in pairs,and the learned metric matrix can improve the robustness to intra-personal and discrimination to in-ter-personal.Finally,the updated metric matrix is used to compute the similarity scores of face-pairs. The experiments have been conducted on the Labeled Faces in the Wild (LFW)dataset,which shows the effectiveness of our proposed model.Compared with other metric learning methods,our learned metric matrix has higher accuracy rate for evaluating the face-pair similarity,and achieves a verification rate of 91.2% on the restricted setting.",
+      "author": "汤红忠",
+      "keywords": "<mark class=highlight>learning</mark>,face verification",
+      "citedIndex": 0,
+      "publishDate": "2018-02-25",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xtgcydzjs201802031",
+      "title": "基于椭圆-双曲线马氏度量的图像分类算法",
+      "summary": "为了进一步拓宽<mark class=highlight>度量学习</mark>在图像分类中的适用范围,同时提高分类的性能,本文提出一种基于椭圆",
+      "summaryAll": "为了进一步拓宽度量学习在图像分类中的适用范围,同时提高分类的性能,本文提出一种基于椭圆-双曲线马氏度量的图像分类算法.该算法首先将颜色特征和局部二值模式描述的纹理特征相结合来表示图像特征;然后引入对样本数据具有更好的适应性的椭圆-双曲线度量,根据数据统计特性定义椭圆-双曲线马氏度量,给出椭圆-双曲线马氏度量学习算法,从而获取最优的度量矩阵;最后利用椭圆-双曲线马氏度量矩阵将样本变换到新的特征空间,从而降低特征各维度间的相关性,同时计算图像特征间的距离从而完成分类.实验表明该算法提高了图像分类的有效性.To widen the application scope of metric learning in image classification and improve the performance of classification,an image classification algorithm based on elliptic hyperbolic mahalanobis metric is proposed.Firstly,the algorithm combines the color feature and the texture feature described by local binary patterns (LBPs) to represent the image feature.Then,elliptic hyperbolic metric which has better adaptability to the sample data is introduced and the elliptic hyperbolic mahalanobis metric is defined according to the statistical characteristics of the data,and the elliptic hyperbolic mahalanobis metric learning is presented to obtain the optimal metric matrix.Finally,the samples are transformed into a new feature space by using the elliptic hyperbolic mahalanobis metric matrix to reduce the correlation between each dimension of the feature and complete the classification by calculating the distance between the features of the images.Experiments show that the proposed algorithm improves the effectiveness of image classification.",
+      "author": "鲍文霞",
+      "keywords": "<mark class=highlight>metric</mark>,mahalanobis <mark class=highlight>metric</mark>,<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-02-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyy201802025",
+      "title": "基于块稀疏表示的行人重识别方法",
+      "summary": "<mark class=highlight>learning</mark>.The experimental results verify",
+      "summaryAll": "针对非重叠视角下的行人重识別和高维特征提取等问题,提出基于块稀疏表示的行人重识别方法.采取典型相关分析(CCA)方法进行特征投影变换,通过提高特征匹配能力来避免高维特征运算引起的维数灾难问题,并在CCA转换后的投影空间使投影后查询集行人特征向量与相应的数据集特征向量近似成线性关系;利用行人数据集的块结构特征构建行人重识别模型,采用交替方向框架求解优化问题;最后对查询集中要识别的行人采用残差项处理,并将最小残差项所对应的指标作为最终识别的行人记号.在公开数据集PRID 2011、iLIDS-VID和VIPeR上进行多次实验,结果显示所提方法的Rank1性能在三个数据集上分别达到40.4％、38.11％和23.68％,明显高于大间隔最近邻分类(LMNN)等算法,其在Rank-1上的匹配率也远大于LMNN算法;其总体性能也优于经典的基于特征表示与度量学习的算法.实验结果验证了所提方法在行人重识别上的有效性.Focusing on the person re-identification in non-overlapping camera views and the high dimensional feature extracted from the images,a person re-identification method based on block sparse representation was proposed.The Canonical Correlation Analysis (CCA) was taken to carry out the feature projection transformation,and the curse of dimensionality caused by high dimensional feature operation was avoided by improving the feature matching ability,and the feature vectors in a probe image were made to be probably linear with the corresponding gallery feature vectors in the learned projected space of CCA transformation.A person re-identification model was also built with block structure feature of pedestrian dataset,and the associated optimization problem was solved by utilizing the alternating direction framework.Finally,the residues were used to deal with the person in the probe set to be identified and the index of the minimum value in the residues was regarded as the identity of the person.Several experiments were conducted on public datasets such as PRID 2011,iLIDS-VID and VIPeR.The experimental results show that the Rank1 value of the proposed method on three experimental datasets reaches 40.4％,38.11％ and 23.68％,respectively,which is significantly higher than that of Large Margin Nearest Neighbor (LMNN) method,and the matching rate of it on Rank-1 is also much bigger than that of LMNN method;besides,the overall performance of it is better than the classical algorithms based on feature representation and metric learning.The experimental results verify the effectiveness of the proposed method on person re-identification.",
+      "author": "孙金玉",
+      "keywords": "行人重识别,投影空间,块稀疏,交替方向框架,person re-identification,projected space,block sparsity,alternating direction framework",
+      "citedIndex": 0,
+      "publishDate": "2018-02-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jqr201802006",
+      "title": "基于大间隔最近邻的人体动作识别",
+      "summary": "comfortable environment for human, a <mark class=highlight>metric</mark>",
+      "summaryAll": "为实现日常生活中动作的识别,以提高家庭服务机器人的服务质量,为人类提供安全舒适的环境,提出了一种基于马氏距离的度量学习方法进行人体动作的识别.首先,利用Kinect获取人体动作的关节点数据.然后,基于关节点数据构建动作敏感特征集合,即由人体的关节点坐标构造人体的结构向量以及相应的角度,并对每一样本的长度进行归一化处理.采用大间隔最近邻(LMNN)分类算法进行马氏距离学习得到变换矩阵L,将归一化之后的原始数据映射到更优特征空间.最后,采用k近邻算法进行动作识别.在自建的数据集上,得到97％的识别率.实验结果表明,LMNN算法能够改善数据的分布,即缩小类内距离,扩大类间距离,较好地完成人体动作识别的任务.In order to recognize actions in daily life for improving the service quality of the home service robot and providing a safe and comfortable environment for human, a metric learning method based on Manhattan distance is proposed for human action recognition. Firstly, Kinect is used to acquire the joint point data of human action. Then, the action sensitive feature set is constructed based on the joint point data, that is, the structure vectors of human and their corresponding angles are constructed based on the human joint point data, and the length of each sample is normalized. The large margin nearest neighbor (LMNN) method is adopted to obtain the transformation matrix L by learning Manhattan distance. And the normalized data is mapped to a better features space. Finally, the k-nearest neighbor algorithm is utilized to recognize the human actions. Based on our dataset, the accuracy of 97％is achieved. Experimental results show that the LMNN algorithm can improve the distribution of the data (that is, the intra class distance is reduced, and the inter class distance is expanded), and can complete the human action recognition task.",
+      "author": "刘小丽",
+      "keywords": ",<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>,large margin nearest neighbor",
+      "citedIndex": 0,
+      "publishDate": "2018-02-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Thesis_Y3496798",
+      "title": "行车视频中基于深度学习的目标检测",
+      "summary": "SSD（即MLSSD，<mark class=highlight>Metric</mark> <mark class=highlight>Learning</mark> SSD）算法对行车视频中的目标进行检测",
+      "summaryAll": "随着计算机视觉技术的发展，特别是深度学习技术的发展，自动驾驶技术越来越成熟，高级辅助驾驶是迈向自动驾驶的关键一步，车距估计是辅助驾驶中的一个重要研究问题，基于车载雷达的测距方法虽然准确度高，但其成本很高。基于车载摄像头的车距估计是廉价替代技术之一。为此，本文研究了基于车载摄像头的车距估计。在SSD(Single Shot Detector)目标检测的基础上，本文提出联合度量学习的SSD（即MLSSD，Metric Learning SSD）算法对行车视频中的目标进行检测，进而根据标记点估计车距。为了提高检测效率，提出结合多目标跟踪算法进行目标检测和跟踪，从而减少目标检测计算量，同时提高准确率，最终得到行车视频中目标车辆到主车的距离和偏移角度，帮助主车司机决策。本文主要工作和创新如下。<br>　　1)建立畸变车辆检测数据集。本文中的车载后视摄像头为鱼眼摄像头，与一般摄像头不一样的是，鱼眼摄像头拍摄下的车辆有畸变，在公开数据库中训练的模型在畸变数据上检测得到的车辆准确率低。因此，本文标注并建立一个鱼眼摄像头下的车辆检测数据集。该数据集包含有5000张图像，其中4000张为训练集图像，500张为验证集图像，500张测试集图像。<br>　　2)联合度量学习提出MLSSD（联合度量学习的SSD算法）算法检测视频中的车辆。本文结合度量学习提出了基于多损失函数联合训练的网络结构，得到更加鲁棒的特征，使得最终车辆检测结果更加准确。<br>　　3)提出结合多目标跟踪算法提高目标检测性能。在MLSSD检测结果的基础上，结合多目标跟踪算法SCEA（结构约束事件聚拢算法）提出了DAT(Detection and Tracking)目标检测与跟踪框架，进一步提高检测准确率及实时性，减少GPU资源占用，最后根据摄像头标定数据初步实现车距估计。<br>　　实验结果表明，本文提出的算法在畸变摄像头下，能实时检测视频中的目标，同时提升准确率。对于车距的估计，在测试数据集上，平均误差在50cm以内。",
+      "author": "张芳慧",
+      "keywords": "计算机视觉,车距估计,目标检测,联合<mark class=highlight>度量学习</mark>",
+      "citedIndex": 0,
+      "publishDate": "2018-01-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_mssbyrgzn201712008",
+      "title": "基于集成人脸对距离学习的跨年龄人脸验证",
+      "summary": "<mark class=highlight>learning</mark> method( EFPML) is proposed for",
+      "summaryAll": "针对不同年龄跨度下人脸对差异的不同,文中提出基于集成人脸对距离学习(EFPML)的跨年龄人脸验证方法.对不同年龄跨度的人脸对分别学习距离度量,然后使用集成方法对人脸对进行重表示,使人脸对重表示更具有判别性,并且可以扩充有限的跨年龄数据集.在公开的跨年龄人脸数据库FG-NET和CACD上的实验表明,文中方法可以有效减少年龄带来的影响,提高验证性能.Aiming at the variations of face pairs caused by different age gaps, an ensemble face pairs distance metric learning method( EFPML) is proposed for cross-age face verification. Firstly, the whole dataset is divided into several subsets with different age gaps. Then, a distance metric is learned for each subset. Finally, all face pairs are re-represented for many times via learnt distance metrics, the new representations are more distinguishable and the limited cross-age face data are expanded. To evaluate the proposed method, a series of experiments are conducted on two real-world cross age datasets, FG-NET and CACD. The results show that EFPML consistently outperforms the state-of-the-art methods and it has ability to reduce the effect of aging and improve verification performance.",
+      "author": "吴嘉琪",
+      "keywords": ",Distance <mark class=highlight>Metric</mark> <mark class=highlight>Learning</mark>,Ensemble,Classification",
+      "citedIndex": 0,
+      "publishDate": "2017-12-30",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_njxxgcdxxb201706002",
+      "title": "基于用户点击数据的细粒度图像识别方法概述",
+      "summary": "近年来,细粒度图像识别逐渐成为计算机视觉领域的研究热点.由于不同类别图像间的视觉差异小",
+      "summaryAll": "近年来,细粒度图像识别逐渐成为计算机视觉领域的研究热点.由于不同类别图像间的视觉差异小、语义鸿沟问题严重,传统的基于视觉特征的细粒度图像识别性能往往不尽人意.针对这些挑战,目前许多学者都在研究基于用户点击数据的图像识别.本文围绕点击数据在图像识别中数据预处理、特征提取和模型构建3大模块中的应用,总结了已有的基于点击数据的识别算法及最新的研究进展.In recent years,fine-grained image recognition has become a hotspot in computer vision area.Due to the subtle visual differences among different image categories and the serious semantic gap,the performance of traditional image recognition algorithms for fine-grained images recognition is mostly unsatisfactory.To overcome these challenges,many researchers have been concentrating on image recognition with user click data. This paper focuses on the three key modules of the fine-grained recognition system with user click data:data preprocessing,feature extracting and model construction.Also,existing algorithms for click data based image recognition are summarized,and the related latest progresses are demonstrated.",
+      "author": "俞俊",
+      "keywords": ",image recognition,<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>,deep",
+      "citedIndex": 0,
+      "publishDate": "2017-12-28",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xdkjyc201706002",
+      "title": "行人重识别研究综述",
+      "summary": "categories, using feature description, <mark class=highlight>metric</mark>",
+      "summaryAll": "行人重识别是智能视频分析领域的研究热点,得到了学术界的广泛重视.行人重识别旨在非重叠视角域多摄像头网络下进行的行人匹配,即确认不同位置的摄像头在不同的时刻拍摄到的行人目标是否为同一人.本文根据研究对象的不同,将目前的研究分为基于图像的行人重识别和基于视频的行人重识别两类,对这两类分别从特征描述、度量学习和数据库集3个方面将现有文献分类进行了详细地总结和分析.此外,随着近年来深度学习算法的广泛应用,也带来了行人重识别在特征描述和度量学习方面算法的变革,总结了深度学习在行人重识别中的应用,并对未来发展趋势进行了展望.The intelligent video analysis method based on pedestrian re-identification has become a research focus in the field of computer vision, and it has received extensive attention from the academic community. Pedestrian re-identifica-tion aims to verify pedestrian identity in image sequences captured by cameras that are orientated in different directions at different times. This current study is classified into two categories: image-based and video-based algorithms. For these two categories, using feature description, metric learning, and various benchmark datasets, detailed analysis is per-formed, and a summary is presented. In addition, the wide application of deep-learning algorithms in recent years has changed pedestrian re-identification in terms of feature description and metric learning. The paper summarizes the ap-plication of deep learning in pedestrian re-identification and looks at future development trends.",
+      "author": "宋婉茹",
+      "keywords": "行人重识别,特征表达,<mark class=highlight>度量学习</mark>,深度学习,卷积神经网络,数据集,视频监控,pedestrian",
+      "citedIndex": 0,
+      "publishDate": "2017-12-28",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_kxjsygc201735015",
+      "title": "基于深度卷积神经网络与中心损失的人脸识别",
+      "summary": "与传统人脸识别算法相比该算法可以自动进行特征提取,并且相对于通用深度学习分类模型该算法通过<mark class=highlight>度量学习</mark>使特征表示更具判别力",
+      "summaryAll": "传统人脸识别方法手工设计特征过程复杂、识别率较低,对于开集人脸识别通用深度学习分类模型特征判别能力较弱.针对这两方面的不足,提出了一种以分类损失与中心损失相结合作为模型训练监督信号的深度卷积神经网络.首先,利用构建的应用场景数据集优调从公共数据集获得初始化参数的深度人脸识别模型,解决训练数据过小和数据分布差异问题,同时提高模型训练速度;然后,以传统损失函数和新的中心损失作为迁移学习过程中的监督信号,使得类内聚合、类间分散,提高模型输出人脸特征的判别能力;最后,对人脸特征进行主成分分析,进一步去除冗余特征,降低特征复杂度,提高人脸识别准确率.实验结果表明,与传统人脸识别算法相比该算法可以自动进行特征提取,并且相对于通用深度学习分类模型该算法通过度量学习使特征表示更具判别力.在自建测试集和LFW、YouTube Faces标准测试集上都取得了较高的识别率.For traditional face recognition methods ,the process of manual design features is complex and face recognition rate is low .The feature discrimination ability of general deep learning classification model is weak , for the open set face recognition .Aiming at these two problems , a kind of deep convolution neural network is pro-posed, which combines the classification loss with the central loss as the model training monitoring signal .Firstly, a deep face recognition model based on the initialization parameters obtained from the public dataset is fine tuned u -sing application scene dataset ,which can effectively solve the problem of training data is too small and data distribu-tion differences and improve the training speed of the model .Then, the traditional loss function and the new central loss are used as the monitoring signals in the process of transfer learning , which can make the intra-class aggrega-tion and inter-class dispension and improve the discriminative ability of the model output features .Finally, the principal component analysis is used to remove the redundant face features , reduce the complexity and improve face recognition rate .The experimental results show that our algorithm can automatically extract features compared with the traditional face recognition algorithm and relative to the general deep learning classification model , the algorithm makes the feature representation more discriminative with metic learning .A higher recognition rate has been a-chieved in the self built test set and the LFW and YouTube Faces Standard test sets .",
+      "author": "张延安",
+      "keywords": ",center loss,<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>,principal",
+      "citedIndex": 0,
+      "publishDate": "2017-12-11",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyyyj201712007",
+      "title": "层次K-均值聚类结合改进ITML的迁移<mark class=highlight>度量学习</mark>方法",
+      "summary": "<mark class=highlight>learning</mark> to precede similarity <mark class=highlight>metric</mark>",
+      "summaryAll": "目前的迁移学习方法多针对单一迁移类型,使用低级特征空间,并且源集比目标集复杂耗力.针对这些问题,综合考虑特征表示迁移、参数迁移和实例迁移,提出迁移度量学习的通用框架.首先,基于属性相似性空间和类别相似性空间,利用层次K-均值聚类获取相似性;然后,利用信任评估框架和去相关归一化转换方法消除源集中的相关关系来抑制负迁移作用;最后,改进信息理论度量学习方法(ITML)进行相似性度量学习.对三种不同复杂度数据集进行实验,结果表明,提出方法的迁移学习性能较传统方法明显提高,且对负迁移影响具有更好的鲁棒性;提出的方法可应用于源集比目标集简单的情况,评估结果表明,即使源集知识有限,也可以得到较好的迁移学习效果.Now most of transfer learning methods suffer from the problems that transfer types are separately analyzed,low level feature space are used,and the source data set is more diverse and complex than the target set.For these problems,this paper proposed a novel general transfer metric learning framework with comprehensive consideration of feature representation transfer,parameter transfer and instance transfer.Initially,it used hierarchical K-means clustering to get the similarity based on the semantic similarity space and category similarity space.Then,it utilized the trust evaluation framework and de-correlated normalized space to eliminate the correlation learned in the source domain,and restrained the negative transfer.Finally,it modified the information theoretic metric learning to precede similarity metric learning.The experiment results show that the transfer learning performance of the proposed method has improved greatly with more robust to negative transfer effect comparing with the traditional methods in three data sets with different complexity.Furthermore,the proposed method could be applied in the situation that the source data set was simpler than the target set.The results reveal that even when the knowledge source is limited,transfer learning can still be beneficial.",
+      "author": "蒋林利",
+      "keywords": ",transfer <mark class=highlight>metric</mark> <mark class=highlight>learning</mark>,hierarchical",
+      "citedIndex": 0,
+      "publishDate": "2017-12-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyjyfz201711014",
+      "title": "范畴表示机器学习算法",
+      "summary": ",feature <mark class=highlight>learning</mark>,<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>,compositional",
+      "summaryAll": "长期以来,人们认为表示问题是机器学习领域的瓶颈问题之一.机器学习方法的性能在很大程度上依赖于数据表示的选择.数据表示领域的主要问题是如何更好地学习到有意义和有用的数据表示.宽泛来看数据表示领域有深度学习、特征学习、度量学习、成分建模、结构化预测和强化学习等.这些技术应用的范围也非常广泛,包括图像、语音识别和文字理解等.因此,研究机器学习表示方法是一件长期且具有探索意义的工作.基于此,利用范畴理论来研究机器学习方法的表示,提出了范畴表示机器学习方法的基本概念.对决策树、支持向量机、深度神经网络等方法进行研究分析,提出了范畴表示分类算法、范畴表示决策树算法、切片范畴表示主成分分析和支持向量机算法、范畴函子表示深度学习方法,给出相应的理论证明及可行性分析.并对这5种算法做了深入分析,找到了主成分分析和支持向量机之间的本质联系,最后通过仿真实验论证范畴表示方法的可行性.For a long time,it is thought that the representation is one of the bottleneck problems in the field of machine learning.The performance of machine learning methods is heavily dependent on the choice of data representation.The rapidly developing field of representation learning is concerned with questions surrounding how we can best learn meaningful and useful representations of data.We take a broad view of the field and include topics such as deep learning,feature learning,metric learning,compositional modeling,structured prediction,reinforcement learning,etc.The range of domains to which these techniques apply is also very broad,from vision to speech recognition,text understanding,etc.Thus,the research on new representation methods for machine learning is a piece of work which is long-term,explorative and meaningful.Based on this,we propose several basic concepts of category representation of machine learning methods via the category theory.We analyze the decision tree,support vector machine,principal component analysis and deep neural network with category representation and give the corresponding category representation for each algorithms:the category representation of decision tree,slice category representation of support vector machine,and functor representation of the neural network.We also give the corresponding theoretical proof and feasibility analysis.According to further reach of category representation of machine learning algorithms,we find the essential relationship between support vector machine and principal component analysis.Finally,we confirm the feasibility of the category representation method using the simulation experiments.",
+      "author": "徐晓祥",
+      "keywords": "<mark class=highlight>learning</mark> algorithm",
+      "citedIndex": 0,
+      "publishDate": "2017-11-20",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_rjxb201711014",
+      "title": "混杂数据的多核几何平均<mark class=highlight>度量学习</mark>",
+      "summary": ",most existing <mark class=highlight>metric</mark> <mark class=highlight>learning</mark> methods",
+      "summaryAll": "在机器学习和模式识别任务中,选择一种合适的距离度量方法是至关重要的.度量学习主要利用判别性信息学习一个马氏距离或相似性度量.然而,大多数现有的度量学习方法都是针对数值型数据的,对于一些有结构的数据(比如符号型数据),用传统的距离度量来度量两个对象之间的相似性是不合理的;其次,大多数度量学习方法会受到维度的困扰,高维度使得训练时间长,模型的可扩展性差.提出了一种基于几何平均的混杂数据度量学习方法.采用不同的核函数将数值型数据和符号型数据分别映射到可再生核希尔伯特空间,从而避免了特征的高维度带来的负面影响.同时,提出了一个基于几何平均的多核度量学习模型,将混杂数据的度量学习问题转化为求黎曼流形上两个点的中心点问题.在UCI数据集上的实验结果表明,针对混杂数据的多核度量学习方法与现有的度量学习方法相比,在准确性方面展现出更优异的性能.How to choose a proper distance metric is vital to many machine learning and pattern recognition tasks.Metric learning mainly uses discriminant information to learn a Mahalanobis distance or similarity metric.However,most existing metric learning methods are for numerical data,and it is unreasonable to calculate the similarity between two heterogeneous objects (e.g.,categorical data)using traditional distance metrics.Besides,they suffer from curse of dimensionality,resulting in poor efficiency and scalability when the feature dimension is very high.In this paper,a geometric mean metric learning method is proposed for heterogeneous data.The numerical data and categorical data are mapped to a reproducing kernel Hilbert space by using different kernel functions,thus avoiding the negative influence of the high dimensionality of the feature.At the same time,a multiple kernel metric learning model based on geometric mean is introduced to transform the metric learning problem of heterogeneous data into solving the midpoint between two points on the Riemannian manifold.Experiments on benchmark UCI datasets show that the presented method shows promising performances in terms of accuracy in comparison with the state-of-the-art metric learning methods.",
+      "author": "齐忍",
+      "keywords": "<mark class=highlight>learning</mark>,<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>,heterogeneous",
+      "citedIndex": 0,
+      "publishDate": "2017-11-06",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjkx201709053",
+      "title": "一种缓解分类面交错的样本点扩散方法",
+      "summary": "使用不同分类器验证所提方法,结果表明,其准确率有不同程度的提升.与3种经典的有监督<mark class=highlight>度量学习</mark>方法进行比较",
+      "summaryAll": "固定的相似性度量使得学习器无法结合先验信息揭示数据本身固有的统计规律,对于分类面交错严重的数据集,难以取得较好的学习效果.为了缓解分类面交错,提高分类准确度,将边界和样本点扩散结合起来,通过统计样本标签信息和位置信息得到边界点,以边界点为中心选取合适的控制函数对周边样本点进行扩散,使得分类面更加清晰,从而提高分类算法的精度.在多个分类面交错的数据集上,使用不同分类器验证所提方法,结果表明,其准确率有不同程度的提升.与3种经典的有监督度量学习方法进行比较,实验结果表明所提方法适合处理交错程度高的数据集,而且能有效提升SVM的性能.The fixed similarity measurement makes learner difficult to reveal the inherent statistical rules of the data itself with the priori information,and it is difficult to get good effect for the data set with a staggered classification.In order to improve the classification accuracy of the data set with a staggered classification,this paper combined the boundary and sample diffusion method.The method applies the statistical sample label information and position information to obtain boundary point,which is treated as the center.Then we selected appropriate control function to spread neighboring sample points to make the classification more clear,so as to enhance the learning accuracy.Different classifiers are used to validate the method,and the accuracy of the proposed method is improved in different degrees.Compared with three classical supervised distance metric learning method,the experimental results show that this method is suitable for processing high degree of interleaving data sets,and can effectively improve the performance of SVM.",
+      "author": "梁路",
+      "keywords": "<mark class=highlight>度量学习</mark>,样本点扩散,数据预处理,Distance <mark class=highlight>metric</mark> <mark class=highlight>learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-09-15",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjgcyyy201717028",
+      "title": "一种改进的人脸识别CNN结构研究",
+      "summary": "该结构由两个卷积神经网络组成,且共享网络权值,在该结构的训练中采用了差异深度<mark class=highlight>度量学习</mark>",
+      "summaryAll": "为了克服人脸识别中存在光照、姿态、颜色等噪声的干扰,融合了卷积神经网络与孪生神经网络的优点,提出了一种改进的CNN网络结构,该结构由两个卷积神经网络组成,且共享网络权值,在该结构的训练中采用了差异深度度量学习(DDML)算法.卷积结构有效地去除外界噪声干扰,且在非线性降维中权值共享结构能够自动提取相同特征,DDML算法增加了提取特征的有效性.在ORL、YaleB和AR人脸数据库上实验结果表明,与PCA、CNN等算法相比,识别稳定度高,识别率提升近5个百分点.In order to overcome the noise interference of illumination, pose, color in face recognition, this paper combines the advantages of convolutional neural networks with twin neural network, puts forward an improved CNN network structure. The structure is composed of two convolutional neural network's twin network and sharing the weights, using the Discriminative Deep Metric Learning(DDML)algorithm in the training of the network. The convolutional structure can effectively remove external noises and automatically extract homologous features by the trick of sharing weights. It evaluates the method on the ORL, YaleB and AR face data sets and shows that it outperforms other approaches and its recognition rate up nearly 5 percent compared to the PCA and CNN algorithm.",
+      "author": "张国云",
+      "keywords": "人脸识别,卷积神经网络,孪生网络,差异深度<mark class=highlight>度量学习</mark>(DDML),深度学习,face",
+      "citedIndex": 0,
+      "publishDate": "2017-09-01",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_mssbyrgzn201708008",
+      "title": "凸判别型典型相关分析",
+      "summary": "受几何平均<mark class=highlight>度量学习</mark>(GMML)方法启发,文中提出凸判别型典型相关分析(CDCA",
+      "summaryAll": "受几何平均度量学习(GMML)方法启发,文中提出凸判别型典型相关分析(CDCA).CDCA 将学习2个视图的投影矩阵转化为一个测地线凸的度量学习问题,获得一个全局的闭合解,同时直接获得判别性融合特征.在人工数据集和真实数据集上通过实验验证CDCA的有效性.Inspired by geometric mean metric learning(GMML), a convex discriminant canonical correlation analysis(CDCA) is proposed.The learning of two projection matrices is transformed into a geodesic convex problem of metric learning.Thereby a closed form solution is acquired and simultaneously discriminant fused features are extracted directly.The experiments on artificial and real datasets verify the effectiveness of CDCA.",
+      "author": "江帆",
+      "keywords": "Geodesically Convex,Geometric Mean,Multi-view <mark class=highlight>Learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-08-30",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_shsfdxxb201704020",
+      "title": "一种基于融合的词袋模型和大裕度最近邻分类算法的图像识别方法",
+      "summary": "针对图像理解中的图像相似度之间的关系,提出了一种最大间隔最近邻居分类算法,通过对成对约束的<mark class=highlight>度量学习</mark>算法",
+      "summaryAll": "图像分类作为图像处理和计算机视觉的重要组成部分,能够快速准确地对数字图像进行分析和管理.对基于bag of word(BOW)模型的分类问题进行了研究,针对图像理解中的图像相似度之间的关系,提出了一种最大间隔最近邻居分类算法,通过对成对约束的度量学习算法,在优化目标中增加原空间数据分类的约束,学习到了一个可以反映当前样本数据的距离函数,并且在k-NearestNeighbor(KNN)分类器上使用该学习到的距离函数来构建分类器,并在多个国际标准图像数据集上进行实验,结果表明:该算法相比传统的基于欧式距离的算法具备更高的正确率.As an important part of image processing and computer vision,image classification can analyze and manage digital images quickly and accurately.This paper studies the classification problem based on bag of word (BOW)model and learns the relationship between image similarities in image comprehension.Then,this paper proposes a maximum-interval Nearest Neighbor classification algorithm.By learning the pair-wise constraint metric and adding the constraint of the original spatial data classification to the optimal target.This paper learns a distance function which can reflect the current sample data and uses this function to construct the classifier according to the k-NearestNeighbor(KNN) classifier.Compared with the traditional Euclidean distance algorithm,the classifier based on metric learning has higher correct rate than the traditional one based on the experiments on several international standard image datasets.",
+      "author": "杨亦波",
+      "keywords": "图像分类,词袋模型,大裕度最近邻分类算法,image classification,bag of word model,large margin nearest neighbor classification algorithm",
+      "citedIndex": 0,
+      "publishDate": "2017-08-28",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyjyfz201708016",
+      "title": "基于距离中心化与投影向量学习的行人重识别",
+      "summary": "distance-centralization based algorithm for similarity <mark class=highlight>metric</mark>",
+      "summaryAll": "现有的基于投影的行人重识别方法具有训练时间长、投影矩阵维数高、识别率低等问题.此外在建立训练集时,还会出现类内样本数目远少于类间样本数目的情况.针对这些问题,提出了基于距离中心化的相似性度量算法.在构建训练集时,将同一组目标群体特征值中心化,利用中心特征值来构建类间距离,而类内距离保持不变.这样使得类内类间样本数目接近,可以很好地缓解类别不平衡所带来的过拟合风险.另外在学习投影矩阵时,利用训练集更新策略,学习若干组投影向量,使得到的投影向量近似正交,这样既可以有效减少运算复杂度和存储复杂度,又可以使得学习到的投影向量能够通过简单的相乘近似得到原来的投影矩阵.最后,在学习投影向量时采用共轭梯度法,该方法具有二次收敛性,能够快速收敛到目标精度.实验结果表明:提出的算法具有较高的效率,在不同数据集上的识别率都有明显的提升,训练时间也比其他常用的行人重识别算法要短.Existing projection-based person re-identification methods usually suffer from long time training,high dimension of projection matrix,and low matching rate.In addition,the intra-class samples may be much less than the inter-class samples when a training data set is built.To solve these problems,this paper proposes a distance-centralization based algorithm for similarity metric learning.When a training data set is to be built,the feature values of a same target person are centralized and the inter-class distances are built by these centralized values,while the intra-class distances are still directly built from original samples.As a result,the number of intra-class samples and the number of inter-class samples can be much closer,which reduces the risk of overfitting because of class imbalance.In addition,during learning projection matrix,the resulted projection vectors can be approximately orthogonal by using a strategy of updating training data sets.In this way,the proposed method can significantly reduce both the computational complexity and the storage space.Finally,the conjugate gradient method is used in the projection vector learning.The advantage of this method is its quadratic convergence,which can promote the convergence.Experimental results show that the proposed algorithm has higher efficiency.The matching rate can be significantly improved,and the time of training is much shorter than most of existing algorithms of person re-identification.",
+      "author": "丁宗元",
+      "keywords": ",distance centralization,<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-08-20",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyjyfz201708020",
+      "title": "基于多尺度深度学习的商品图像检索",
+      "summary": "商品图像检索的目标是检索与图像内容相符的商品,它是移动视觉搜索在电子商务中的重要应用.",
+      "summaryAll": "商品图像检索的目标是检索与图像内容相符的商品,它是移动视觉搜索在电子商务中的重要应用.商品图像检索的发展,既为用户购物提供便利,又促进了电子商务向移动端发展.图像特征是影响商品图片检索性能的重要因素.复杂的图片背景、同类商品之间的相似性和被拍摄商品尺度的变化,都使得商品图像检索对图像特征提出了更高的要求.提出了一种多尺度深度神经网络,以便于抽取对复杂图片背景和目标物体尺度变化更加鲁棒的图像特征.同时根据商品类别标注信息学习图片之间的相似度.针对在线服务对响应速度的要求,通过压缩模型的深度和宽度控制了计算开销.在一个百万级的商品图片数据集上的对比实验证明:该方法在保持速度的同时提升了查询的准确率.Product image search is an important application of mobile visual search in e-commerce.The target of product image search is to retrieve the exact product in a query image.The development of product image search not only facilitates people's shopping,but also results in that e-commerce moves forward to mobile users.As one of the most important performance factors in product image search,image representation suffers from complicated image background,small variance within each product category,and variant scale of the target object.To deal with complicated background and variant object scale,we present a multi-scale deep model for extracting image representation.Meanwhile,we learn image similarity from product category annotations.We also optimize the computation cost by reducing the width and depth of our model to meet the speed requirements of online search services.Experimental results on a million-scale product image dataset shows that our method improves retrieval accuracy while keeps good computation efficiency,comparing with existing methods.",
+      "author": "周晔",
+      "keywords": "search,deep <mark class=highlight>learning</mark>,multi scale,<mark class=highlight>metric</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-08-20",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_tianjdxxb201708005",
+      "title": "基于典型相关分析和距离<mark class=highlight>度量学习</mark>的零样本学习",
+      "summary": "semantic embedding space, a distance <mark class=highlight>metric</mark>",
+      "summaryAll": "零样本学习是一类特殊的图像分类问题,是指测试数据的类别在训练数据中没有出现的情况.为了更好地描述语义特征空间中图像特征和语义特征的距离关系,本文将距离度量学习引入零样本学习任务.具体而言,首先利用典型相关分析将样本的图像特征和相应类别的语义特征映射至公共特征空间;然后,利用距离度量学习衡量图像特征和语义特征之间的距离;最后,使用最近邻分类器进行分类.通过在流行的AwA和CUB数据集中的实验,证明了所提方法的有效性和鲁棒性.Zero-shot learning is a special case of image classification,whose test classes are absent in training sam-ples.To better measure the distance between visual features and semantic features in the semantic embedding space, a distance metric learning based zero-shot learning method is proposed.Specifically,visual features and semantic features were first projected into a common semantic embedding space by use of canonical correlation analysis,then a distance metric learning method was employed to measure the distance between them.Finally,a nearest neighbor classifier was utilized to perform the classification.Experimental results on the popular AwA and CUB datasets dem-onstrate that the proposed approach is effective and robust.",
+      "author": "冀中",
+      "keywords": "零样本学习,典型相关分析,距离<mark class=highlight>度量学习</mark>,图像分类,zero-shot <mark class=highlight>learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-08-15",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgtxtxxb-a201708009",
+      "title": "动作切分和流形<mark class=highlight>度量学习</mark>的视频动作识别",
+      "summary": "to show the manifold <mark class=highlight>metric</mark> <mark class=highlight>learning</mark> performance.The",
+      "summaryAll": "目的 为了提高视频中动作识别的准确度,提出基于动作切分和流形度量学习的视频动作识别算法.方法 首先利用基于人物肢体伸展程度分析的动作切分方法对视频中的动作进行切分,将动作识别的对象具体化;然后从动作片段中提取归一化之后的全局时域特征和空域特征、光流特征、帧内的局部旋度特征和散度特征,构造一种7×7的协方差矩阵描述子对提取出的多种特征进行融合;最后结合流形度量学习方法有监督式地寻找更优的距离度量算法提高动作的识别分类效果.结果 对Weizmann公共视频集的切分实验统计结果表明本文提出的视频切分方法具有很好的切分能力,能够作好动作识别前的预处理;在Weizmann公共视频数据集上进行了流形度量学习前后的识别效果对比,结果表明利用流形度量学习方法对动作识别效果提升2.8％;在Weizmann和KTH两个公共视频数据集上的平均识别率分别为95.6％和92.3％,与现有方法的比较表明,本文提出的动作识别方法有更好的识别效果.结论 多次实验结果表明本文算法在预处理过程中动作切分效果理想,描述动作所构造协方差矩阵对动作的表达有良好的多特征融合能力,而且光流信息和旋度、散度信息的加入使得人体各部位的运动方向信息具有了更多细节的描述,有效提高了协方差矩阵的描述能力,结合流形度量学习方法对动作识别的准确性有明显提高.Objective A video action recognition algorithm based on action segmentation and manifold metric learning is proposed to improve the accuracy of action recognition in videos.Method First,a video action segmentation algorithm based on analyzing the spreading area of actors' limbs is proposed to divide the video into segments that contain a specific action.The segmentation operation is used to recognize an action in the video quickly and reduce the mutual interference between adjacent actions.A silhouette of the actor in a frame is extracted using background subtraction method.Bounding boxes are generated in terms of the silhouettes.Given that silhouette extraction is affected by the background,the area function of the bounding boxes contains some noise,which can damage the regularity of the area function.After calculating the area value of the bounding box for each frame,the area function is smoothed using a robust weighted smooth method.Then,after extracting all the local minimum points of the smoothed area function,the second filter is used to remove fake local optimal points.After two filtering operations,the remaining minimum points are used as the segmentation position in the videos.Subsequently,the action recognition algorithm is independently implemented on each segment.For feature extraction and description of each segment,the Lucas-Kanade optical flow field is initially computed to obtain the velocity information of pixels for each frame in the segment.The pixels with non-zero magnitude of optical flow are considered as the interest points.Intraframe local curl and divergence,which is derived from the Lucas-Kanade optical flow field,are used to describe the motion relationship between interest points in the frame.A covariance matrix is formed for each action segment to fuse the features,including normalized global temporal features,normalized spatial features,optical flow,intraframe local curl,and divergence.The size of the final covariance is 7 × 7.Thus,the dimension of the feature covariance is relatively low.In this feature space,the action segment videos form a manifold.Several methods that measure the distance in the manifold space have been proposed.Generally,the distance between two points in a manifold space is the geodesic distance between them.In this study,a distance measurement method,which is obtained by supervised manifold metric learning,is proposed to further improve the accuracy of action classification.The LogDet divergence is utilized,and the action class labels are used to construct a constraint.A tangent space transfer matrix is obtained using the manifold metric learning.The tangent space transfer matrix leads distance calculation into a tangent space of a new latent manifold.Finally,the nearest neighbor classification method is used to recognize the actions.Result The three parts of the experiment are as follows.First,the efficiency of the action segmentation algorithm is evaluated on the Weizmann public video dataset.The results show that the proposed action segmentation method has acceptable segmentation capability.Second,the action reorganization comparison between with and without manifold metric learning on Weizmann dataset is performed to show the manifold metric learning performance.The action recognition accuracy without and with manifold metric learning is 92.8％ and 95.6％,respectively,which indicates an improvement by 2.8％.Finally,the experimental results on KTH public video dataset verify the robustness of the proposed action recognition algorithm.The average recognition accuracy on KTH is 92.3％.On Weizmann and KTH datasets,the experimental comparisons indicated that the proposed algorithm is better than some state-of-the-art methods.Conclusion The proposed action segmentation method based on analyzing the spreading area of actors' limbs can segment actions at the frame,where the limbs are closest to the body.Smoothing and the second filter step on the area function of the human bounding box enhance the action segmentation ability by anti-jamming.The segmentation method can obtain a desirable pre-processing effect.The multiple features fused effectively by the covariance matrix can describe the video action appropriately.The representation capability of the covariance matrix descriptor is further improved by adding optical flow,curl,and divergence information,which describe the motion direction information of the body parts of the body in detail.Evidently,the action recognition accuracy has been improved by using the manifold metric learning.The performance of the proposed action algorithm has been improved further by adding class-label information during the metric learning.All the experimental results show that the proposed video action recognition algorithm has high accuracy and desirable robustness.",
+      "author": "罗会兰",
+      "keywords": "<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>,feature covariance,video",
+      "citedIndex": 0,
+      "publishDate": "2017-08-11",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_mssbyrgzn201706003",
+      "title": "融合类别和结构信息的多尺度协同耦合<mark class=highlight>度量学习</mark>方法",
+      "summary": "<mark class=highlight>learning</mark> method based on the fusion of",
+      "summaryAll": "针对不同尺度空间集合中数据样本无法直接匹配的问题,提出融合类别和结构信息的多尺度协同耦合度量学习方法.首先将类别信息作为主要监督信息,样本分布结构信息作为辅助监督信息,构建相关关系矩阵.然后基于该相关关系矩阵构建线性和非线性最优化目标方程,通过最优化目标方程求解将不同尺度数据集合中的数据样本变换至尺度统一的公共空间,最终实现不同尺度空间中数据样本的度量.人脸识别的实验表明,多尺度空间的非线性协同耦合度量是一种有效的度量方法,运算简单方便,能够获得较高的识别率.Aiming at the elements matching problem in different scale space sets,multi-scale collaborative coupled metric learning method based on the fusion of class and structure information is proposed.Firstly,the correlation matrix is constructed under the guidance of class information and structure information of sample distribution.The class information is significant for supervision and the structure information is the auxiliary supervision information.The linear and nonlinear optimization objective equations are constructed based on the correlation matrix.By solving the optimization objective equation,the samples are transformed from different scale space datasets into a unified public space for distance measurement.The experimental results of face recognition show that the nonlinear collaborative coupled metric is an effective measurement method and it is simple and convenient with a higher recognition rate.",
+      "author": "邹国锋",
+      "keywords": "Multi-scale Space,Collaborative Coupled <mark class=highlight>Metric</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-06-30",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_mssbyrgzn201706006",
+      "title": "基于局部特征融合的邻域排斥<mark class=highlight>度量学习</mark>亲属关系认证算法",
+      "summary": "<mark class=highlight>learning</mark> based on local feature fusion",
+      "summaryAll": "针对如何利用人脸图像局部特征进行亲属关系认证的问题,文中提出基于局部特征融合的邻域排斥度量学习亲属关系认证算法.首先抽取脸部的关键区域,分别对每块关键区域提取纹理和肤色特征.然后进行特征融合.最后引入度量学习,学习能使具有亲属关系样本距离变小、非亲属关系样本距离变大的变换矩阵,利用已有数据样本间相似程度的先验知识学习最佳相似性度量,更好地刻画亲属样本间的相似关系.在KinFaceW-I和KinFaceW-II数据库中的实验表明,相比已有的亲属关系认证算法,文中算法性能更好.To solve the problem of kinship verification of facial image,an algorithm for neighborhood repulsed metric learning based on local feature fusion is proposed.Firstly,texture and skin color features are extracted from the key areas of the face images.Then,the feature fusion method is proposed.Finally,the metric learning method is introduced to learn a transformational matrix capable of making the distance between the samples with kinship smaller and the distance between the samples of non-kin larger.The prior knowledge of the similarity degree of existing data samples is utilized to learn the best similarity measure to describe the similarity of kinship samples better.The experimental results on KinFaceW-I and KinFaceW-II databases demonstrate the efficiency of the proposed algorithm.",
+      "author": "胡正平",
+      "keywords": "Feature,<mark class=highlight>Metric</mark> <mark class=highlight>Learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-06-30",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_cslgdxxb201702014",
+      "title": "基于KL距离的卷积神经网络人脸特征提取模型",
+      "summary": "为了克服欧式距离的度量方法在人脸特征表达上的不足,提出了一种基于KL距离的卷积神经网络",
+      "summaryAll": "为了克服欧式距离的度量方法在人脸特征表达上的不足,提出了一种基于KL距离的卷积神经网络人脸特征提取模型.通过卷积神经网络将输入样本转换为一个概率分布,利用KL距离度量不同样本之间概率分布的差异,并定义了一个代价函数对此距离进行优化,最后使用反向传播算法修改卷积神经网络的参数,使网络对人脸特征有更强的区分能力.将提取的特征向量通过神经网络分类器进行人脸验证,在YouTube等人脸库上进行了测试.试验结果表明,该方法不仅能提高正确率,而且还具有更好的泛化性能.In order to overcome the shortcomings of Euclidean distance measurement in face feature expression,a neural network face feature extraction model based on KL divergence is proposed.The convolution neural network is used to transform the input sample into a probability distribution.The distance between different samples is measured by the KL divergence,and a cost function is defined to optimize the distance.The back propagation algorithm is used to modify the parameters of convolution neural network,the network has a stronger ability to distinguish between facial features.The extracted face feature vector is transformed into neural network classifier to performs face validation with YouTube face database.The experimental results show that the method can not only improve the error rate but also improve the generalization performance.",
+      "author": "罗可",
+      "keywords": "<mark class=highlight>learning</mark>,convolutional neural network",
+      "citedIndex": 0,
+      "publishDate": "2017-06-28",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_xhcl201706010",
+      "title": "深层融合度量子空间学习稀疏特征提取算法",
+      "summary": "作为一种新的深层特征提取模型,越来越受到广大学者的关注.本文提出一种基于深层融合<mark class=highlight>度量学习</mark>的稀疏特征提取算法",
+      "summaryAll": "特征提取作为模式识别中的重要步骤,一直是图像处理研究的重点,逐渐兴起的深度学习理论,作为一种新的深层特征提取模型,越来越受到广大学者的关注.本文提出一种基于深层融合度量学习的稀疏特征提取算法,在深度学习的框架内,构建度量映射矩阵,对图像进行分层映射,最大化保留样本集类间区分信息,并且通过稀疏迭代来保证特征提取结果的稀疏性.首先构建图像集距离度量函数,然后通过求解最大化类间距离来确定最优度量映射矩阵,同时对特征映射结果进行L1范数稀疏迭代,提高噪声鲁棒性.然后对这个基本特征提取单元进行深度化改造,在第二层中进行同样操作,最终通过多层融合提取得到分层深度稀疏特征.相对于已有子空间方法,本文在特征映射过程中引入度量自学习机制,并着重对各个特征映射层进行视觉合理性稀疏约束,融合多层特征语义描述生成最终特征提取结果.在FERET、AR、Yale等经典人脸数据库以及MNIST、CIFAR-10等目标数据库上的实验结果表明,该算法可以取得较高的识别率以及较好的光照、表情、人脸朝向鲁棒性,并且相对于卷积神经网络等深度学习框架具有结构简洁、收敛速度快等优点.Feature extraction is always the key point in image processing as an important step in pattern recognition.Recently,the theory of deep learning has drawn more and more attention from scholars as a new deep feature extraction model.In this paper,a new algorithm of sparse feature extraction will be proposed based on multi-layered deep metric subspace learning.This algorithm can hierarchically map images through metric matrix.It also can maximize inter-class variations.Mter the mapping,this algorithm guarantees the sparsity of extracted result by the sparse iteration.First of all,it is necessary to build the function for image distance measurement.After that,the optimal metric matrix should be calculated by maximizing inter-class variations.At the same time,feature mapping results should be iterated through L1 Norm Sparse to in prove the noise robustness.Then,the unit of basic characteristics will be reformed according to the principle of deep subspace.In the second layer,the same operations will happen as well.In the end,sparse feature extraction model will be accomplished based on multi-layered deep metric subspace learning.Comparing with the existing subspace model,this paper introduces the mechanism of metric self-learning in the process of feature mapping.Meanwhile,every feature layer will be added visually pleasing sparse constraint to generate the result of feature extracted.The experimental results on face database of FERET、AR、Yale and target database of MNIST、CIFAR-10 show that this feature extraction model can achieve high recognition rate,robustness for illumination,expression and pose.Additionally,the introduced algorithm has more clear structure and faster convergent rate than deep learning theory of convolutional neural networks or the others.",
+      "author": "胡正平",
+      "keywords": "深度学习,<mark class=highlight>度量学习</mark>,多层融合,稀疏优化,deep <mark class=highlight>learning</mark>,<mark class=highlight>metric</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-06-25",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_jsjyyyrj201704044",
+      "title": "基于<mark class=highlight>度量学习</mark>的服装图像分类和检索",
+      "summary": "<mark class=highlight>learning</mark> is proposed, in which the <mark class=highlight>metric</mark>",
+      "summaryAll": "在服装图像分类和检索问题上,由于服装花纹样式的多样性和图像中不同环境背景的影响,普通卷积神经网络的辨识能力有限.针对这种情况,提出一种基于度量学习的卷积神经网络方法,其中度量学习基于triplet loss实现,由此该网络有参考样本、正样本和负样本共三个输入.通过度量学习可以减小同类别特征间距,增大不同类别特征间距,从而达到细分类的目的.此外把不同背景环境下的图像作为正样本输入训练网络以提高抗干扰能力.在服装检索问题上,提出融合卷积层特征和全连接层特征的精细检索方法.实验结果表明,度量学习的引入可以增强网络的特征提取能力,提高分类准确性,而基于融合特征的检索可以保证结果的精确性.On the problem of clothing image classification and retrieval, the general convolutional neural network has limited ability to identify because of diverse patterns and different backgrounds in image.To solve this problem, a convolution neural network method based on metric learning is proposed, in which the metric learning is based on the triplet loss, and the network has three inputs: the reference sample, the positive sample and the negative sample.By means of metric learning, it is possible to reduce the intra-class feature distance and increase the inter-class feature distance, so as to achieve the fine-grained classification.In addition, the images in different backgrounds are input into the training network as positive samples to improve the anti-interference ability.On the problem of clothing retrieval, a fine-grained retrieval method is proposed, which combines features of convolutional layers and fully-connected layers.The experimental results show that the introduction of metric learning can enhance the feature extraction ability of the network and improve the accuracy of classification, and the retrieval based on combined features can ensure the accuracy of the results.",
+      "author": "包青平",
+      "keywords": ",Retrieval,Multi-label,<mark class=highlight>Metric</mark> <mark class=highlight>learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-04-12",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    },
+    {
+      "id": "Periodical_zgtxtxxb-a201704007",
+      "title": "整合全局—局部<mark class=highlight>度量学习</mark>的人体目标再识别",
+      "summary": "<mark class=highlight>learning</mark> and combines global <mark class=highlight>metric</mark> <mark class=highlight>learning</mark>",
+      "summaryAll": "目的 人体目标再识别的任务是匹配不同摄像机在不同时间、地点拍摄的人体目标.受光照条件、背景、遮挡、视角和姿态等因素影响,不同摄相机下的同一目标表观差异较大.目前研究主要集中在特征表示和度量学习两方面.很多度量学习方法在人体目标再识别问题上了取得了较好的效果,但对于多样化的数据集,单一的全局度量很难适应差异化的特征.对此,有研究者提出了局部度量学习,但这些方法通常需要求解复杂的凸优化问题,计算繁琐.方法 利用局部度量学习思想,结合近几年提出的XQDA (cross-view quadratic discriminant analysis)和MLAPG (metric learning by accelerated proximal gradient)等全局度量学习方法,提出了一种整合全局和局部度量学习框架.利用高斯混合模型对训练样本进行聚类,在每个聚类内分别进行局部度量学习;同时在全部训练样本集上进行全局度量学习.对于测试样本,根据样本在高斯混合模型各个成分下的后验概率将局部和全局度量矩阵加权结合,作为衡量相似性的依据.特别地,对于MLAPG算法,利用样本在各个高斯成分下的后验概率,改进目标损失函数中不同样本的损失权重,进一步提高该方法的性能.结果 在VIPeR、PRID 450S和QMUL GRID数据集上的实验结果验证了提出的整合全局—局部度量学习方法的有效性.相比于XQDA和MLAPG等全局方法,在VI-PeR数据集上的匹配准确率提高2.0％左右,在其他数据集上的性能也有不同程度的提高.另外,利用不同的特征表示对提出的方法进行实验验证,相比于全局方法,匹配准确率提高1.3％～3.4％左右.结论 有效地整合了全局和局部度量学习方法,既能对多种全局度量学习算法的性能做出改进,又能避免局部度量学习算法复杂的计算过程.实验结果表明,对于使用不同的特征表示,提出的整合全局—局部度量学习框架均可对全局度量学习方法做出改进.Objective The task in person re-identification is to match snapshots of people from non-overlapping camera views at different times and places.Intra-class images from different cameras show varying appearances due to variations in illumination,background,occlusion,viewpoint,and pose.Feature representation and metric learning are two major research directions in person re-identification.On the one hand,some studies focus on feature descriptors,which are discriminative for different classes and robust against intra-class variations.On the other hand,numerous metric learning algorithms have achieved good performance in person re-identification.The comparison of all the samples with a single global metric is inappropriate for handling heterogeneous data.Several researchers have proposed local metric learning.However,these methods generally require complicated computations to solve convex optimization problems.Method To improve the performance of metric learning algorithms and avoid complex computation,this study applies the concept of local metric learning and combines global metric learning algorithms,such as cross-view quadratic discriminant analysis (XQDA) and metric learning by accelerated proximal gradient (MLAPG).In the training stage,all the samples are softly partitioned into several clusters using the Gaussian mixture model (GMM).Local metrics are learned on each cluster using metric learning methods,such as XQDA and MLAPG.Meanwhile,a global metric is also learned for the entire training set.In the testing stage,the posterior probabilities of the testing samples that are aligned to each GMM component are computed.For each pair of samples,the local metrics weighted by their posterior probabilities of GMM components and the global metric weighted by a cross-validated parameter are integrated into the final metric for similarity evaluation.In this manner,we use different metrics to measure various pairs of samples,which is more suitable for heterogeneous data sets.In particular,we also propose an effective local metric learning strategy for MLAPG by modifying the weights of the loss values of the sample pairs in the loss function with the posterior probabilities of the samples aligned to each GMM component.Result We conduct experiments on three challenging data sets of person re-identification (i.e.,VIPeR,PRID 450S,and QMUL GRID).Experimental results show that the proposed approach achieves better performance compared with traditional global metric learning methods.It performs significantly better on the VIPeR data set,providing more complex variations of backgrounds and clothes than on the other data sets,thereby improving matching accuracy by approximately 2.0％.In addition,we also conduct experiments on different types of feature representations for person re-identification to verify the generalized effectiveness of the proposed method.The matching accuracy is improved by approximately 1.3％ to 3.4％ with different feature descriptors.This result shows that the proposed approach can improve performance regardless of which feature descriptor is used.Conclusion We propose a novel framework for integrating global and local metric learning methods by taking advantages of both metric learning approaches.Numerous recent global metric learning approaches can be integrated into the proposed framework to obtain improved performance in the person re-identification problem.Compared with certain local metric learning approaches,the proposed framework integrates global metric learning methods flexibly and effectively.It doesn't require complicated computation unlike other local metric learning approaches.Moreover,the proposed metric learning framework can be applied to many feature representation approaches.",
+      "author": "张晶",
+      "keywords": "person re-identification,<mark class=highlight>metric</mark> <mark class=highlight>learning</mark>",
+      "citedIndex": 0,
+      "publishDate": "2017-04-11",
+      "subject": "",
+      "sourceDB": "",
+      "journals": null,
+      "categoryNo": null,
+      "fundProject": null
+    }
+  ],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": [
+    {
+      "id": "15",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第4部分：指纹图像数据",
+      "nameEN": "Information technology―Biometric data interchange formats―Part 4: Finger image data",
+      "standardNo": "GB/T 26237.4-2014",
+      "categoryNoCN": "L;L71,电子元器件与信息技术，信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本部分规定了一个用来从一个或多个符合ISO/IEC 19785-1 CBEFF数据结构",
+      "summaryAll": "本部分规定了一个用来从一个或多个符合ISO/IEC 19785-1 CBEFF数据结构的 指/掌纹图像区域进行存储、记录和传输信息的数据记录交换格式，可用来进行指纹图像数据的交换和比较。本部分定义了可用于个体认证和鉴定的指纹图像数据交换的测量内容、格式和单位。该信息由 一些必选项和可选项构成，包括扫描参数、压缩或未压缩图像以及供方规定的信息，且可以在使用自动 设备和系统进行基于指纹图像区域进行鉴定和认证的组织之间进行交换9按照本部分进行编译和格式化的信息可在机读媒介上记录或使用数据通信设施进行传输。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-12-05",
+      "implementDate": "2015-05-01"
+    },
+    {
+      "id": "16",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第5部分：人脸图像数据",
+      "nameEN": "Information technology-Biometric data interchange formats- Part 5:Face image data",
+      "standardNo": "GB/T 26237.5-2014",
+      "categoryNoCN": "L;L70,电子元器件与信息技术，信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本部分: 一一规定了一张/多张相片和人脸图像短视频流的存储、记录和传输的数据格式。规定",
+      "summaryAll": "本部分: 一一规定了一张/多张相片和人脸图像短视频流的存储、记录和传输的数据格式。规定了人脸图像拍摄时的场景约束; 一一规定了人脸图像的拍摄方法; 规定了数字人脸图像的存储格式; 提供了人脸图像拍摄的最佳范例。 本部分适用于人脸图像数据的记录、存储和传输。 ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-12-05",
+      "implementDate": "2015-05-01"
+    },
+    {
+      "id": "17",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第6部分：虹膜图像数据",
+      "nameEN": "Information technology—Biometric data interchange formats—Part 6: Iris image data",
+      "standardNo": "GB/T 26237.6-2014",
+      "categoryNoCN": "L;L71,电子元器件与信息技术, 信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求",
+      "summaryAll": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求，工业机器人和工业机器人系统已在GB 11291.1中定义。集成包括以下方面： a) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废； b) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废的必要条件； c) 工业机器人系统或单元的部件设备。 本部分描述了与这些系统有关的基本危险和危险情况，并提出了消除和充分降低与这些危险相关的风险要求。虽然噪声波定为是工业机器人的一种主要危险，但是本部分不予考虑。本部\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0005\u0000\u0000\u0000\u0000舴凌\u0000\u0000\u0000\u0000\u0000\u0000￾￿凔￿￿￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-12-05",
+      "implementDate": "2015-05-01"
+    },
+    {
+      "id": "19",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第8部分：指纹型骨架数据",
+      "nameEN": "Information technology―Biometric data interchange formats―Part 8: Finger pattern skeletal data",
+      "standardNo": "GB/T 26237.8-2014",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本部分规定了基于指纹型骨架模式的指纹识别数据交换格式，适用于自动指纹识别的各种应用领域",
+      "summaryAll": "本部分规定了基于指纹型骨架模式的指纹识别数据交换格式，适用于自动指纹识别的各种应用领域。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-09-03",
+      "implementDate": "2015-02-01"
+    },
+    {
+      "id": "20",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第9部分：血管图像数据",
+      "nameEN": "Information technology―Biometric data interchange formats―Part 9: Vascular image data",
+      "standardNo": "GB/T 26237.9-2014",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.020",
+      "summary": "本部分规定的信息交换格式可以记录在机器可读的媒体上，也可以在数据通信设备上进行传输。",
+      "summaryAll": "本部分规定的信息交换格式可以记录在机器可读的媒体上，也可以在数据通信设备上进行传输。 ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-07-08",
+      "implementDate": "2014-12-01"
+    },
+    {
+      "id": "1",
+      "nameCN": "机器人与机器人装备 工业机器人的安全要求 第2部分：机器人系统与集成",
+      "nameEN": "Robots and robotic devices―Safety requirements for industrial robots―Part 2: Robot systems and integration",
+      "standardNo": "GB 11291.2-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求",
+      "summaryAll": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求，工业机器人和工业机器人系统已在GB 11291.1中定义。集成包括以下方面： a) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废； b) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废的必要条件； c) 工业机器人系统或单元的部件设备。 本部分描述了与这些系统有关的基本危险和危险情况，并提出了消除和充分降低与这些危险相关的风险要求。虽然噪声波定为是工业机器人的一种主要危险，但是本部分不予考虑。本部分也规定了对作为集成制造系统的部分的工业机器人系统的要求。本部分不专门涉及关于加工过程中的危险（如激光辐射、弹出碎片、焊接烟雾）其他标准适用于这些加工过程中的危险。",
+      "draftUnit": "",
+      "mandatoryStandard": "是",
+      "status": "现行",
+      "publishDate": "2013-12-17",
+      "implementDate": "2014-11-01"
+    },
+    {
+      "id": "11",
+      "nameCN": "健康信息学 电子健康记录体系架构需求",
+      "nameEN": "Health informatics - Requirements for an electronic health record architecture",
+      "standardNo": "GB/T 24466-2009",
+      "categoryNoCN": "C;C07,医药、卫生、劳动保护,医药、卫生、劳动保护综合",
+      "categoryNoIN": "35;35.240.80",
+      "summary": "本标准给出了电子健康记录体系架构(EHRA)的临床需求和技术需求集合，用于支持跨部门、",
+      "summaryAll": "本标准给出了电子健康记录体系架构(EHRA)的临床需求和技术需求集合，用于支持跨部门、跨国家和跨医疗保健服务模型使用、共享和交换电子健康记录。本标准给出了体系架构需求而不是体系架构本身。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2009-10-15",
+      "implementDate": "2009-12-01"
+    },
+    {
+      "id": "4",
+      "nameCN": "technolgy—Vocabulary—Part 31:Artificial intelligence—Machine <mark class=highlight>learning</mark>",
+      "nameEN": "Information technolgy—Vocabulary—Part 31:Artificial intelligence—Machine learning",
+      "standardNo": "GB/T 5271.31-2006",
+      "categoryNoCN": "L;L60,电子元器件与信息技术,计算机",
+      "categoryNoIN": "35;35.240.20",
+      "summary": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　为方便将此标准翻译成其他语言，给出的定义尽可能避免语言上的特殊性。　　本部分定义了有关人工智能中机器学习的概念。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2006-03-14",
+      "implementDate": "2006-07-01"
+    }
+  ]
+}

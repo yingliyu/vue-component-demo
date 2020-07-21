@@ -1,0 +1,1079 @@
+{
+  "expertVO": {
+    "id": 715311,
+    "name": "周志华",
+    "headImg": "/img/expert_logo/2019-03/2019-03-21-13-48-56__b194d586-5ae6-449d-95a4-e7d184f98423.jpg",
+    "institution": "Nanjing University",
+    "subjectArea": "计算机科学",
+    "country": "中国",
+    "totalIssues": 423,
+    "totalCitations": 18722,
+    "top1Citations": 0.085106,
+    "number1": 36,
+    "top10Citations": 0.43026,
+    "number10": 182,
+    "hIndex": 66,
+    "journalSend": null,
+    "subjectMatch": null,
+    "citedSituation": null,
+    "fwciinedx": 3.602,
+    "layoutList": [
+      "1973年11月20日－ ，中国计算机科学家，南京大学教授，主要从事机器学习、数据挖掘、人工智能等领域的研究。",
+      "他是国际工程技术学会（IET）会士（2010年）、电气电子工程师学会（IEEE）会士（2012年）、国际模式识别学会（IAPR）会士（2012年）、中国计算机学会（CCF）会士（2013年）、美国人工智能协会（AAAI）会士（2016年）、美国科学促进会（AAAS）会士（2016年）、美国计算机学会（ACM）会士（2016年）、欧洲科学院院士（2017年）。"
+    ]
+  },
+  "mapVO": {
+    "nodes":[
+      {"code":"0","name":"周志华","type":"expert","level":"1","colorIdx":"0"},
+      {"code":"1","name":"荣誉","type":"honor","level":"2","colorIdx":"5"},
+      {"code":"2","name":"机构","type":"org","level":"2","colorIdx":"6"},
+      {"code":"3","name":"监督学习","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"4","name":"强化学习","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"5","name":"多实例学习","type":"keyword","level":"2","colorIdx":"3"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      
+      ],
+    "expertReco": [
+      {
+        "id": 1918347,
+        "name": "Pierre F. Baldi",
+        "headImg": "/img/expert_logo/2019-05/2019-05-05-09-57-55__1964d92b-fd31-450d-bcf2-55df57ec6e06.jpg",
+        "institution": "UC Irvine",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 2024560,
+        "name": "杨强",
+        "headImg": "/img/supplement/2024560.jpg",
+        "institution": "Hong Kong University of Science and Technology",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 8526,
+        "name": "颜水成",
+        "headImg": "/img/expert_logo/2019-03/2019-03-19-10-12-43__c6c48347-d481-4f11-9385-79f495de8785.jpg",
+        "institution": "National University of Singapore",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": [
+      "Hong Kong University of Science and Technology",
+      "National Laboratory for Novel Software Technology",
+      "Tianjin University"
+    ]
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 1,
+        "code": 0,
+        "name": "周志华",
+        "type": "expert",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "荣誉",
+        "type": "honor",
+        "level": 2,
+        "colorIdx": 5,
+        "keyword": "周志华",
+        "layout": "2019年 IEEE计算机学会Edward J. McCluskey技术成就奖/2017年 欧洲科学院 外籍会员/2017年 IEEE计算智能杂志 2017杰出论文奖/2016年 ACM 研究员/2016年 IEEE ICDM 杰出服务奖/2016年 AAAS 研究员/2016年 PAKDD 杰出贡献奖/2016年 AAAI 研究员/2013年 ACM杰出科学家/2013年 IEEE计算智能协会 杰出早期职业奖/2013年 IEEE 院士/2012年 IAPR 研究员/2012年 PAKDD 2012数据挖掘竞赛大奖获得者团队负责人/2010年 IET IEE 研究员/2009年 ISIBM 杰出成就奖/模式识别杂志 2006 - 2010年被引用最多的文章",
+        "layoutList": [
+          "2019年 IEEE计算机学会Edward J. McCluskey技术成就奖",
+          "2017年 欧洲科学院 外籍会员",
+          "2017年 IEEE计算智能杂志 2017杰出论文奖",
+          "2016年 ACM 研究员",
+          "2016年 IEEE ICDM 杰出服务奖",
+          "2016年 AAAS 研究员",
+          "2016年 PAKDD 杰出贡献奖",
+          "2016年 AAAI 研究员",
+          "2013年 ACM杰出科学家",
+          "2013年 IEEE计算智能协会 杰出早期职业奖",
+          "2013年 IEEE 院士",
+          "2012年 IAPR 研究员",
+          "2012年 PAKDD 2012数据挖掘竞赛大奖获得者团队负责人",
+          "2010年 IET IEE 研究员",
+          "2009年 ISIBM 杰出成就奖",
+          "模式识别杂志 2006 - 2010年被引用最多的文章"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "组织",
+        "type": "org",
+        "level": 2,
+        "colorIdx": 6,
+        "keyword": "周志华",
+        "layout": "南京大学",
+        "layoutList": [
+          "南京大学"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "半监督学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": "半监督学习(Semi-Supervised Learning，SSL)是模式识别和机器学习领域研究的重点问题，是监督学习与无监督学习相结合的一种学习方法。半监督学习使用大量的未标记数据，以及同时使用标记数据，来进行模式识别工作。当使用半监督学习时，将会要求尽量少的人员来从事工作，同时，又能够带来比较高的准确性，因此，半监督学习目前正越来越受到人们的重视。",
+        "layoutList": [
+          "半监督学习(Semi-Supervised Learning，SSL)是模式识别和机器学习领域研究的重点问题，是监督学习与无监督学习相结合的一种学习方法。半监督学习使用大量的未标记数据，以及同时使用标记数据，来进行模式识别工作。当使用半监督学习时，将会要求尽量少的人员来从事工作，同时，又能够带来比较高的准确性，因此，半监督学习目前正越来越受到人们的重视。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": "Learning From Semi-Supervised Weak-Label Data./Tri-net for Semi-Supervised Deep Learning. /Learning Safe Prediction for Semi-Supervised Regression./Reliable Weakly Supervised Learning: Maximize Gain and Maintain Safeness./Towards Safe Semi-Supervised Learning for Multivariate Performance Measures./New Semi-Supervised Classification Method Based on Modified Cluster Assumption./Semi-supervised learning by disagreement.",
+        "layoutList": [
+          "Learning From Semi-Supervised Weak-Label Data.",
+          "Tri-net for Semi-Supervised Deep Learning. ",
+          "Learning Safe Prediction for Semi-Supervised Regression.",
+          "Reliable Weakly Supervised Learning: Maximize Gain and Maintain Safeness.",
+          "Towards Safe Semi-Supervised Learning for Multivariate Performance Measures.",
+          "New Semi-Supervised Classification Method Based on Modified Cluster Assumption.",
+          "Semi-supervised learning by disagreement."
+        ]
+      },
+      {
+        "id": 6,
+        "code": 6,
+        "name": "李宇峰",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": "周志华教授领导的 LAMDA实验室的一名教师。2006年6月和2013年6月分别获得了南京大学计算机科学学士学位和博士学位。",
+        "layoutList": [
+          "周志华教授领导的 LAMDA实验室的一名教师。2006年6月和2013年6月分别获得了南京大学计算机科学学士学位和博士学位。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 7,
+        "name": "周博文",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": "目前在墨尔本大学攻读博士学位。导师是Rajkumar Buyya教授。",
+        "layoutList": [
+          "目前在墨尔本大学攻读博士学位。导师是Rajkumar Buyya教授。"
+        ]
+      },
+      {
+        "id": 8,
+        "code": 8,
+        "name": "支持向量机",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 9,
+        "name": "半监督学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 10,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 11,
+        "name": "自然语言处理",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 12,
+        "name": "Ivor W. Tsang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 13,
+        "name": "James T. Kwok",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 14,
+        "name": "Hai Wang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 15,
+        "name": "Wei Tong",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 16,
+        "name": "Jing Huang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 17,
+        "name": "Xiaodong He",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 18,
+        "name": "Lidan Wang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 19,
+        "name": "Minwei Feng",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 20,
+        "code": 20,
+        "name": "强化学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": "强化学习（Reinforcement Learning, RL），又称再励学习、评价学习或增强学习，是机器学习的范式和方法论之一，用于描述和解决智能体（agent）在与环境的交互过程中通过学习策略以达成回报最大化或实现特定目标的问题。",
+        "layoutList": [
+          "强化学习（Reinforcement Learning, RL），又称再励学习、评价学习或增强学习，是机器学习的范式和方法论之一，用于描述和解决智能体（agent）在与环境的交互过程中通过学习策略以达成回报最大化或实现特定目标的问题。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 21,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": "Reinforcement Learning Experience Reuse with Policy Residual./Dual Set Multi-Label Learning./Dynamic Regret of Strongly Adaptive Methods.",
+        "layoutList": [
+          "Reinforcement Learning Experience Reuse with Policy Residual.",
+          "Dual Set Multi-Label Learning.",
+          "Dynamic Regret of Strongly Adaptive Methods."
+        ]
+      },
+      {
+        "id": 22,
+        "code": 23,
+        "name": "俞扬",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": "博士，南京大学副教授，博士生导师。主要研究领域为人工智能、机器学习、强化学习。分别于2004年和2011年获得南京大学计算机科学与技术系学士学位和博士学位。2011年8月加入南京大学计算机科学与技术系、机器学习与数据挖掘研究所（LAMDA）从事教学与科研工作。",
+        "layoutList": [
+          "博士，南京大学副教授，博士生导师。主要研究领域为人工智能、机器学习、强化学习。分别于2004年和2011年获得南京大学计算机科学与技术系学士学位和博士学位。2011年8月加入南京大学计算机科学与技术系、机器学习与数据挖掘研究所（LAMDA）从事教学与科研工作。"
+        ]
+      },
+      {
+        "id": 23,
+        "code": 24,
+        "name": "赵谦",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": "西安交通大学  数学与统计学院  信息科学系副教授，2009年在西安交大获得学士学位，之后在Zongben Xu教授下获得西安交通大学数学与统计学院博士学位。",
+        "layoutList": [
+          "西安交通大学  数学与统计学院  信息科学系副教授，2009年在西安交大获得学士学位，之后在Zongben Xu教授下获得西安交通大学数学与统计学院博士学位。"
+        ]
+      },
+      {
+        "id": 24,
+        "code": 25,
+        "name": "参数优化",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 26,
+        "name": "演化计算",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 27,
+        "name": "演化计算",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 28,
+        "name": "推荐系统",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 29,
+        "name": "Yi-Qi Hu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 30,
+        "name": "Jun-Da Liao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 31,
+        "name": "Ke Tang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 32,
+        "name": "Yaochu Jin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 33,
+        "name": "Jing-Cheng Shi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 34,
+        "name": "Chao Bian",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 34,
+        "code": 35,
+        "name": "Bingdong Li",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 35,
+        "code": 36,
+        "name": "Xin Yao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 37,
+        "name": "多实例学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": "在机器学习中，多示例学习(Multiple Instance Learning 简称 MIL)是由监督型学习算法演变出的一种方法，定义“包”为多个示例的集合，具有广泛的应用。学习者不是接收一组单独标记的实例，而是接收一组带标签的包，每个包含许多实例。在多实例二进制分类的简单情况下，如果包中的所有实例都是否定的，则可以将包标记为否定。另一方面，如果袋子中至少有一个是正面的，则袋子被标记为阳性。",
+        "layoutList": [
+          "在机器学习中，多示例学习(Multiple Instance Learning 简称 MIL)是由监督型学习算法演变出的一种方法，定义“包”为多个示例的集合，具有广泛的应用。学习者不是接收一组单独标记的实例，而是接收一组带标签的包，每个包含许多实例。在多实例二进制分类的简单情况下，如果包中的所有实例都是否定的，则可以将包标记为否定。另一方面，如果袋子中至少有一个是正面的，则袋子被标记为阳性。"
+        ]
+      },
+      {
+        "id": 37,
+        "code": 38,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": "Scalable Algorithms for Multi-Instance Learning./Discover Multiple Novel Labels in Multi-Instance Multi-Label Learning./Multi-Instance Learning with Key Instance Shift./An empirical study on image bag generators for multi-instance learning./Fast Multi-Instance Multi-Label Learning./Learning with Augmented Multi-Instance View./Scalable Multi-instance Learning.",
+        "layoutList": [
+          "Scalable Algorithms for Multi-Instance Learning.",
+          "Discover Multiple Novel Labels in Multi-Instance Multi-Label Learning.",
+          "Multi-Instance Learning with Key Instance Shift.",
+          "An empirical study on image bag generators for multi-instance learning.",
+          "Fast Multi-Instance Multi-Label Learning.",
+          "Learning with Augmented Multi-Instance View.",
+          "Scalable Multi-instance Learning."
+        ]
+      },
+      {
+        "id": 38,
+        "code": 40,
+        "name": "Jiang Yuan",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": "南京大学计算机科学与技术系，新型软件技术国家重点实验室教授。研究方向机器学习和数据挖掘。",
+        "layoutList": [
+          "南京大学计算机科学与技术系，新型软件技术国家重点实验室教授。研究方向机器学习和数据挖掘。"
+        ]
+      },
+      {
+        "id": 39,
+        "code": 41,
+        "name": "Kai Ming Ting",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": "1996年悉尼大学计算机科学系博士 2004年莫纳什大学博士后方向为隔离内核、质量估计和基于质量的方法、整体方法、数据挖掘、机器学习",
+        "layoutList": [
+          "1996年悉尼大学计算机科学系博士 2004年莫纳什大学博士后方向为隔离内核、质量估计和基于质量的方法、整体方法、数据挖掘、机器学习"
+        ]
+      },
+      {
+        "id": 40,
+        "code": 42,
+        "name": "多标签学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 43,
+        "name": "推荐系统",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 44,
+        "name": "聚类",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 45,
+        "name": "贝叶斯",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 46,
+        "name": "Nitesh V. Chawla",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 47,
+        "name": "Shao-Yuan Li",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 48,
+        "name": "Shaowu Liu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 49,
+        "name": "Gang Li",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 48,
+        "code": 50,
+        "name": "Xiaoyu Qin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 49,
+        "code": 51,
+        "name": "Ye Zhu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 52,
+        "name": "Zijian Zheng",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 53,
+        "name": "Geoffrey I. Webb",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "周志华",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 19,
+        "source": 0,
+        "target": 20
+      },
+      {
+        "id": 35,
+        "source": 0,
+        "target": 37
+      },
+      {
+        "id": 4,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 3,
+        "target": 6
+      },
+      {
+        "id": 6,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "id": 7,
+        "source": 6,
+        "target": 8
+      },
+      {
+        "id": 8,
+        "source": 6,
+        "target": 9
+      },
+      {
+        "id": 9,
+        "source": 7,
+        "target": 10
+      },
+      {
+        "id": 10,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "id": 11,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "id": 12,
+        "source": 8,
+        "target": 13
+      },
+      {
+        "id": 13,
+        "source": 9,
+        "target": 14
+      },
+      {
+        "id": 14,
+        "source": 9,
+        "target": 15
+      },
+      {
+        "id": 15,
+        "source": 10,
+        "target": 16
+      },
+      {
+        "id": 16,
+        "source": 10,
+        "target": 17
+      },
+      {
+        "id": 17,
+        "source": 11,
+        "target": 18
+      },
+      {
+        "id": 18,
+        "source": 11,
+        "target": 19
+      },
+      {
+        "id": 20,
+        "source": 20,
+        "target": 21
+      },
+      {
+        "id": 21,
+        "source": 20,
+        "target": 23
+      },
+      {
+        "id": 22,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 23,
+        "source": 23,
+        "target": 25
+      },
+      {
+        "id": 24,
+        "source": 23,
+        "target": 26
+      },
+      {
+        "id": 25,
+        "source": 24,
+        "target": 27
+      },
+      {
+        "id": 26,
+        "source": 24,
+        "target": 28
+      },
+      {
+        "id": 27,
+        "source": 25,
+        "target": 29
+      },
+      {
+        "id": 28,
+        "source": 25,
+        "target": 30
+      },
+      {
+        "id": 29,
+        "source": 26,
+        "target": 31
+      },
+      {
+        "id": 30,
+        "source": 26,
+        "target": 32
+      },
+      {
+        "id": 31,
+        "source": 27,
+        "target": 33
+      },
+      {
+        "id": 32,
+        "source": 27,
+        "target": 34
+      },
+      {
+        "id": 33,
+        "source": 28,
+        "target": 35
+      },
+      {
+        "id": 34,
+        "source": 28,
+        "target": 36
+      },
+      {
+        "id": 36,
+        "source": 37,
+        "target": 38
+      },
+      {
+        "id": 37,
+        "source": 37,
+        "target": 40
+      },
+      {
+        "id": 38,
+        "source": 37,
+        "target": 41
+      },
+      {
+        "id": 39,
+        "source": 40,
+        "target": 42
+      },
+      {
+        "id": 40,
+        "source": 40,
+        "target": 43
+      },
+      {
+        "id": 41,
+        "source": 41,
+        "target": 44
+      },
+      {
+        "id": 42,
+        "source": 41,
+        "target": 45
+      },
+      {
+        "id": 43,
+        "source": 42,
+        "target": 46
+      },
+      {
+        "id": 44,
+        "source": 42,
+        "target": 47
+      },
+      {
+        "id": 45,
+        "source": 43,
+        "target": 48
+      },
+      {
+        "id": 46,
+        "source": 43,
+        "target": 49
+      },
+      {
+        "id": 47,
+        "source": 44,
+        "target": 50
+      },
+      {
+        "id": 48,
+        "source": 44,
+        "target": 51
+      },
+      {
+        "id": 49,
+        "source": 45,
+        "target": 52
+      },
+      {
+        "id": 50,
+        "source": 45,
+        "target": 53
+      }
+    ]
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "Towards Safe Weakly Supervised Learning",
+		"author": "YuFeng Li, Lan-Zhe Guo, Zhihua Zhou",
+		"publishDate": "2019",
+		"summaryAll": "In this paper, we study weakly supervised learning where a large amount of label information is not accessible. This includes incomplete supervision such as semi-supervised learning and domain adaptation; inexact supervision, such as multi-instance learning and inaccurate supervision, such as label noise learning. Unlike supervised learning, weakly supervised learning, however, may sometimes even degenerate performance. Such deficiency definitely hinders the deployment of weakly supervised learning to real applications. For this reason, it is desired to study safe weakly supervised learning. In this paper we present a generic ensemble learning scheme to derive the safe prediction. We consider optimizing the worst-case performance gain which leads to a maximin optimization. Our resultant formulation brings multiple advantages. Firstly, for many commonly used convex loss functions in classification and regression tasks, our formulation is guaranteed to derive a safe prediction under a mild condition. Secondly, prior knowledge related to the weight of the base weakly supervised learners can be flexibly embedded. Thirdly, our formulation can be globally and efficiently addressed. Finally, it is in an intuitive geometric interpretation. Extensive experiments on multiple weakly supervised learning tasks clearly demonstrate the effectiveness of our proposal algorithms."
+	},
+	{
+		"title": "Learning from Incomplete and Inaccurate Supervision",
+		"author": "Zhen-Yu Zhang, Peng Zhao, Yuan Jiang, Zhihua Zhou",
+		"publishDate": "2019",
+		"summaryAll": "In plenty of real-life tasks, strongly supervised information is hard to obtain, such that there is not sufficient high-quality supervision to make traditional learning approaches succeed. Therefore, weakly supervised learning has drawn considerable attention recently. In this paper, we consider the problem of learning from incomplete and inaccurate supervision, where only a limited subset of training data is labeled but potentially with noise. This setting is challenging and of great importance but rarely studied in the literature. We notice that in many applications, the limited labeled data are usually with one-sided noise. For instance, considering the bug detection task in the software system, the identified buggy codes are indeed with defects whereas the codes that have been checked many times or newly fixed may still have other flaws due to the complexity of the system. We propose a novel method which is able to effectively alleviate the negative influence of one-sided label noise with the help of a vast number of unlabeled data. Excess risk analysis is provided as theoretical justifications on the usefulness of incomplete and one-sided inaccurate supervision. We conduct experiments on synthetic, benchmark datasets, and real-life tasks to validate the effectiveness of the proposed approach."
+	},
+	{
+		"title": "Isolation Set-Kernel and Its Application to Multi-Instance Learning",
+		"author": "Bi-Cun Xu, Kai Ming Ting, Zhihua Zhou",
+		"publishDate": "2019",
+		"summaryAll": "Set-level problems are as important as instance-level problems. The core in solving set-level problems is: how to measure the similarity between two sets. This paper investigates data-dependent kernels that are derived directly from data. We introduce Isolation Set-Kernel which is solely dependent on data distribution, requiring neither class information nor explicit learning. In contrast, most current set-similarities are not dependent on the underlying data distribution. We theoretically analyze the characteristic of Isolation Set-Kernel. As the set-kernel has a finite feature map, we show that it can be used to speed up the set-kernel computation significantly. We apply Isolation Set-Kernel to Multi-Instance Learning (MIL) using SVM classifier, and demonstrate that it outperforms other set-kernels or other solutions to the MIL problem."
+	},
+	{
+		"title": "Subset Selection by Pareto Optimization",
+		"author": "Chao Qian, Yang Yu, Zhihua Zhou",
+		"publishDate": "2018",
+		"summaryAll": "Selecting the optimal subset from a large set of variables is a fundamental problem in various learning tasks such as feature selection, sparse regression, dictionary learning, etc. In this paper, we propose the POSS approach which employs evolutionary Pareto optimization to find a small-sized subset with good performance. We prove that for sparse regression, POSS is able to achieve the best-so-far theoretically guaranteed approximation performance efficiently. Particularly, for the Exponential Decay subclass, POSS is proven to achieve an optimal solution. Empirical study verifies the theoretical results, and exhibits the superior performance of POSS to greedy and convex relaxation methods."
+	},
+	{
+		"title": "Tunneling Neural Perception and Logic Reasoning through Abductive Learning",
+		"author": "Wang-Zhou Dai, Qiu-Ling Xu, Yang Yu, Zhihua Zhou",
+		"publishDate": "2018",
+		"summaryAll": "Perception and reasoning are basic human abilities that are seamlessly connected as part of human intelligence. However, in current machine learning systems, the perception and reasoning modules are incompatible. Tasks requiring joint perception and reasoning ability are difficult to accomplish autonomously and still demand human intervention. Inspired by the way language experts decoded Mayan scripts by joining two abilities in an abductive manner, this paper proposes the abductive learning framework. The framework learns perception and reasoning simultaneously with the help of a trial-and-error abductive process. We present the Neural-Logical Machine as an implementation of this novel learning framework. We demonstrate that--using human-like abductive learning--the machine learns from a small set of simple hand-written equations and then generalizes well to complex equations, a feat that is beyond the capability of state-of-the-art neural network models. The abductive learning framework explores a new direction for approaching human-level learning ability."
+	},
+	{
+		"title": "Reusable Reinforcement Learning via Shallow Trails",
+		"author": "Yang Yu, Yongshen Shi, Qing Da, Zhihua Zhou",
+		"publishDate": "2018",
+		"summaryAll": "Reinforcement learning has shown great success in helping learning agents accomplish tasks autonomously from environment interactions. Meanwhile in many real-world applications, an agent needs to accomplish not only a fixed task but also a range of tasks. For this goal, an agent can learn a metapolicy over a set of training tasks that are drawn from an underlying distribution. By maximizing the total reward summed over all the training tasks, the metapolicy can then be reused in accomplishing test tasks from the same distribution. However, in practice, we face two major obstacles to train and reuse metapolicies well. First, how to identify tasks that are unrelated or even opposite with each other, in order to avoid their mutual interference in the training. Second, how to characterize task features, according to which a metapolicy can be reused. In this paper, we propose the MetA-Policy LEarning (MAPLE) approach that overcomes the two difficulties by introducing the shallow trail. It probes a task by running a roughly trained policy. Using the rewards of the shallow trail, MAPLE automatically groups similar tasks. Moreover, when the task parameters are unknown, the rewards of the shallow trail also serve as task features. Empirical studies on several controlling tasks verify that MAPLE can train metapolicies well and receives high reward on test tasks."
+	},
+	{
+		"title": "Structural diversity for decision tree ensemble learning",
+		"author": "Tao Sun, Zhihua Zhou",
+		"publishDate": "2018",
+		"summaryAll": "Decision trees are a kind of off-the-shelf predictive models, and they have been successfully used as the base learners in ensemble learning. To construct a strong classifier ensemble, the individual classifiers should be accurate and diverse. However, diversity measure remains a mystery although there were many attempts. We conjecture that a deficiency of previous diversity measures lies in the fact that they consider only behavioral diversity, i.e., how the classifiers behave when making predictions, neglecting the fact that classifiers may be potentially different even when they make the same predictions. Based on this recognition, in this paper, we advocate to consider structural diversity in addition to behavioral diversity, and propose the TMD (tree matching diversity) measure for decision trees. To investigate the usefulness of TMD, we empirically evaluate performances of selective ensemble approaches with decision forests by incorporating different diversity measures. Our results validate that by considering structural and behavioral diversities together, stronger ensembles can be constructed. This may raise a new direction to design better diversity measures and ensemble methods."
+	}
+],
+  "patentVO": [],
+  "bookVO": [
+    {
+      "id": "m.20180122-XRT-GXKX-0442",
+      "title": "新形势下广西北部湾经济区发展研究：与珠三角经济区发展相比较",
+      "author": "<mark class=highlight>周志华</mark>",
+      "summary": "",
+      "summaryAll": "",
+      "publisher": "广西科学技术出版社",
+      "categoryNo": "978-7-5551-0766-8",
+      "publishDate": "2017-07-01",
+      "category": ""
+    },
+    {
+      "id": "m.20181203-HXGY-RXJC-1449",
+      "title": "办公建筑环保低碳评价技术",
+      "author": "陈冠益，<mark class=highlight>周志华</mark>等",
+      "summary": "本书以建筑全寿命周期内减碳为目标，主要介绍了环保低碳建筑的建设背景及意义、国内外建筑环",
+      "summaryAll": "本书以建筑全寿命周期内减碳为目标，主要介绍了环保低碳建筑的建设背景及意义、国内外建筑环保低碳的发展概况、办公建筑环保低碳评价方法、办公建筑环保低碳评价内容、办公建筑环保低碳评价案例，以及办公建筑环保低碳评价技术及政策建议。",
+      "publisher": "化学工业出版社",
+      "categoryNo": "978-7-122-29054-0",
+      "publishDate": "2017-05-01",
+      "category": "工业技术|建筑科学|建筑设计|房屋细部构造设计|特种构造"
+    },
+    {
+      "id": "m.20111108-YPT-889-0057",
+      "title": "凯米斯琦的化学DIY",
+      "author": "龙琪, <mark class=highlight>周志华</mark>",
+      "summary": "本书叙述的内容，全是你渴望知道的有趣的生活常识。化学作为一门基础学科，它的进步不断加深",
+      "summaryAll": "本书叙述的内容，全是你渴望知道的有趣的生活常识。化学作为一门基础学科，它的进步不断加深人类对物质世界的认识，不断提高人类改造物质世界的能力，并不断改善人类的生活。",
+      "publisher": "南京师范大学出版社",
+      "categoryNo": "978-7-5651-0114-4",
+      "publishDate": "2010-04-01",
+      "category": ""
+    },
+    {
+      "id": "7-306-01715-2",
+      "title": "大学英语六级考试词汇速成",
+      "author": "<mark class=highlight>周志华</mark> ... [等]",
+      "summary": "",
+      "summaryAll": "",
+      "publisher": "中山大学出版社",
+      "categoryNo": "7-306-01715-2",
+      "publishDate": "2001-01-01",
+      "category": "语言、文字|常用外国语|英语|语义、词汇、词义|基本词汇"
+    }
+  ],
+  "standardVO": []
+}

@@ -1,0 +1,966 @@
+{
+  "expertVO": {
+    "id": 1965672,
+    "name": "William T. Freeman",
+    "headImg": "/img/expert_logo/2018-06/2018-06-25-17-28-22__3ef00c13-e736-473c-ad3c-a264173f420b.jpg",
+    "institution": "Massachusetts Institute of Technology",
+    "subjectArea": "计算机科学",
+    "country": "美国",
+    "totalIssues": 187,
+    "totalCitations": 20533,
+    "top1Citations": 0.251337,
+    "number1": 47,
+    "top10Citations": 0.604278,
+    "number10": 113,
+    "hIndex": 62,
+    "journalSend": null,
+    "subjectMatch": null,
+    "citedSituation": null,
+    "fwciinedx": 7.207,
+    "layoutList": [
+      "麻省理工学院电气工程和计算机科学系，计算机科学和人工智能实验室（CSAIL）的成员。他曾在2011年至2014年担任副部门主管。",
+      "他目前的研究兴趣包括应用于计算机视觉的机器学习，视觉感知的贝叶斯模型和计算摄影。",
+      "他在1997年，2006年，2009年和2012年的计算机视觉或机器学习会议上获得了杰出论文奖，并在1990年，1995年和2005年的论文中获得了时间测试奖。以前的研究主题包括可控滤波器和金字塔，方向直方图，通用视点假设，色彩恒定性，用于计算机游戏的计算机视觉以及带有循环的网络信号传播。"
+    ]
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"William T. Freeman","type":"expert","level":"1","colorIdx":"0"},
+      {"code":"1","name":"荣誉","type":"honor","level":"2","colorIdx":"5"},
+      {"code":"2","name":"机构","type":"org","level":"2","colorIdx":"6"},
+      {"code":"3","name":"计算机视觉","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"4","name":"神经网络","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"5","name":"对抗网络","type":"keyword","level":"2","colorIdx":"3"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      ],
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 51,
+        "code": 53,
+        "name": "Aditya Khosla",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "William T. Freeman",
+        "type": "expert",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "荣誉",
+        "type": "honor",
+        "level": 2,
+        "colorIdx": 5,
+        "keyword": "William",
+        "layout": "2013 CVPR项目联席主席/2012 杰出论文奖/2009 杰出论文奖/2006 杰出论文奖/2005 ICCV项目联席主席/2005 论文测试奖/1997 杰出论文奖/1995 论文测试奖/1990 论文测试奖",
+        "layoutList": [
+          "2013 CVPR项目联席主席",
+          "2012 杰出论文奖",
+          "2009 杰出论文奖",
+          "2006 杰出论文奖",
+          "2005 ICCV项目联席主席",
+          "2005 论文测试奖",
+          "1997 杰出论文奖",
+          "1995 论文测试奖",
+          "1990 论文测试奖"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "组织",
+        "type": "org",
+        "level": 2,
+        "colorIdx": 6,
+        "keyword": "William",
+        "layout": "麻省理工学院",
+        "layoutList": [
+          "麻省理工学院"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "计算机视觉",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": "计算机视觉是一门研究如何使机器“看”的科学，更进一步的说，就是是指用摄影机和电脑代替人眼对目标进行识别、跟踪和测量等机器视觉，并进一步做图形处理，使电脑处理成为更适合人眼观察或传送给仪器检测的图像。作为一个科学学科，计算机视觉研究相关的理论和技术，试图建立能够从图像或者多维数据中获取‘信息’的人工智能系统。这里所 指的信息指Shannon定义的，可以用来帮助做一个“决定”的信息。因为感知可以看作是从感官信号中提 取信息，所以计算机视觉也可以看作是研究如何使人工系统从图像或多维数据中“感知”的科学。",
+        "layoutList": [
+          "计算机视觉是一门研究如何使机器“看”的科学，更进一步的说，就是是指用摄影机和电脑代替人眼对目标进行识别、跟踪和测量等机器视觉，并进一步做图形处理，使电脑处理成为更适合人眼观察或传送给仪器检测的图像。作为一个科学学科，计算机视觉研究相关的理论和技术，试图建立能够从图像或者多维数据中获取‘信息’的人工智能系统。这里所 指的信息指Shannon定义的，可以用来帮助做一个“决定”的信息。因为感知可以看作是从感官信号中提 取信息，所以计算机视觉也可以看作是研究如何使人工系统从图像或多维数据中“感知”的科学。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": "Medical Image Imputation From Image Collections./Learning to Describe Scenes with Programs./Learning Sight from Sound: Ambient Sound Provides Supervision for Visual Learning./3D Shape Perception from Monocular Vision, Touch, and Shape Priors./Learning-based Video Motion Magnification./Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks./Medical Image Imputation from Image Collections.",
+        "layoutList": [
+          "Medical Image Imputation From Image Collections.",
+          "Learning to Describe Scenes with Programs.",
+          "Learning Sight from Sound: Ambient Sound Provides Supervision for Visual Learning.",
+          "3D Shape Perception from Monocular Vision, Touch, and Shape Priors.",
+          "Learning-based Video Motion Magnification.",
+          "Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.",
+          "Medical Image Imputation from Image Collections."
+        ]
+      },
+      {
+        "id": 6,
+        "code": 6,
+        "name": "吴佳俊",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": "麻省理工学院的博士生，导师是比尔·弗里曼和乔什·特南鲍姆。我本科毕业于清华大学，师从朱文图，也曾在微软、Facebook、百度等实验室工作过。我的研究得到了Facebook、英伟达(Nvidia)、三星(Samsung)、百度和Adobe的奖学金支持",
+        "layoutList": [
+          "麻省理工学院的博士生，导师是比尔·弗里曼和乔什·特南鲍姆。我本科毕业于清华大学，师从朱文图，也曾在微软、Facebook、百度等实验室工作过。我的研究得到了Facebook、英伟达(Nvidia)、三星(Samsung)、百度和Adobe的奖学金支持"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 7,
+        "name": "Joshua B. Tenenbaum",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": "Joshua B Tenenbaum是麻省理工学院的认知科学和计算教授。他对数学心理学和贝叶斯认知科学的贡献是已知的。Tenenbaum此前曾在斯坦福大学任教，2010年10月至2011年1月他是Wasow访问学者。",
+        "layoutList": [
+          "Joshua B Tenenbaum是麻省理工学院的认知科学和计算教授。他对数学心理学和贝叶斯认知科学的贡献是已知的。Tenenbaum此前曾在斯坦福大学任教，2010年10月至2011年1月他是Wasow访问学者。"
+        ]
+      },
+      {
+        "id": 8,
+        "code": 8,
+        "name": "立体视觉",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 9,
+        "name": "监督学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 10,
+        "name": "贝叶斯",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 11,
+        "name": "可视化",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 12,
+        "name": "Tianfan Xue",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 13,
+        "name": "Yuandong Tian",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 14,
+        "name": "Pushmeet Kohli",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 15,
+        "name": "Jiayuan Mao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 16,
+        "name": "Noah D. Goodman",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 17,
+        "name": "Michael C. Frank",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 18,
+        "name": "Jun-Yan Zhu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 19,
+        "name": "David Bau",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 20,
+        "code": 20,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": "人工神经网络（Artificial Neural Networks，简写为ANNs）也简称为神经网络（NNs）或称作连接模型（Connection Model），它是一种模仿动物神经网络行为特征，进行分布式并行信息处理的算法数学模型。这种网络依靠系统的复杂程度，通过调整内部大量节点之间相互连接的关系，从而达到处理信息的目的。",
+        "layoutList": [
+          "人工神经网络（Artificial Neural Networks，简写为ANNs）也简称为神经网络（NNs）或称作连接模型（Connection Model），它是一种模仿动物神经网络行为特征，进行分布式并行信息处理的算法数学模型。这种网络依靠系统的复杂程度，通过调整内部大量节点之间相互连接的关系，从而达到处理信息的目的。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 21,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": "Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks./Learning-Based Video Motion Magnification./Visual Object Networks: Image Generation with Disentangled 3D Representations./Single Image 3D Interpreter Network./Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks./Understanding Intra-Class Knowledge Inside CNN./80 Million Tiny Images: A Large Data Set for Nonparametric Object and Scene Recognition.",
+        "layoutList": [
+          "Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks.",
+          "Learning-Based Video Motion Magnification.",
+          "Visual Object Networks: Image Generation with Disentangled 3D Representations.",
+          "Single Image 3D Interpreter Network.",
+          "Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks.",
+          "Understanding Intra-Class Knowledge Inside CNN.",
+          "80 Million Tiny Images: A Large Data Set for Nonparametric Object and Scene Recognition."
+        ]
+      },
+      {
+        "id": 22,
+        "code": 23,
+        "name": "Chengkai Zhang",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": "目前就职：Jump Trading LLC。教育背景：麻省理工学院（Massachusetts Institute of Technology）",
+        "layoutList": [
+          "目前就职：Jump Trading LLC。教育背景：麻省理工学院（Massachusetts Institute of Technology）"
+        ]
+      },
+      {
+        "id": 23,
+        "code": 24,
+        "name": "FrédoDurand",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": "(Fredo Durand)是麻省理工学院电子工程和计算机科学教授，也是计算机科学和人工智能实验室(CSAIL)的成员。1999年，他在法国格勒诺布尔大学(Grenoble University)获得博士学位，导师是克劳德•普赫(Claude Puech)和乔治•德雷塔基斯(George Drettakis)。从1999年到2002年，他是麻省理工学院计算机图形学小组的博士后。",
+        "layoutList": [
+          "(Fredo Durand)是麻省理工学院电子工程和计算机科学教授，也是计算机科学和人工智能实验室(CSAIL)的成员。1999年，他在法国格勒诺布尔大学(Grenoble University)获得博士学位，导师是克劳德•普赫(Claude Puech)和乔治•德雷塔基斯(George Drettakis)。从1999年到2002年，他是麻省理工学院计算机图形学小组的博士后。"
+        ]
+      },
+      {
+        "id": 24,
+        "code": 25,
+        "name": "三维建模",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 26,
+        "name": "三维重建",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 27,
+        "name": "卷积神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 28,
+        "name": "图像增强",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 29,
+        "name": "Zhoutong Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 30,
+        "name": "Xiuming Zhang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 31,
+        "name": "Xingyuan Sun",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 32,
+        "name": "Jiajun Wu",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 33,
+        "name": "Kai Li",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 34,
+        "name": "Aleksandar Zlateski",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 34,
+        "code": 35,
+        "name": "Jiawen Chen",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 35,
+        "code": 36,
+        "name": "Miika Aittala",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 37,
+        "name": "对抗网络",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": "生成式对抗网络（GAN, Generative Adversarial Networks ）是一种深度学习模型，是近年来复杂分布上无监督学习最具前景的方法之一。模型通过框架中（至少）两个模块：生成模型（Generative Model）和判别模型（Discriminative Model）的互相博弈学习产生相当好的输出。原始 GAN 理论中，并不要求 G 和 D 都是神经网络，只需要是能拟合相应生成和判别的函数即可。但实用中一般均使用深度神经网络作为 G 和 D 。一个优秀的GAN应用需要有良好的训练方法，否则可能由于神经网络模型的自由性而导致输出不理想。",
+        "layoutList": [
+          "生成式对抗网络（GAN, Generative Adversarial Networks ）是一种深度学习模型，是近年来复杂分布上无监督学习最具前景的方法之一。模型通过框架中（至少）两个模块：生成模型（Generative Model）和判别模型（Discriminative Model）的互相博弈学习产生相当好的输出。原始 GAN 理论中，并不要求 G 和 D 都是神经网络，只需要是能拟合相应生成和判别的函数即可。但实用中一般均使用深度神经网络作为 G 和 D 。一个优秀的GAN应用需要有良好的训练方法，否则可能由于神经网络模型的自由性而导致输出不理想。"
+        ]
+      },
+      {
+        "id": 37,
+        "code": 38,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": "GAN Dissection: Visualizing and Understanding Generative Adversarial Networks./c+GAN: Complementary Fashion Item Recommendation./Visualizing and Understanding GANs/Conditional Image Synthesis With Auxiliary Classifier GANs",
+        "layoutList": [
+          "GAN Dissection: Visualizing and Understanding Generative Adversarial Networks.",
+          "c+GAN: Complementary Fashion Item Recommendation.",
+          "Visualizing and Understanding GANs",
+          "Conditional Image Synthesis With Auxiliary Classifier GANs"
+        ]
+      },
+      {
+        "id": 38,
+        "code": 40,
+        "name": "Hendrik Strobelt",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": "数据科学家 康斯坦茨大学计算机科学博士，马萨诸塞州剑桥市的IBM Research AI研究所信息可视化、视觉分析和机器学习方面的研究员。对非结构化/半结构化数据、生物数据和神经网络模型的大型数据集的可视化感兴趣",
+        "layoutList": [
+          "数据科学家 康斯坦茨大学计算机科学博士，马萨诸塞州剑桥市的IBM Research AI研究所信息可视化、视觉分析和机器学习方面的研究员。对非结构化/半结构化数据、生物数据和神经网络模型的大型数据集的可视化感兴趣"
+        ]
+      },
+      {
+        "id": 39,
+        "code": 41,
+        "name": "Antonio Torralba",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": "研究领域是计算机视觉、机器学习和人类视觉感知。对构建能像人类一样感知世界的系统很感兴趣。虽然工作重点是计算机视觉，他也对其他形式的兴趣，如听觉和触摸。一个能够通过多种感官感知世界的系统可能不需要大量的数据集就能学习。其他兴趣包括理解神经网络，常识推理，计算摄影，建立图像数据库，以及视觉艺术与计算之间的交集。",
+        "layoutList": [
+          "研究领域是计算机视觉、机器学习和人类视觉感知。对构建能像人类一样感知世界的系统很感兴趣。虽然工作重点是计算机视觉，他也对其他形式的兴趣，如听觉和触摸。一个能够通过多种感官感知世界的系统可能不需要大量的数据集就能学习。其他兴趣包括理解神经网络，常识推理，计算摄影，建立图像数据库，以及视觉艺术与计算之间的交集。"
+        ]
+      },
+      {
+        "id": 40,
+        "code": 42,
+        "name": "可视化",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 43,
+        "name": "神经网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 44,
+        "name": "场景解析",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 45,
+        "name": "可视化",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 46,
+        "name": "Sebastian Gehrmann",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 47,
+        "name": "Bernd Huber",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 48,
+        "name": "Hanspeter Pfister",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 49,
+        "name": "Ganesh Venkataraman",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 48,
+        "code": 50,
+        "name": "Xavier Puig",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 49,
+        "code": 51,
+        "name": "Adela Barriuso",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 52,
+        "name": "Galen Chuang",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "William",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 19,
+        "source": 0,
+        "target": 20
+      },
+      {
+        "id": 35,
+        "source": 0,
+        "target": 37
+      },
+      {
+        "id": 4,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 3,
+        "target": 6
+      },
+      {
+        "id": 6,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "id": 7,
+        "source": 6,
+        "target": 8
+      },
+      {
+        "id": 8,
+        "source": 6,
+        "target": 9
+      },
+      {
+        "id": 9,
+        "source": 7,
+        "target": 10
+      },
+      {
+        "id": 10,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "id": 11,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "id": 12,
+        "source": 8,
+        "target": 13
+      },
+      {
+        "id": 13,
+        "source": 9,
+        "target": 14
+      },
+      {
+        "id": 14,
+        "source": 9,
+        "target": 15
+      },
+      {
+        "id": 15,
+        "source": 10,
+        "target": 16
+      },
+      {
+        "id": 16,
+        "source": 10,
+        "target": 17
+      },
+      {
+        "id": 17,
+        "source": 11,
+        "target": 18
+      },
+      {
+        "id": 18,
+        "source": 11,
+        "target": 19
+      },
+      {
+        "id": 20,
+        "source": 20,
+        "target": 21
+      },
+      {
+        "id": 21,
+        "source": 20,
+        "target": 23
+      },
+      {
+        "id": 22,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 23,
+        "source": 23,
+        "target": 25
+      },
+      {
+        "id": 24,
+        "source": 23,
+        "target": 26
+      },
+      {
+        "id": 25,
+        "source": 24,
+        "target": 27
+      },
+      {
+        "id": 26,
+        "source": 24,
+        "target": 28
+      },
+      {
+        "id": 27,
+        "source": 25,
+        "target": 29
+      },
+      {
+        "id": 28,
+        "source": 25,
+        "target": 30
+      },
+      {
+        "id": 29,
+        "source": 26,
+        "target": 31
+      },
+      {
+        "id": 30,
+        "source": 26,
+        "target": 32
+      },
+      {
+        "id": 31,
+        "source": 27,
+        "target": 33
+      },
+      {
+        "id": 32,
+        "source": 27,
+        "target": 34
+      },
+      {
+        "id": 33,
+        "source": 28,
+        "target": 35
+      },
+      {
+        "id": 34,
+        "source": 28,
+        "target": 36
+      },
+      {
+        "id": 36,
+        "source": 37,
+        "target": 38
+      },
+      {
+        "id": 37,
+        "source": 37,
+        "target": 40
+      },
+      {
+        "id": 38,
+        "source": 37,
+        "target": 41
+      },
+      {
+        "id": 39,
+        "source": 40,
+        "target": 42
+      },
+      {
+        "id": 40,
+        "source": 40,
+        "target": 43
+      },
+      {
+        "id": 41,
+        "source": 41,
+        "target": 44
+      },
+      {
+        "id": 42,
+        "source": 41,
+        "target": 45
+      },
+      {
+        "id": 43,
+        "source": 42,
+        "target": 46
+      },
+      {
+        "id": 44,
+        "source": 42,
+        "target": 47
+      },
+      {
+        "id": 45,
+        "source": 43,
+        "target": 48
+      },
+      {
+        "id": 46,
+        "source": 43,
+        "target": 49
+      },
+      {
+        "id": 47,
+        "source": 44,
+        "target": 50
+      },
+      {
+        "id": 48,
+        "source": 44,
+        "target": 51
+      },
+      {
+        "id": 49,
+        "source": 45,
+        "target": 52
+      },
+      {
+        "id": 50,
+        "source": 45,
+        "target": 53
+      }
+    ]
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "Learning to Infer and Execute 3D Shape Programs.EI",
+		"author": "Yonglong Tian, Andrew Luo, Xingyuan Sun, Kevin Ellis, William T. Freeman, Joshua B. Tenenbaum, Jiajun Wu",
+		"publishDate": "2019",
+		"summaryAll": "Human perception of 3D shapes goes beyond reconstructing them as a set of points or a composition of geometric primitives: we also effortlessly understand higher-level shape structure such as the repetition and reflective symmetry of object parts. In contrast, recent advances in 3D shape sensing focus more on low-level geometry but less on these higher-level relationships. "
+	},
+	{
+		"title": "Unsupervised Discovery of Parts, Structure, and Dynamics.EI",
+		"author": "Zhenjia Xu, Zhijian Liu, Chen Sun, Kevin Murphy, William T. Freeman, Joshua B. Tenenbaum, Jiajun Wu",
+		"publishDate": "2019",
+		"summaryAll": "Humans easily recognize object parts and their hierarchical structure by watching how they move; they can then predict how each part moves in the future. In this paper, we propose a novel formulation that simultaneously learns a hierarchical, disentangled object representation and a dynamics model for object parts from unlabeled videos. "
+	},
+	{
+		"title": "Visualizing and Understanding Generative Adversarial Networks (Extended Abstract).EI",
+		"author": "David Bau, Jun-Yan Zhu, Hendrik Strobelt, Bolei Zhou, Joshua B. Tenenbaum, William T. Freeman, Antonio Torralba",
+		"publishDate": "2019",
+		"summaryAll": "Generative Adversarial Networks (GANs) have achieved impressive results for many real-world applications. As an active research topic, many GAN variants have emerged with improvements in sample quality and training stability. However, visualization and understanding of GANs is largely missing. How does a GAN represent our visual world internally? What causes the artifacts in GAN results? How do architectural choices affect GAN learning? Answering such questions could enable us to develop new insights and better models. "
+	},
+	{
+		"title": "Cognitive Load Estimation in the Wild.EI",
+		"author": "Lex Fridman, Bryan Reimer, Bruce Mehler, William T. Freeman",
+		"publishDate": "2018",
+		"summaryAll": "Cognitive load has been shown, over hundreds of validated studies, to be an important variable for understanding human performance. However, establishing practical, non-contact approaches for automated estimation of cognitive load under real-world conditions is far from a solved problem. Toward the goal of designing such a system, we propose two novel vision-based methods for cognitive load estimation, and evaluate them on a large-scale dataset collected under real-world driving conditions. "
+	},
+	{
+		"title": "3D Interpreter Networks for Viewer-Centered Wireframe Modeling.EI",
+		"author": "Jiajun Wu, Tianfan Xue, Joseph J. Lim, Yuandong Tian, Joshua B. Tenenbaum, Antonio Torralba, William T. Freeman",
+		"publishDate": "2018",
+		"summaryAll": "Understanding 3D object structure from a single image is an important but challenging task in computer vision, mostly due to the lack of 3D object annotations to real images. Previous research tackled this problem by either searching for a 3D shape that best explains 2D annotations, or training purely on synthetic data with ground truth 3D information. In this work, we propose 3D INterpreter Networks (3D-INN), an end-to-end trainable framework that sequentially estimates 2D keypoint heatmaps and 3D object skeletons and poses. "
+	},
+	{
+		"title": "Learning-based Video Motion Magnification.EI",
+		"author": "Tae-Hyun Oh, Ronnachai Jaroensri, Changil Kim, Mohamed A. Elgharib, Frédo Durand, William T. Freeman, Wojciech Matusik",
+		"publishDate": "2018",
+		"summaryAll": "Video motion magnification techniques allow us to see small motions previously invisible to the naked eyes, such as those of vibrating airplane wings, or swaying buildings under the influence of the wind. Because the motion is small, the magnification results are prone to noise or excessive blurring. The state of the art relies on hand-designed filters to extract representations that may not be optimal. In this paper, we seek to learn the filters directly from examples using deep convolutional neural networks."
+	},
+	{
+		"title": "Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation.EI",
+		"author": "Ariel Ephrat, Inbar Mosseri, Oran Lang, Tali Dekel, Kevin Wilson, Avinatan Hassidim, William T. Freeman, Michael Rubinstein",
+		"publishDate": "2018",
+		"summaryAll": "We present a joint audio-visual model for isolating a single speech signal from a mixture of sounds such as other speakers and background noise. Solving this task using only audio as input is extremely challenging and does not provide an association of the separated speech signals with speakers in the video."
+	}
+],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": []
+}

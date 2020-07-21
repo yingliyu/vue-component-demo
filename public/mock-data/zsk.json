@@ -1,0 +1,1574 @@
+{
+  "subjectVO": {
+    "id": "C018932782",
+    "subjectWord": "知识库",
+    "subjectWordEn": null,
+    "wiki": "知识库（Knowledge base）是用于知识管理的一种特殊的数据库，以便于有关领域知识的采集、整理以及提取。知识库中的知识源于领域专家，它是求解问题所需领域知识的集合，包括基本事实、规则和其它有关信息。"
+  },
+  "mapVO": {
+    "nodes": [
+      {
+        "code": "0",
+        "name": "知识库",
+        "type": "keyword",
+        "level": "1",
+        "colorIdx": "0"
+      },
+      {
+        "code": "1",
+        "name": "推荐系统",
+        "type": "keyword",
+        "level": "2",
+        "colorIdx": "1"
+      },
+      {
+        "code": "2",
+        "name": "问答系统",
+        "type": "keyword",
+        "level": "2",
+        "colorIdx": "2"
+      },
+      {
+        "code": "3",
+        "name": "信息抽取",
+        "type": "keyword",
+        "level": "2",
+        "colorIdx": "3"
+      },
+      {
+        "code": "4",
+        "name": "Ian Horrocks",
+        "type": "expert",
+        "level": "2",
+        "colorIdx": "0"
+      },
+      {
+        "code": "5",
+        "name": "Amit P. Sheth",
+        "type": "expert",
+        "level": "2",
+        "colorIdx": "0"
+      }
+    ],
+    "relations": [
+      {
+        "id": "0",
+        "source": "0",
+        "target": "1"
+      },
+      {
+        "id": "1",
+        "source": "0",
+        "target": "2"
+      },
+      {
+        "id": "2",
+        "source": "0",
+        "target": "3"
+      },
+      {
+        "id": "3",
+        "source": "0",
+        "target": "4"
+      },
+      {
+        "id": "4",
+        "source": "0",
+        "target": "5"
+      }
+    ],
+    "expertReco": [
+      {
+        "id": 909754,
+        "name": "董欣",
+        "headImg": "/img/expert_logo/2019-03/2019-03-13-16-45-26__23b68030-c51d-4f2d-a9f9-f19a12714d70.jpg",
+        "institution": "Amazon",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 878634,
+        "name": "Kang Liu",
+        "headImg": "/img/expert_logo/2019-03/Kangliu.jpg",
+        "institution": "Institute of Automation Chinese Academy of Sciences",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      },
+      {
+        "id": 460934,
+        "name": "Sebastian Riedel",
+        "headImg": "/img/expert_logo/2019-03/SebastianRiedel.jfif",
+        "institution": "UCL",
+        "subjectArea": null,
+        "country": null,
+        "totalIssues": null,
+        "totalCitations": null,
+        "top1Citations": null,
+        "number1": null,
+        "top10Citations": null,
+        "number10": null,
+        "hIndex": null,
+        "journalSend": null,
+        "subjectMatch": null,
+        "citedSituation": null,
+        "fwciinedx": null
+      }
+    ],
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 48,
+        "code": 47,
+        "name": "Oren Etzioni",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": "是美国企业家，计算机科学教授，以及艾伦人工智能研究所的CEO。他于1991年加入华盛顿大学，在那里他成为计算机科学与工程部门的华盛顿研究基金会企业家教授。2005年5月，他创办并成为大学中心主任。该中心研究数据挖掘、自然语言处理、语义Web和其他Web搜索主题中的问题。他创造了术语“机器阅读”，创造了第一个商业比较购物代理。",
+        "layoutList": [
+          "是美国企业家，计算机科学教授，以及艾伦人工智能研究所的CEO。他于1991年加入华盛顿大学，在那里他成为计算机科学与工程部门的华盛顿研究基金会企业家教授。2005年5月，他创办并成为大学中心主任。该中心研究数据挖掘、自然语言处理、语义Web和其他Web搜索主题中的问题。他创造了术语“机器阅读”，创造了第一个商业比较购物代理。"
+        ]
+      },
+      {
+        "id": 49,
+        "code": 48,
+        "name": "众包",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 49,
+        "name": "远程监督",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 50,
+        "name": "无监督",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 51,
+        "name": "语义",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 53,
+        "code": 52,
+        "name": "Mausam",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 54,
+        "code": 53,
+        "name": "Christopher H. Lin",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 55,
+        "code": 54,
+        "name": "Stephen Soderland",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 56,
+        "code": 55,
+        "name": "John Gilmer",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 56,
+        "name": "Doug Downey",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 57,
+        "name": "Michael J. Cafarella",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 58,
+        "name": "Alon Y. Halevy",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 59,
+        "name": "Luke K. McDowell",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 60,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": "A novel uncertain rule presentation method based on dual factors\nBayesian network modeling based on CBR and RBR\nReuse of sheet metal manufacturing knowledge based on flexible part coding\nHYDES: A Web-based hydro turbine fault diagnosis system\nDeveloping computational resources in cardiac gene expression\nApplying genetic programming technique in classification trees\nApplication of uncertainty inference represented by credence in expert system for soft ground improvement of highway",
+        "layoutList": [
+          "A novel uncertain rule presentation method based on dual factors\nBayesian network modeling based on CBR and RBR\nReuse of sheet metal manufacturing knowledge based on flexible part coding\nHYDES: A Web-based hydro turbine fault diagnosis system\nDeveloping computational resources in cardiac gene expression\nApplying genetic programming technique in classification trees\nApplication of uncertainty inference represented by credence in expert system for soft ground improvement of highway"
+        ]
+      },
+      {
+        "id": 62,
+        "code": 61,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": "基于RDF知识库的语义标注方法/基于安全生产专业知识库的电网安全生产方法/一种面向领域服务目标的知识库构建方法/用于分割并使用知识库的装置及关联方法/基于统一配置库和知识库的集成化运维管理平台/一种基于知识库的FPGA故障自动诊断方法/异常处理方法、自动巡检控制台和知识库系统",
+        "layoutList": [
+          "基于RDF知识库的语义标注方法",
+          "基于安全生产专业知识库的电网安全生产方法",
+          "一种面向领域服务目标的知识库构建方法",
+          "用于分割并使用知识库的装置及关联方法",
+          "基于统一配置库和知识库的集成化运维管理平台",
+          "一种基于知识库的FPGA故障自动诊断方法",
+          "异常处理方法、自动巡检控制台和知识库系统"
+        ]
+      },
+      {
+        "id": 63,
+        "code": 62,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": "Two-phase Blue-Red tree of rule-space model for the cognitive assessment evaluation and analysis - A case study of MTA course/An improved collaborative filtering recommendation algorithm not based on item rating/RR-UBPMF, A personalized music recommendation algorithm/Diversified Mobile App Recommendation Combining Topic Model and Collaborative Filtering",
+        "layoutList": [
+          "Two-phase Blue-Red tree of rule-space model for the cognitive assessment evaluation and analysis - A case study of MTA course",
+          "An improved collaborative filtering recommendation algorithm not based on item rating",
+          "RR-UBPMF, A personalized music recommendation algorithm",
+          "Diversified Mobile App Recommendation Combining Topic Model and Collaborative Filtering"
+        ]
+      },
+      {
+        "id": 64,
+        "code": 63,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": "论坛的热帖推荐系统/一种软件推荐方法及推荐系统/一种数字电视节目推荐系统及方法/自适应推荐系统/一种基于用户亲密度的混合推荐系统及方法/权威作者和高质量论文推荐系统和推荐方法/基于主题的个性化研究方向推荐系统和推荐方法",
+        "layoutList": [
+          "论坛的热帖推荐系统",
+          "一种软件推荐方法及推荐系统",
+          "一种数字电视节目推荐系统及方法",
+          "自适应推荐系统",
+          "一种基于用户亲密度的混合推荐系统及方法",
+          "权威作者和高质量论文推荐系统和推荐方法",
+          "基于主题的个性化研究方向推荐系统和推荐方法"
+        ]
+      },
+      {
+        "id": 65,
+        "code": 64,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": "SOS: A distributed mobile QandA system based on social networks/Towards designing social question-and-answer systems for behavioral support of individuals with autism/Bring Biomedical Ontologies to Personalized Healthcare: A Smart Inquiry Framework/SmartQ: A question and answer system for supplying high-quality and trustworthy answers",
+        "layoutList": [
+          "SOS: A distributed mobile QandA system based on social networks",
+          "Towards designing social question-and-answer systems for behavioral support of individuals with autism",
+          "Bring Biomedical Ontologies to Personalized Healthcare: A Smart Inquiry Framework",
+          "SmartQ: A question and answer system for supplying high-quality and trustworthy answers"
+        ]
+      },
+      {
+        "id": 66,
+        "code": 65,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": "一种多媒体问答系统及方法/一种基于智能移动终端的多媒体问答系统和方法/基于微博的众包问答系统信息采集方法/一种问题推送方法和采用该方法的问答系统和搜索引擎/自动问答方法、自动问答系统及构建问答实例库的方法/一种带智能推荐的问答系统/一种基于人机结合的问答系统及方法",
+        "layoutList": [
+          "一种多媒体问答系统及方法",
+          "一种基于智能移动终端的多媒体问答系统和方法",
+          "基于微博的众包问答系统信息采集方法",
+          "一种问题推送方法和采用该方法的问答系统和搜索引擎",
+          "自动问答方法、自动问答系统及构建问答实例库的方法",
+          "一种带智能推荐的问答系统",
+          "一种基于人机结合的问答系统及方法"
+        ]
+      },
+      {
+        "id": 67,
+        "code": 66,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": "Self-supervised relation extraction from the Web/Unsupervised discovery of compound entities for relationship extraction/A fast events relationship extraction method based on semi-CRFs/Extracting 5W1H event semantic elements from Chinese online news/Using text to build semantic networks for pharmacogenomics/Entity relationship extraction based on potential relationship pattern/Multi-class relationship extraction from biomedical literature using Maximum Entropy",
+        "layoutList": [
+          "Self-supervised relation extraction from the Web",
+          "Unsupervised discovery of compound entities for relationship extraction",
+          "A fast events relationship extraction method based on semi-CRFs",
+          "Extracting 5W1H event semantic elements from Chinese online news",
+          "Using text to build semantic networks for pharmacogenomics",
+          "Entity relationship extraction based on potential relationship pattern",
+          "Multi-class relationship extraction from biomedical literature using Maximum Entropy"
+        ]
+      },
+      {
+        "id": 68,
+        "code": 67,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": "基于领域专家知识体系的信息抽取系统及信息抽取方法/一种网页信息抽取方法及抽取系统/一种作者信息抽取方法、装置、计算机装置及计算机可读存储介质/网页信息抽取方法及装置/基于规划?目标图的新闻事件信息抽取方法/一种基于层分类器和模板匹配的特定文本信息抽取方法/一种限定区域的文本信息抽取方法及装置",
+        "layoutList": [
+          "基于领域专家知识体系的信息抽取系统及信息抽取方法",
+          "一种网页信息抽取方法及抽取系统",
+          "一种作者信息抽取方法、装置、计算机装置及计算机可读存储介质",
+          "网页信息抽取方法及装置",
+          "基于规划?目标图的新闻事件信息抽取方法",
+          "一种基于层分类器和模板匹配的特定文本信息抽取方法",
+          "一种限定区域的文本信息抽取方法及装置"
+        ]
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "知识库",
+        "type": "keyword",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": "知识库（Knowledge base）是用于知识管理的一种特殊的数据库，以便于有关领域知识的采集、整理以及提取。知识库中的知识源于领域专家，它是求解问题所需领域知识的集合，包括基本事实、规则和其它有关信息。",
+        "layoutList": [
+          "知识库（Knowledge base）是用于知识管理的一种特殊的数据库，以便于有关领域知识的采集、整理以及提取。知识库中的知识源于领域专家，它是求解问题所需领域知识的集合，包括基本事实、规则和其它有关信息。"
+        ]
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "推荐系统",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": "推荐系统是利用电子商务网站向客户提供商品信息和建议，帮助用户决定应该购买什么产品，模拟销售人员帮助客户完成购买过程。个性化推荐是根据用户的兴趣特点和购买行为，向用户推荐用户感兴趣的信息和商品。",
+        "layoutList": [
+          "推荐系统是利用电子商务网站向客户提供商品信息和建议，帮助用户决定应该购买什么产品，模拟销售人员帮助客户完成购买过程。个性化推荐是根据用户的兴趣特点和购买行为，向用户推荐用户感兴趣的信息和商品。"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "问答系统",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": "问答系统(Question Answering System, QA)是信息检索系统的一种高级形式，它能用准确、简洁的自然语言回答用户用自然语言提出的问题。其研究兴起的主要原因是人们对快速、准确地获取信息的需求。问答系统是目前人工智能和自然语言处理领域中一个倍受关注并具有广泛发展前景的研究方向。",
+        "layoutList": [
+          "问答系统(Question Answering System, QA)是信息检索系统的一种高级形式，它能用准确、简洁的自然语言回答用户用自然语言提出的问题。其研究兴起的主要原因是人们对快速、准确地获取信息的需求。问答系统是目前人工智能和自然语言处理领域中一个倍受关注并具有广泛发展前景的研究方向。"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "信息抽取",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": "信息抽取 （Information Extraction: IE）是把文本里包含的信息进行结构化处理，变成表格一样的组织形式。输入信息抽取系统的是原始文本，输出的是固定格式的信息点。信息点从各种各样的文档中被抽取出来，然后以统一的形式集成在一起。这就是信息抽取的主要任务。信息以统一的形式集成在一起的好处是方便检查和比较。 信息抽取技术并不试图全面理解整篇文档，只是对文档中包含相关信息的部分进行分析。至于哪些信息是相关的，那将由系统设计时定下的领域范围而定。",
+        "layoutList": [
+          "信息抽取 （Information Extraction: IE）是把文本里包含的信息进行结构化处理，变成表格一样的组织形式。输入信息抽取系统的是原始文本，输出的是固定格式的信息点。信息点从各种各样的文档中被抽取出来，然后以统一的形式集成在一起。这就是信息抽取的主要任务。信息以统一的形式集成在一起的好处是方便检查和比较。 信息抽取技术并不试图全面理解整篇文档，只是对文档中包含相关信息的部分进行分析。至于哪些信息是相关的，那将由系统设计时定下的领域范围而定。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "Ian Horrocks",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": "是英国牛津大学计算机科学教授和牛津奥里尔学院研究员。他的研究重点是知识表示和推理，特别是本体语言、描述逻辑和优化的表格决策过程。",
+        "layoutList": [
+          "是英国牛津大学计算机科学教授和牛津奥里尔学院研究员。他的研究重点是知识表示和推理，特别是本体语言、描述逻辑和优化的表格决策过程。"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 5,
+        "name": "Amit P. Sheth",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": "南卡罗莱纳大学人工智能研究所创始所长。他正致力于将语义增强的物理网络社会计算和智能数据结合起来，实现人类体验计算的愿景。他最近的工作重点是语义增强Web 3.0，涉及企业、社交、传感器/物联网数据以及服务和云互操作性。他早期的工作是联邦数据库、语义互操作性和工作流管理。他与临床医生和生物医学研究人员的广泛合作包括生物医学知识的发现，以及社交媒体和传感器数据的新用途，以病人为中心的护理和病人授权。他最宝贵的成就是他过去的顾问取得的非凡成功;绝大多数前19名博士顾问都有1000+的被引频次，平均每名被引频次在1800次左右，平均每名被引频次在1400次左右;3篇论文被引用超过5000次。",
+        "layoutList": [
+          "南卡罗莱纳大学人工智能研究所创始所长。他正致力于将语义增强的物理网络社会计算和智能数据结合起来，实现人类体验计算的愿景。他最近的工作重点是语义增强Web 3.0，涉及企业、社交、传感器/物联网数据以及服务和云互操作性。他早期的工作是联邦数据库、语义互操作性和工作流管理。他与临床医生和生物医学研究人员的广泛合作包括生物医学知识的发现，以及社交媒体和传感器数据的新用途，以病人为中心的护理和病人授权。他最宝贵的成就是他过去的顾问取得的非凡成功;绝大多数前19名博士顾问都有1000+的被引频次，平均每名被引频次在1800次左右，平均每名被引频次在1400次左右;3篇论文被引用超过5000次。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 6,
+        "name": "推理",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 8,
+        "code": 7,
+        "name": "本体",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 8,
+        "name": "语义传感器",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 9,
+        "name": "语义网",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 10,
+        "name": "Bernardo Cuenca Grau",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 11,
+        "name": "Boris Motik",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 12,
+        "name": "ErnestoJiménez-Ruiz",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 13,
+        "name": "Evgeny Kharlamov",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 14,
+        "name": "Cory A. Henson",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 15,
+        "name": "Krishnaprasad Thirunarayan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 16,
+        "name": "John A. Miller",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 17,
+        "name": "Kunal Verma",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 18,
+        "name": "Joseph A. Konstan",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": "是美国计算机科学家、著名的麦克奈特大学教授和明尼苏达大学杰出的大学教授。他的研究兴趣是人机交互、社会计算、在线社区以及互联网技术的医疗卫生应用。他最出名的是他在协作过滤推荐人(小组项目)方面的工作，以及他在艾滋病毒在线预防方面的工作。",
+        "layoutList": [
+          "是美国计算机科学家、著名的麦克奈特大学教授和明尼苏达大学杰出的大学教授。他的研究兴趣是人机交互、社会计算、在线社区以及互联网技术的医疗卫生应用。他最出名的是他在协作过滤推荐人(小组项目)方面的工作，以及他在艾滋病毒在线预防方面的工作。"
+        ]
+      },
+      {
+        "id": 20,
+        "code": 19,
+        "name": "Bamshad Mobasher",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": "Bamshad Mobasher博士是芝加哥德保罗大学计算机学院计算机科学教授和网络智能中心主任。他被认为是web数据挖掘、web个性化、预测用户建模和推荐系统领域的主要权威之一。他关于web挖掘和个性化的一些原创文章是该领域引用最多的文章之一。他在这些领域的工作已经被包括亚马逊在内的许多公司用作分析和个性化系统的一部分。作为网络智能中心（center for web intelligence）的主任，Bamshad Mobasher博士负责人工智能和人工智能方面的研究，定期与业界合作，解决与web数据分析、用户行为建模、web营销和业务分析相关的问题。",
+        "layoutList": [
+          "Bamshad Mobasher博士是芝加哥德保罗大学计算机学院计算机科学教授和网络智能中心主任。他被认为是web数据挖掘、web个性化、预测用户建模和推荐系统领域的主要权威之一。他关于web挖掘和个性化的一些原创文章是该领域引用最多的文章之一。他在这些领域的工作已经被包括亚马逊在内的许多公司用作分析和个性化系统的一部分。作为网络智能中心（center for web intelligence）的主任，Bamshad Mobasher博士负责人工智能和人工智能方面的研究，定期与业界合作，解决与web数据分析、用户行为建模、web营销和业务分析相关的问题。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 20,
+        "name": "协同过滤",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 22,
+        "code": 21,
+        "name": "用户反馈",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 23,
+        "code": 22,
+        "name": "上下文感知",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 24,
+        "code": 23,
+        "name": "社会化标注系统",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 24,
+        "name": "John Riedl",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 25,
+        "name": "Jonathan L. Herlocker",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 26,
+        "name": "F. Maxwell Harper",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 27,
+        "name": "Qian Zhao",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 28,
+        "name": "Robin D. Burke",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 29,
+        "name": "Yong Zheng",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 30,
+        "name": "Jonathan Gemmell",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 31,
+        "name": "Thomas Schimoler",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 32,
+        "name": "Maarten de Rijke",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": "Maarten de Rijke（ 生于 1961 年 8 月 1 日）是荷兰计算机科学家。 他的工作最初集中在模态逻辑和知识表示上，但自 21 世纪初以来，他主要从事信息检索。 他的工作得到了 Nederlandse organpatie Voor wetenschappelijk onderzoek (N WO) 、公私伙伴关系和欧洲委员会（ 在第六和第七个框架方案下）的资助。",
+        "layoutList": [
+          "Maarten de Rijke（ 生于 1961 年 8 月 1 日）是荷兰计算机科学家。 他的工作最初集中在模态逻辑和知识表示上，但自 21 世纪初以来，他主要从事信息检索。 他的工作得到了 Nederlandse organpatie Voor wetenschappelijk onderzoek (N WO) 、公私伙伴关系和欧洲委员会（ 在第六和第七个框架方案下）的资助。"
+        ]
+      },
+      {
+        "id": 34,
+        "code": 33,
+        "name": "Paolo Rosso",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": "西班牙瓦伦西亚理工大学教授，1999年，就读于爱尔兰都柏林三一学院计算机科学博士。言语决策支持与语言治疗:儿童语音障碍言语管理。自然语言工程实验室成员。模式识别与人类语言技术中心成员，智能系统多模态交互的VLC/CAMPUS微集群成员。研究方向:社交媒体中的自然语言处理与信息检索，作者特征提取，反讽探测与情感分析，假民意检测，姿态检测，Mixed-script文本分析，剽窃和社会复制检测。西班牙自然语言处理协会(SEPLN)会员",
+        "layoutList": [
+          "西班牙瓦伦西亚理工大学教授，1999年，就读于爱尔兰都柏林三一学院计算机科学博士。言语决策支持与语言治疗:儿童语音障碍言语管理。自然语言工程实验室成员。模式识别与人类语言技术中心成员，智能系统多模态交互的VLC/CAMPUS微集群成员。研究方向:社交媒体中的自然语言处理与信息检索，作者特征提取，反讽探测与情感分析，假民意检测，姿态检测，Mixed-script文本分析，剽窃和社会复制检测。西班牙自然语言处理协会(SEPLN)会员"
+        ]
+      },
+      {
+        "id": 35,
+        "code": 34,
+        "name": "度量学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 35,
+        "name": "搜索",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 37,
+        "code": 36,
+        "name": "WordNet",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 38,
+        "code": 37,
+        "name": "剽窃检测",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 39,
+        "code": 38,
+        "name": "Edgar Meij",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 40,
+        "code": 39,
+        "name": "Manos Tsagkias",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 40,
+        "name": "Krisztian Balog",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 41,
+        "name": "Wouter Weerkamp",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 42,
+        "name": "Davide Buscaldi",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 43,
+        "name": "Emilio Sanchis Arnal",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 44,
+        "name": "Manuel Montes-y-Gómez",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 45,
+        "name": "LuisVillaseñorPineda",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "知识库",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 46,
+        "name": "Daniel S. Weld",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "知识库",
+        "layout": "是华盛顿大学计算机科学与工程教授的托马斯·J.电缆/教授，他在自动化规划和调度、软件代理和互联网信息提取方面进行了研究。他是设在西雅图的风险投资公司MaddoniaVentureGroup的合伙人。焊接是1960年在波士顿出生的。他在Phillips学院参加了高中，从耶鲁大学获得计算机科学和分子生物物理学和生物化学学士学位(1982年)，以及麻省理工学院计算机科学硕士(1984)和博士(1988)。他是计算机械协会和提高人工智能协会的研究员。",
+        "layoutList": [
+          "是华盛顿大学计算机科学与工程教授的托马斯·J.电缆/教授，他在自动化规划和调度、软件代理和互联网信息提取方面进行了研究。他是设在西雅图的风险投资公司MaddoniaVentureGroup的合伙人。焊接是1960年在波士顿出生的。他在Phillips学院参加了高中，从耶鲁大学获得计算机科学和分子生物物理学和生物化学学士学位(1982年)，以及麻省理工学院计算机科学硕士(1984)和博士(1988)。他是计算机械协会和提高人工智能协会的研究员。"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": 50,
+        "source": 47,
+        "target": 50
+      },
+      {
+        "id": 51,
+        "source": 47,
+        "target": 51
+      },
+      {
+        "id": 52,
+        "source": 48,
+        "target": 52
+      },
+      {
+        "id": 53,
+        "source": 48,
+        "target": 53
+      },
+      {
+        "id": 54,
+        "source": 49,
+        "target": 54
+      },
+      {
+        "id": 55,
+        "source": 49,
+        "target": 55
+      },
+      {
+        "id": 56,
+        "source": 50,
+        "target": 56
+      },
+      {
+        "id": 57,
+        "source": 50,
+        "target": 57
+      },
+      {
+        "id": 58,
+        "source": 51,
+        "target": 58
+      },
+      {
+        "id": 59,
+        "source": 51,
+        "target": 59
+      },
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 4,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "id": 60,
+        "source": 0,
+        "target": 60
+      },
+      {
+        "id": 61,
+        "source": 0,
+        "target": 61
+      },
+      {
+        "id": 18,
+        "source": 1,
+        "target": 18
+      },
+      {
+        "id": 19,
+        "source": 1,
+        "target": 19
+      },
+      {
+        "id": 62,
+        "source": 1,
+        "target": 62
+      },
+      {
+        "id": 63,
+        "source": 1,
+        "target": 63
+      },
+      {
+        "id": 32,
+        "source": 2,
+        "target": 32
+      },
+      {
+        "id": 33,
+        "source": 2,
+        "target": 33
+      },
+      {
+        "id": 64,
+        "source": 2,
+        "target": 64
+      },
+      {
+        "id": 65,
+        "source": 2,
+        "target": 65
+      },
+      {
+        "id": 46,
+        "source": 3,
+        "target": 46
+      },
+      {
+        "id": 47,
+        "source": 3,
+        "target": 47
+      },
+      {
+        "id": 66,
+        "source": 3,
+        "target": 66
+      },
+      {
+        "id": 67,
+        "source": 3,
+        "target": 67
+      },
+      {
+        "id": 6,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "id": 7,
+        "source": 4,
+        "target": 7
+      },
+      {
+        "id": 8,
+        "source": 5,
+        "target": 8
+      },
+      {
+        "id": 9,
+        "source": 5,
+        "target": 9
+      },
+      {
+        "id": 10,
+        "source": 6,
+        "target": 10
+      },
+      {
+        "id": 11,
+        "source": 6,
+        "target": 11
+      },
+      {
+        "id": 12,
+        "source": 7,
+        "target": 12
+      },
+      {
+        "id": 13,
+        "source": 7,
+        "target": 13
+      },
+      {
+        "id": 14,
+        "source": 8,
+        "target": 14
+      },
+      {
+        "id": 15,
+        "source": 8,
+        "target": 15
+      },
+      {
+        "id": 16,
+        "source": 9,
+        "target": 16
+      },
+      {
+        "id": 17,
+        "source": 9,
+        "target": 17
+      },
+      {
+        "id": 20,
+        "source": 18,
+        "target": 20
+      },
+      {
+        "id": 21,
+        "source": 18,
+        "target": 21
+      },
+      {
+        "id": 22,
+        "source": 19,
+        "target": 22
+      },
+      {
+        "id": 23,
+        "source": 19,
+        "target": 23
+      },
+      {
+        "id": 24,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 25,
+        "source": 20,
+        "target": 25
+      },
+      {
+        "id": 26,
+        "source": 21,
+        "target": 26
+      },
+      {
+        "id": 27,
+        "source": 21,
+        "target": 27
+      },
+      {
+        "id": 28,
+        "source": 22,
+        "target": 28
+      },
+      {
+        "id": 29,
+        "source": 22,
+        "target": 29
+      },
+      {
+        "id": 30,
+        "source": 23,
+        "target": 30
+      },
+      {
+        "id": 31,
+        "source": 23,
+        "target": 31
+      },
+      {
+        "id": 34,
+        "source": 32,
+        "target": 34
+      },
+      {
+        "id": 35,
+        "source": 32,
+        "target": 35
+      },
+      {
+        "id": 36,
+        "source": 33,
+        "target": 36
+      },
+      {
+        "id": 37,
+        "source": 33,
+        "target": 37
+      },
+      {
+        "id": 38,
+        "source": 34,
+        "target": 38
+      },
+      {
+        "id": 39,
+        "source": 34,
+        "target": 39
+      },
+      {
+        "id": 40,
+        "source": 35,
+        "target": 40
+      },
+      {
+        "id": 41,
+        "source": 35,
+        "target": 41
+      },
+      {
+        "id": 42,
+        "source": 36,
+        "target": 42
+      },
+      {
+        "id": 43,
+        "source": 36,
+        "target": 43
+      },
+      {
+        "id": 44,
+        "source": 37,
+        "target": 44
+      },
+      {
+        "id": 45,
+        "source": 37,
+        "target": 45
+      },
+      {
+        "id": 48,
+        "source": 46,
+        "target": 48
+      },
+      {
+        "id": 49,
+        "source": 46,
+        "target": 49
+      }
+    ]
+  ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [
+    {
+      "title": "Knowledge-based protein secondary structure assignment.",
+      "author": "Dmitrij Frishman,Patrick Argos",
+      "publishDate": "1995",
+      "summaryAll": "We have developed an automatic algorithm STRIDE for protein secondary structure assignment from atomic coordinates based on the combined use of hydrogen bond energy and statistically derived backbone torsional angle information. "
+    },
+    {
+      "title": "Knowledge-based resources, entrepreneurial orientation, and the performance of small and medium-sized businesses",
+      "author": "Johan Wiklund,DEAN Shepherd",
+      "publishDate": "2003",
+      "summaryAll": "While theory suggests that management has discretion in manipulating resources in order to build competitive advantage, resource-based research has focused on the characteristics of resources, paying less attention to the relationship between those resources and the way firms"
+    },
+    {
+      "title": "Ontologies and Knowledge Bases. Towards a Terminological Clarification",
+      "author": "Nicola Guarino,Stati Uniti,Pierdaniele Giaretta",
+      "publishDate": "1995",
+      "summaryAll": "The word has recently gained a good popularity within the knowledge engineering com- munity. However, its meaning tends to remain a bit vague, as the term is used in very difier- ent ways."
+    },
+    {
+      "title": "Towards a knowledge-based Human Protein Atlas.",
+      "author": "Mathias Uhlen,Per Oksvold,Linn Fagerberg,Kalle Jonasson,Mattias Forsberg,Martin Zwahlen,Sophia Hober,Henrik Wernerus,Lisa Björling,Mathias Uhlen,Emma Lundberg,Caroline Kampf",
+      "publishDate": "2010",
+      "summaryAll": "To the Editor: We report on the launch of version 7 of the Human Protein Atlas with subcellular localization data and expression data for all major human tissues and organs. "
+    },
+    {
+      "title": "LUBM: A benchmark for OWL knowledge base systems",
+      "author": "Yuanbo Guo,Zhengxiang Pan,Jeff Heflin",
+      "publishDate": "2005",
+      "summaryAll": "We describe our method for benchmarking Semantic Web knowledge base systems with respect to use in large OWL applications. We present the Lehigh University Benchmark (LUBM) as an example of how to design such benchmarks. "
+    },
+    {
+      "title": "The evolution of Protégé: an environment for knowledge-based systems development",
+      "author": "John H. Gennari,Mark A. Musen,Ray W. Fergerson,William E. Grosso,Monica Crubézy,Henrik Eriksson,Natalya F. Noy,Samson W. Tu",
+      "publishDate": "2003",
+      "summaryAll": "The Protégé project has come a long way since Mark Musen first built the Protégé meta-tool for knowledge-based systems in 1987. The original tool was a small application, aimed at building knowledge-acquisition tools for a few specialized programs in medical planning."
+    },
+    {
+      "title": "A knowledge base for predicting protein localization sites in eukaryotic cells.",
+      "author": "Kenta Nakai,Minoru Kanehisa",
+      "publishDate": "1992",
+      "summaryAll": "To automate examination of massive amounts of sequence data for biological function, it is important to computerize interpretation based on empirical knowledge of sequence-function relationships. For this purpose, we have been constructing a knowledge base by organizing various"
+    },
+    {
+      "title": "Knowledge bases and regional innovation systems: Comparing Nordic clusters",
+      "author": "Bjørn T. Asheim,Lars Coenen",
+      "publishDate": "2005",
+      "summaryAll": "The analysis of the importance of different types of regional innovation systems must take place within a context of the actual knowledge base of various industries in the economy, as the innovation processes of firms are strongly shaped by their specific knowledge base."
+    },
+    {
+      "title": "The elusive concept of localization economies: towards a knowledge-based theory of spatial clustering",
+      "author": "Anders Malmberg,Peter Maskell",
+      "publishDate": "2002",
+      "summaryAll": "A number of possible advantages of industry agglomerationor spatial clusteringhave been identified in the research literature, notably those related to shared costs for infrastructure, the build-up of a skilled labour force, transaction efficiency, and knowledge spillovers"
+    },
+    {
+      "title": "Regions, Globalization, and the Knowledge-Based Economy",
+      "author": "John H. Dunning",
+      "publishDate": "2002",
+      "summaryAll": "The underlying theme of this book is the impact of the increasing globalization of economic activity, and the advent of the knowledge-based economy, on the spatial distribution of economic activity, both between countries and within countries."
+    }
+  ],
+  "patentVO": null,
+  "bookVO": [],
+  "standardVO": [
+    {
+      "id": "79",
+      "nameCN": "自动声纹（说话人识别）技术规程",
+      "nameEN": "Technology specification for automatic voiceprint recognition(speaker recognition)",
+      "standardNo": "SJ/T 11380-2008",
+      "categoryNoCN": "L;L71,电子元器件与信息技术, 信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本标准规定了声纹识别（系统）的术语与定义、数据交换格式与应用编程接口（VPR-API ",
+      "summaryAll": "本标准规定了声纹识别（系统）的术语与定义、数据交换格式与应用编程接口（VPR-API 1.0）。本标准适用于各种计算机、网络和智能设备配置的声纹识别系统。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2018-03-10",
+      "implementDate": "2018-03-10"
+    },
+    {
+      "id": "46",
+      "nameCN": "information service in mobile network <mark class=highlight>based</mark>",
+      "nameEN": "General technological framework for logistic information service in mobile network based on M2M technology",
+      "standardNo": "GB/T 32404-2015",
+      "categoryNoCN": "M;M21,通信、广播,通信网",
+      "categoryNoIN": "33;33.030",
+      "summary": "本标准规定了基于M2M技术的移动通信网物流信息服务的总体技术框架，对服务于物流行业的M",
+      "summaryAll": "本标准规定了基于M2M技术的移动通信网物流信息服务的总体技术框架，对服务于物流行业的M2M系统的总体架构、各模块功能、系统工作流程、通信模块、安全体系等进行规范，为基于M2M技术的物流信息服务的工作提供标准支撑。 本标准适用于面向物流信息服务的M2M业务系统。  ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2015-12-31",
+      "implementDate": "2016-03-01"
+    },
+    {
+      "id": "43",
+      "nameCN": "storage and management - Part 2:Object - <mark class=highlight>based</mark>",
+      "nameEN": "Information technology - Cloud data storage and management - Part 2:Object - based cloud storage application interface",
+      "standardNo": "GB/T 31916.2-2015",
+      "categoryNoCN": "L;L79,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.100.05",
+      "summary": " 本部分给出了基于对象的云数据存储（以下简称云存储）体系结构，规定了基于对 象的云存储",
+      "summaryAll": " 本部分给出了基于对象的云数据存储（以下简称云存储）体系结构，规定了基于对 象的云存储的应用接口通用要求和应用接口定义。 本部分适用于基于对象的云存储的设计、开发和使用。  ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2015-09-11",
+      "implementDate": "2016-05-01"
+    },
+    {
+      "id": "44",
+      "nameCN": "storage and management-Part 5:Key-Value <mark class=highlight>based</mark>",
+      "nameEN": "Information technology -Cloud data storage and management-Part 5:Key-Value based cloud data management application interface",
+      "standardNo": "GB/T 31916.5-2015",
+      "categoryNoCN": "L;L79,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.100.05",
+      "summary": "本部分给出了键值数据模型，规定了键值的云数据管理应用接口通用要求和接口定义。 本部分适",
+      "summaryAll": "本部分给出了键值数据模型，规定了键值的云数据管理应用接口通用要求和接口定义。 本部分适用于基于键值的云数据管理系统的设计、开发和使用。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2015-09-11",
+      "implementDate": "2016-05-01"
+    },
+    {
+      "id": "15",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第4部分：指纹图像数据",
+      "nameEN": "Information technology―Biometric data interchange formats―Part 4: Finger image data",
+      "standardNo": "GB/T 26237.4-2014",
+      "categoryNoCN": "L;L71,电子元器件与信息技术，信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本部分规定了一个用来从一个或多个符合ISO/IEC 19785-1 CBEFF数据结构",
+      "summaryAll": "本部分规定了一个用来从一个或多个符合ISO/IEC 19785-1 CBEFF数据结构的 指/掌纹图像区域进行存储、记录和传输信息的数据记录交换格式，可用来进行指纹图像数据的交换和比较。本部分定义了可用于个体认证和鉴定的指纹图像数据交换的测量内容、格式和单位。该信息由 一些必选项和可选项构成，包括扫描参数、压缩或未压缩图像以及供方规定的信息，且可以在使用自动 设备和系统进行基于指纹图像区域进行鉴定和认证的组织之间进行交换9按照本部分进行编译和格式化的信息可在机读媒介上记录或使用数据通信设施进行传输。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-12-05",
+      "implementDate": "2015-05-01"
+    },
+    {
+      "id": "16",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第5部分：人脸图像数据",
+      "nameEN": "Information technology-Biometric data interchange formats- Part 5:Face image data",
+      "standardNo": "GB/T 26237.5-2014",
+      "categoryNoCN": "L;L70,电子元器件与信息技术，信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本部分: 一一规定了一张/多张相片和人脸图像短视频流的存储、记录和传输的数据格式。规定",
+      "summaryAll": "本部分: 一一规定了一张/多张相片和人脸图像短视频流的存储、记录和传输的数据格式。规定了人脸图像拍摄时的场景约束; 一一规定了人脸图像的拍摄方法; 规定了数字人脸图像的存储格式; 提供了人脸图像拍摄的最佳范例。 本部分适用于人脸图像数据的记录、存储和传输。 ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-12-05",
+      "implementDate": "2015-05-01"
+    },
+    {
+      "id": "17",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第6部分：虹膜图像数据",
+      "nameEN": "Information technology—Biometric data interchange formats—Part 6: Iris image data",
+      "standardNo": "GB/T 26237.6-2014",
+      "categoryNoCN": "L;L71,电子元器件与信息技术, 信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求",
+      "summaryAll": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求，工业机器人和工业机器人系统已在GB 11291.1中定义。集成包括以下方面： a) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废； b) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废的必要条件； c) 工业机器人系统或单元的部件设备。 本部分描述了与这些系统有关的基本危险和危险情况，并提出了消除和充分降低与这些危险相关的风险要求。虽然噪声波定为是工业机器人的一种主要危险，但是本部分不予考虑。本部\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0005\u0000\u0000\u0000\u0000舴凌\u0000\u0000\u0000\u0000\u0000\u0000￾￿凔￿￿￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-12-05",
+      "implementDate": "2015-05-01"
+    },
+    {
+      "id": "19",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第8部分：指纹型骨架数据",
+      "nameEN": "Information technology―Biometric data interchange formats―Part 8: Finger pattern skeletal data",
+      "standardNo": "GB/T 26237.8-2014",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本部分规定了基于指纹型骨架模式的指纹识别数据交换格式，适用于自动指纹识别的各种应用领域",
+      "summaryAll": "本部分规定了基于指纹型骨架模式的指纹识别数据交换格式，适用于自动指纹识别的各种应用领域。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-09-03",
+      "implementDate": "2015-02-01"
+    },
+    {
+      "id": "20",
+      "nameCN": "信息技术 生物特征识别数据交换格式 第9部分：血管图像数据",
+      "nameEN": "Information technology―Biometric data interchange formats―Part 9: Vascular image data",
+      "standardNo": "GB/T 26237.9-2014",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.020",
+      "summary": "本部分规定的信息交换格式可以记录在机器可读的媒体上，也可以在数据通信设备上进行传输。",
+      "summaryAll": "本部分规定的信息交换格式可以记录在机器可读的媒体上，也可以在数据通信设备上进行传输。 ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2014-07-08",
+      "implementDate": "2014-12-01"
+    },
+    {
+      "id": "24",
+      "nameCN": "工业机器人 用户编程指令",
+      "nameEN": "Industrial robot - User programme instruction",
+      "standardNo": "GB/T 29824-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬",
+      "summaryAll": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬运机器人、喷涂机器人、装配机器人（包含但不是全部）等工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-04-01"
+    },
+    {
+      "id": "11",
+      "nameCN": "健康信息学 电子健康记录体系架构需求",
+      "nameEN": "Health informatics - Requirements for an electronic health record architecture",
+      "standardNo": "GB/T 24466-2009",
+      "categoryNoCN": "C;C07,医药、卫生、劳动保护,医药、卫生、劳动保护综合",
+      "categoryNoIN": "35;35.240.80",
+      "summary": "本标准给出了电子健康记录体系架构(EHRA)的临床需求和技术需求集合，用于支持跨部门、",
+      "summaryAll": "本标准给出了电子健康记录体系架构(EHRA)的临床需求和技术需求集合，用于支持跨部门、跨国家和跨医疗保健服务模型使用、共享和交换电子健康记录。本标准给出了体系架构需求而不是体系架构本身。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2009-10-15",
+      "implementDate": "2009-12-01"
+    },
+    {
+      "id": "9",
+      "nameCN": "中文语音识别系统通用技术规范",
+      "nameEN": "General specification for Chinese speech recognition system",
+      "standardNo": "GB/T 21023-2007",
+      "categoryNoCN": "L;L71,电子元器件与信息技术, 信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本标准规定了中文语音识别系统的基本术语、分类、技术指标、测试方法、输入/输出以及中文语",
+      "summaryAll": "本标准规定了中文语音识别系统的基本术语、分类、技术指标、测试方法、输入/输出以及中文语音识别标准库等。　　本标准适用于各种计算机、网络和终端设备配置的中文语音识别系统。本标准的制定和实施主要用于指导中文语音识别系统的研制、应用和测试。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2007-06-29",
+      "implementDate": "2007-11-01"
+    },
+    {
+      "id": "3",
+      "nameCN": "信息技术 词汇 第29部分:人工智能 语音识别与合成",
+      "nameEN": "Information technology-Vocabulary-Part 29:Artificial intelligence-Speech recognition and synthesis",
+      "standardNo": "GB/T 5271.29-2006",
+      "categoryNoCN": "L;L60,电子元器件与信息技术,计算机",
+      "categoryNoIN": "35;35.240.20",
+      "summary": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目",
+      "summaryAll": "GB/T 5271的本部分给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　为方便将此标准翻译成其他语言，给出的定义尽可能避免语言上的特殊性。　　本部分定义了有关语音识别和语音合成的概念。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2006-03-14",
+      "implementDate": "2006-07-01"
+    }
+  ]
+}

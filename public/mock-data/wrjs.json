@@ -1,0 +1,1935 @@
+{
+  "subjectVO": {
+    "id": "249924",
+    "subjectWord": "无人驾驶",
+    "subjectWordEn": null,
+    "wiki": "无人驾驶汽车是智能汽车的一种，也称为轮式移动机器人，主要依靠车内的以计算机系统为主的智能驾驶仪来实现无人驾驶的目的。"
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"无人驾驶","type":"keyword","level":"1","colorIdx":"0"},
+      {"code":"1","name":"目标检测","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"2","name":"机器人","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"3","name":"强化学习","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"4","name":"Sebastian Thrun","type":"expert","level":"2","colorIdx":"0"},
+      {"code":"5","name":"Michael Montemerlo","type":"expert","level":"2","colorIdx":"0"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      ],
+    "expertReco": null,
+    "subjectReco": [
+      "目标检测","路径规划","多目标跟踪","同步定位和地图构建","机器人","强化学习","群体智能"
+    ],
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 47,
+        "code": 46,
+        "name": "吴恩达",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": "吴恩达1976年出生于英国。他的父母都是香港人。他曾在香港和新加坡待过一段时间，1992年毕业于新加坡莱佛士学院。1997年，他在宾夕法尼亚州匹兹堡的卡内基梅隆大学获得计算机科学学士学位。吴昌俊于1998年在麻省理工学院获得硕士学位，并于2002年在加州大学伯克利分校获得博士学位。那一年，他开始在斯坦福大学工作，目前住在加州洛斯阿尔托斯山。",
+        "layoutList": [
+          "吴恩达1976年出生于英国。他的父母都是香港人。他曾在香港和新加坡待过一段时间，1992年毕业于新加坡莱佛士学院。1997年，他在宾夕法尼亚州匹兹堡的卡内基梅隆大学获得计算机科学学士学位。吴昌俊于1998年在麻省理工学院获得硕士学位，并于2002年在加州大学伯克利分校获得博士学位。那一年，他开始在斯坦福大学工作，目前住在加州洛斯阿尔托斯山。"
+        ]
+      },
+      {
+        "id": 48,
+        "code": 47,
+        "name": "Marco Dorigo",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": "生于1961年8月26日他是布鲁瑟尔大学人工智能实验室的研究主任和联席主任，也是蚁群优化元启发式(参见麻省理工学院出版社2004年出版的一本书)的支持者，也是群体智能研究领域的创始人之一。最近，他参与了群体机器人的研究：他是欧洲委员会未来和新兴技术项目资助的两个群体机器人项目的协调人。他也是“群智能”的创始编辑和主编，这是一份主要的同行评议出版物，致力于报告研究和这一多学科领域的新发展。",
+        "layoutList": [
+          "生于1961年8月26日他是布鲁瑟尔大学人工智能实验室的研究主任和联席主任，也是蚁群优化元启发式(参见麻省理工学院出版社2004年出版的一本书)的支持者，也是群体智能研究领域的创始人之一。最近，他参与了群体机器人的研究：他是欧洲委员会未来和新兴技术项目资助的两个群体机器人项目的协调人。他也是“群智能”的创始编辑和主编，这是一份主要的同行评议出版物，致力于报告研究和这一多学科领域的新发展。"
+        ]
+      },
+      {
+        "id": 49,
+        "code": 48,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 49,
+        "name": "语义识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 50,
+        "name": "机器人",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 51,
+        "name": "群体智能",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 53,
+        "code": 52,
+        "name": "Adam Coates",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 54,
+        "code": 53,
+        "name": "Surya P. N. Singh",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 55,
+        "code": 54,
+        "name": "Christopher D. Manning",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 56,
+        "code": 55,
+        "name": "Richard Socher",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 56,
+        "name": "Mauro Birattari",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 57,
+        "name": "Simon Garnier",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 58,
+        "name": "Marco Antonio Montes de Oca",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 59,
+        "name": "Thomas Stützle",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 60,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": "Development of Autonomous Car - Part II: A Case Study on the Implementation of an Autonomous Driving System/Based on Distributed Architecture/Precise Localization of an Autonomous Car Based on Probabilistic Noise Models of Road Surface Marker Features Using Multiple Cameras/An APF and MPC combined collaborative driving controller using vehicular communication technologies/An efficient and reliable Green Light Optimal Speed Advisory system for autonomous cars/How visual motion cues can influence sickness for in-car VR/I am the passenger: Challenges in supporting AR/VR HMDs in-motion/I am the passenger: How visual motion cues can influence sickness for in-car VR",
+        "layoutList": [
+          "Development of Autonomous Car - Part II: A Case Study on the Implementation of an Autonomous Driving System",
+          "Based on Distributed Architecture",
+          "Precise Localization of an Autonomous Car Based on Probabilistic Noise Models of Road Surface Marker Features Using Multiple Cameras",
+          "An APF and MPC combined collaborative driving controller using vehicular communication technologies",
+          "An efficient and reliable Green Light Optimal Speed Advisory system for autonomous cars",
+          "How visual motion cues can influence sickness for in-car VR",
+          "I am the passenger: Challenges in supporting AR",
+          "VR HMDs in-motion",
+          "I am the passenger: How visual motion cues can influence sickness for in-car VR"
+        ]
+      },
+      {
+        "id": 62,
+        "code": 61,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": "一种面向无人驾驶车的道路交通标志识别方法/基于Zigbee与RFID的无人驾驶车辆行驶控制方法/一种通道式无人驾驶自主行驶智能公共交通系统/一种用于无人驾驶电动汽车的整车控制器/无人驾驶水面清洁电动三体船/油电混合动力无人驾驶遥感飞机/无人驾驶车辆转向系统及其控制方法",
+        "layoutList": [
+          "一种面向无人驾驶车的道路交通标志识别方法",
+          "基于Zigbee与RFID的无人驾驶车辆行驶控制方法",
+          "一种通道式无人驾驶自主行驶智能公共交通系统",
+          "一种用于无人驾驶电动汽车的整车控制器",
+          "无人驾驶水面清洁电动三体船",
+          "油电混合动力无人驾驶遥感飞机",
+          "无人驾驶车辆转向系统及其控制方法"
+        ]
+      },
+      {
+        "id": 63,
+        "code": 62,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": "Query expansion for VHR image detection/Mining large satellite image repositories using semi-supervised methods/Underground object detection based on cross correlation and Hough transform/Object detection by parts using appearance, structural and shape features/Finding objects at indoor environment combined with depth information/IAIR-CarPed: A psychophysically annotated dataset with fine-grained and layered semantic labels for object recognition/Improving sub-pixel accuracy for long range stereo",
+        "layoutList": [
+          "Query expansion for VHR image detection",
+          "Mining large satellite image repositories using semi-supervised methods",
+          "Underground object detection based on cross correlation and Hough transform",
+          "Object detection by parts using appearance, structural and shape features",
+          "Finding objects at indoor environment combined with depth information",
+          "IAIR-CarPed: A psychophysically annotated dataset with fine-grained and layered semantic labels for object recognition",
+          "Improving sub-pixel accuracy for long range stereo"
+        ]
+      },
+      {
+        "id": 64,
+        "code": 63,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": "一种运动目标检测方法及装置/基于小波降噪的LS-SVM海面小目标检测的方法/基于增强约束稀疏回归的半监督高光谱亚像元目标检测法/基于角点高斯特性分析的红外小目标检测方法/基于纹理和运动模式融合的运动目标检测算法/一种基于混合高斯模型的运动目标检测方法/基于稀疏表示和视皮层注意机制的目标检测方法",
+        "layoutList": [
+          "一种运动目标检测方法及装置",
+          "基于小波降噪的LS-SVM海面小目标检测的方法",
+          "基于增强约束稀疏回归的半监督高光谱亚像元目标检测法",
+          "基于角点高斯特性分析的红外小目标检测方法",
+          "基于纹理和运动模式融合的运动目标检测算法",
+          "一种基于混合高斯模型的运动目标检测方法",
+          "基于稀疏表示和视皮层注意机制的目标检测方法"
+        ]
+      },
+      {
+        "id": 65,
+        "code": 64,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": "The time series analysis and modeling simulation of dispensing adhesive for lay-down process of space solar cell array/Electromyography-controlled exoskeletal upper-limb-powered orthosis for exercise training after stroke\nComplementary stability and loop shaping for improved human-robot interaction/Natural orifice surgery with an endoluminal mobile robot/Image-guided robotic flexible needle steering/Localization with limited sensing/Review and synthesis of considerations in architecting heterogeneous teams of humans and robots for optimal space exploration",
+        "layoutList": [
+          "The time series analysis and modeling simulation of dispensing adhesive for lay-down process of space solar cell array",
+          "Electromyography-controlled exoskeletal upper-limb-powered orthosis for exercise training after stroke\nComplementary stability and loop shaping for improved human-robot interaction",
+          "Natural orifice surgery with an endoluminal mobile robot",
+          "Image-guided robotic flexible needle steering",
+          "Localization with limited sensing",
+          "Review and synthesis of considerations in architecting heterogeneous teams of humans and robots for optimal space exploration"
+        ]
+      },
+      {
+        "id": 66,
+        "code": 65,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": "一种基于机器人的实验台/一种三自由度并联机器人装置/一种环境检测机器人采样装置/基于麦克纳姆轮的无线视频监控移动机器人系统/机器人协焊用随动式工装/蠕虫机器人/具有运动目标检测与跟踪功能的机器人视觉系统及机器人",
+        "layoutList": [
+          "一种基于机器人的实验台",
+          "一种三自由度并联机器人装置",
+          "一种环境检测机器人采样装置",
+          "基于麦克纳姆轮的无线视频监控移动机器人系统",
+          "机器人协焊用随动式工装",
+          "蠕虫机器人",
+          "具有运动目标检测与跟踪功能的机器人视觉系统及机器人"
+        ]
+      },
+      {
+        "id": 67,
+        "code": 66,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": "Opposition-based reinforcement learning in the management of water resources/Q-learning based dynamic single machine scheduling/Dynamic parallel machine scheduling with mean weighted tardiness objective by Q-Learning/Transfer learning via inter-task mappings for temporal difference learning/Reinforcement learning for imitating constrained reaching movements/Transient and asymptotic dynamics of reinforcement learning in games/Adaptive HVDC supplementary (lamping controller based on reinforcement learning",
+        "layoutList": [
+          "Opposition-based reinforcement learning in the management of water resources",
+          "Q-learning based dynamic single machine scheduling",
+          "Dynamic parallel machine scheduling with mean weighted tardiness objective by Q-Learning",
+          "Transfer learning via inter-task mappings for temporal difference learning",
+          "Reinforcement learning for imitating constrained reaching movements",
+          "Transient and asymptotic dynamics of reinforcement learning in games",
+          "Adaptive HVDC supplementary (lamping controller based on reinforcement learning"
+        ]
+      },
+      {
+        "id": 68,
+        "code": 67,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": "基于深度强化学习的对话系统生成方法和装置/强化学习网络的训练方法、装置、训练设备及存储介质/一种基于深度强化学习的列车运行调度方法及系统/一种基于分件强化学习技术的家具布局方法及系统/一种基于注意力的深度加速强化学习的目标定位方法/基于强化学习的多径TCP传输调度方法/用于强化学习的方法和设备",
+        "layoutList": [
+          "基于深度强化学习的对话系统生成方法和装置",
+          "强化学习网络的训练方法、装置、训练设备及存储介质",
+          "一种基于深度强化学习的列车运行调度方法及系统",
+          "一种基于分件强化学习技术的家具布局方法及系统",
+          "一种基于注意力的深度加速强化学习的目标定位方法",
+          "基于强化学习的多径TCP传输调度方法",
+          "用于强化学习的方法和设备"
+        ]
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "无人驾驶",
+        "type": "keyword",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": "无人驾驶汽车是智能汽车的一种，也称为轮式移动机器人，主要依靠车内的以计算机系统为主的智能驾驶仪来实现无人驾驶的目的。",
+        "layoutList": [
+          "无人驾驶汽车是智能汽车的一种，也称为轮式移动机器人，主要依靠车内的以计算机系统为主的智能驾驶仪来实现无人驾驶的目的。"
+        ]
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "目标检测",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": "目标检测是与计算机视觉和图像处理有关的计算机技术，其涉及在数字图像和视频中检测特定类（例如人，建筑物或汽车）的语义对象的实例。经过深入研究的目标检测领域包括人脸检测和行人检测。目标检测在计算机视觉的许多领域都有应用，包括图像检索和视频监控。",
+        "layoutList": [
+          "目标检测是与计算机视觉和图像处理有关的计算机技术，其涉及在数字图像和视频中检测特定类（例如人，建筑物或汽车）的语义对象的实例。经过深入研究的目标检测领域包括人脸检测和行人检测。目标检测在计算机视觉的许多领域都有应用，包括图像检索和视频监控。"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "机器人",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": "机器人（Robot）是自动执行工作的机器装置。它既可以接受人类指挥，又可以运行预先编排的程序，也可以根据以人工智能技术制定的原则纲领行动。它的任务是协助或取代人类工作的工作，例如生产业、建筑业，或是危险的工作。",
+        "layoutList": [
+          "机器人（Robot）是自动执行工作的机器装置。它既可以接受人类指挥，又可以运行预先编排的程序，也可以根据以人工智能技术制定的原则纲领行动。它的任务是协助或取代人类工作的工作，例如生产业、建筑业，或是危险的工作。"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "强化学习",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "无人驾驶",
+        "layout": "强化学习（Reinforcement Learning, RL），又称再励学习、评价学习或增强学习，是机器学习的范式和方法论之一，用于描述和解决智能体（agent）在与环境的交互过程中通过学习策略以达成回报最大化或实现特定目标的问题。",
+        "layoutList": [
+          "强化学习（Reinforcement Learning, RL），又称再励学习、评价学习或增强学习，是机器学习的范式和方法论之一，用于描述和解决智能体（agent）在与环境的交互过程中通过学习策略以达成回报最大化或实现特定目标的问题。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "Sebastian Thrun",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": "(生于1967年5月14日)是一位来自德国的创新者(推广语言)、企业家教育家和计算机科学家。他是猫鹰公司的首席执行官，Udacity的董事长和联合创始人。在此之前，他曾任谷歌副总裁兼研究员，斯坦福大学计算机科学教授，以及卡内基梅隆大学(Carnegie Mellon University)的计算机科学教授。在google，他创建了google x和google的自动驾驶汽车团队。他也是斯坦福大学和佐治亚理工学院的兼职教授。特伦领导开发了机器人车辆斯坦利，它赢得了2005年DARPA的重大挑战，并在史密森学会的美国国家历史博物馆展出。他的团队还开发了一款名为“少年”的汽车，在2007年的DARPA大赛中名列第二。Thrun领导了google自动驾驶汽车的开发。Thrun还以他在机器人应用程序中的概率算法方面的工作而闻名。为了表彰他的贡献，在39岁的时候，他被选为国家工程学院的成员，并于2007年被选入了勒奥波特迪纳科学院。“卫报”承认他是20名“互联网自由战士”之一。2005年，科普获美国国家科学基金会(National Science Foundation)颁发的杰出5项职业奖之一，1999-2003奥林巴斯奖，德国社会表彰模式奖(2001FAST Company：2011年度外交政策杂志2012年全球前100名思想家奖max-Planck-研究奖，2011[18]首个AAAI ed Fgenbaum奖)中最具创造力的人之一。2011年，特伦被FAST公司选为商界第五位最具创造力的人，他在2012年获得了史密森尼(Smithsonian)杂志“美国教育界独创性奖”",
+        "layoutList": [
+          "(生于1967年5月14日)是一位来自德国的创新者(推广语言)、企业家教育家和计算机科学家。他是猫鹰公司的首席执行官，Udacity的董事长和联合创始人。在此之前，他曾任谷歌副总裁兼研究员，斯坦福大学计算机科学教授，以及卡内基梅隆大学(Carnegie Mellon University)的计算机科学教授。在google，他创建了google x和google的自动驾驶汽车团队。他也是斯坦福大学和佐治亚理工学院的兼职教授。特伦领导开发了机器人车辆斯坦利，它赢得了2005年DARPA的重大挑战，并在史密森学会的美国国家历史博物馆展出。他的团队还开发了一款名为“少年”的汽车，在2007年的DARPA大赛中名列第二。Thrun领导了google自动驾驶汽车的开发。Thrun还以他在机器人应用程序中的概率算法方面的工作而闻名。为了表彰他的贡献，在39岁的时候，他被选为国家工程学院的成员，并于2007年被选入了勒奥波特迪纳科学院。“卫报”承认他是20名“互联网自由战士”之一。2005年，科普获美国国家科学基金会(National Science Foundation)颁发的杰出5项职业奖之一，1999-2003奥林巴斯奖，德国社会表彰模式奖(2001FAST Company：2011年度外交政策杂志2012年全球前100名思想家奖max-Planck-研究奖，2011[18]首个AAAI ed Fgenbaum奖)中最具创造力的人之一。2011年，特伦被FAST公司选为商界第五位最具创造力的人，他在2012年获得了史密森尼(Smithsonian)杂志“美国教育界独创性奖”"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 5,
+        "name": "Michael Montemerlo",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": "他在移动机器人的有效概率方法领域做出了贡献。他就读于卡内基梅隆大学，1997年获得学士和硕士学位，2003年获得博士学位。他的论文导师是威廉·l·惠特克(William L. Whittaker)和塞巴斯蒂安·特龙(Sebastian Thrun)，两人都将指导DARPA Grand Challenge的获奖团队。在Thrun的领导下，Montemerlo成为斯坦福大学为Stanley编写软件的团队的领导者。",
+        "layoutList": [
+          "他在移动机器人的有效概率方法领域做出了贡献。他就读于卡内基梅隆大学，1997年获得学士和硕士学位，2003年获得博士学位。他的论文导师是威廉·l·惠特克(William L. Whittaker)和塞巴斯蒂安·特龙(Sebastian Thrun)，两人都将指导DARPA Grand Challenge的获奖团队。在Thrun的领导下，Montemerlo成为斯坦福大学为Stanley编写软件的团队的领导者。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 6,
+        "name": "机器人",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 8,
+        "code": 7,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 8,
+        "name": "机器人",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 9,
+        "name": "路径规划",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 10,
+        "name": "Wolfram Burgard",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 11,
+        "name": "Armin B. Cremers",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 12,
+        "name": "Silvio Savarese",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 13,
+        "name": "David Held",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 14,
+        "name": "Nicholas Roy",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 15,
+        "name": "Matt MacMahon",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 16,
+        "name": "Hendrik Dahlkamp",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 17,
+        "name": "David Stavens",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 18,
+        "name": "Ross B. Girshick",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": "2012年在芝加哥大学，在Pedro Felzenszwalb教授下完成了计算机视觉的博士学位，随后两年在Jitendra Malik领导下担任加州大学伯克利分校的博士后，从伯克利开始，我在微软研究院雷德蒙做了一年多的研究员。 现在，我作为一名研究科学家，与 Face bookai Research(Fair) 中出色的研究人员和工程师一起开始了一次新的冒险。",
+        "layoutList": [
+          "2012年在芝加哥大学，在Pedro Felzenszwalb教授下完成了计算机视觉的博士学位，随后两年在Jitendra Malik领导下担任加州大学伯克利分校的博士后，从伯克利开始，我在微软研究院雷德蒙做了一年多的研究员。 现在，我作为一名研究科学家，与 Face bookai Research(Fair) 中出色的研究人员和工程师一起开始了一次新的冒险。"
+        ]
+      },
+      {
+        "id": 20,
+        "code": 19,
+        "name": "Bastian Leibe",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": "主要研究方向:计算机视觉中的目标识别与分类，特别是与三维估计和跟踪相结合;自上而下的分割;机器学习。",
+        "layoutList": [
+          "主要研究方向:计算机视觉中的目标识别与分类，特别是与三维估计和跟踪相结合;自上而下的分割;机器学习。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 20,
+        "name": "图像识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 22,
+        "code": 21,
+        "name": "计算机视觉",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 23,
+        "code": 22,
+        "name": "路径规划",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 24,
+        "code": 23,
+        "name": "目标识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 24,
+        "name": "Kaiming He",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 25,
+        "name": "Alexander Kirillov",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 26,
+        "name": "Jitendra Malik",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 27,
+        "name": "Pablo Arbelaez",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 28,
+        "name": "Luc Van Gool",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 29,
+        "name": "Konrad Schindler",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 30,
+        "name": "Bernt Schiele",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 31,
+        "name": "Krystian Mikolajczyk",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 32,
+        "name": "Wolfram Burgard",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": "(1961年生于德国盖尔森基兴)是一名德国机器人学家。他是阿尔伯特·路德维格斯大学弗赖堡分校的正式教授，在那里他领导着自主智能系统实验室。众所周知，他对同时定位和映射(SLAM)问题做出了重大贡献，同时也为机器人技术做出了各种各样的贡献。 ",
+        "layoutList": [
+          "(1961年生于德国盖尔森基兴)是一名德国机器人学家。他是阿尔伯特·路德维格斯大学弗赖堡分校的正式教授，在那里他领导着自主智能系统实验室。众所周知，他对同时定位和映射(SLAM)问题做出了重大贡献，同时也为机器人技术做出了各种各样的贡献。 "
+        ]
+      },
+      {
+        "id": 34,
+        "code": 33,
+        "name": "Dieter Fox",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": "德国机器人专家和西雅图华盛顿大学计算机科学与工程系教授。他最令人称道的贡献等几个领域的机器人,人工智能,机器学习,无处不在的计算。Sebastian Thrun Wolfram Burgard和他是这本书的作者之一。",
+        "layoutList": [
+          "德国机器人专家和西雅图华盛顿大学计算机科学与工程系教授。他最令人称道的贡献等几个领域的机器人,人工智能,机器学习,无处不在的计算。Sebastian Thrun Wolfram Burgard和他是这本书的作者之一。"
+        ]
+      },
+      {
+        "id": 35,
+        "code": 34,
+        "name": "同步定位与地图构建",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 35,
+        "name": "贝叶斯",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 37,
+        "code": 36,
+        "name": "目标识别",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 38,
+        "code": 37,
+        "name": "多目标跟踪",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 39,
+        "code": 38,
+        "name": "Cyrill Stachniss",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 40,
+        "code": 39,
+        "name": "Giorgio Grisetti",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 40,
+        "name": "Kristian Kersting",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 41,
+        "name": "Christian Plagemann",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 42,
+        "name": "Xiaofeng Ren",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 43,
+        "name": "Liefeng Bo",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 44,
+        "name": "Armin B. Cremers",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 45,
+        "name": "Dirk Schulz",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "无人驾驶",
+        "layout": null,
+        "layoutList": null
+      }
+    ],
+    "relations": [
+      {
+        "id": 48,
+        "source": 46,
+        "target": 48
+      },
+      {
+        "id": 49,
+        "source": 46,
+        "target": 49
+      },
+      {
+        "id": 50,
+        "source": 47,
+        "target": 50
+      },
+      {
+        "id": 51,
+        "source": 47,
+        "target": 51
+      },
+      {
+        "id": 52,
+        "source": 48,
+        "target": 52
+      },
+      {
+        "id": 53,
+        "source": 48,
+        "target": 53
+      },
+      {
+        "id": 54,
+        "source": 49,
+        "target": 54
+      },
+      {
+        "id": 55,
+        "source": 49,
+        "target": 55
+      },
+      {
+        "id": 56,
+        "source": 50,
+        "target": 56
+      },
+      {
+        "id": 57,
+        "source": 50,
+        "target": 57
+      },
+      {
+        "id": 58,
+        "source": 51,
+        "target": 58
+      },
+      {
+        "id": 59,
+        "source": 51,
+        "target": 59
+      },
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 4,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "id": 60,
+        "source": 0,
+        "target": 60
+      },
+      {
+        "id": 61,
+        "source": 0,
+        "target": 61
+      },
+      {
+        "id": 18,
+        "source": 1,
+        "target": 18
+      },
+      {
+        "id": 19,
+        "source": 1,
+        "target": 19
+      },
+      {
+        "id": 62,
+        "source": 1,
+        "target": 62
+      },
+      {
+        "id": 63,
+        "source": 1,
+        "target": 63
+      },
+      {
+        "id": 32,
+        "source": 2,
+        "target": 32
+      },
+      {
+        "id": 33,
+        "source": 2,
+        "target": 33
+      },
+      {
+        "id": 64,
+        "source": 2,
+        "target": 64
+      },
+      {
+        "id": 65,
+        "source": 2,
+        "target": 65
+      },
+      {
+        "id": 46,
+        "source": 3,
+        "target": 46
+      },
+      {
+        "id": 47,
+        "source": 3,
+        "target": 47
+      },
+      {
+        "id": 66,
+        "source": 3,
+        "target": 66
+      },
+      {
+        "id": 67,
+        "source": 3,
+        "target": 67
+      },
+      {
+        "id": 6,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "id": 7,
+        "source": 4,
+        "target": 7
+      },
+      {
+        "id": 8,
+        "source": 5,
+        "target": 8
+      },
+      {
+        "id": 9,
+        "source": 5,
+        "target": 9
+      },
+      {
+        "id": 10,
+        "source": 6,
+        "target": 10
+      },
+      {
+        "id": 11,
+        "source": 6,
+        "target": 11
+      },
+      {
+        "id": 12,
+        "source": 7,
+        "target": 12
+      },
+      {
+        "id": 13,
+        "source": 7,
+        "target": 13
+      },
+      {
+        "id": 14,
+        "source": 8,
+        "target": 14
+      },
+      {
+        "id": 15,
+        "source": 8,
+        "target": 15
+      },
+      {
+        "id": 16,
+        "source": 9,
+        "target": 16
+      },
+      {
+        "id": 17,
+        "source": 9,
+        "target": 17
+      },
+      {
+        "id": 20,
+        "source": 18,
+        "target": 20
+      },
+      {
+        "id": 21,
+        "source": 18,
+        "target": 21
+      },
+      {
+        "id": 22,
+        "source": 19,
+        "target": 22
+      },
+      {
+        "id": 23,
+        "source": 19,
+        "target": 23
+      },
+      {
+        "id": 24,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 25,
+        "source": 20,
+        "target": 25
+      },
+      {
+        "id": 26,
+        "source": 21,
+        "target": 26
+      },
+      {
+        "id": 27,
+        "source": 21,
+        "target": 27
+      },
+      {
+        "id": 28,
+        "source": 22,
+        "target": 28
+      },
+      {
+        "id": 29,
+        "source": 22,
+        "target": 29
+      },
+      {
+        "id": 30,
+        "source": 23,
+        "target": 30
+      },
+      {
+        "id": 31,
+        "source": 23,
+        "target": 31
+      },
+      {
+        "id": 34,
+        "source": 32,
+        "target": 34
+      },
+      {
+        "id": 35,
+        "source": 32,
+        "target": 35
+      },
+      {
+        "id": 36,
+        "source": 33,
+        "target": 36
+      },
+      {
+        "id": 37,
+        "source": 33,
+        "target": 37
+      },
+      {
+        "id": 38,
+        "source": 34,
+        "target": 38
+      },
+      {
+        "id": 39,
+        "source": 34,
+        "target": 39
+      },
+      {
+        "id": 40,
+        "source": 35,
+        "target": 40
+      },
+      {
+        "id": 41,
+        "source": 35,
+        "target": 41
+      },
+      {
+        "id": 42,
+        "source": 36,
+        "target": 42
+      },
+      {
+        "id": 43,
+        "source": 36,
+        "target": 43
+      },
+      {
+        "id": 44,
+        "source": 37,
+        "target": 44
+      },
+      {
+        "id": 45,
+        "source": 37,
+        "target": 45
+      }
+    ]
+ ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO": [{
+		"title": "Development of Autonomous Car - Part II: A Case Study on the Implementation of an Autonomous Driving System Based on Distributed Architecture",
+		"author": "Jo.k. Kim,J. Dongchul Kim, Jang.C. Myoungho Sunwoo.",
+		"publishDate": "2015",
+		"summaryAll": "Part I of this paper proposed a development process and system platform for the development of autonomous cars based on distributed system architecture. The proposed development methodology enabled the design and development of an autonomous car with benefits such as a reduction of computational complexity, fault-tolerant characteristics, and system modularity. In present paper (Part II), a case study of the proposed development methodology are addressed by showing the implementation process of an autonomous driving system. In order to describe the implementation process intuitively, core autonomous driving algorithms (localization, perception, planning, vehicle control, and system management) are briefly introduced and applied to the implementation of an autonomous driving system. We are able to examine the advantages of a distributed system architecture and the proposed development process by conducting a case study on the autonomous system implementation. The validity of the proposed methodology is proved through the autonomous car, A1 that won the 2012 Autonomous Vehicle Competition in Korea with all missions completed."
+	},
+	{
+		"title": " Precise Localization of an Autonomous Car Based on Probabilistic Noise Models of Road Surface Marker Features Using Multiple Cameras",
+		"author": "Kichun Jo, Yongwoo Jo, Jae Kyu Suhr, Ho Gi Jung, Myoungho Sunwoo",
+		"publishDate": "2015",
+		"summaryAll": "This paper presents a Monte Carlo localization algorithm for an autonomous car based on an integration of multiple sensors data. The sensor system is composed of onboard motion sensors, a low-cost GPS receiver, a precise digital map, and multiple cameras. Data from the onboard motion sensors, such as yaw rate and wheel speeds, are used to predict the vehicle motion, and the GPS receiver is applied to establish the validation boundary of the ego-vehicle position. The digital map contains location information at the centimeter level about road surface markers (RSMs), such as lane markers, stop lines, and traffic sign markers. The multiple images from the front and rear mono-cameras and the around-view monitoring system are used to detect the RSM features. The localization algorithm updates the measurements by matching the RSM features from the cameras to the digital map based on a particle filter. Because the particle filter updates the measurements based on a probabilistic sensor model, the exact probabilistic modeling of sensor noise is a key factor to enhance the localization performance. To design the probabilistic noise model of the RSM features more explicitly, we analyze the results of the RSM feature detection for various real driving conditions. The proposed localization algorithm is verified and evaluated through experiments under various test scenarios and configurations. From the experimental results, we conclude that the presented localization algorithm based on the probabilistic noise model of RSM features provides sufficient accuracy and reliability for autonomous driving system applications."
+	},
+	{
+		"title": "An APF and MPC combined collaborative driving controller using vehicular communication technologies",
+		"author": "Huang, Z., Wu, Q., Ma, J., & Fan, S",
+		"publishDate": "2016",
+		"summaryAll": "\"Collaborative driving is a growing domain of Intelligent Transportation Systems (ITS) which"
+	},
+	{
+		"title": "An efficient and reliable Green Light Optimal Speed Advisory system for autonomous cars ",
+		"author": "Nguyen V D, Kim O T T, Dang T N",
+		"publishDate": "2016",
+		"summaryAll": "An autonomous car is a self-driving car that is to keep the human being out of the car and to relieve them from the task of driving. An autonomous car can make more convenient, safer, and less energy intensive. In addition, Green Light Optimal Speed Advisory (GLOSA) systems reduce the travel time and CO 2 emission. In this paper, we propose a novel GLOSA, called R-GLOSA system to support to autonomous cars. We assume that an autonomous car can access to all traffic light schedules that it will encounter on its route. The route is divided into each segment according to traffic lights. In each segment, an autonomous car can communicate to Road Side Units (RSUs) distributed among the road. An autonomous car collects the road information transmitted by an RSU and then, it optimizes speed in order to arrive at the intersection when the light is green. The R-GLOSA system provides an autonomous car with speed advisory for each RSU's coverage. The simulation results show that an autonomous car using R-GLOSA system outperforms in terms of travel time and waiting time compared to using single-segment and multi-segment GLOSA system."
+	},
+	{
+		"title": "How visual motion cues can influence sickness for in-car VR",
+		"author": "McGill,M,Ng,A, Brewster, S.A.",
+		"publishDate": "2017",
+		"summaryAll": "This video demonstrates our research into the use of VR Head Mounted Displays (HMDs) in-car and in-motion. Immersive HMDs offer new possibilities for entertainment and productivity during travel. However, their use is confounded by motion sickness, caused in-part by the conflict between visually and physically perceived motion. We examine how visual conveyance of motion affects motion sickness during in-car VR."
+	},
+	{
+		"title": "I am the passenger: Challenges in supporting AR VR HMDs in-motion",
+		"author": "Mark McGill, Stephen A.Brewster",
+		"publishDate": "2017",
+		"summaryAll": "This video provides an overview of our research into the use of Head Mounted Displays (HMDs) in-car and in-motion. These immersive HMDs offer new possibilities for entertainment and productivity during travel. However, their use is confounded by motion sickness, caused in-part by the conflict between visually and physically perceived motion. Moreover, consumer HMDs cannot currently distinguish between the head motion of the wearer and rotations of the car. These problems represent significant impediments to their use in-motion, which our research aims to overcome."
+	},
+	{
+		"title": "I am the passenger: How visual motion cues can influence sickness for in-car VR",
+		"author": "Mark McGill, Alexander Nq, Stephen A.Brewster",
+		"publishDate": "2017",
+		"summaryAll": "This paper explores the use of VR Head Mounted Displays (HMDs) in-car and in-motion for the first time. Immersive HMDs are becoming everyday consumer items and, as they offer new possibilities for entertainment and productivity, people will want to use them during travel in, for example, autonomous cars. However, their use is confounded by motion sickness caused in-part by the restricted visual perception of motion conflicting with physically perceived vehicle motion (accelerations/rotations detected by the vestibular system). Whilst VR HMDs restrict visual perception of motion, they could also render it virtually, potentially alleviating sensory conflict. To study this problem, we conducted the first on-road and in motion study to systematically investigate the effects of various visual presentations of the real-world motion of a car on the sickness and immersion of VR HMD wearing passengers. We established new baselines for VR in-car motion sickness, and found that there is no one best presentation with respect to balancing sickness and immersion. Instead, user preferences suggest different solutions are required for differently susceptible users to provide usable VR in-car. This work provides formative insights for VR designers and an entry point for further research into enabling use of VR HMDs, and the rich experiences they offer, when travelling."
+	}
+],
+  "patentVO": [
+    {
+      "id": "CN201910323852.7",
+      "title": "一种障碍物检测的方法及设备",
+      "summary": "本发明提供一种障碍物检测的方法及设备，用以解决现有技术中<mark class=highlight>无人驾驶</mark>车辆在行驶过程中无法精确的进行障碍物检测的问题。",
+      "summaryAll": "本发明提供一种障碍物检测的方法及设备，用以解决现有技术中无人驾驶车辆在行驶过程中无法精确的进行障碍物检测的问题。本发明确定获取第N帧点云数据时车辆对应的位置信息；根据所述位置信息在局部地图中确定检测区域，其中所述局部地图为根据连续多帧点云数据确定的鸟瞰图；基于深度神经网络模型，根据所述检测区域确定所述检测区域中的障碍物的位置信息，其中所述深度神经网络模型是通过对根据连续多帧点云数据确定的局部地图进行特征标注后训练得到的。由于局部地图是根据连续多帧点云数据确定的，点云数据稠密，确定的局部地图精准，因此检测区域精准，进而根据检测区域基于深度神经网络模型精确的确定出障碍物的位置信息。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910323852.7",
+      "applicant": "深兰人工智能芯片研究院(江苏)有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "陈海波",
+      "pct": ""
+    },
+    {
+      "id": "CN201910240770.6",
+      "title": "一种机场智能行李车及其运行方法",
+      "summary": "所述信息处理和控制模块用于接收UWB、超声波测距传感器、WIFI等信号，并进行判断处理后控制驱动机转向轮运动；本发明的优点在于：整合<mark class=highlight>无人驾驶</mark>",
+      "summaryAll": "本发明公开了一种机场智能行李车及其运行方法，行李车的前轮为用电驱动的转向轮；行李车上设有装动力电池和信息处理、控制模块、超声波测距传感器、手环卡槽、二维码、UWB手环、UWB车载信号模块和WIFI模块。WIFI模块用于与手机APP进行通信唤醒解锁。UWB车载信号模块与UWB手环之间测距，用于保持行李车自动跟随UWB手环行走；所述超声波测距传感器用于实时监测与外界物体的距离；所述信息处理和控制模块用于接收UWB、超声波测距传感器、WIFI等信号，并进行判断处理后控制驱动机转向轮运动；本发明的优点在于：整合无人驾驶、人工智能及定位传感技术，为乘客提供服务，减轻劳动量，实现科技应用为人类服务的功能。",
+      "categoryNo": "B62",
+      "patentNo": "CN201910240770.6",
+      "applicant": "尹闻晗",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "尹闻晗",
+      "pct": ""
+    },
+    {
+      "id": "CN201910245316.X",
+      "title": "无人车的车道选择方法、装置及存储介质",
+      "summary": "本发明实施例根据车道度量参数进行计算所得到的结果选择最适合行驶的车道，根据实时路况和无人车的行驶意图帮助无人车做出决策，使<mark class=highlight>无人驾驶</mark>更加安全畅通",
+      "summaryAll": "本发明实施例提出一种无人车的车道选择方法、装置及计算机可读存储介质。其中无人车的车道选择方法包括：针对主车行驶的当前路段上的每个车道分别计算车道度量参数；分别将每个车道的各个所述车道度量参数进行计算；根据所述计算的结果选择主车行驶的目标车道。本发明实施例根据车道度量参数进行计算所得到的结果选择最适合行驶的车道，根据实时路况和无人车的行驶意图帮助无人车做出决策，使无人驾驶更加安全畅通。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910245316.X",
+      "applicant": "北京百度网讯科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "李洪业",
+      "pct": ""
+    },
+    {
+      "id": "CN201910224744.4",
+      "title": "一种土壤样本自动采集钻筒",
+      "summary": "铲板组件中铲板组的五个铲板一端与壳体机构中壳体的下端内壁固接，铲板组件中套筒的上端与中轴机构的中轴下端面边缘固接；本发明安装在<mark class=highlight>无人驾驶</mark>采样车机械手上",
+      "summaryAll": "一种土壤样本自动采集钻筒属机械工程技术领域，本发明由电机Ⅰ、壳体机构、中轴机构和铲板组组成，其中电机Ⅰ的输出轴与壳体机构中顶盖的中心固接；中轴机构的中轴上端与壳体中顶盖的下端面固接；铲板组件中铲板组的五个铲板一端与壳体机构中壳体的下端内壁固接，铲板组件中套筒的上端与中轴机构的中轴下端面边缘固接；本发明安装在无人驾驶采样车机械手上，可实现对所要求深度的土壤进行取样，对地表无影响，便于自动化操作；本发明零部件位置集中，结构紧凑，体积小，钻头部分既可钻土又能实现取土工作。",
+      "categoryNo": "G01",
+      "patentNo": "CN201910224744.4",
+      "applicant": "吉林大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "刘慧力",
+      "pct": ""
+    },
+    {
+      "id": "CN201910217354.4",
+      "title": "基于多摄像头数据融合的船舶环境感知与预警系统",
+      "summary": "能够对多尺度的目标进行有效识别并且能全方位多角度实时监测船身周围状况的系统，并且该系统还能够发出合适的预警信息，为船上的驾驶人员提供参考信息及行驶应对策略或作为<mark class=highlight>无人驾驶</mark>船舶的支撑系统",
+      "summaryAll": "本发明公开了一种基于多摄像头数据融合的船舶环境感知与预警系统。本发明一种基于多摄像头数据融合的船舶环境感知与预警系统，其特征在于，包括：多个视频分析处理模块、数据中心模块和基于多摄像头数据融合的船舶监测与预警服务模块这三个模块构成。本发明的有益效果：能够对多尺度的目标进行有效识别并且能全方位多角度实时监测船身周围状况的系统，并且该系统还能够发出合适的预警信息，为船上的驾驶人员提供参考信息及行驶应对策略或作为无人驾驶船舶的支撑系统。",
+      "categoryNo": "H04",
+      "patentNo": "CN201910217354.4",
+      "applicant": "苏州大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "胡剑凌",
+      "pct": ""
+    },
+    {
+      "id": "CN201910206857.1",
+      "title": "基于人工智能的无人驾驶汽车用激光雷达防护装置",
+      "summary": "本发明提供一种基于人工智能的<mark class=highlight>无人驾驶</mark>汽车用激光雷达防护装置，包括防护箱体、防护上盖、激光雷达、防护机构和防雨机构，防护上盖设置在防护箱体上",
+      "summaryAll": "本发明提供一种基于人工智能的无人驾驶汽车用激光雷达防护装置，包括防护箱体、防护上盖、激光雷达、防护机构和防雨机构，防护上盖设置在防护箱体上，防雨机构设置在防护上盖的上表面，防护箱体内设置有放置腔，激光雷达放置在放置腔内，防护机构设置在激光雷达的一侧；防护机构包括防护板、推板、滑动杆和防护弹簧，放置腔的下表面设置有移动槽，移动槽内滑动设置有移动块，防护板设置在移动块上，放置腔的侧壁上设置有防护腔，推板一端固定设置在推板的外侧壁上，另一端通过防护弹簧安装在防护腔内，防护腔上设置有滑槽。本发明的有益效果是能够避免遇到颠簸或者急转弯时，对激光雷达造成数据产生偏差和损坏，并且还可应对不同的天气状况。",
+      "categoryNo": "B60",
+      "patentNo": "CN201910206857.1",
+      "applicant": "乌木马科技(天津)有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "付世松",
+      "pct": ""
+    },
+    {
+      "id": "CN201910206864.1",
+      "title": "安全可靠的无人驾驶汽车用激光测距仪",
+      "summary": "本发明提供一种安全可靠的<mark class=highlight>无人驾驶</mark>汽车用激光测距仪，包括防护箱体、防护上盖、激光测距仪、防护机构和卡扣机构，防护箱体内设置有放置腔",
+      "summaryAll": "本发明提供一种安全可靠的无人驾驶汽车用激光测距仪，包括防护箱体、防护上盖、激光测距仪、防护机构和卡扣机构，防护箱体内设置有放置腔，激光测距仪放置在放置腔内，防护机构设置在激光测距仪的一侧，防护上盖一端铰接在防护箱体上，另一端通过卡扣机构与防护箱体相连接；卡扣机构包括卡块、扣合板和拉杆，防护上盖上开设有第一安装腔，防护箱体上开设有第二安装腔，第一安装腔和第二安装腔相互连通，卡块固定设置在第二安装腔内，拉杆的上端部通过转轴转动设置在第一安装腔内。本发明的有益效果是能够避免松动情况的发生，便于维修，并且能够避免遇到颠簸或者急转弯时，对激光测距仪造成数据产生偏差和损坏。",
+      "categoryNo": "B60",
+      "patentNo": "CN201910206864.1",
+      "applicant": "乌木马科技(天津)有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "付世鹏",
+      "pct": ""
+    },
+    {
+      "id": "CN201910185090.9",
+      "title": "一种六轮驱动全天候无人驾驶巡逻车系统",
+      "summary": "一种六轮驱动全天候<mark class=highlight>无人驾驶</mark>巡逻车系统，包括巡逻车本体和控制系统；巡逻车本体具有前后两对驱动轮，一对驱动轮由六个直流电机进行驱动",
+      "summaryAll": "一种六轮驱动全天候无人驾驶巡逻车系统，包括巡逻车本体和控制系统；巡逻车本体具有前后两对驱动轮，一对驱动轮由六个直流电机进行驱动；直流电机连接有行星减速机；控制系统中的第一前、后方环境探测和保护系统均主要由单线激光雷达、单线激光雷达和CCD摄像机组成；第二前、后方环境探测和保护系统主要由两个微波雷达组成；前、后盲区探测和避障系统均由三个超声波传感器组成；单线激光雷达、微波雷达、无线通信模块、CCD摄像机、无线通信模块和辅控制器均与主控制器连接；超声波传感器和电机驱动器均与辅控制器连接，电机驱动器分别与六个直流电机连接。该系统稳定性、可靠性和性价比高，运算处理速度快，灵活性高，且能有效应对恶劣天气。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910185090.9",
+      "applicant": "徐州艾奇机器人科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "杨锐敏",
+      "pct": ""
+    },
+    {
+      "id": "CN201910185088.1",
+      "title": "一种新型的两轮驱动全天候无人驾驶巡逻车系统",
+      "summary": "一种新型的两轮驱动全天候<mark class=highlight>无人驾驶</mark>巡逻车系统，包括巡逻车本体和控制系统；巡逻车本体具有驱动轮和从动轮，一对驱动轮由交错设置的两个直流电机进行驱动",
+      "summaryAll": "一种新型的两轮驱动全天候无人驾驶巡逻车系统，包括巡逻车本体和控制系统；巡逻车本体具有驱动轮和从动轮，一对驱动轮由交错设置的两个直流电机进行驱动；直流电机连接有行星减速机；控制系统包括设置在顶部的CCD摄像机、设置在前部的前方环境探测和保护系统、分别设置在巡逻车本体的底部前端和底部后端的前、后盲区探测和避障系统；单线激光雷达L1、微波雷达M1、无线通信模块、和辅控制器均与主控制器连接；超声波传感器、CCD摄像机和电机驱动器均与辅控制器连接；电源分别与电机驱动器和电源转换模块连接，电源转换模块用于提供直流电源的供应。该系统稳定性、可靠性和性价比高，运算处理速度快，灵活性高，且能有效应对恶劣天气。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910185088.1",
+      "applicant": "徐州艾奇机器人科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "杨锐敏",
+      "pct": ""
+    },
+    {
+      "id": "CN201910185124.4",
+      "title": "一种两轮驱动全天候无人驾驶巡逻车系统",
+      "summary": "一种两轮驱动全天候<mark class=highlight>无人驾驶</mark>巡逻车系统，包括巡逻车本体和控制系统；巡逻车本体具有驱动轮和从动轮，一对驱动轮由两个直流电机进行驱动",
+      "summaryAll": "一种两轮驱动全天候无人驾驶巡逻车系统，包括巡逻车本体和控制系统；巡逻车本体具有驱动轮和从动轮，一对驱动轮由两个直流电机进行驱动；直流电机连接有行星减速机；控制系统中的第一前、后方环境探测和保护系统均主要由单线激光雷达、单线激光雷达和CCD摄像机组成；第二前、后方环境探测和保护系统主要由两个微波雷达组成；前、后盲区探测和避障系统均由三个超声波传感器组成；单线激光雷达、微波雷达、CCD摄像机、无线通信模块、无线通信模块和辅控制器均与主控制器连接；超声波传感器和电机驱动器均与辅控制器连接，电机驱动器分别与两个直流电机连接。该系统稳定性、可靠性和性价比高，运算处理速度快，灵活性高，且能有效应对恶劣天气。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910185124.4",
+      "applicant": "徐州艾奇机器人科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "杨锐敏",
+      "pct": ""
+    },
+    {
+      "id": "CN201910185668.0",
+      "title": "一种点对点无人驾驶交通运输系统及使用方法",
+      "summary": "本发明公开了一种点对点<mark class=highlight>无人驾驶</mark>交通运输系统及使用方法。",
+      "summaryAll": "本发明公开了一种点对点无人驾驶交通运输系统及使用方法。包括一个以上的站台，站台间经行车轨道（1）连接，行车轨道（1）上连接有能沿行车轨道（1）到达各站台的电车（2）；所述的站台包括能够依次停泊一辆以上电车（2）的泊车轨道（3），泊车轨道（3）经换向机构（4）与行车轨道（1）连接；处于岔路位置的行车轨道（1）间也经换向机构（4）连接。本发明具有运行效率高、成本低、灵活性强、经济节能和使用方便的特点。",
+      "categoryNo": "B61",
+      "patentNo": "CN201910185668.0",
+      "applicant": "贵州凯因泰科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "徐国虎",
+      "pct": ""
+    },
+    {
+      "id": "CN201910171645.4",
+      "title": "V2X系统应用在港口的方法",
+      "summary": "步骤一构建V2X系统，V2X系统包括V2V、V2I、V2P以及V2N系统：a.构建V2V系统：在港口内行驶的有人驾驶卡车和<mark class=highlight>无人驾驶</mark>卡车的车顶上安装定位装置",
+      "summaryAll": "本申请公开了一种V2X系统应用在港口的方法，包括以下步骤：步骤一构建V2X系统，V2X系统包括V2V、V2I、V2P以及V2N系统：a.构建V2V系统：在港口内行驶的有人驾驶卡车和无人驾驶卡车的车顶上安装定位装置；b.构建V2I系统：在每座岸桥和每座场桥上安装定位装置；c.构建V2P系统：在每个行走在港口的人员的安全帽上安装定位装置；以及d.构建V2N系统：通过港口内部的局域网，将每辆无人驾驶卡车连接到中控平台；步骤二数据上传：中控平台接收定位装置发出的信息；步骤三任务分配：中控平台安装有港口管理系统TOS系统，TOS系统通过匈牙利算法进行任务分配；步骤四路径规划：中控平台接收TOS系统的任务分配指令，无人驾驶卡车进行路径规划。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910171645.4",
+      "applicant": "北京主线科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "何贝",
+      "pct": ""
+    },
+    {
+      "id": "CN201910170483.2",
+      "title": "一种六轮驱动快速无人驾驶巡逻车系统及工作方法",
+      "summary": "本发明公开了一种六轮驱动快速<mark class=highlight>无人驾驶</mark>巡逻车系统及工作方法，包括六轮驱动系统、前盲区探测避障系统、后盲区探测避障系统、环境探测系统和中心控制系统",
+      "summaryAll": "本发明公开了一种六轮驱动快速无人驾驶巡逻车系统及工作方法，包括六轮驱动系统、前盲区探测避障系统、后盲区探测避障系统、环境探测系统和中心控制系统，通过前盲区探测避障系统、后盲区探测避障系统和环境探测系统实时确定巡逻车所处的位置并进行导航，同时确定周围是否存在障碍物，并将数据实时反馈给中心控制系统进行分析处理，中心控制系统控制六轮驱动系统改变巡逻车的运行状态，从而加速通过或绕过障碍物，进而保证巡逻车正常的巡逻行驶。本发明通过ARM控制器+NUC计算机+FPGA可编程控制器的三核控制保证巡逻车运行的稳定及精确导航巡逻，并且可适应室外崎岖不平路况及发生突发情况的区域。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910170483.2",
+      "applicant": "徐州艾奇机器人科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "杨锐敏",
+      "pct": ""
+    },
+    {
+      "id": "CN201910170410.3",
+      "title": "一种四轮驱动低速无人驾驶巡逻车系统及工作方法",
+      "summary": "本发明公开了一种四轮驱动低速<mark class=highlight>无人驾驶</mark>巡逻车系统及工作方法，包括四轮驱动系统、前盲区探测避障系统、后盲区探测避障系统、环境探测系统和中心控制系统",
+      "summaryAll": "本发明公开了一种四轮驱动低速无人驾驶巡逻车系统及工作方法，包括四轮驱动系统、前盲区探测避障系统、后盲区探测避障系统、环境探测系统和中心控制系统，通过前盲区探测避障系统、后盲区探测避障系统和环境探测系统实时确定巡逻车所处的位置并进行导航，同时确定周围是否存在障碍物，并将数据实时反馈给中心控制系统进行分析处理，中心控制系统控制两轮驱动系统改变巡逻车的运行状态，从而加速通过或绕过障碍物，进而保证巡逻车正常的巡逻行驶。本发明通过ARM控制器+NUC计算机的双核控制保证巡逻车运行的稳定及精确导航巡逻，并且可适应室外崎岖不平路况及发生突发情况的区域。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910170410.3",
+      "applicant": "徐州艾奇机器人科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "杨锐敏",
+      "pct": ""
+    },
+    {
+      "id": "CN201910170480.9",
+      "title": "一种两轮驱动低速无人驾驶巡逻车系统及工作方法",
+      "summary": "本发明公开了一种两轮驱动低速<mark class=highlight>无人驾驶</mark>巡逻车系统及工作方法，包括两轮驱动系统、前盲区探测避障系统、后盲区探测避障系统、环境探测系统和中心控制系统",
+      "summaryAll": "本发明公开了一种两轮驱动低速无人驾驶巡逻车系统及工作方法，包括两轮驱动系统、前盲区探测避障系统、后盲区探测避障系统、环境探测系统和中心控制系统，通过前盲区探测避障系统、后盲区探测避障系统和环境探测系统实时确定巡逻车所处的位置并进行导航，同时确定周围是否存在障碍物，并将数据实时反馈给中心控制系统进行分析处理，中心控制系统控制两轮驱动系统改变巡逻车的运行状态，从而加速通过或绕过障碍物，进而保证巡逻车正常的巡逻行驶。本发明通过ARM控制器+NUC计算机的双核控制保证巡逻车运行的稳定及精确导航巡逻，并且可适应室外崎岖不平路况及发生突发情况的区域。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910170480.9",
+      "applicant": "徐州艾奇机器人科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "杨锐敏",
+      "pct": ""
+    },
+    {
+      "id": "CN201910157957.X",
+      "title": "智能无人驾驶落叶清扫机器人",
+      "summary": "一种智能<mark class=highlight>无人驾驶</mark>落叶清扫机器人。主要机械结构包括机架、行走驱动机构、清扫机构和收集倾倒机构等几部分。",
+      "summaryAll": "一种智能无人驾驶落叶清扫机器人。主要机械结构包括机架、行走驱动机构、清扫机构和收集倾倒机构等几部分。行走驱动机构采用三轮机构，其中前轮为万向轮，两个后轮为驱动轮，采用差速转向原理。清扫机构采用了吸扫结合的方式，两边刷环形侧面的刷毛与地面成一定的角度，进行清扫作业时只有部分刷毛与地面相接触。设清扫机器人清扫作业时的行进方向为前，滚刷的旋转方向与清扫机器人前进时驱动轮的旋转方向相反，且两个边刷旋转方向相反，左侧边刷为顺时针旋转，右侧边刷为逆时针旋转。主要控制特征是由自动定位控制、路径规划控制、自动充电控制、自动启停控制和自动倾倒控制等部分组成。",
+      "categoryNo": "E01",
+      "patentNo": "CN201910157957.X",
+      "applicant": "华东交通大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "周新建",
+      "pct": ""
+    },
+    {
+      "id": "CN201910152609.3",
+      "title": "无人驾驶车辆控制方法和装置",
+      "summary": "本发明提出一种<mark class=highlight>无人驾驶</mark>车辆控制方法和装置，其中，方法包括：通过当前车辆上的电磁波收发装置接收预设距离范围内的其他车辆发送的转向信号数据",
+      "summaryAll": "本发明提出一种无人驾驶车辆控制方法和装置，其中，方法包括：通过当前车辆上的电磁波收发装置接收预设距离范围内的其他车辆发送的转向信号数据；其中，电磁波波段不包括可见光波段；通过预设的通信协议解析转向信号数据获取其他车辆的标识信息和行驶状态信息，并根据标识信息和行驶状态信息确定与当前车辆相关的目标车辆的行驶意图；根据目标车辆的行驶意图控制当前车辆行驶。由此，通过车辆上电磁波收发装置接收的转向信号数据来快速准确获取与车辆相关的目标车辆的行驶意图，从而根据目标车辆的行驶意图控制当前车辆行驶，提高了无人驾驶车辆控制的效率和可靠性。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910152609.3",
+      "applicant": "北京百度网讯科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "于宁",
+      "pct": ""
+    },
+    {
+      "id": "CN201910145227.8",
+      "title": "基于卫星导航的自动化播深调控伸缩式平台",
+      "summary": "与传统拖拉机相比重量较轻，既能减少车轮对土壤的碾压程度，又能降低作业油耗，符合资源节约型发展模式；可搭载多种不同作业模式要求的播种机具，可在<mark class=highlight>无人驾驶</mark>状态下完成农业播种工作",
+      "summaryAll": "本发明公开了一种基于卫星导航的自动化播深调控伸缩式平台，包括平台机架、自动导向行走机构、悬挂提升装置、卫星导航控制系统、液压动力系统、播深自控装置和传感器检测装置等。本发明集合了导航控制技术、机电一体化技术和传感器监测技术。自动导航技术能精准调控播种深度，有效保证播深一致性，符合精准农业的技术要求；平台机架与播种机具构成一体式刚性连接嵌套结构，可使作业过程更加平稳可靠；与传统拖拉机相比重量较轻，既能减少车轮对土壤的碾压程度，又能降低作业油耗，符合资源节约型发展模式；可搭载多种不同作业模式要求的播种机具，可在无人驾驶状态下完成农业播种工作。",
+      "categoryNo": "A01",
+      "patentNo": "CN201910145227.8",
+      "applicant": "中国农业大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "李洪文",
+      "pct": ""
+    },
+    {
+      "id": "CN201910147369.8",
+      "title": "一种基于OTA技术的无人清扫车优化方法",
+      "summary": "用户终端模块将最新数据包发送至车载终端模块，车载终端模块中包括网关，用于对接收数据包进行合法性判断，若判断为合法航线，则将驾驶航线传输至<mark class=highlight>无人驾驶</mark>汽车的车辆控制系统",
+      "summaryAll": "本发明公开一种基于OTA技术的无人清扫车优化方法，包括用户终端和与车辆控制系统连接的车载接收端，用户终端模块和车载终端模块相互通过2G/3G/4G/5G通信网络或者无线网络方式通信连接，用户终端模块将最新数据包发送至车载终端模块，车载终端模块中包括网关，用于对接收数据包进行合法性判断，若判断为合法航线，则将驾驶航线传输至无人驾驶汽车的车辆控制系统，车载终端模块还包括接收处理模块、替换更新模块以及调试模块。与现有技术相比，本发明可以及时对无人清扫车进行航线、航图及时更新，对清扫车工作模式，工作单元进行更新，节省技术人员去清扫车进行更新调试的步骤，大大减少车辆升级时间，提高车辆工作效率。",
+      "categoryNo": "H04",
+      "patentNo": "CN201910147369.8",
+      "applicant": "同济汽车设计研究院有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "陆新民",
+      "pct": ""
+    },
+    {
+      "id": "CN201910138854.9",
+      "title": "一种无人驾驶越野车跨壕沟的自动识别与控制系统及方法",
+      "summary": "本发明提供一种<mark class=highlight>无人驾驶</mark>越野车跨壕沟的自动识别与控制系统，根据车辆周围障碍物信息，通过图像处理及信息融合方法，结合车辆位姿信息计算壕沟中心线与车辆纵向轴线的夹角",
+      "summaryAll": "本发明提供一种无人驾驶越野车跨壕沟的自动识别与控制系统，根据车辆周围障碍物信息，通过图像处理及信息融合方法，结合车辆位姿信息计算壕沟中心线与车辆纵向轴线的夹角；判断模块根据壕沟的尺寸信息、壕沟中心线与车辆纵向轴线的夹角，判断车辆能否跨越壕沟，并制定跨越策略；在判断模块判定车辆能够跨越壕沟时，路径规划模块根据制定的跨越策略，规划跨越壕沟路径，确定路径点和路径点速度；路径跟踪模块按照确定的路径点和路径点速度，实时控制转向轮的转向角和驱动轮的转矩，控制车辆按照预定的跨越壕沟路径自动跨越壕沟。本发明通过图像处理和信息融合技术判断是否有壕沟，并设置对应的跨越策略，保证车辆自动跨越一定宽度范围内的壕沟。",
+      "categoryNo": "B60",
+      "patentNo": "CN201910138854.9",
+      "applicant": "武汉理工大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "付翔",
+      "pct": ""
+    },
+    {
+      "id": "CN201910136139.1",
+      "title": "无人驾驶集装箱卡车相对自动化场桥高精度定位停车方法",
+      "summary": "有益效果：本发明解决了<mark class=highlight>无人驾驶</mark>集装箱卡车在堆场作业时GPS/北斗定位误差的问题，可以实现<mark class=highlight>无人驾驶</mark>集装箱卡车和自动化场桥的相对精确定位",
+      "summaryAll": "本发明涉及一种无人驾驶集装箱卡车相对自动化场桥高精度定位停车方法，其特征是：采用激光雷达和视觉传感器将无人驾驶集装箱卡车与自动化场桥之间的相对定位区间调整至10米以内；通过自动化场桥拖挂定位检测信息，修正无人驾驶集装箱卡车与自动化场桥之间的相互位置，根据相对定位信息，利用定位有限状态机和步进停车控制器，实现无人驾驶集装箱卡车场桥作业的高精度定位。有益效果：本发明解决了无人驾驶集装箱卡车在堆场作业时GPS/北斗定位误差的问题，可以实现无人驾驶集装箱卡车和自动化场桥的相对精确定位，同时减少无人驾驶集装箱卡车位置姿态调整的次数，实现精确停车，提高自动化场桥与集装箱卡车之间完成装箱、卸箱的效率。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910136139.1",
+      "applicant": "北京主线科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "王晓东",
+      "pct": ""
+    },
+    {
+      "id": "CN201910135392.5",
+      "title": "一种智能汽车紧急制动切换控制电路",
+      "summary": "本发明智能汽车<mark class=highlight>无人驾驶</mark>状态时，能顺利实现制动的切换；如遇紧急或不可控的情况下，可以通过人工操作制动踏板动作进行紧急干预。",
+      "summaryAll": "本发明公开了一种智能汽车紧急制动切换控制电路，包括电源转换电路、主控电路，以及分别与主控电路连接的CAN接口电路、电磁离合器驱动电路、推杆电机驱动电路、电磁信号输入电路；所述电源转换电路为主控电路、电磁离合器驱动电路、推杆电机驱动电路提供稳定电源；所述电磁离合器驱动电路的输出端连接电磁离合器，所述推杆电机驱动电路连接推杆电机；所述主控电路通过CAN接口电路与外部工控机进行通信，并发出控制指令分别控制电磁离合器驱动电路驱动电磁离合器工作、控制推杆电机驱动电路推杆电机工作。本发明智能汽车无人驾驶状态时，能顺利实现制动的切换；如遇紧急或不可控的情况下，可以通过人工操作制动踏板动作进行紧急干预。",
+      "categoryNo": "B60",
+      "patentNo": "CN201910135392.5",
+      "applicant": "湖南汽车工程职业学院",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "罗洋坤",
+      "pct": ""
+    },
+    {
+      "id": "CN201910133387.0",
+      "title": "封闭园区无人驾驶车辆控制系统及方法",
+      "summary": "本发明的封闭园区<mark class=highlight>无人驾驶</mark>车辆控制系统及方法，包括差分GPS基站、路径采集装置、手持操作装置、车轮角度传感装置和车辆控制装置",
+      "summaryAll": "本发明的封闭园区无人驾驶车辆控制系统及方法，包括差分GPS基站、路径采集装置、手持操作装置、车轮角度传感装置和车辆控制装置，路径采集装置、车辆控制装置均通过接收差分GPS基站的信号来获取自身的位置信息；路径采集装置通过在封闭园区道路上行走来采集路径信息，操作人员通过手持操作装置设定车辆的行驶路径，车轮角度传感装置用于采集转向角，车辆控制装置根据获取的转向角、行驶路径来控制车辆的自动行驶。本发明的车辆控制系统及方法，车辆控制装置结合获取的车辆位置坐标、行驶路径，经车辆转向驱动器控制车辆在封闭园区内按照规划的路径行驶，为车辆的自动驾驶提供了切实可行的控制系统及控制方法，有益效果显著，适于应用推广。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910133387.0",
+      "applicant": "山东交通学院",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "潘为刚",
+      "pct": ""
+    },
+    {
+      "id": "CN201910125768.4",
+      "title": "一种无人驾驶汽车清洗烘干装置",
+      "summary": "本发明涉及一种汽车清洗装置，更具体的说是一种<mark class=highlight>无人驾驶</mark>汽车清洗烘干装置，包括移动烘干架机构、横向移动驱动机构、喷水机构、清洗轮机构",
+      "summaryAll": "本发明涉及一种汽车清洗装置，更具体的说是一种无人驾驶汽车清洗烘干装置，包括移动烘干架机构、横向移动驱动机构、喷水机构、清洗轮机构、搅拌机构、防撞机构，装置能够对无人汽车进行移动清洗，装置能够清洗不同大小的无人汽车，装置能够轻松拆卸清洗头，装置能够自动喷水，装置能够对汽车进行烘干，装置能够保证装置不动的情况下对车辆进行清洗，装置能够安全运转，装置能够保证较长时间的使用年限，装置能够搅拌清洗液，装置能够防撞，横向移动驱动机构与移动烘干架机构的连接方式为焊接，清洗轮机构与横向移动驱动机构的连接方式为焊接，喷水机构与清洗轮机构的连接方式为焊接，防撞机构设置在移动烘干架机构的两侧。",
+      "categoryNo": "B60",
+      "patentNo": "CN201910125768.4",
+      "applicant": "郭海侠",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "郭海侠",
+      "pct": ""
+    },
+    {
+      "id": "CN201910127399.2",
+      "title": "一种车速控制方法和装置",
+      "summary": "本公开涉及<mark class=highlight>无人驾驶</mark>技术领域，尤其涉及一种车速控制方法和装置。",
+      "summaryAll": "本公开涉及无人驾驶技术领域，尤其涉及一种车速控制方法和装置。包括：当车体状态正常时，基于道路安全信息，确定所述车体的第一车速；获取所述车体的行驶区间，确定所述行驶区间内的车体位姿变化量；根据所述车体位姿变化量与车体切向加速度的对应关系，确定所述行驶区间内的车体切向加速度；当所述车体切向加速度达到预设的最大切向加速度时，确定所述车体的第二车速；判断所述第二车速是否小于第一车速，如果所述第二车速小于所述第一车速，确定所述第二车速作为目标车速。本公开在保证安全行驶的的情况下，综合考虑乘客的舒适度的因素，选择满足乘客舒适性要求的目标速度，促进了无人车的实际应用。",
+      "categoryNo": "B60",
+      "patentNo": "CN201910127399.2",
+      "applicant": "苏州风图智能科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "杜新新",
+      "pct": ""
+    },
+    {
+      "id": "CN201910127246.8",
+      "title": "一种路径规划方法、装置及车辆",
+      "summary": "解决<mark class=highlight>无人驾驶</mark>车辆无法保证变道能力的问题。",
+      "summaryAll": "本发明实施例提出一种路径规划方法、装置及车辆，所述方法包括：基于起点以及终点，生成路径规划结果；其中，路径规划结果中包含有至少两条车道；且所述至少两条车道中相邻的车道为前后相邻；基于所述路径规划结果包含的至少两条车道中，每一条车道的属性、以及所述每一条车道的左右相邻关系，获取可选车道；其中，所述车道的属性包含有可变道属性以及不可变道属性；将所述可选车道添加至路径规划结果，得到扩展后的路径规划结果，在所述扩展后的路径规划结果中，确定至少一个包含属性相同车道的通行区域。解决无人驾驶车辆无法保证变道能力的问题。",
+      "categoryNo": "G01",
+      "patentNo": "CN201910127246.8",
+      "applicant": "百度在线网络技术(北京)有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "付骁鑫",
+      "pct": ""
+    },
+    {
+      "id": "CN201910127448.2",
+      "title": "基于黑名单的重导航方法、装置及存储介质",
+      "summary": "通过把障碍物所在的道路的黑名单报告给导航系统，重新触发导航规划，避开阻塞路段，针对道路阻塞情况重新给出导航规划，引导无人车继续行程，使<mark class=highlight>无人驾驶</mark>更加安全畅通",
+      "summaryAll": "本发明实施例提出一种基于黑名单的重导航方法、装置及计算机可读存储介质。其中基于黑名单的重导航方法包括：在无人车行驶过程中，检测所述无人车的前方区域是否有障碍物；若在检测到所述前方区域有障碍物，则生成与所述障碍物对应的黑名单，其中，所述黑名单中包括所述障碍物所在的道路；将所述黑名单报告给导航系统，以使导航系统根据所述障碍物所在的道路重新规划导航路线。本发明实施例在发现前方道路阻塞时，通过把障碍物所在的道路的黑名单报告给导航系统，重新触发导航规划，避开阻塞路段，针对道路阻塞情况重新给出导航规划，引导无人车继续行程，使无人驾驶更加安全畅通。",
+      "categoryNo": "G01",
+      "patentNo": "CN201910127448.2",
+      "applicant": "百度在线网络技术(北京)有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "李洪业",
+      "pct": ""
+    },
+    {
+      "id": "CN201910123222.5",
+      "title": "无人车黄灯决策方法、装置及存储介质",
+      "summary": "本发明实施例在黄灯亮起的时候对当时路况和车流情况做综合分析判断，针对黄灯给出合理的驾驶策略，优先考虑缓刹车，减少事故发生概率，使<mark class=highlight>无人驾驶</mark>更加安全畅通",
+      "summaryAll": "本发明实施例提出一种无人车黄灯决策方法、装置及计算机可读存储介质。其中无人车黄灯决策方法包括：获取路口的信号灯状态；如果所述信号灯状态为黄灯亮起，则判断缓刹车是否能使无人车在停止线前的位置停止行驶，所述缓刹车的加速度小于或等于预设的加速度阈值；若缓刹车能使无人车在停止线前的位置停止行驶，则给出缓刹车的决策。本发明实施例在黄灯亮起的时候对当时路况和车流情况做综合分析判断，针对黄灯给出合理的驾驶策略，优先考虑缓刹车，减少事故发生概率，使无人驾驶更加安全畅通。",
+      "categoryNo": "B60",
+      "patentNo": "CN201910123222.5",
+      "applicant": "百度在线网络技术(北京)有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "唐怀珠",
+      "pct": ""
+    },
+    {
+      "id": "CN201910122748.1",
+      "title": "一种基于无人驾驶的端到端模型评估方法及装置",
+      "summary": "本申请公开了一种基于<mark class=highlight>无人驾驶</mark>的端到端模型评估方法及装置，该方法包括：在获取到待评估的第一目标数据、第二目标数据、第三目标数据后",
+      "summaryAll": "本申请公开了一种基于无人驾驶的端到端模型评估方法及装置，该方法包括：在获取到待评估的第一目标数据、第二目标数据、第三目标数据后，将第二目标数据和第三目标数据输入至预先构建的速度转换模型，计算出目标无人驾驶车辆的行驶速度，然后将该行驶速度和第一目标数据输入至车辆运动学模型，得到目标无人驾驶车辆的行驶轨迹，再将该行驶轨迹与既定轨迹进行对比，并根据对比结果，对端对端模型的输出结果进行评估，以得到评估结果。可见，本申请是先利用预先构建的速度转换模型，以及车辆运动学模型，将E2E模型输出结果转换为无人驾驶车辆的行驶轨迹，再将该行驶轨迹与既定轨迹进行对比，从而可以根据对比结果对E2E模型的输出结果进行准确评估。",
+      "categoryNo": "G05",
+      "patentNo": "CN201910122748.1",
+      "applicant": "东软睿驰汽车技术(沈阳)有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "张瀚中",
+      "pct": ""
+    },
+    {
+      "id": "CN201910121815.8",
+      "title": "一种无人驾驶车辆控制方法、装置、系统及电子设备",
+      "summary": "由于在本发明中，<mark class=highlight>无人驾驶</mark>车辆控制系统采用包括主FPGA和从FPGA的FPGA阵列，避免了单芯片结构的缺陷，并提高了<mark class=highlight>无人驾驶</mark>车辆的控制效率",
+      "summaryAll": "本发明公开了一种无人驾驶车辆控制方法、装置、系统及电子设备，该系统包括：主现场可编程门阵列FPGA，第一从FPGA，和至少一个第二从FPGA，其中主FPGA和每个从FPGA之间连接；第二从FPGA向主FPGA发送自身采集的数据；主FPGA接收第二从FPGA发送的数据，并根据数据确定进行车辆控制的策略，发送策略到第一从FPGA，其中策略包括转向，刹车，油门；第一从FPGA接收主FPGA发送的策略，根据策略进行车辆控制。由于在本发明中，无人驾驶车辆控制系统采用包括主FPGA和从FPGA的FPGA阵列，避免了单芯片结构的缺陷，并提高了无人驾驶车辆的控制效率。",
+      "categoryNo": "B60",
+      "patentNo": "CN201910121815.8",
+      "applicant": "深兰人工智能芯片研究院(江苏)有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "陈海波",
+      "pct": ""
+    }
+  ],
+  "bookVO": [
+    {
+      "id": "m.20190524-HXGY-RXJC-0385",
+      "title": "智能交通与<mark class=highlight>无人驾驶</mark>",
+      "author": "黄志坚",
+      "summary": "出行者信息服务系统、城市智能公共交通系统、智能高速公路系统、车载导航系统、汽车<mark class=highlight>无人驾驶</mark>技术",
+      "summaryAll": "本书系统介绍了智能交通技术及应用。全书共7章，第1章是智能交通概述，第2章~7章分别介绍智能交通的主要分支：智能交通指挥系统、出行者信息服务系统、城市智能公共交通系统、智能高速公路系统、车载导航系统、汽车无人驾驶技术。",
+      "publisher": "化学工业出版社",
+      "categoryNo": "978-7-122-32369-9",
+      "publishDate": "2018-10-01",
+      "category": ""
+    },
+    {
+      "id": "m.20190524-HXGY-RXJC-0565",
+      "title": "电动汽车结构原理与维修",
+      "author": "曹砚奎",
+      "summary": "动力电池及动力电池管理系统、控制器、充电系统、高压系统及安全防护、空调系统、仪表显示及<mark class=highlight>无人驾驶</mark>",
+      "summaryAll": "本书阐述了电动汽车的基础知识、驱动电机、动力电池及动力电池管理系统、控制器、充电系统、高压系统及安全防护、空调系统、仪表显示及无人驾驶、故障诊断维修九个方面，介绍了电动汽车技术的特点，并与传统燃油汽车的主要零部件做了对比。",
+      "publisher": "化学工业出版社",
+      "categoryNo": "978-7-122-31817-6",
+      "publishDate": "2018-06-01",
+      "category": ""
+    },
+    {
+      "id": "m.20190522-HXGY-HFXK-0149",
+      "title": "汽车解剖书：图解汽车结构·原理·制造",
+      "author": "(日)繁浩太郎",
+      "summary": "纯电动汽车、混合动力汽车、燃料电池汽车等新能源汽车，以及汽车新技术发展(氢能源、<mark class=highlight>无人驾驶</mark>",
+      "summaryAll": "本书主要介绍了汽车发动机、传动系统、行驶系统、转向和制动系统、电气设备的结构与原理，冲压、焊接、涂装、总装等汽车制造工艺，纯电动汽车、混合动力汽车、燃料电池汽车等新能源汽车，以及汽车新技术发展(氢能源、无人驾驶、车联网)。",
+      "publisher": "化学工业出版社",
+      "categoryNo": "978-7-122-31147-4",
+      "publishDate": "2018-01-01",
+      "category": ""
+    },
+    {
+      "id": "m.20190523-HXGY-KXSJ-0309",
+      "title": "汽车智能化设计与技术",
+      "author": "陈丁跃[等]",
+      "summary": "汽车智能避撞预警技术与安全设计、汽车总体设计开发与多智能体技术、智能汽车仿真、虚拟工程及数字设计、<mark class=highlight>无人驾驶</mark>智能汽车",
+      "summaryAll": "本书全面、系统地介绍了汽车智能化设计与技术各相关知识，包括汽车智能化设计与技术基本知识、汽车智能化设计方法、汽车智能传感器与总线网络技术、汽车智能避撞预警技术与安全设计、汽车总体设计开发与多智能体技术、智能汽车仿真、虚拟工程及数字设计、无人驾驶智能汽车、未来智能汽车发展趋势等内容。",
+      "publisher": "化学工业出版社",
+      "categoryNo": "978-7-122-30735-4",
+      "publishDate": "2017-11-01",
+      "category": "交通运输|公路运输|汽车工程|汽车结构部件"
+    },
+    {
+      "id": "m.20181009-HXGY-RXJC-1973",
+      "title": "智能化浪潮：正在爆发的第四次工业革命",
+      "author": "张江健",
+      "summary": "全面介绍第四次工业革命涉及的各个技术领域发展趋势，包括时下最热门的人工智能、<mark class=highlight>无人驾驶</mark>",
+      "summaryAll": "本书以时间为主线，采用历史案例+未来趋势解读的形式，全面介绍第四次工业革命涉及的各个技术领域发展趋势，包括时下最热门的人工智能、无人驾驶、VR/AR、工业4.0、共享经济等；深入讲解人类科技发展历史的总体趋势，通过众多典型历史案例总结出人类科技发展的核心驱动力是信息、能源、交通\"三驾马车\"规律，从全球视角解读科技大趋势，激发人们对科技创新规律的思考。",
+      "publisher": "化学工业出版社",
+      "categoryNo": "978-7-122-29681-8",
+      "publishDate": "2017-09-01",
+      "category": "工业技术|自动化技术、计算机技术|自动化基础理论|人工智能理论"
+    },
+    {
+      "id": "m.20181009-HXGY-RXJC-0743",
+      "title": "现代汽车新技术解析",
+      "author": "崔胜民",
+      "summary": "汽车排放影响因素、控制途径和柴油机排气后处理技术、汽车主动安全新技术和汽车被动安全新技术、<mark class=highlight>无人驾驶</mark>汽车中的环境感知技术",
+      "summaryAll": "本书阐述了汽车节能、排放、安全标准体系和评价方法，重点讲解了发动机节能新技术、汽车轻量化节能技术和新能源节能技术、汽车排放影响因素、控制途径和柴油机排气后处理技术、汽车主动安全新技术和汽车被动安全新技术、无人驾驶汽车中的环境感知技术、导航定位技术、路径规划技术和自主循迹控制技术等。",
+      "publisher": "化学工业出版社",
+      "categoryNo": "978-7-122-26638-5",
+      "publishDate": "2016-06-01",
+      "category": "交通运输|公路运输|汽车工程"
+    },
+    {
+      "id": "m.20150610-ZLZX-889-0227",
+      "title": "前沿：科学发展最高点",
+      "author": "李奎",
+      "summary": "本书介绍了自行车的发明演变、轮胎花纹的功能、未来的新型汽车、<mark class=highlight>无人驾驶</mark>汽车、水陆两用汽车",
+      "summaryAll": "本书介绍了自行车的发明演变、轮胎花纹的功能、未来的新型汽车、无人驾驶汽车、水陆两用汽车、火车的轨道、直升机的飞升、超轻型飞机的特点、船舶的发展、船只的航行规则等内容。",
+      "publisher": "汕头大学出版社",
+      "categoryNo": "978-7-5658-1692-5",
+      "publishDate": "2015-08-10",
+      "category": ""
+    },
+    {
+      "id": "m.20140912-YKYD-889-1219",
+      "title": "见证前沿科技",
+      "author": "尹丽华",
+      "summary": "<mark class=highlight>无人驾驶</mark>汽车等内容？",
+      "summaryAll": "本书介绍了自行车的发明演变？轮胎花纹的功能？未来的新型汽车？汽车安全带的作用？多用汽车的行驶展示？无人驾驶汽车等内容？",
+      "publisher": "吉林出版集团有限责任公司",
+      "categoryNo": "978-7-5534-3253-3",
+      "publishDate": "2014-02-01",
+      "category": "自然科学总论|自然科学教育与普及|普及读物"
+    },
+    {
+      "id": "m.20140912-YKYD-889-1387",
+      "title": "科技前沿时代",
+      "author": "李岩",
+      "summary": "<mark class=highlight>无人驾驶</mark>汽车等？",
+      "summaryAll": "本书主要内容包括:自行车的演变？拖拉机的前后轮？轮胎上的花纹？未来的新型汽车？汽车安全带的作用？多用汽车的行驶道路？无人驾驶汽车等？",
+      "publisher": "武汉大学出版社",
+      "categoryNo": "978-7-307-11632-0",
+      "publishDate": "2013-09-01",
+      "category": "自然科学总论|自然科学教育与普及|普及读物"
+    },
+    {
+      "id": "m.20180903-RMCB-APAB-1511",
+      "title": "农药使用技术指南",
+      "author": "袁会珠",
+      "summary": "喷粉法、烟雾法、电热熏蒸法、静电施药技术、电动喷雾技术、轻便自走式喷杆喷雾技术、<mark class=highlight>无人驾驶</mark>直升机喷雾技术等农药使用技术",
+      "summaryAll": "本书从农药的相关理论、作用方式、剂型、药械、环境等与使用技术的关系出发，论述了农药使用中的作业效率、防治效果和环境保护之间的关系，系统介绍了农业生产、城市绿化及卫生防疫中的农药使用技术。根据作物生长发育特点，从种子、土壤、秧苗、植株、空间等不同靶标的特点介绍了种子处理、土壤消毒、茎秆涂抹、树干注射、喷雾法、喷粉法、烟雾法、电热熏蒸法、静电施药技术、电动喷雾技术、轻便自走式喷杆喷雾技术、无人驾驶直升机喷雾技术等农药使用技术。",
+      "publisher": "化学工业出版社",
+      "categoryNo": "978-7-122-11678-9",
+      "publishDate": "2011-11-01",
+      "category": "农业科学|植物保护|农药防治（化学防治）"
+    },
+    {
+      "id": "ISBN7-80607-758-8",
+      "title": "忧郁的幸福",
+      "author": "(日)松本清张 ... [等]",
+      "summary": "本书收有日本推理短篇小说：《<mark class=highlight>无人驾驶</mark>的接尸车》、《红黄相间的画笔》、《第二次手术",
+      "summaryAll": "本书收有日本推理短篇小说：《无人驾驶的接尸车》、《红黄相间的画笔》、《第二次手术》、《遗忘的雨伞》、《星期五之夜》等12篇。",
+      "publisher": "珠海出版社",
+      "categoryNo": "7-80607-758-8",
+      "publishDate": "2001-01-01",
+      "category": ""
+    },
+    {
+      "id": "m.20090616-m801-w065-039",
+      "title": "<mark class=highlight>无人驾驶</mark>飞机",
+      "author": "杨彦春",
+      "summary": "本书介绍了<mark class=highlight>无人驾驶</mark>飞机的结构特点和发展概况。",
+      "summaryAll": "本书介绍了无人驾驶飞机的结构特点和发展概况。",
+      "publisher": "国防工业出版社",
+      "categoryNo": "",
+      "publishDate": "1981-05-01",
+      "category": ""
+    }
+  ],
+  "standardVO": [
+    {
+      "id": "79",
+      "nameCN": "自动声纹（说话人识别）技术规程",
+      "nameEN": "Technology specification for automatic voiceprint recognition(speaker recognition)",
+      "standardNo": "SJ/T 11380-2008",
+      "categoryNoCN": "L;L71,电子元器件与信息技术, 信息处理技术",
+      "categoryNoIN": "35;35.040",
+      "summary": "本标准规定了声纹识别（系统）的术语与定义、数据交换格式与应用编程接口（VPR-API ",
+      "summaryAll": "本标准规定了声纹识别（系统）的术语与定义、数据交换格式与应用编程接口（VPR-API 1.0）。本标准适用于各种计算机、网络和智能设备配置的声纹识别系统。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2018-03-10",
+      "implementDate": "2018-03-10"
+    },
+    {
+      "id": "6",
+      "nameCN": "工业车辆 安全要求和验证 第1部分：自行式工业车辆（除<mark class=highlight>无人驾驶</mark>车辆、伸缩臂式叉车和载运车",
+      "nameEN": "Industrial trucks――Safety requirements and verification―Part 1: Self-propelled industrial trucks, other than driverless trucks, variable-reach trucks and burden-carrier trucks",
+      "standardNo": "GB 10827.1-2014",
+      "categoryNoCN": "J;J83,机械,通用机械与设备",
+      "categoryNoIN": "53;53.060",
+      "summary": "本部分不适用于自行式伸缩臂式叉车、<mark class=highlight>无人驾驶</mark>车辆和载运车,ISO 3691-2、",
+      "summaryAll": "GB 10827的本部分规定了如ISO 5053所定义的下列自行式工业车辆(以下简称“车辆”)的安全要求及其验证方法:a) 平衡重式叉车;b) 前移式叉车(具有可伸缩的门架或货叉架);c) 插腿式叉车;d) 托盘堆垛车;e) 高起升平台搬运车;f) 操作台起升高度不大于1 200 mm的车辆;g) 侧面式叉车(单侧);h) 侧面堆垛式叉车(两侧和三向);i) 托盘搬运车;j) 双向和多向运行叉车;k) 牵引力不大于20 000N的牵引车;l) 平衡重式越野叉车;m) 其他以蓄电池、柴油、汽油或液化石油气为动力的工业车辆。对于操作台起升高度大于1 200 mm的车辆和/或带着载荷起升至1 200 mm以上运行的车辆,本部分应与ISO 3691-3一起使用。本部分不适用于自行式伸缩臂式叉车、无人驾驶车辆和载运车,ISO 3691-2、ISO 3691-4和ISO 3691-6分别适用于这些车辆。本部分不适用于在苛刻条件下(如极端天气、冷库应用、危险环境)工作的车辆,这些情况需要有特殊防护措施。本部分涉及了除以下情形外,有关机械在制造商预期用途下使用和可预见条件下误用的,如附录B所列的所有重大危险、危险状态或危险事件。本部分不包括下列情况可能发生的危险:--在制造过程中;--搬运能自由摆动的悬吊载荷时;--在公路上使用时;--在潜在爆炸性环境中操作时;--在与货架之间的单侧间隙小于500 mm的狭窄通道上使用时;--驾驶拖曳载荷的坐驾式车辆时,由于采用非人类工效学姿势而引起;--驾驶额定起重量大于10 000 kg",
+      "draftUnit": "",
+      "mandatoryStandard": "是",
+      "status": "现行",
+      "publishDate": "2014-07-24",
+      "implementDate": "2014-12-01"
+    },
+    {
+      "id": "1",
+      "nameCN": "机器人与机器人装备 工业机器人的安全要求 第2部分：机器人系统与集成",
+      "nameEN": "Robots and robotic devices―Safety requirements for industrial robots―Part 2: Robot systems and integration",
+      "standardNo": "GB 11291.2-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求",
+      "summaryAll": "GB 11291的本部分规定了工业机器人、工业机器人系统和工业机器人单元集成的安全要求，工业机器人和工业机器人系统已在GB 11291.1中定义。集成包括以下方面： a) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废； b) 工业机器人系统或单元的设计、制造、安装、运行、维护和报废的必要条件； c) 工业机器人系统或单元的部件设备。 本部分描述了与这些系统有关的基本危险和危险情况，并提出了消除和充分降低与这些危险相关的风险要求。虽然噪声波定为是工业机器人的一种主要危险，但是本部分不予考虑。本部分也规定了对作为集成制造系统的部分的工业机器人系统的要求。本部分不专门涉及关于加工过程中的危险（如激光辐射、弹出碎片、焊接烟雾）其他标准适用于这些加工过程中的危险。",
+      "draftUnit": "",
+      "mandatoryStandard": "是",
+      "status": "现行",
+      "publishDate": "2013-12-17",
+      "implementDate": "2014-11-01"
+    },
+    {
+      "id": "7",
+      "nameCN": "工业机器人 性能规范及其试验方法",
+      "nameEN": "Industrial robots - Performance criteria and related test methods",
+      "standardNo": "GB/T 12642-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”",
+      "summaryAll": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”指的是工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-03-15"
+    },
+    {
+      "id": "24",
+      "nameCN": "工业机器人 用户编程指令",
+      "nameEN": "Industrial robot - User programme instruction",
+      "standardNo": "GB/T 29824-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬",
+      "summaryAll": "本标准规定了面向用户的工业机器人编程基本指令。 本标准适用于弧焊机器人、点焊机器人、搬运机器人、喷涂机器人、装配机器人（包含但不是全部）等工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-04-01"
+    },
+    {
+      "id": "25",
+      "nameCN": "机器人通信总线协议",
+      "nameEN": "Robot General Bus communication protocol",
+      "standardNo": "GB/T 29825-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": " 本标准规定了模块化机器人系统中的一种通信总线的数据格式和程序规范，包括协议层次、格式",
+      "summaryAll": " 本标准规定了模块化机器人系统中的一种通信总线的数据格式和程序规范，包括协议层次、格式定义、工作流程。 本标准主要适用于模块化机器人系统中不同功能模块构件之间的数据交互和信息共享。应用于非模块化机器人中的通信总线亦可参照使用本标准。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-04-01"
+    },
+    {
+      "id": "8",
+      "nameCN": "工业机器人 性能试验实施规范",
+      "nameEN": "Industrial robot - Detailed implementation specification for performance and related test",
+      "standardNo": "GB/T 20868-2007",
+      "categoryNoCN": "J;J07,机械,机械综合",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时",
+      "summaryAll": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时的实施细则和操作步骤。　　本标准供工业机器人制造厂商、试验部门、机器人用户使用。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2007-01-18",
+      "implementDate": "2007-08-01"
+    },
+    {
+      "id": "2",
+      "nameCN": "信息技术 词汇 第28部分: 人工智能 基本概念与专家系统",
+      "nameEN": "Information technology-Vocabulary-Part 28:Artificial intelligence-Basic concepts and expert system",
+      "standardNo": "GB/T 5271.28-2001",
+      "categoryNoCN": "L;L70,电子元器件与信息技术,信息处理技术",
+      "categoryNoIN": "35;35.020",
+      "summary": "为方便人工智能方面的国际交流，特制定本标准。本标准给出了与信息处理领域相关的概念的术语",
+      "summaryAll": "为方便人工智能方面的国际交流，特制定本标准。本标准给出了与信息处理领域相关的概念的术语和定义，并明确了这些条目之间的关系。　　本标准定义了有关人工智能与专家系统方面的概念。  ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2001-07-16",
+      "implementDate": "2002-03-01"
+    }
+  ]
+}

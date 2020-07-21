@@ -1,0 +1,1587 @@
+{
+  "subjectVO": {
+    "id": "3856325",
+    "subjectWord": "可解释性",
+    "subjectWordEn": null,
+    "wiki": "机器学习算法经常关心微调模型以获得最佳性能。数据科学通常被定义为：给出具有X标签的数据，并以最小误差找到模型。尽管训练高性能模型的能力对于数据科学家来说是一项关键技能，但能够从更大的角度来看是很重要的。数据和机器学习模型的可解释性是在数据科学的“有用性”中至关重要的方面之一，它确保模型与想要解决的问题保持一致。尽管在构建模型时尝试最前沿的技术可能会有很多挑战，但能够正确地解释发现是数据科学过程的重要组成部分。"
+  },
+  "mapVO": {
+    "nodes": [
+      {"code":"0","name":"可解释性","type":"keyword","level":"1","colorIdx":"0"},
+      {"code":"1","name":"知识库","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"2","name":"概率图模型","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"3","name":"决策树","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"4","name":"Francisco Herrera","type":"expert","level":"2","colorIdx":"0"},
+      {"code":"5","name":"Pieter Abbeel","type":"expert","level":"2","colorIdx":"0"}
+      ],
+    "relations": [
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"3","source":"0","target":"4"},
+      {"id":"4","source":"0","target":"5"}
+      ],
+    "expertReco": null,
+    "subjectReco": [
+      "概率图模型","知识库","决策树","回归网络","语义网","语义传感器","判别学习","强化学习"
+    ],
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "mapInfo": {
+    "nodes": [
+      {
+        "id": 67,
+        "code": 66,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": "Input Decimated Ensemble based on Neighborhood Preserving Embedding for spectrogram classification/Prediction of periventricular leukomalacia. Part II: Selection of hemodynamic features using computational intelligence/A hybrid approach to design efficient learning classifiers/Multiple ecological pathways to extinction in mammals/Research on new classifier algorithms for support vector machine/Privacy preserving C4.5 algorithm over vertically distributed datasets/Thai word segmentation with hidden markov model and decision tree",
+        "layoutList": [
+          "Input Decimated Ensemble based on Neighborhood Preserving Embedding for spectrogram classification",
+          "Prediction of periventricular leukomalacia. Part II: Selection of hemodynamic features using computational intelligence",
+          "A hybrid approach to design efficient learning classifiers",
+          "Multiple ecological pathways to extinction in mammals",
+          "Research on new classifier algorithms for support vector machine",
+          "Privacy preserving C4.5 algorithm over vertically distributed datasets",
+          "Thai word segmentation with hidden markov model and decision tree"
+        ]
+      },
+      {
+        "id": 68,
+        "code": 67,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": "基于决策树高速并行处理的网络流量在线分类方法及装置/基于二叉决策树的高光谱遥感影像分类方法/并行处理机器学习决策树训练/一种基于决策树算法的固体农药分类方法/基于决策树的攻击检测系统/建立决策树的方法及装置、网络性能优化方法及装置/一种基于动态决策树的话务峰涌呼叫优化方法",
+        "layoutList": [
+          "基于决策树高速并行处理的网络流量在线分类方法及装置",
+          "基于二叉决策树的高光谱遥感影像分类方法",
+          "并行处理机器学习决策树训练",
+          "一种基于决策树算法的固体农药分类方法",
+          "基于决策树的攻击检测系统",
+          "建立决策树的方法及装置、网络性能优化方法及装置",
+          "一种基于动态决策树的话务峰涌呼叫优化方法"
+        ]
+      },
+      {
+        "id": 1,
+        "code": 0,
+        "name": "可解释性",
+        "type": "keyword",
+        "level": 1,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": "机器学习算法经常关心微调模型以获得最佳性能。数据科学通常被定义为：'给出具有X标签的数据，并以最小误差找到模型'。尽管训练高性能模型的能力对于数据科学家来说是一项关键技能，但能够从更大的角度来看是很重要的。数据和机器学习模型的可解释性是在数据科学的 “有用性”中至关重要的方面之一，它确保模型与想要解决的问题保持一致。尽管在构建模型时尝试最前沿的技术可能会有很多挑战，但能够正确地解释发现是数据科学过程的重要组成部分。",
+        "layoutList": [
+          "机器学习算法经常关心微调模型以获得最佳性能。数据科学通常被定义为：'给出具有X标签的数据，并以最小误差找到模型'。尽管训练高性能模型的能力对于数据科学家来说是一项关键技能，但能够从更大的角度来看是很重要的。数据和机器学习模型的可解释性是在数据科学的 “有用性”中至关重要的方面之一，它确保模型与想要解决的问题保持一致。尽管在构建模型时尝试最前沿的技术可能会有很多挑战，但能够正确地解释发现是数据科学过程的重要组成部分。"
+        ]
+      },
+      {
+        "id": 2,
+        "code": 1,
+        "name": "知识库",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": "知识库（Knowledge base）是用于知识管理的一种特殊的数据库，以便于有关领域知识的采集、整理以及提取。知识库中的知识源于领域专家，它是求解问题所需领域知识的集合，包括基本事实、规则和其它有关信息。",
+        "layoutList": [
+          "知识库（Knowledge base）是用于知识管理的一种特殊的数据库，以便于有关领域知识的采集、整理以及提取。知识库中的知识源于领域专家，它是求解问题所需领域知识的集合，包括基本事实、规则和其它有关信息。"
+        ]
+      },
+      {
+        "id": 3,
+        "code": 2,
+        "name": "概率图模型",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": "概率图模型是用图来表示变量概率依赖关系的理论，结合概率论与图论的知识，利用图来表示与模型有关的变量的联合概率分布。由图灵奖获得者Pearl开发出来。概率图模型理论分为概率图模型表示理论，概率图模型推理理论和概率图模型学习理论。近10年它已成为不确定性推理的研究热点，在人工智能、机器学习和计算机视觉等领域有广阔的应用前景。",
+        "layoutList": [
+          "概率图模型是用图来表示变量概率依赖关系的理论，结合概率论与图论的知识，利用图来表示与模型有关的变量的联合概率分布。由图灵奖获得者Pearl开发出来。概率图模型理论分为概率图模型表示理论，概率图模型推理理论和概率图模型学习理论。近10年它已成为不确定性推理的研究热点，在人工智能、机器学习和计算机视觉等领域有广阔的应用前景。"
+        ]
+      },
+      {
+        "id": 4,
+        "code": 3,
+        "name": "决策树",
+        "type": "keyword",
+        "level": 2,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": "决策树(Decision Tree）是在已知各种情况发生概率的基础上，通过构成决策树来求取净现值的期望值大于等于零的概率，评价项目风险，判断其可行性的决策分析方法，是直观运用概率分析的一种图解法。由于这种决策分支画成图形很像一棵树的枝干，故称决策树。在机器学习中，决策树是一个预测模型，他代表的是对象属性与对象值之间的一种映射关系。Entropy = 系统的凌乱程度，使用算法ID3, C4.5和C5.0生成树算法使用熵。这一度量是基于信息学理论中熵的概念。",
+        "layoutList": [
+          "决策树(Decision Tree）是在已知各种情况发生概率的基础上，通过构成决策树来求取净现值的期望值大于等于零的概率，评价项目风险，判断其可行性的决策分析方法，是直观运用概率分析的一种图解法。由于这种决策分支画成图形很像一棵树的枝干，故称决策树。在机器学习中，决策树是一个预测模型，他代表的是对象属性与对象值之间的一种映射关系。Entropy = 系统的凌乱程度，使用算法ID3, C4.5和C5.0生成树算法使用熵。这一度量是基于信息学理论中熵的概念。"
+        ]
+      },
+      {
+        "id": 5,
+        "code": 4,
+        "name": "Francisco Herrera",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": "Head of the resesearh group SCI2S的负责人。曾任36名博士生导师。国际期刊《信息融合》(Elsevier)和《人工智能进展》(施普林格)主编。目前的研究方向包括软计算(包括CWW、模糊建模和进化算法)、决策、文献计量学、生物计量学、数据预处理、数据挖掘、大数据等。",
+        "layoutList": [
+          "Head of the resesearh group SCI2S的负责人。曾任36名博士生导师。国际期刊《信息融合》(Elsevier)和《人工智能进展》(施普林格)主编。目前的研究方向包括软计算(包括CWW、模糊建模和进化算法)、决策、文献计量学、生物计量学、数据预处理、数据挖掘、大数据等。"
+        ]
+      },
+      {
+        "id": 6,
+        "code": 5,
+        "name": "Pieter Abbeel",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": "PieterAbbeel是加州大学伯克利分校(UniversityofCalifornia，Berkeley)的机器人专家，以加强学习而闻名。在斯坦福大学，他在达芙妮·科勒和安德鲁·吴顾问的指导下学习了机器人技术。2008年完成博士学位后，彼得成为伯克利EECS系的助理教授，现在是伯克利人工智能研究实验室(Bair)的联席主任。2014年，他共同创立了gradescope，并于2018年被Turnitin收购。2016年，彼得加入了OpenAI，在那里他发表了几篇关于他在生成模型、机器人系统和策略梯度方面的工作的文章。2017年，他共同创立了具体化智能，后来又更名为“共变”。",
+        "layoutList": [
+          "PieterAbbeel是加州大学伯克利分校(UniversityofCalifornia，Berkeley)的机器人专家，以加强学习而闻名。在斯坦福大学，他在达芙妮·科勒和安德鲁·吴顾问的指导下学习了机器人技术。2008年完成博士学位后，彼得成为伯克利EECS系的助理教授，现在是伯克利人工智能研究实验室(Bair)的联席主任。2014年，他共同创立了gradescope，并于2018年被Turnitin收购。2016年，彼得加入了OpenAI，在那里他发表了几篇关于他在生成模型、机器人系统和策略梯度方面的工作的文章。2017年，他共同创立了具体化智能，后来又更名为“共变”。"
+        ]
+      },
+      {
+        "id": 7,
+        "code": 6,
+        "name": "数据处理",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 8,
+        "code": 7,
+        "name": "数据分析",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 9,
+        "code": 8,
+        "name": "强化学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 10,
+        "code": 9,
+        "name": "深度学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 11,
+        "code": 10,
+        "name": "Siham Tabik",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 12,
+        "code": 11,
+        "name": "SergioGonzález",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 13,
+        "code": 12,
+        "name": "Isaac Triguero",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 14,
+        "code": 13,
+        "name": "Urko Zurutuza",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 15,
+        "code": 14,
+        "name": "Chelsea Finn",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 16,
+        "code": 15,
+        "name": "Sergey Levine",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 17,
+        "code": 16,
+        "name": "Animesh Garg",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 18,
+        "code": 17,
+        "name": "Sanjay Krishnan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 19,
+        "code": 18,
+        "name": "Ian Horrocks",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": "是英国牛津大学计算机科学教授和牛津奥里尔学院研究员。他的研究重点是知识表示和推理，特别是本体语言、描述逻辑和优化的表格决策过程。",
+        "layoutList": [
+          "是英国牛津大学计算机科学教授和牛津奥里尔学院研究员。他的研究重点是知识表示和推理，特别是本体语言、描述逻辑和优化的表格决策过程。"
+        ]
+      },
+      {
+        "id": 20,
+        "code": 19,
+        "name": "Amit P. Sheth",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": "南卡罗莱纳大学人工智能研究所创始所长。他正致力于将语义增强的物理网络社会计算和智能数据结合起来，实现人类体验计算的愿景。他最近的工作重点是语义增强Web 3.0，涉及企业、社交、传感器/物联网数据以及服务和云互操作性。他早期的工作是联邦数据库、语义互操作性和工作流管理。他与临床医生和生物医学研究人员的广泛合作包括生物医学知识的发现，以及社交媒体和传感器数据的新用途，以病人为中心的护理和病人授权。他最宝贵的成就是他过去的顾问取得的非凡成功;绝大多数前19名博士顾问都有1000+的被引频次，平均每名被引频次在1800次左右，平均每名被引频次在1400次左右;3篇论文被引用超过5000次。",
+        "layoutList": [
+          "南卡罗莱纳大学人工智能研究所创始所长。他正致力于将语义增强的物理网络社会计算和智能数据结合起来，实现人类体验计算的愿景。他最近的工作重点是语义增强Web 3.0，涉及企业、社交、传感器/物联网数据以及服务和云互操作性。他早期的工作是联邦数据库、语义互操作性和工作流管理。他与临床医生和生物医学研究人员的广泛合作包括生物医学知识的发现，以及社交媒体和传感器数据的新用途，以病人为中心的护理和病人授权。他最宝贵的成就是他过去的顾问取得的非凡成功;绝大多数前19名博士顾问都有1000+的被引频次，平均每名被引频次在1800次左右，平均每名被引频次在1400次左右;3篇论文被引用超过5000次。"
+        ]
+      },
+      {
+        "id": 21,
+        "code": 20,
+        "name": "推理",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 22,
+        "code": 21,
+        "name": "本体",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 23,
+        "code": 22,
+        "name": "语义传感器",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 24,
+        "code": 23,
+        "name": "语义网",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 25,
+        "code": 24,
+        "name": "Bernardo Cuenca Grau",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 26,
+        "code": 25,
+        "name": "Boris Motik",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 27,
+        "code": 26,
+        "name": "ErnestoJiménez-Ruiz",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 28,
+        "code": 27,
+        "name": "Evgeny Kharlamov",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 29,
+        "code": 28,
+        "name": "Cory A. Henson",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 30,
+        "code": 29,
+        "name": "Krishnaprasad Thirunarayan",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 31,
+        "code": 30,
+        "name": "John A. Miller",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 32,
+        "code": 31,
+        "name": "Kunal Verma",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 33,
+        "code": 32,
+        "name": "Sebastian Thrun",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": "(生于1967年5月14日)是一位来自德国的创新者(推广语言)、企业家教育家和计算机科学家。他是猫鹰公司的首席执行官，Udacity的董事长和联合创始人。在此之前，他曾任谷歌副总裁兼研究员，斯坦福大学计算机科学教授，以及卡内基梅隆大学(Carnegie Mellon University)的计算机科学教授。在google，他创建了google x和google的自动驾驶汽车团队。他也是斯坦福大学和佐治亚理工学院的兼职教授。特伦领导开发了机器人车辆斯坦利，它赢得了2005年DARPA的重大挑战，并在史密森学会的美国国家历史博物馆展出。他的团队还开发了一款名为“少年”的汽车，在2007年的DARPA大赛中名列第二。Thrun领导了google自动驾驶汽车的开发。Thrun还以他在机器人应用程序中的概率算法方面的工作而闻名。为了表彰他的贡献，在39岁的时候，他被选为国家工程学院的成员，并于2007年被选入了勒奥波特迪纳科学院。“卫报”承认他是20名“互联网自由战士”之一。2005年，科普获美国国家科学基金会(National Science Foundation)颁发的杰出5项职业奖之一，1999-2003奥林巴斯奖，德国社会表彰模式奖(2001FAST Company：2011年度外交政策杂志2012年全球前100名思想家奖max-Planck-研究奖，2011[18]首个AAAI ed Fgenbaum奖)中最具创造力的人之一。2011年，特伦被FAST公司选为商界第五位最具创造力的人，他在2012年获得了史密森尼(Smithsonian)杂志“美国教育界独创性奖”",
+        "layoutList": [
+          "(生于1967年5月14日)是一位来自德国的创新者(推广语言)、企业家教育家和计算机科学家。他是猫鹰公司的首席执行官，Udacity的董事长和联合创始人。在此之前，他曾任谷歌副总裁兼研究员，斯坦福大学计算机科学教授，以及卡内基梅隆大学(Carnegie Mellon University)的计算机科学教授。在google，他创建了google x和google的自动驾驶汽车团队。他也是斯坦福大学和佐治亚理工学院的兼职教授。特伦领导开发了机器人车辆斯坦利，它赢得了2005年DARPA的重大挑战，并在史密森学会的美国国家历史博物馆展出。他的团队还开发了一款名为“少年”的汽车，在2007年的DARPA大赛中名列第二。Thrun领导了google自动驾驶汽车的开发。Thrun还以他在机器人应用程序中的概率算法方面的工作而闻名。为了表彰他的贡献，在39岁的时候，他被选为国家工程学院的成员，并于2007年被选入了勒奥波特迪纳科学院。“卫报”承认他是20名“互联网自由战士”之一。2005年，科普获美国国家科学基金会(National Science Foundation)颁发的杰出5项职业奖之一，1999-2003奥林巴斯奖，德国社会表彰模式奖(2001FAST Company：2011年度外交政策杂志2012年全球前100名思想家奖max-Planck-研究奖，2011[18]首个AAAI ed Fgenbaum奖)中最具创造力的人之一。2011年，特伦被FAST公司选为商界第五位最具创造力的人，他在2012年获得了史密森尼(Smithsonian)杂志“美国教育界独创性奖”"
+        ]
+      },
+      {
+        "id": 34,
+        "code": 33,
+        "name": "Christos Faloutsos",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": "在美国卡内基梅隆大学（CarnegieMellonUniversity）的一名希腊计算机科学家和一名教授，他是一名希腊计算机科学家和一名教授。他已获得国家科学基金会(1989年)颁发的总统年轻调查员奖、22份最佳论文奖和若干教学奖。他曾担任Sigkdd执行委员会的成员。他已经出版了超过300篇文章，一本专著，并持有5项专利。他的研究兴趣包括数据流和网络的数据挖掘、分形、多媒体和生物信息学数据库的索引和性能。他还收到了ACM2010SIGKDD创新奖，并于2010年被任命为ACM的研究员。",
+        "layoutList": [
+          "在美国卡内基梅隆大学（CarnegieMellonUniversity）的一名希腊计算机科学家和一名教授，他是一名希腊计算机科学家和一名教授。他已获得国家科学基金会(1989年)颁发的总统年轻调查员奖、22份最佳论文奖和若干教学奖。他曾担任Sigkdd执行委员会的成员。他已经出版了超过300篇文章，一本专著，并持有5项专利。他的研究兴趣包括数据流和网络的数据挖掘、分形、多媒体和生物信息学数据库的索引和性能。他还收到了ACM2010SIGKDD创新奖，并于2010年被任命为ACM的研究员。"
+        ]
+      },
+      {
+        "id": 35,
+        "code": 34,
+        "name": "回归网络",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 36,
+        "code": 35,
+        "name": "机器人",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 37,
+        "code": 36,
+        "name": "知识图谱",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 38,
+        "code": 37,
+        "name": "数据挖掘",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 39,
+        "code": 38,
+        "name": "Silvio Savarese",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 40,
+        "code": 39,
+        "name": "David Held",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 41,
+        "code": 40,
+        "name": "Armin B. Cremers",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 42,
+        "code": 41,
+        "name": "Dieter Fox",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 43,
+        "code": 42,
+        "name": "Namyong Park",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 44,
+        "code": 43,
+        "name": "Xin Luna Dong",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 45,
+        "code": 44,
+        "name": "Evangelos E. Papalexakis",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 46,
+        "code": 45,
+        "name": "Nicholas D. Sidiropoulos",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 47,
+        "code": 46,
+        "name": "Yishay Mansour",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": "他就职于特拉维夫大学，以色列计算机科学学院",
+        "layoutList": [
+          "他就职于特拉维夫大学，以色列计算机科学学院"
+        ]
+      },
+      {
+        "id": 48,
+        "code": 47,
+        "name": "Kevin W. Bowyer",
+        "type": "expert",
+        "level": 3,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": "KevinBowyer是巴黎圣母院计算机科学与工程系的Schubmehl-Prefin家庭教授，目前还担任工程暑期国际programs.in补充学院的主任，他在工程学院和信息部NuiGalway担任生物统计技术荣誉教授。是ieee新的生物识别、行为和身份科学交易(t-biom)的首任主编。",
+        "layoutList": [
+          "KevinBowyer是巴黎圣母院计算机科学与工程系的Schubmehl-Prefin家庭教授，目前还担任工程暑期国际programs.in补充学院的主任，他在工程学院和信息部NuiGalway担任生物统计技术荣誉教授。是ieee新的生物识别、行为和身份科学交易(t-biom)的首任主编。"
+        ]
+      },
+      {
+        "id": 49,
+        "code": 48,
+        "name": "强化学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 50,
+        "code": 49,
+        "name": "判别学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 51,
+        "code": 50,
+        "name": "图像合成",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 52,
+        "code": 51,
+        "name": "半监督学习",
+        "type": "keyword",
+        "level": 4,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 53,
+        "code": 52,
+        "name": "Aryeh Kontorovich",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 54,
+        "code": 53,
+        "name": "Idan Attias",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 55,
+        "code": 54,
+        "name": "Elad Yom-Tov",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 56,
+        "code": 55,
+        "name": "Nir Rosenfeld",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 57,
+        "code": 56,
+        "name": "Patrick J. Flynn",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 58,
+        "code": 57,
+        "name": "Walter J. Scheirer",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 59,
+        "code": 58,
+        "name": "W. Philip Kegelmeyer",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 60,
+        "code": 59,
+        "name": "Lawrence O. Hall",
+        "type": "expert",
+        "level": 5,
+        "colorIdx": 3,
+        "keyword": "可解释性",
+        "layout": null,
+        "layoutList": null
+      },
+      {
+        "id": 61,
+        "code": 60,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": "Using Explainability for Constrained Matrix Factorization/Improving the explainability of Random Forest classifier - user centered approach/Feature Engineering and Explainability with Vadalog: A Recommender Systems Application/Plan Explainability and Predictability for Cobots/Enhancing explainability of social recommendation using 2D graphs and word cloud visualizations/IMPROVED EXPLAINABILITY OF CAPSULE NETWORKS: RELEVANCE PATH BY AGREEMENT/Asking 'why' in AI: Explainability of intelligent systems - perspectives and challenges",
+        "layoutList": [
+          "Using Explainability for Constrained Matrix Factorization",
+          "Improving the explainability of Random Forest classifier - user centered approach",
+          "Feature Engineering and Explainability with Vadalog: A Recommender Systems Application",
+          "Plan Explainability and Predictability for Cobots",
+          "Enhancing explainability of social recommendation using 2D graphs and word cloud visualizations",
+          "IMPROVED EXPLAINABILITY OF CAPSULE NETWORKS: RELEVANCE PATH BY AGREEMENT",
+          "Asking 'why' in AI: Explainability of intelligent systems - perspectives and challenges"
+        ]
+      },
+      {
+        "id": 62,
+        "code": 61,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 0,
+        "keyword": "可解释性",
+        "layout": "可解释性竞争对手建模方法/一种融合用户隐式物品偏好与隐式信任的可解释推荐方法/一种融合方面信息的习题可解释推荐评分预测方法/基于细粒度数据的可解释商品推荐方法/一种基于评论的可解释推荐方法/开源社区PR评审者可解释推荐模型/基于深度模糊认知图模型的可解释预测方法",
+        "layoutList": [
+          "可解释性竞争对手建模方法",
+          "一种融合用户隐式物品偏好与隐式信任的可解释推荐方法",
+          "一种融合方面信息的习题可解释推荐评分预测方法",
+          "基于细粒度数据的可解释商品推荐方法",
+          "一种基于评论的可解释推荐方法",
+          "开源社区PR评审者可解释推荐模型",
+          "基于深度模糊认知图模型的可解释预测方法"
+        ]
+      },
+      {
+        "id": 63,
+        "code": 62,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": "Fault diagnosis of computer network based on rough sets and BP neural network/Dragon exploration system on marine sponge compounds interactions/Creating personalised clinical pathways by semantic interoperability with electronic health records/Creating and Exploiting a Hybrid Knowledge Base for Linked Data/Sharing distributed knowledge on the Web/Iindex: A knowledge-model driven index to estimate the capability of medical diagnosis systems to produce results/Web shield: A modified firewall to detect malicious request",
+        "layoutList": [
+          "Fault diagnosis of computer network based on rough sets and BP neural network",
+          "Dragon exploration system on marine sponge compounds interactions",
+          "Creating personalised clinical pathways by semantic interoperability with electronic health records",
+          "Creating and Exploiting a Hybrid Knowledge Base for Linked Data",
+          "Sharing distributed knowledge on the Web",
+          "Iindex: A knowledge-model driven index to estimate the capability of medical diagnosis systems to produce results",
+          "Web shield: A modified firewall to detect malicious request"
+        ]
+      },
+      {
+        "id": 64,
+        "code": 63,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 1,
+        "keyword": "可解释性",
+        "layout": "基于RDF知识库的语义标注方法/基于安全生产专业知识库的电网安全生产方法/一种面向领域服务目标的知识库构建方法/用于分割并使用知识库的装置及关联方法/基于统一配置库和知识库的集成化运维管理平台/一种基于知识库的FPGA故障自动诊断方法/异常处理方法、自动巡检控制台和知识库系统",
+        "layoutList": [
+          "基于RDF知识库的语义标注方法",
+          "基于安全生产专业知识库的电网安全生产方法",
+          "一种面向领域服务目标的知识库构建方法",
+          "用于分割并使用知识库的装置及关联方法",
+          "基于统一配置库和知识库的集成化运维管理平台",
+          "一种基于知识库的FPGA故障自动诊断方法",
+          "异常处理方法、自动巡检控制台和知识库系统"
+        ]
+      },
+      {
+        "id": 65,
+        "code": 64,
+        "name": "论文",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": "High-level concept annotation using ontology and probabilistic inference/Image segmentation with a unified graphical model/Color to gray: Visual cue preservation/A Hierarchical visual model for video object summarization/A hierarchical approach to simulation of the melodic harmonization process/Distributed cognitive radio network management via algorithms in probabilistic graphical models/A probabilistic-graphical-model based approach for representing lineages in uncertain data",
+        "layoutList": [
+          "High-level concept annotation using ontology and probabilistic inference",
+          "Image segmentation with a unified graphical model",
+          "Color to gray: Visual cue preservation",
+          "A Hierarchical visual model for video object summarization",
+          "A hierarchical approach to simulation of the melodic harmonization process",
+          "Distributed cognitive radio network management via algorithms in probabilistic graphical models",
+          "A probabilistic-graphical-model based approach for representing lineages in uncertain data"
+        ]
+      },
+      {
+        "id": 66,
+        "code": 65,
+        "name": "专利",
+        "type": "paper",
+        "level": 3,
+        "colorIdx": 2,
+        "keyword": "可解释性",
+        "layout": "基于概率图模型的身份盗用检测方法/基于概率图模型的配电网开关状态辨识方法/一种基于概率图模型的共享单车逆行行为实时识别方法/基于概率图模型的行为识别系统及方法、设备及存储介质/一种基于概率图模型的用户用电行为预测方法/一种基于概率图模型的目标预测跟踪方法/一种基于概率图模型的个性化旅游游记推荐方法",
+        "layoutList": [
+          "基于概率图模型的身份盗用检测方法",
+          "基于概率图模型的配电网开关状态辨识方法",
+          "一种基于概率图模型的共享单车逆行行为实时识别方法",
+          "基于概率图模型的行为识别系统及方法、设备及存储介质",
+          "一种基于概率图模型的用户用电行为预测方法",
+          "一种基于概率图模型的目标预测跟踪方法",
+          "一种基于概率图模型的个性化旅游游记推荐方法"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "id": 1,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "id": 2,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "id": 3,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "id": 4,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "id": 5,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "id": 60,
+        "source": 0,
+        "target": 60
+      },
+      {
+        "id": 61,
+        "source": 0,
+        "target": 61
+      },
+      {
+        "id": 18,
+        "source": 1,
+        "target": 18
+      },
+      {
+        "id": 19,
+        "source": 1,
+        "target": 19
+      },
+      {
+        "id": 62,
+        "source": 1,
+        "target": 62
+      },
+      {
+        "id": 63,
+        "source": 1,
+        "target": 63
+      },
+      {
+        "id": 32,
+        "source": 2,
+        "target": 32
+      },
+      {
+        "id": 33,
+        "source": 2,
+        "target": 33
+      },
+      {
+        "id": 64,
+        "source": 2,
+        "target": 64
+      },
+      {
+        "id": 65,
+        "source": 2,
+        "target": 65
+      },
+      {
+        "id": 46,
+        "source": 3,
+        "target": 46
+      },
+      {
+        "id": 47,
+        "source": 3,
+        "target": 47
+      },
+      {
+        "id": 66,
+        "source": 3,
+        "target": 66
+      },
+      {
+        "id": 67,
+        "source": 3,
+        "target": 67
+      },
+      {
+        "id": 6,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "id": 7,
+        "source": 4,
+        "target": 7
+      },
+      {
+        "id": 8,
+        "source": 5,
+        "target": 8
+      },
+      {
+        "id": 9,
+        "source": 5,
+        "target": 9
+      },
+      {
+        "id": 10,
+        "source": 6,
+        "target": 10
+      },
+      {
+        "id": 11,
+        "source": 6,
+        "target": 11
+      },
+      {
+        "id": 12,
+        "source": 7,
+        "target": 12
+      },
+      {
+        "id": 13,
+        "source": 7,
+        "target": 13
+      },
+      {
+        "id": 14,
+        "source": 8,
+        "target": 14
+      },
+      {
+        "id": 15,
+        "source": 8,
+        "target": 15
+      },
+      {
+        "id": 16,
+        "source": 9,
+        "target": 16
+      },
+      {
+        "id": 17,
+        "source": 9,
+        "target": 17
+      },
+      {
+        "id": 20,
+        "source": 18,
+        "target": 20
+      },
+      {
+        "id": 21,
+        "source": 18,
+        "target": 21
+      },
+      {
+        "id": 22,
+        "source": 19,
+        "target": 22
+      },
+      {
+        "id": 23,
+        "source": 19,
+        "target": 23
+      },
+      {
+        "id": 24,
+        "source": 20,
+        "target": 24
+      },
+      {
+        "id": 25,
+        "source": 20,
+        "target": 25
+      },
+      {
+        "id": 26,
+        "source": 21,
+        "target": 26
+      },
+      {
+        "id": 27,
+        "source": 21,
+        "target": 27
+      },
+      {
+        "id": 28,
+        "source": 22,
+        "target": 28
+      },
+      {
+        "id": 29,
+        "source": 22,
+        "target": 29
+      },
+      {
+        "id": 30,
+        "source": 23,
+        "target": 30
+      },
+      {
+        "id": 31,
+        "source": 23,
+        "target": 31
+      },
+      {
+        "id": 34,
+        "source": 32,
+        "target": 34
+      },
+      {
+        "id": 35,
+        "source": 32,
+        "target": 35
+      },
+      {
+        "id": 36,
+        "source": 33,
+        "target": 36
+      },
+      {
+        "id": 37,
+        "source": 33,
+        "target": 37
+      },
+      {
+        "id": 38,
+        "source": 34,
+        "target": 38
+      },
+      {
+        "id": 39,
+        "source": 34,
+        "target": 39
+      },
+      {
+        "id": 40,
+        "source": 35,
+        "target": 40
+      },
+      {
+        "id": 41,
+        "source": 35,
+        "target": 41
+      },
+      {
+        "id": 42,
+        "source": 36,
+        "target": 42
+      },
+      {
+        "id": 43,
+        "source": 36,
+        "target": 43
+      },
+      {
+        "id": 44,
+        "source": 37,
+        "target": 44
+      },
+      {
+        "id": 45,
+        "source": 37,
+        "target": 45
+      },
+      {
+        "id": 48,
+        "source": 46,
+        "target": 48
+      },
+      {
+        "id": 49,
+        "source": 46,
+        "target": 49
+      },
+      {
+        "id": 50,
+        "source": 47,
+        "target": 50
+      },
+      {
+        "id": 51,
+        "source": 47,
+        "target": 51
+      },
+      {
+        "id": 52,
+        "source": 48,
+        "target": 52
+      },
+      {
+        "id": 53,
+        "source": 48,
+        "target": 53
+      },
+      {
+        "id": 54,
+        "source": 49,
+        "target": 54
+      },
+      {
+        "id": 55,
+        "source": 49,
+        "target": 55
+      },
+      {
+        "id": 56,
+        "source": 50,
+        "target": 56
+      },
+      {
+        "id": 57,
+        "source": 50,
+        "target": 57
+      },
+      {
+        "id": 58,
+        "source": 51,
+        "target": 58
+      },
+      {
+        "id": 59,
+        "source": 51,
+        "target": 59
+      }
+    ]
+  ,
+    "expertReco": null,
+    "subjectReco": null,
+    "journalsReco": null,
+    "institutionsReco": null
+  },
+  "paperVO":[{
+		"title": "Using Explainability for Constrained Matrix Factorization",
+		"author": "Behnoush Abdollahi, Olfa Nasraoui",
+		"publishDate": "2017",
+		"summaryAll": "Accurate model-based Collaborative Filtering (CF) approaches, such as Matrix Factorization (MF), tend to be black-box machine learning models that lack interpretability and do not provide a straightforward explanation for their outputs. Yet explanations have been shown to improve the transparency of a recommender system by justifying recommendations, and this in turn can enhance the user's trust in the recommendations. Hence, one main challenge in designing a recommender system is mitigating the trade-off between an explainable technique with moderate prediction accuracy and a more accurate technique with no explainable recommendations. In this paper, we focus on factorization models and further assume the absence of any additional data source, such as item content or user attributes. We propose an explainability constrained MF technique that computes the top-n recommendation list from items that are explainable. Experimental results show that our method is effective in generating accurate and explainable recommendations."
+	},
+	{
+		"title": "Improving the explainability of Random Forest classifier - user centered approach",
+		"author": "Draqutin Petkovic, Altman Russ, Wong Mike, Vigil Arthur",
+		"publishDate": "2018",
+		"summaryAll": "Machine Learning (ML) methods are now influencing major decisions about patient care, new medical methods, drug development and their use and importance are rapidly increasing in all areas. However, these ML methods are inherently complex and often difficult to understand and explain resulting in barriers to their adoption and validation. Our work (RFEX) focuses on enhancing Random Forest (RF) classifier explainability by developing easy to interpret explainability summary reports from trained RF classifiers as a way to improve the explainability for (often non-expert) users. RFEX is implemented and extensively tested on Stanford FEATURE data where RF is tasked with predicting functional sites in 3D molecules based on their electrochemical signatures (features). In developing RFEX method we apply user-centered approach driven by explainability questions and requirements collected by discussions with interested practitioners. We performed formal usability testing with 13 expert and non-expert users to verify RFEX usefulness. Analysis of RFEX explainability report and user feedback indicates its usefulness in significantly increasing explainability and user confidence in RF classification on FEATURE data. Notably, RFEX summary reports easily reveal that one needs very few (from 2-6 depending on a model) top ranked features to achieve 90% or better of the accuracy when all 480 features are used."
+	},
+	{
+		"title": "Feature Engineering and Explainability with Vadalog: A Recommender Systems Application",
+		"author": "Jack Clearman, Ruslan R. Fayzrakhmanov, Georg Gottlob, YavorNenov, St ́ephane Reissfelder, Emanuel Sallinger,Evgeny Sherkhonov",
+		"publishDate": "2018",
+		"summaryAll": "Vadalog  is an extension of Datalog that features existential rules and a richset of functions, libraries, and methods for connecting to external data sources,which make it a powerful tool for building advanced industrial AI applications[1]. Vadalog forms the core of an ongoing research collaboration between theUniversity of Oxford and the media intelligence company Meltwater, that aimsat a recommender system for the most relevant insights about companies fromoutside data, including Meltwater’s repository of millions of news articles. Inthis application paper, we demonstrate various aspects of such a recommendersystem in the movies domain, and show how Vadalog can be used for featureengineering and the computation of explainable recommendations."
+	},
+	{
+		"title": "Plan Explainability and Predictability for Cobots",
+		"author": "Yu Zhang, Hankz Hankui Zhuo, Subbarao Kambhampati",
+		"publishDate": "2015",
+		"summaryAll": "Robots are becoming pervasive in human populated environments. A desirable capability of these robots (cobots) is to respond to goal-oriented commands by autonomously constructing plans. However, such autonomy can add significant cognitive load and even potentially introduce safety risks to the humans when robots choose their plans unexpectedly. As a result, for cobots to be more helpful, one important requirement is for them to synthesize plans that do not {it surprise} the humans. While there are previous works that studied socially acceptable robots which discuss ``natural waysu0027u0027 for cobots to interact with humans, there still lacks a general solution, especially for cobots that can construct their own plans. In this paper, we introduce the notions of plan {it explainability} and {it predictability}. To compute these measures, first, we postulate that humans understand robot plans by associating high level tasks with robot actions, which can be considered as a labeling process. We learn the labeling scheme of humans for robot plans from training examples using conditional random fields (CRFs). Then, we use the learned model to label a new plan to compute its explainability and predictability. These measures can be used by cobots to proactively choose plans, or directly incorporated into the planning process to generate plans that are more explainable and predictable. We provide an evaluation on a synthetic dataset to demonstrate the effectiveness of our approach."
+	},
+	{
+		"title": "Enhancing explainability of social recommendation using 2D graphs and word cloud visualizations",
+		"author": "Peter Brusilocsky, Einat Minkov, Tsvi Kuflik",
+		"publishDate": "2019",
+		"summaryAll": "Explainability is an important desired property of recommendation systems. We consider a graph-based recommendation approach, which generates detailed explanations to users in the form of labelled connecting relational paths and present a visualization interface intended to convey such detailed relational information in clear and intuitive manner. As initial evaluation, we performed a user study at an academic conference, recommending participants the users may be interested to meet (using <u>rsr.cloud</u>). The feedbacks were enthusiastic, indicating that the proposed visualizations of relational explanations are engaging and useful. "
+	},
+	{
+		"title": "IMPROVED EXPLAINABILITY OF CAPSULE NETWORKS: RELEVANCE PATH BY AGREEMENT",
+		"author": "Atefeh Shahroudnejad, Arash Mohammadi, Konstantinos N. Plataniotis",
+		"publishDate": "2018",
+		"summaryAll": "Recent advancements in signal processing domain have resulted in a surge of interest in deep neural networks (DNNs) due to their unprecedented performance and high accuracy for challenging problems of significant engineering importance. However, when such deep learning architectures are utilized for making critical decisions such as the ones that involve human lives (e.g., in medical applications), it is of paramount importance to understand, trust, and in one word \"explain\" the rational behind deep models’ decisions. Generally, DNNs are considered as black-box systems, which do not provide any clue on their internal processing actions. Although some recent efforts have been initiated to explain behavior/decisions of deep networks, explainable artificial intelligence (XAI) domain is still in its infancy. In this regard, we consider capsule networks (referred to as CapsNets), which are novel deep structures; recently proposed as an alternative counterpart to convolutional neural networks (CNNs), and posed to change the future of machine intelligence. In this paper, we investigate and analyze structure and behavior of CapsNets and illustrate potential explainability properties of such networks. Furthermore, we show possibility of transforming deep architectures in to transparent networks via incorporation of capsules in different layers instead of convolution layers of the CNNs."
+	},
+	{
+		"title": "Asking 'why' in AI: Explainability of intelligent systems - perspectives and challenges",
+		"author": "Preece, A",
+		"publishDate": "2018",
+		"summaryAll": "Recent rapid progress in machine learning (ML), particularly so‐called ‘deep learning’, has led to a resurgence in interest in explainability of artificial intelligence (AI) systems, reviving an area of research dating back to the 1970s. The aim of this article is to view current issues concerning ML‐based AI systems from the perspective of classical AI, showing that the fundamental problems are far from new, and arguing that elements of that earlier work offer routes to making progress towards explainable AI today."
+	}
+],
+  "patentVO": [
+    {
+      "id": "CN201910056918.0",
+      "title": "规则提取方法、计算机可读存储介质及计算机设备",
+      "summary": "，确保规则的可<mark class=highlight>解释性</mark>及稳定性。",
+      "summaryAll": "本发明提供了一种基于机器学习的规则提取方法，所述规则提取方法包括：获取输入到已训练好的机器学习树模型中的各个样本在所述机器学习树模型中的路径，所述路径由其对应的样本经历的节点构成；根据所述路径获取所述路径对应的各个节点的规则评价值；将所有路径对应的所有节点中的稀疏节点过滤去除，以将剩余的节点确定为目标节点；根据目标节点和所述规则评价值提取出所需的规则。本发明的规则提取方法使得规则定制不再只是依赖于人的经验及教训，机器学习方法可最大借助计算机的算力，深度挖掘高维海量数据间的关系定制规则，确保规则的可解释性及稳定性。同时，本发明的规则提取方法可实现快速迭代，大大减少规则定制时间，最大程度减少损失。",
+      "categoryNo": "G06",
+      "patentNo": "CN201910056918.0",
+      "applicant": "深圳魔数智擎科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "柴磊",
+      "pct": ""
+    },
+    {
+      "id": "CN201811600251.8",
+      "title": "一种面向在线学习的学生积极度确定系统",
+      "summary": "本发明模块与业务规则高度结合，一方面使系统确定的积极度分值具有较高<mark class=highlight>解释性</mark>，<mark class=highlight>可</mark>提示分值高或低的原因以及提高分值的途径；另一方面可通过修改业务规则实现不同的积极度评分效果",
+      "summaryAll": "本发明提出了一种面向在线学习的学生积极度确定系统，为参与在线学习的学生提供了一种定量的学习积极性度量方法，能够将学生的在线学习行为，如登录次数、登录时长等量化为一个反映学生学习积极性的分值，为激励学生学习、辅助教育管理决策等提供更准确更客观的参考依据。该系统包含数据加载模块、预处理模块、积极度计算模块、积极度惩罚模块和积极度输出模块。本发明模块与业务规则高度结合，一方面使系统确定的积极度分值具有较高解释性，可提示分值高或低的原因以及提高分值的途径；另一方面可通过修改业务规则实现不同的积极度评分效果，满足多种业务场景需要。",
+      "categoryNo": "G06",
+      "patentNo": "CN201811600251.8",
+      "applicant": "中国科学院软件研究所",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "白琳",
+      "pct": ""
+    },
+    {
+      "id": "CN201811317051.1",
+      "title": "一种基于竞争重构学习的半监督异常检测方法",
+      "summary": "本发明方法框架简单、使用方便、<mark class=highlight>可</mark>扩展性强、可<mark class=highlight>解释性</mark>强，在七个主流异常检测数据集进行了实验，达到或超过现有最好方法的水平。",
+      "summaryAll": "本发明属于机器学习技术领域，具体为一种基于竞争重构学习的半监督异常检测方法。本发明设计两个解码器对样本数据进行竞争重构，它们共享一个编码器以使得数据映射到同一个子空间中，在正样本的标签信息的辅助下，正样本解码器会对正样本有更小的重构误差，而负样本（异常数据）解码器对负样本的重构误差会更小。本发明方法框架简单、使用方便、可扩展性强、可解释性强，在七个主流异常检测数据集进行了实验，达到或超过现有最好方法的水平。本发明能够为计算机视觉、数据挖掘等领域，提供基础框架和算法的支持。",
+      "categoryNo": "G06",
+      "patentNo": "CN201811317051.1",
+      "applicant": "复旦大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "周水庚",
+      "pct": ""
+    },
+    {
+      "id": "CN201810991742.3",
+      "title": "仿生系统的脉冲神经元信号发生电路基于忆阻的实现方法",
+      "summary": "采用上述技术方案后，本发明有益效果为：它兼顾硬件<mark class=highlight>可</mark>实现性和生物可<mark class=highlight>解释性</mark>两方面，搭建脉冲神经元信号发生电路，并且保证神经元前后脉冲的一致性",
+      "summaryAll": "仿生系统的脉冲神经元信号发生电路基于忆阻的实现方法,它涉及人工智能领域，具体涉及仿生系统的脉冲神经元信号发生电路基于忆阻的实现方法，它将忆阻器内化为电路的非线性部分，用来模拟生物细胞膜的离子通透性，PART1是电路的输入部分，PARTII是反馈控制部分，PARTIII是输出部分，电路的动态特性描述如下：电流I代表神经元接受来自其他神经元总的电流输入，初始时晶体管T1，T3，CT1、CT2的P通路导通，其余晶体管断路，比较器CP输出电位Vo1和求和电路输出电位Vo2为低电平，电容Cm的电位代表神经元的膜电位，初始为0V，AP的输出Vo2是对Vo1的多延时求和。采用上述技术方案后，本发明有益效果为：它兼顾硬件可实现性和生物可解释性两方面，搭建脉冲神经元信号发生电路，并且保证神经元前后脉冲的一致性。",
+      "categoryNo": "G06",
+      "patentNo": "CN201810991742.3",
+      "applicant": "博瓦(武汉)科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "赵亮",
+      "pct": ""
+    },
+    {
+      "id": "CN201810942135.8",
+      "title": "一种基于网络表示学习的推荐方法、系统及电子设备",
+      "summary": "本申请减缓了协同过滤的稀疏性问题，使推荐系统的<mark class=highlight>解释性</mark>更强，大大缓解了协同过滤中<mark class=highlight>可</mark>扩展性的问题。",
+      "summaryAll": "本申请涉及一种基于网络表示学习的推荐方法、系统及电子设备。该方法包括：步骤a：基于二分图网络和单射影图构建用户‑物品同现网络；步骤b：针对所述用户‑物品共现网络定义搜索策略，得到每个用户节点和物品节点的邻居节点；步骤c：根据每个用户节点和物品节点以及各自的邻居节点，使用网络表示学习得到每个用户节点和物品节点的向量表示；步骤d：根据所述每个用户节点和物品节点的向量表示，通过向量计算得到每个用户节点最相关的物品节点，并根据计算结果向每个用户推荐最相关的物品。本申请减缓了协同过滤的稀疏性问题，使推荐系统的解释性更强，大大缓解了协同过滤中可扩展性的问题。",
+      "categoryNo": "G06",
+      "patentNo": "CN201810942135.8",
+      "applicant": "深圳先进技术研究院",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "张雪健",
+      "pct": ""
+    },
+    {
+      "id": "CN201810486290.3",
+      "title": "一种基于全局语义一致网络的零样本学习方法",
+      "summary": "本发明方法框架简单、使用方便、<mark class=highlight>可</mark>扩展性强、可<mark class=highlight>解释性</mark>强，并在三个主流视觉属性数据集的零样本分类和泛化零样本分类两大任务的结果上",
+      "summaryAll": "本发明属于机器学习技术领域，具体为一种基于全局语义一致网络的零样本学习方法。本发明将全体类的语义信息作为全连接层权重加入到深度学习框架，并采用两个全连接对应积乘积的非线性自加权结构和交叉熵损失函数，建立全局语义一致网络GSC‑Net，通过GSC‑Net实现端到端的零样本学习。本发明方法框架简单、使用方便、可扩展性强、可解释性强，并在三个主流视觉属性数据集的零样本分类和泛化零样本分类两大任务的结果上，都远远超过了现有方法。本发明能够为计算机视觉、自然语言处理和推荐系统等涉及到零样本学习的领域，提供基础框架和算法的支持，也能很容易地扩展到开放集识别、增量学习和在线学习等问题。",
+      "categoryNo": "G06",
+      "patentNo": "CN201810486290.3",
+      "applicant": "复旦大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "吴凡",
+      "pct": ""
+    },
+    {
+      "id": "CN201711335437.0",
+      "title": "一种用于简体中文可读性测度的线性模型方法",
+      "summary": "该模型拟合度高，可<mark class=highlight>解释性</mark>强，并且对于评测应用文本的可读性具有<mark class=highlight>可</mark>扩展性和重要参考价值。",
+      "summaryAll": "本发明公开了一种用于简体中文可读性测度的线性模型方法，步骤包括：构建简体中文文本及其可读性级别语料库；对文本进行预处理，包括分词、分句、词性标注、命名实体识别、成分句法分析、依存句法分析、子句标注、笔画统计；提取并计算文本语言特征；依据语言特征和回归算法构建最佳特征组合；构建可读性测度的线性回归模型。该模型所采用的文本语言特征涵盖浅层特征、词性标注特征(亦称为语义或词法特征)、语法特征、和篇章特征等四个方面，可以自动预测简体汉语文本对于汉语母语学习者的可读性等级，填补了基于简体汉语文本的可读性预测模型的空白。该模型拟合度高，可解释性强，并且对于评测应用文本的可读性具有可扩展性和重要参考价值。",
+      "categoryNo": "G06",
+      "patentNo": "CN201711335437.0",
+      "applicant": "广东外语外贸大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "丘心颖",
+      "pct": ""
+    },
+    {
+      "id": "CN201611159985.8",
+      "title": "一种基于自适应Dropout非负矩阵分解的特征学习模型",
+      "summary": "此外，本发明还具有良好的<mark class=highlight>可</mark>并行性，可以部署到并行平台上运行，用来处理大规模数据。",
+      "summaryAll": "一种基于自适应Dropout非负矩阵分解的特征学习模型。本发明基于对NMF中隐藏特征之间关系的分析，提出一种基于自适应Dropout非负矩阵分解的特征学习模型(Adaptive Dropout Non‑negative Matrix Factorization)，能够主动学习隐藏特征之间的相异度，并将其转化为隐藏特征的数据表示能力。然后在此基础上构造概率函数，并对隐藏特征进行Dropout，从而降低隐藏特征在优化过程中的相互影响，提高隐藏特征的语义独立性。本发明具有良好的可解释性和泛化性，能够在文本和图像数据上取得明显的性能提升，并能够应用到已有的基于NMF的算法中。此外，本发明还具有良好的可并行性，可以部署到并行平台上运行，用来处理大规模数据。",
+      "categoryNo": "G06",
+      "patentNo": "CN201611159985.8",
+      "applicant": "南开大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "刘杰",
+      "pct": ""
+    },
+    {
+      "id": "CN201610145079.6",
+      "title": "基于多核学习与Boosting算法的蛋白质-DNA绑定位点预测方法",
+      "summary": "该方法提升了模型的可<mark class=highlight>解释性</mark>并有效的降低训练集的规模，而且也提高了模型的预测精度。",
+      "summaryAll": "本发明提供一种基于多核学习与Boosting算法的蛋白质?DNA绑定位点预测方法，包括下列步骤：特征提取，抽取每个氨基酸残基的进化信息特征向量与溶剂可及性特征向量；特征融合，使用基于线性核的多核学习算法对上述两个特征向量的权重信息进行评估，并根据权重进行加权串行组合得到最终的样本特征向量；使用随机下采样技术对非绑定位点的样本进行多次下采样，将下采样得到的非绑定位点样本子集与绑定位点样本集合并后训练一个SVM，得到多个SVM预测模型；使用Boosting提升算法将上述多个SVM模型进行集成，形成一个最终的预测模型。该方法提升了模型的可解释性并有效的降低训练集的规模，而且也提高了模型的预测精度。",
+      "categoryNo": "G06",
+      "patentNo": "CN201610145079.6",
+      "applicant": "南京理工大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "於东军",
+      "pct": ""
+    },
+    {
+      "id": "CN201510531036.7",
+      "title": "一种基于随机游走的Web服务质量预测方法",
+      "summary": "本发明能平衡Web服务质量预测的覆盖率和预测精度，具有预测准确、成功率高、通用性好、<mark class=highlight>可</mark>评估置信度和可<mark class=highlight>解释性</mark>好的优点。",
+      "summaryAll": "本发明公开了一种基于随机游走的Web服务质量预测方法，步骤包括：基于用户位置计算用户和用户之间的距离；为每个用户选择近邻用户构成邻域、并连接邻域用户构建用户关系网络；计算用户关系网络中用户和用户、服务和服务之间的相似度；计算用户关系网络中每一条边的权重；针对源用户所请求的目标服务，从源用户开始分别进行多次查找关于目标服务i的随机游走，每一次随机游走中的每一跳是根据一定概率随机选择下一跳节点，每次游走结束后返回一个QoS值；综合所有QoS值计算源用户相对目标服务的质量预测值。本发明能平衡Web服务质量预测的覆盖率和预测精度，具有预测准确、成功率高、通用性好、可评估置信度和可解释性好的优点。",
+      "categoryNo": "G06",
+      "patentNo": "CN201510531036.7",
+      "applicant": "湖南科技大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "唐明董",
+      "pct": ""
+    },
+    {
+      "id": "CN201510501816.7",
+      "title": "自适应多标签预测方法",
+      "summary": "本发明能准确地对网络信息加上标签，提高多标签预测的准确性、普适性、可<mark class=highlight>解释性</mark>以及<mark class=highlight>可</mark>移转性，从而实现大数据环境下智能信息分类和处理",
+      "summaryAll": "本发明公开了一种自适应多标签预测方法，其特征是按如下步骤进行：1、获得初始化示例集；2、获得初始化示例集中的领袖示例、局外示例和选民示例；3、获得选民示例集的所属聚类；4、采用支持向量机对预测示例进行粗分类；5、对预测示例进行多标签预测。本发明能准确地对网络信息加上标签，提高多标签预测的准确性、普适性、可解释性以及可移转性，从而实现大数据环境下智能信息分类和处理。",
+      "categoryNo": "G06",
+      "patentNo": "CN201510501816.7",
+      "applicant": "合肥工业大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "胡学钢",
+      "pct": ""
+    },
+    {
+      "id": "CN201510355030.9",
+      "title": "自适应多标签预测方法",
+      "summary": "本发明能准确地对网络信息加上标签，提高多标签预测的准确性、普适性、可<mark class=highlight>解释性</mark>以及<mark class=highlight>可</mark>移转性，从而实现大数据环境下智能信息分类和处理",
+      "summaryAll": "本发明公开了一种自适应多标签预测方法，其特征是按如下步骤进行：1、获得初始化示例集；2、获得初始化示例集中的领袖示例、局外示例和选民示例；3、获得选民示例集的所属聚类；4、采用支持向量机对预测示例进行粗分类；5、对预测示例进行多标签预测。本发明能准确地对网络信息加上标签，提高多标签预测的准确性、普适性、可解释性以及可移转性，从而实现大数据环境下智能信息分类和处理。",
+      "categoryNo": "G06",
+      "patentNo": "CN201510355030.9",
+      "applicant": "合肥工业大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "胡学钢",
+      "pct": ""
+    },
+    {
+      "id": "CN201410532057.6",
+      "title": "一种基于主题模型的跨模态检索方法",
+      "summary": "本发明引入跨模态主题和不同模态主题增强概念，并且利用了标签信息，既增强了主题建模的可<mark class=highlight>解释性</mark>和灵活性，而且具有很好的<mark class=highlight>可</mark>扩展性和判别性",
+      "summaryAll": "本发明公开了一种基于主题模型的跨模态检索方法。它包括如下步骤：1）对数据库中各种类型模态数据提取特征和记录标签；2）基于主题的跨模态检索图模型的建立；3）采用坍缩吉布斯采样方法求解基于主题的跨模态检索图模型；4）用户提交一种类型模态的数据，并提取特征后，利用跨模态检索模型返回与之相关的另外一种类型模态数据；5）利用跨模态数据的真实对应信息和标签信息，对跨模态检索模型同时从对应性和区别性两方面来进行评价。本发明引入跨模态主题和不同模态主题增强概念，并且利用了标签信息，既增强了主题建模的可解释性和灵活性，而且具有很好的可扩展性和判别性。",
+      "categoryNo": "G06",
+      "patentNo": "CN201410532057.6",
+      "applicant": "浙江大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "庄越挺",
+      "pct": ""
+    },
+    {
+      "id": "CN201210332849.X",
+      "title": "一种井震匹配解释性目标处理方法及装置",
+      "summary": "本发明<mark class=highlight>可</mark>提高地震资料的分辨能力。",
+      "summaryAll": "本发明提供一种井震匹配解释性目标处理方法及装置，该方法包括：进行基础数据准备：首先解释目的层的顶底层位，以目的层为中心沿层选取时窗，分析该时窗内数据体的有效频带，在有效频带基础上选取常相位子波；然后利用常相位子波及优选的井制作合成地震记录；设计多个频段的三角滤波门；进行比例系数的求取及应用：在目标处理的时窗内，在井点处求取每个频段的合成地震记录与实际地震数据的比例系数；进行分频滤波，分别得到多个频段的合成地震记录子体和地震子体；并应用求取的比例系数得到空间统一比例系数井震匹配处理后的地震数据体；进行匹配效果监控，最终获得预期的井震匹配目标处理数据体。本发明可提高地震资料的分辨能力。",
+      "categoryNo": "G01",
+      "patentNo": "CN201210332849.X",
+      "applicant": "中国石油集团东方地球物理勘探有限责任公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "谷跃民",
+      "pct": ""
+    },
+    {
+      "id": "CN201110090645.5",
+      "title": "基于角色的访问控制模型构建系统",
+      "summary": "本发明系统具有安全性强、可<mark class=highlight>解释性</mark>强、<mark class=highlight>可</mark>扩展性强的特点。",
+      "summaryAll": "本发明提供了一种基于角色的访问控制模型构建系统，该系统包括数据库、权重模块、角色模块、约束模块、结果显示模块、用户权限分配管理模块和审计管理模块；其中权重模块包括相似度模块和权重计算模块，角色模块包括角色生成模块和角色层次生成模块，约束模块包括角色约束模块、权限约束模块、用户约束模块和互斥约束模块，结果显示模块包括角色显示模块、约束显示模块和结果调整模块。本发明对用户权限的重要程度进行了度量、对基于角色的访问控制模型的约束进行了生成，从而提高了角色的准确性和系统的安全性。本发明系统可以实现基于角色的访问控制模型的构建，保证了构建基于角色的访问控制模型的自动化和半自动化构建。本发明系统具有安全性强、可解释性强、可扩展性强的特点。",
+      "categoryNo": "G06",
+      "patentNo": "CN201110090645.5",
+      "applicant": "华中科技大学",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "李瑞轩",
+      "pct": ""
+    },
+    {
+      "id": "CN200810026539.9",
+      "title": "IP机顶盒的中间件系统及其通讯的方法",
+      "summary": "本发明提供的IP机顶盒的中间件系统以及使用该中间件系统通讯的方法，该中间件系统包括基于组件开发模式的第一应用开发层、动态<mark class=highlight>可</mark>扩展接口描述层和基于<mark class=highlight>解释性</mark>数据的开发模式的第二应用开发层",
+      "summaryAll": "本发明提供的IP机顶盒的中间件系统以及使用该中间件系统通讯的方法，该中间件系统包括基于组件开发模式的第一应用开发层、动态可扩展接口描述层和基于解释性数据的开发模式的第二应用开发层；第一应用开发层包括信令服务控制模块和可选配的功能模块；第二应用开发层生成和处理信息传输中的消息；动态可扩展接口描述层，包括为所述第二应用开发层访问第一应用开发层所提供的接口，第二应用开发层通过接口从信令服务控制模块和功能模块获取对应的应用服务的功能支持。应用本发明能够实现客户端与服务端的丰富交互功能，并且便于服务提供商参与应用服务的开发，提供他们的积极性。",
+      "categoryNo": "H04",
+      "patentNo": "CN200810026539.9",
+      "applicant": "广州汇思通讯科技有限公司",
+      "type": "",
+      "countryCode": "CN",
+      "legalStatus": "",
+      "inventor": "梅舒帆",
+      "pct": ""
+    }
+  ],
+  "bookVO": [
+    {
+      "id": "m.20080822-m801-w015-130",
+      "title": "最高人民法院最新刑事法律司法解释汇编",
+      "author": "最高人民法院研究室",
+      "summary": "本书收录了修改后的刑法、刑事诉讼法；司法解释分为现行有效地司法解释及司法<mark class=highlight>解释性</mark>文件和<mark class=highlight>可</mark>参照执行的司法解释及司法<mark class=highlight>解释性</mark>文件两部分",
+      "summaryAll": "本书收录了修改后的刑法、刑事诉讼法；司法解释分为现行有效地司法解释及司法解释性文件和可参照执行的司法解释及司法解释性文件两部分，并按刑法、刑事诉讼法规定的章节予以编排。",
+      "publisher": "中国人民公安大学出版社",
+      "categoryNo": "7-81059-639-X",
+      "publishDate": "2001-03-01",
+      "category": ""
+    }
+  ],
+  "standardVO": [
+    {
+      "id": "69",
+      "nameCN": "智能变电站智能终端装置通用技术条件",
+      "nameEN": "General specification for smart terminal in smart substation",
+      "standardNo": "GB/T 34132-2017",
+      "categoryNoCN": "K;K45,电工,输变电设备",
+      "categoryNoIN": "29;29.240",
+      "summary": "其他电压等级<mark class=highlight>可</mark>参照执行。 ",
+      "summaryAll": "本标准规定了智能变电站智能终端装置的技术要求、安全要求、检验和试验，以及标志、包装、运输和贮存等。 本标准适用于110(66)kV及以上电压等级智能变电站智能终端装置(以下简称为装置)的研制、试验、检验和应用。其他电压等级可参照执行。 ",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2017-07-31",
+      "implementDate": "2018-02-01"
+    },
+    {
+      "id": "54",
+      "nameCN": "教育机器人安全要求",
+      "nameEN": "Education robot safety requirements",
+      "standardNo": "GB/T 33265-2016",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "如果一个机器人由未成年人来组装，本标准适用于<mark class=highlight>可</mark>接触的每个零件和组装的机器人;如果一个机器人由成人",
+      "summaryAll": "本标准适用于教育机器人。如果一个机器人由未成年人来组装，本标准适用于可接触的每个零件和组装的机器人;如果一个机器人由成人(年满18周岁)组装或者在出厂时已经组装好，本标准适用于组装的机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2016-12-13",
+      "implementDate": "2017-07-01"
+    },
+    {
+      "id": "80",
+      "nameCN": "智能电视概念模型",
+      "nameEN": "Conceptual model for smart television",
+      "standardNo": "SJ/T 11592-2016",
+      "categoryNoCN": "M;M74,通信、广播,广播、电视设备",
+      "categoryNoIN": "33;33.160.25",
+      "summary": "人机交互等应用的数字电视显示器、数字电视一体机、机顶盒等智能终端，其他移动智能终端也<mark class=highlight>可</mark>参考使用",
+      "summaryAll": "本标准规定了智能电视的概念模型。 本标准适用于具有数字电视接收、互联网应用服务功能、人机交互等应用的数字电视显示器、数字电视一体机、机顶盒等智能终端，其他移动智能终端也可参考使用。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2016-01-15",
+      "implementDate": "2016-06-01"
+    },
+    {
+      "id": "6",
+      "nameCN": "工业车辆 安全要求和验证 第1部分：自行式工业车辆（除无人驾驶车辆、伸缩臂式叉车和载运车）",
+      "nameEN": "Industrial trucks――Safety requirements and verification―Part 1: Self-propelled industrial trucks, other than driverless trucks, variable-reach trucks and burden-carrier trucks",
+      "standardNo": "GB 10827.1-2014",
+      "categoryNoCN": "J;J83,机械,通用机械与设备",
+      "categoryNoIN": "53;53.060",
+      "summary": "本部分涉及了除以下情形外,有关机械在制造商预期用途下使用和<mark class=highlight>可</mark>预见条件下误用的,",
+      "summaryAll": "GB 10827的本部分规定了如ISO 5053所定义的下列自行式工业车辆(以下简称“车辆”)的安全要求及其验证方法:a) 平衡重式叉车;b) 前移式叉车(具有可伸缩的门架或货叉架);c) 插腿式叉车;d) 托盘堆垛车;e) 高起升平台搬运车;f) 操作台起升高度不大于1 200 mm的车辆;g) 侧面式叉车(单侧);h) 侧面堆垛式叉车(两侧和三向);i) 托盘搬运车;j) 双向和多向运行叉车;k) 牵引力不大于20 000N的牵引车;l) 平衡重式越野叉车;m) 其他以蓄电池、柴油、汽油或液化石油气为动力的工业车辆。对于操作台起升高度大于1 200 mm的车辆和/或带着载荷起升至1 200 mm以上运行的车辆,本部分应与ISO 3691-3一起使用。本部分不适用于自行式伸缩臂式叉车、无人驾驶车辆和载运车,ISO 3691-2、ISO 3691-4和ISO 3691-6分别适用于这些车辆。本部分不适用于在苛刻条件下(如极端天气、冷库应用、危险环境)工作的车辆,这些情况需要有特殊防护措施。本部分涉及了除以下情形外,有关机械在制造商预期用途下使用和可预见条件下误用的,如附录B所列的所有重大危险、危险状态或危险事件。本部分不包括下列情况可能发生的危险:--在制造过程中;--搬运能自由摆动的悬吊载荷时;--在公路上使用时;--在潜在爆炸性环境中操作时;--在与货架之间的单侧间隙小于500 mm的狭窄通道上使用时;--驾驶拖曳载荷的坐驾式车辆时,由于采用非人类工效学姿势而引起;--驾驶额定起重量大于10 000 kg",
+      "draftUnit": "",
+      "mandatoryStandard": "是",
+      "status": "现行",
+      "publishDate": "2014-07-24",
+      "implementDate": "2014-12-01"
+    },
+    {
+      "id": "7",
+      "nameCN": "工业机器人 性能规范及其试验方法",
+      "nameEN": "Industrial robots - Performance criteria and related test methods",
+      "standardNo": "GB/T 12642-2013",
+      "categoryNoCN": "J;J28,机械,通用零部件",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”",
+      "summaryAll": "本标准适用于 ISO 8373:1994 中定义的所有工业机器人，本标准术语“机器人”指的是工业机器人。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2013-11-12",
+      "implementDate": "2014-03-15"
+    },
+    {
+      "id": "8",
+      "nameCN": "工业机器人 性能试验实施规范",
+      "nameEN": "Industrial robot - Detailed implementation specification for performance and related test",
+      "standardNo": "GB/T 20868-2007",
+      "categoryNoCN": "J;J07,机械,机械综合",
+      "categoryNoIN": "25;25.040.30",
+      "summary": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时",
+      "summaryAll": "本标准提供了制造商和用户等使用GB/T 12642-2001对工业机器人进行性能试验时的实施细则和操作步骤。　　本标准供工业机器人制造厂商、试验部门、机器人用户使用。",
+      "draftUnit": "",
+      "mandatoryStandard": "否",
+      "status": "现行",
+      "publishDate": "2007-01-18",
+      "implementDate": "2007-08-01"
+    }
+  ]
+}
