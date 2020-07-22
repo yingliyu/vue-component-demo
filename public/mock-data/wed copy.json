@@ -29,22 +29,23 @@
   },
   "mapVO": {
     "nodes": [
-      { "code": "0", "name": "吴恩达", "type": "expert", "level": "1", "colorIdx": "0" },
-      { "code": "1", "name": "荣誉", "type": "honor", "level": "2", "colorIdx": "5" },
-      { "code": "2", "name": "组织", "type": "org", "level": "2", "colorIdx": "6" },
-      { "code": "3", "name": "无人驾驶", "type": "keyword", "level": "2", "colorIdx": "1" },
-      { "code": "20", "name": "语音识别", "type": "keyword", "level": "2", "colorIdx": "2" },
-      { "code": "37", "name": "强化学习", "type": "keyword", "level": "2", "colorIdx": "3" },
-      { "code": "54", "name": "语义识别", "type": "keyword", "level": "2", "colorIdx": "4" }
-    ],
+      {"code":"0","name":"吴恩达","type":"expert","level":"1","colorIdx":"0"},
+      {"code":"1","name":"荣誉","type":"honor","level":"2","colorIdx":"5"},
+      {"code":"2","name":"组织","type":"org","level":"2","colorIdx":"6"},
+      {"code":"3","name":"无人驾驶","type":"keyword","level":"2","colorIdx":"1"},
+      {"code":"20","name":"语音识别","type":"keyword","level":"2","colorIdx":"2"},
+      {"code":"37","name":"强化学习","type":"keyword","level":"2","colorIdx":"3"},
+      {"code":"54","name":"语义识别","type":"keyword","level":"2","colorIdx":"4"}
+      ],
     "relations": [
-      { "id": "0", "source": "0", "target": "1" },
-      { "id": "1", "source": "0", "target": "2" },
-      { "id": "2", "source": "0", "target": "3" },
-      { "id": "19", "source": "0", "target": "20" },
-      { "id": "36", "source": "0", "target": "37" },
-      { "id": "53", "source": "0", "target": "54" }
-    ],
+      {"id":"0","source":"0","target":"1"},
+      {"id":"1","source":"0","target":"2"},
+      {"id":"2","source":"0","target":"3"},
+      {"id":"19","source":"0","target":"20"},
+      {"id":"36","source":"0","target":"37"},
+      {"id":"53","source":"0","target":"54"}
+      ]
+ ,
     "expertReco": [
       {
         "id": 487592,
@@ -68,7 +69,9 @@
     ],
     "subjectReco": null,
     "journalsReco": null,
-    "institutionsReco": ["Baidu Silicon Valley AI Lab"]
+    "institutionsReco": [
+      "Baidu Silicon Valley AI Lab"
+    ]
   },
   "mapInfo": {
     "nodes": [
@@ -105,7 +108,9 @@
         "colorIdx": 6,
         "keyword": "吴恩达",
         "layout": "斯坦福大学",
-        "layoutList": ["斯坦福大学"]
+        "layoutList": [
+          "斯坦福大学"
+        ]
       },
       {
         "id": 4,
@@ -872,38 +877,32 @@
       {
         "id": 1,
         "source": 0,
-        "target": 1,
-        "label": "关系标签0"
+        "target": 1
       },
       {
         "id": 2,
         "source": 0,
-        "target": 2,
-        "label": "关系标签1"
+        "target": 2
       },
       {
         "id": 3,
         "source": 0,
-        "target": 3,
-        "label": "关系标签2"
+        "target": 3
       },
       {
         "id": 19,
         "source": 0,
-        "target": 20,
-        "label": "关系标签3"
+        "target": 20
       },
       {
         "id": 35,
         "source": 0,
-        "target": 37,
-        "label": "关系标签4"
+        "target": 37
       },
       {
         "id": 51,
         "source": 0,
-        "target": 54,
-        "label": "关系标签5"
+        "target": 54
       },
       {
         "id": 4,
@@ -1205,56 +1204,56 @@
         "source": 62,
         "target": 70
       }
-    ],
+    ]
+ ,
     "expertReco": null,
     "subjectReco": null,
     "journalsReco": null,
     "institutionsReco": null
   },
-  "paperVO": [
-    {
-      "title": "Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network.WOS",
-      "author": "Awni Y Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H Tison, Codie Bourn, Mintu P Turakhia, Andrew Y Ng",
-      "publishDate": "2019",
-      "summaryAll": "Computerized electrocardiogram (ECG) interpretation plays a critical role in the clinical ECG workflow. Widely available digital ECG data and the algorithmic paradigm of deep learning present an opportunity to substantially improve the accuracy and scalability of automated ECG analysis. However, a comprehensive evaluation of an end-to-end deep learning approach for ECG analysis across a wide variety of diagnostic classes has not been previously"
-    },
-    {
-      "title": "Data Noising as Smoothing in Neural Network Language Models.EI",
-      "author": "Ziang Xie, Sida I. Wang, Jiwei Li, Daniel Lévy, Aiming Nie, Dan Jurafsky, Andrew Y. Ng",
-      "publishDate": "2017",
-      "summaryAll": "Data noising is an effective technique for regularizing neural network models. While noising is widely adopted in application domains such as vision and speech, commonly used noising primitives have not been developed for discrete sequence-level settings such as language modeling. In this paper, we derive a connection between input noising in neural network language models and smoothing in n-gram models. Using this connection, we draw upon ideas from smoothing to develop effective noising schemes."
-    },
-    {
-      "title": "Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks.EI",
-      "author": "Pranav Rajpurkar, Awni Y. Hannun, Masoumeh Haghpanahi, Codie Bourn, Andrew Y. Ng",
-      "publishDate": "2017",
-      "summaryAll": "We develop an algorithm which exceeds the performance of board certified cardiologists in detecting a wide range of heart arrhythmias from electrocardiograms recorded with a single-lead wearable monitor. We build a dataset with more than 500 times the number of unique patients than previously studied corpora. "
-    },
-    {
-      "title": "Comparing Speech and Keyboard Text Entry for Short Messages in Two Languages on Touchscreen Phones.EI",
-      "author": "Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Y. Ng, James A. Landay",
-      "publishDate": "2017",
-      "summaryAll": "With the ubiquity of mobile touchscreen devices like smartphones, two widely used text entry methods have emerged: small touch-based keyboards and speech recognition. Although speech recognition has been available on desktop computers for years, it has continued to improve at a rapid pace, and it is currently unknown how todayu0027s modern speech recognizers compare to state-of-the-art mobile touch keyboards, which also have improved considerably since their inception."
-    },
-    {
-      "title": "MURA Dataset: Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs.EI",
-      "author": "Pranav Rajpurkar, Jeremy Irvin, Aarti Bagul, Daisy Ding, Tony Duan, Hershel Mehta, Brandon Yang, Kaylie Zhu, Dillon Laird, Robyn L. Ball, ",
-      "publishDate": "2017",
-      "summaryAll": "We introduce MURA, a large dataset of musculoskeletal radiographs containing 40,895 images from 14,982 studies, where each study is manually labeled by radiologists as either normal or abnormal. On this dataset, we train a 169-layer densely connected convolutional network to detect and localize abnormalities."
-    },
-    {
-      "title": "Neural Language Correction with Character-Based Attention.EI",
-      "author": "Ziang Xie, Anand Avati, Naveen Arivazhagan, Dan Jurafsky, Andrew Y. Ng",
-      "publishDate": "2016",
-      "summaryAll": "Natural language correction has the potential to help language learners improve their writing skills. While approaches with separate classifiers for different error types have high precision, they do not flexibly handle errors such as redundancy or non-idiomatic phrasing. On the other hand, word and phrase-based machine translation methods are not designed to cope with orthographic errors, and have recently been outpaced by neural models."
-    },
-    {
-      "title": "Unsupervised Deep Learning Applied to Breast Density Segmentation and Mammographic Risk Scoring.EI",
-      "author": "Michiel Kallenberg, Kersten Petersen, Mads Nielsen, Andrew Y. Ng, Pengfei Diao, Christian Igel, Celine M. Vachon, Katharina Holland, Rikke Rass Winkel, Nico Karssemeijer, ",
-      "publishDate": "2016",
-      "summaryAll": "Mammographic risk scoring has commonly been automated by extracting a set of handcrafted features from mammograms, and relating the responses directly or indirectly to breast cancer risk. We present a method that learns a feature hierarchy from unlabeled data. When the learned features are used as the input to a simple classifier, two different tasks can be addressed: i) breast density segmentation, and ii) scoring of mammographic texture. "
-    }
-  ],
+  "paperVO": [{
+		"title": "Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network.WOS",
+		"author": "Awni Y Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H Tison, Codie Bourn, Mintu P Turakhia, Andrew Y Ng",
+		"publishDate": "2019",
+		"summaryAll": "Computerized electrocardiogram (ECG) interpretation plays a critical role in the clinical ECG workflow. Widely available digital ECG data and the algorithmic paradigm of deep learning present an opportunity to substantially improve the accuracy and scalability of automated ECG analysis. However, a comprehensive evaluation of an end-to-end deep learning approach for ECG analysis across a wide variety of diagnostic classes has not been previously"
+	},
+	{
+		"title": "Data Noising as Smoothing in Neural Network Language Models.EI",
+		"author": "Ziang Xie, Sida I. Wang, Jiwei Li, Daniel Lévy, Aiming Nie, Dan Jurafsky, Andrew Y. Ng",
+		"publishDate": "2017",
+		"summaryAll": "Data noising is an effective technique for regularizing neural network models. While noising is widely adopted in application domains such as vision and speech, commonly used noising primitives have not been developed for discrete sequence-level settings such as language modeling. In this paper, we derive a connection between input noising in neural network language models and smoothing in n-gram models. Using this connection, we draw upon ideas from smoothing to develop effective noising schemes."
+	},
+	{
+		"title": "Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks.EI",
+		"author": "Pranav Rajpurkar, Awni Y. Hannun, Masoumeh Haghpanahi, Codie Bourn, Andrew Y. Ng",
+		"publishDate": "2017",
+		"summaryAll": "We develop an algorithm which exceeds the performance of board certified cardiologists in detecting a wide range of heart arrhythmias from electrocardiograms recorded with a single-lead wearable monitor. We build a dataset with more than 500 times the number of unique patients than previously studied corpora. "
+	},
+	{
+		"title": "Comparing Speech and Keyboard Text Entry for Short Messages in Two Languages on Touchscreen Phones.EI",
+		"author": "Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Y. Ng, James A. Landay",
+		"publishDate": "2017",
+		"summaryAll": "With the ubiquity of mobile touchscreen devices like smartphones, two widely used text entry methods have emerged: small touch-based keyboards and speech recognition. Although speech recognition has been available on desktop computers for years, it has continued to improve at a rapid pace, and it is currently unknown how todayu0027s modern speech recognizers compare to state-of-the-art mobile touch keyboards, which also have improved considerably since their inception."
+	},
+	{
+		"title": "MURA Dataset: Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs.EI",
+		"author": "Pranav Rajpurkar, Jeremy Irvin, Aarti Bagul, Daisy Ding, Tony Duan, Hershel Mehta, Brandon Yang, Kaylie Zhu, Dillon Laird, Robyn L. Ball, ",
+		"publishDate": "2017",
+		"summaryAll": "We introduce MURA, a large dataset of musculoskeletal radiographs containing 40,895 images from 14,982 studies, where each study is manually labeled by radiologists as either normal or abnormal. On this dataset, we train a 169-layer densely connected convolutional network to detect and localize abnormalities."
+	},
+	{
+		"title": "Neural Language Correction with Character-Based Attention.EI",
+		"author": "Ziang Xie, Anand Avati, Naveen Arivazhagan, Dan Jurafsky, Andrew Y. Ng",
+		"publishDate": "2016",
+		"summaryAll": "Natural language correction has the potential to help language learners improve their writing skills. While approaches with separate classifiers for different error types have high precision, they do not flexibly handle errors such as redundancy or non-idiomatic phrasing. On the other hand, word and phrase-based machine translation methods are not designed to cope with orthographic errors, and have recently been outpaced by neural models."
+	},
+	{
+		"title": "Unsupervised Deep Learning Applied to Breast Density Segmentation and Mammographic Risk Scoring.EI",
+		"author": "Michiel Kallenberg, Kersten Petersen, Mads Nielsen, Andrew Y. Ng, Pengfei Diao, Christian Igel, Celine M. Vachon, Katharina Holland, Rikke Rass Winkel, Nico Karssemeijer, ",
+		"publishDate": "2016",
+		"summaryAll": "Mammographic risk scoring has commonly been automated by extracting a set of handcrafted features from mammograms, and relating the responses directly or indirectly to breast cancer risk. We present a method that learns a feature hierarchy from unlabeled data. When the learned features are used as the input to a simple classifier, two different tasks can be addressed: i) breast density segmentation, and ii) scoring of mammographic texture. "
+	}
+],
   "patentVO": null,
   "bookVO": [],
   "standardVO": []
