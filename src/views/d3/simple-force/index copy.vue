@@ -168,6 +168,7 @@ export default {
         console.log('initSvgContainer===' + error)
       }
     },
+
     drawSvg() {
       try {
         let that = this
@@ -195,14 +196,10 @@ export default {
           .data(this.links)
           .enter()
           .append('line')
-          .attr('class', 'edge')
-          .attr('stroke', 'rgba(255,255,255,0.6)')
-          // .attr('stroke', 'red')
+          .attr('stroke', 'rgba(255,255,255,0.4)')
           .attr('stroke-width', '2px')
           .attr('target', (data) => data.target.name)
           .attr('source', (data) => data.source.name)
-          .style('display', 'none')
-
         edges.append('title').text((data) => data.label)
         const edgepaths = this.svg
           .selectAll('.edgepath') //make path go along with the link provide position for link labels
@@ -229,7 +226,6 @@ export default {
           })
           .attr('font-size', 24)
           .attr('fill', '#fff')
-          .style('display', 'none')
 
         edgelabels
           .append('textPath') //To render text along the shape of a <path>, enclose the text in a <textPath> element that has an href attribute with a reference to the <path> element.
@@ -257,7 +253,7 @@ export default {
               .on('end', this.ended)
           )
           .on('click', (d) => {
-            this.clickNodeHandle(d)
+            this.clickHandel(d)
           })
 
         gs.append('circle')
@@ -311,7 +307,7 @@ export default {
           .text((data) => data)
         // .on('click', (data, index, nodes) => {
         //   const id = nodes[0].parentNode['code']
-        //   this.clickNodeHandle(id)
+        //   this.clickHandel(id)
         // })
 
         gs.filter((d) => {
@@ -388,70 +384,22 @@ export default {
       d.fx = null
       d.fy = null
     },
-    // 搜专家-关系图谱点击实体
-    clickNodeHandle00(data) {
-      const centerCircleId = 1
-      console.log(data, centerCircleId)
 
-      const nodeList = d3.selectAll('.node')
-      nodeList.style('opacity', 0.2)
-      const edgeList = d3.selectAll('.edge')
-      edgeList.style('display', 'none')
-      //关系标签
-      const relationLabels = d3.selectAll('.edgelabel')
-      relationLabels.style('display', 'none')
-      const selectedArr = [data.id, centerCircleId]
-
-      const nodesFilter = nodeList.filter((item) => {
-        return selectedArr.includes(item.id)
-      })
-      nodesFilter.style('opacity', 1)
-
-      const edgeFilter = edgeList.filter((item) => {
-        return item.source.id === centerCircleId && item.target.id === data.id
-      })
-
-      edgeFilter.style('display', '')
-
-      const labelFilter = relationLabels.filter((item) => {
-        return item.source.id === centerCircleId && item.target.id === data.id
-      })
-
-      labelFilter.style('display', '')
-    },
-    // 点击实体 显示有直接关系的下层实体和关系
-    clickNodeHandle(data) {
-      const nodeList = d3.selectAll('.node')
-      nodeList.style('opacity', 0.2)
-      const edgeList = d3.selectAll('.edge')
-      edgeList.style('display', 'none')
-      //关系标签
-      const relationLabels = d3.selectAll('.edgelabel')
-      relationLabels.style('display', 'none')
-
-      const selectedArr = []
-      this.links.forEach((item) => {
-        if (item.source.id === data.id || item.target.id === data.id) {
-          selectedArr.push(item.source.id)
-          selectedArr.push(item.target.id)
+    clickHandel(d) {
+      if (d.level < 4 && d.level !== 1) {
+        if (this.centerWordMap[d.name]) {
+          this.currentWord = d.name
+          this.popList = [] // 清空layout
+          this.$emit('changeKey', d.name)
+          this.$router.push(`/search/${d.name}`)
+        } else {
+          this.currentWord = d.code
+          this.showLayout(d)
         }
-      })
-      const nodesFilter = nodeList.filter((item) => {
-        return selectedArr.includes(item.id)
-      })
-      nodesFilter.style('opacity', 1)
-
-      const edgeFilter = edgeList.filter((item) => {
-        return item.source.id === data.id || item.target.id === data.id
-      })
-
-      edgeFilter.style('display', '')
-
-      const labelFilter = relationLabels.filter((item) => {
-        return item.source.id === data.id || item.target.id === data.id
-      })
-
-      labelFilter.style('display', '')
+      } else {
+        this.currentWord = d.code
+        this.showLayout(d)
+      }
     },
 
     showLayout(node) {
