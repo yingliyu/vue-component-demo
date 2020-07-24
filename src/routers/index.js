@@ -31,7 +31,7 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/d3/new-force'),
     meta: {
-      title: 'about'
+      title: 'NewForce'
     }
   },
   {
@@ -42,7 +42,18 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/d3/force'),
     meta: {
-      title: 'about'
+      title: 'force'
+    }
+  },
+  {
+    path: '/tree',
+    name: 'Tree',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "about" */ '../views/d3/tree'),
+    meta: {
+      title: 'tree'
     }
   }
 ]

@@ -26,6 +26,9 @@
             <el-menu-item index="2-3" to="/force" @click="toNavLink('/force')">
               知识图谱
             </el-menu-item>
+            <el-menu-item index="2-3" to="/tree" @click="toNavLink('/tree')">
+              树形图
+            </el-menu-item>
           </el-submenu>
           <!-- <el-menu-item index="2">
         <router-link to="/d3">D3</router-link>
