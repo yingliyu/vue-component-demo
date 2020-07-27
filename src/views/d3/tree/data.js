@@ -2,8 +2,8 @@ export default [
   {
     nodeId: 'O-1',
     parentNodeId: null,
-    width: 331,
-    height: 135,
+    width: 200,
+    height: 30,
     borderWidth: 1,
     borderRadius: 15,
     borderColor: { red: 15, green: 140, blue: 121, alpha: 1 },
@@ -28,7 +28,7 @@ export default [
         alpha: 1
       }
     },
-    template: '<h2>Tree Father</h2>',
+    template: '<span>Tree Father</span>',
     connectorLineColor: { red: 11, green: 123, blue: 108, alpha: 1 },
     connectorLineWidth: 5,
     dashArray: '',
@@ -39,8 +39,8 @@ export default [
   {
     nodeId: 'O-2',
     parentNodeId: 'O-1',
-    width: 346,
-    height: 136,
+    width: 200,
+    height: 30,
     borderWidth: 1,
     borderRadius: 15,
     borderColor: { red: 15, green: 140, blue: 121, alpha: 1 },
@@ -64,7 +64,7 @@ export default [
         alpha: 1
       }
     },
-    template: '<div>Son1 </div>',
+    template: '<span>Son1 </span>',
     connectorLineColor: { red: 11, green: 123, blue: 108, alpha: 1 },
     connectorLineWidth: 5,
     dashArray: '',
@@ -75,8 +75,8 @@ export default [
   {
     nodeId: 'O-3',
     parentNodeId: 'O-1',
-    width: 302,
-    height: 144,
+    width: 200,
+    height: 30,
     borderWidth: 1,
     borderRadius: 15,
     borderColor: { red: 15, green: 140, blue: 121, alpha: 1 },
@@ -100,7 +100,7 @@ export default [
         alpha: 1
       }
     },
-    template: '<div>Son2</div>',
+    template: '<span>Son2</span>',
     connectorLineColor: { red: 11, green: 123, blue: 108, alpha: 1 },
     connectorLineWidth: 5,
     dashArray: '',

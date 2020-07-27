@@ -11,10 +11,6 @@ export default {
     return {
       // dataSource: sourceData,
       attrs: {
-        root: {
-          x0: 0,
-          y0: 0
-        },
         id: `ID${Math.floor(Math.random() * 1000000)}`, // Id for event handlings
         svgWidth: 800,
         svgHeight: 600,
@@ -35,6 +31,10 @@ export default {
         initialZoom: 1,
         onNodeClick: (d) => d,
         hideSubordinates: true,
+        root: {
+          x0: 0,
+          y0: 0
+        },
         layouts: {
           treemap: null
         }
@@ -51,44 +51,43 @@ export default {
     }
   },
   mounted() {
-    console.log(treeData)
-    this.calc.id = `ID${Math.floor(Math.random() * 1000000)}` // id for event handlings
-    this.calc.chartLeftMargin = this.attrs.marginLeft
-    this.calc.chartTopMargin = this.attrs.marginTop
-    this.calc.chartWidth = this.attrs.svgWidth - this.attrs.marginRight - this.calc.chartLeftMargin
-    this.calc.chartHeight =
-      this.attrs.svgHeight - this.attrs.marginBottom - this.calc.chartTopMargin
-    this.attrs.calc = this.calc
-    // Get maximum node width and height
-    this.calc.nodeMaxWidth = d3.max(this.attrs.data, ({ width }) => width)
-    this.calc.nodeMaxHeight = d3.max(this.attrs.data, ({ height }) => height)
-
-    // Calculate max node depth (it's needed for layout heights calculation)
-    this.attrs.depth = this.calc.nodeMaxHeight + 100
-    this.calc.centerX = this.calc.chartWidth / 2
-
-    this.attrs.layouts.treemap = d3
-      .tree()
-      .size([this.calc.chartWidth, this.calc.chartHeight])
-      .nodeSize([this.calc.nodeMaxWidth + 100, this.calc.nodeMaxHeight + this.depth])
-
-    this.initTree()
+    this.updateAttrs()
+    this.renderTree()
     this.updateHandle(this.attrs.root)
+    const paths = d3.selectAll('path')
+    paths.attr('transform', ' translate(100,0) rotate(-90)')
   },
   methods: {
-    initTree() {
-      //****************** ROOT node work ************************
+    updateAttrs() {
+      this.calc.id = `ID${Math.floor(Math.random() * 1000000)}` // id for event handlings
+      this.calc.chartLeftMargin = this.attrs.marginLeft
+      this.calc.chartTopMargin = this.attrs.marginTop
+      this.calc.chartWidth =
+        this.attrs.svgWidth - this.attrs.marginRight - this.calc.chartLeftMargin
+      this.calc.chartHeight =
+        this.attrs.svgHeight - this.attrs.marginBottom - this.calc.chartTopMargin
+      this.attrs.calc = this.calc
+      // Get maximum node width and height
+      this.calc.nodeMaxWidth = d3.max(this.attrs.data, ({ width }) => width)
+      this.calc.nodeMaxHeight = d3.max(this.attrs.data, ({ height }) => height)
+
+      // Calculate max node depth (it's needed for layout heights calculation)
+      this.attrs.depth = this.calc.nodeMaxHeight + 100
+      this.calc.centerX = this.calc.chartWidth / 2
+
+      this.attrs.layouts.treemap = d3
+        .tree()
+        .size([this.calc.chartWidth, this.calc.chartHeight])
+        .nodeSize([this.calc.nodeMaxWidth + 180, this.calc.nodeMaxHeight + this.depth])
 
       // Convert flat data to hierarchical
       this.attrs.root = d3
         .stratify()
         .id(({ nodeId }) => nodeId)
         .parentId(({ parentNodeId }) => parentNodeId)(this.attrs.data)
-
       // Set child nodes enter appearance positions
       this.attrs.root.x0 = 0
       this.attrs.root.y0 = 0
-      this.renderTree()
     },
     renderTree() {
       //-------------------------- Add svg--------------------------
@@ -99,127 +98,23 @@ export default {
         .attr('height', this.attrs.svgHeight)
         .attr('font-family', this.attrs.defaultFont)
         // .call(behaviors.zoom)
-        .attr('cursor', 'move')
-      // .style('background-color','');
+        // .attr('cursor', 'move')
+        .style('background-color', 'rgba(0,0,0,0.3)')
 
       //-------------------------- Add container g element--------------------------
-      const chart = this.svg
-        .append('g')
-        .attr('class', 'chart')
-        .attr('transform', `translate(${this.calc.chartLeftMargin},${this.calc.chartTopMargin})`)
+      this.attrs.chart = this.svg.append('g').attr('class', 'chart')
+      // .attr('transform', `translate(${this.calc.chartLeftMargin},${this.calc.chartTopMargin})`)
 
       // -------------------------- Add one more container g element, for better positioning controls
-      const centerGroup = chart
+      this.attrs.centerGroup = this.attrs.chart
         .append('g')
         .attr('class', 'center-group')
         .attr(
           'transform',
-          `translate(${this.calc.centerX},${this.calc.nodeMaxHeight / 2}) scale(${
+          `translate(${this.calc.centerX},${this.calc.nodeMaxHeight / 2 + 300}) scale(${
             this.attrs.initialZoom
           })`
         )
-      this.attrs.chart = chart
-      this.attrs.centerGroup = centerGroup
-
-      // --------------------------  LINKS ----------------------
-      // Get all links
-      // const links = treeData.slice(1)
-      // // Get links selection
-      // const linkSelection = this.attrs.centerGroup
-      //   .selectAll('path.link')
-      //   .data(links, ({ nodeId }) => nodeId)
-
-      // // Enter any new links at the parent's previous position.
-      // const linkEnter = linkSelection
-      //   .enter()
-      //   .insert('path', 'g')
-      //   .attr('class', 'link')
-      //   .attr('pointer-events', 'all')
-      //   .attr('d', () => {
-      //     const o = {
-      //       x: 0,
-      //       y: 0
-      //     }
-      //     return this.diagonal(o, o)
-      //   })
-      // Get links update selection
-      // const linkUpdate = linkEnter.merge(linkSelection)
-      // Styling links
-      // linkUpdate
-      //   .attr('fill', 'none')
-      //   .attr('stroke-width', (data) => {
-      //     if (data && data.connectorLineWidth) {
-      //       return data.connectorLineWidth
-      //     }
-      //     return 2
-      //   })
-      //   .attr('stroke', (data) => {
-      //     if (data && data.connectorLineColor) {
-      //       return this.rgbaObjToColor(data.connectorLineColor)
-      //     }
-      //     return 'green'
-      //   })
-      //   .attr('stroke-dasharray', (data) => {
-      //     if (data && data.dashArray) {
-      //       return data.dashArray
-      //     }
-      //     return ''
-      //   })
-
-      // Transition back to the parent element position
-      // linkUpdate
-      //   .transition()
-      //   .duration(this.attrs.duration)
-      //   .attr('d', (d) => (d ? this.diagonal(d, d.parent) : ''))
-      // Display tree contenrs
-
-      // --------------------------  NODES ----------------------
-      // Get nodes selection
-      // const nodesSelection = this.attrs.centerGroup.selectAll('g.node').data(treeData)
-      // Set constant depth for each nodes
-      // treeData.forEach((d) => (d.y = this.attrs.depth))
-      // treeData.forEach((d) => {
-      //   console.log(d)
-      //   d.x0 = d.x
-      //   d.y0 = d.y
-      // })
-      // // Enter any new nodes at the parent's previous position.
-      // const nodeEnter = this.attrs.centerGroup
-      //   .selectAll('g.node')
-      //   .data(treeData)
-      //   .enter()
-      //   .append('g')
-      //   .attr('pointer-events', 'all')
-      //   .attr('class', 'node')
-      //   .attr('transform', (d) => {
-      //     console.log(d)
-      //     return `translate(0,0)`
-      //   })
-      //   .attr('cursor', 'pointer')
-      // .on('click', ({ data }) => {
-      //   if ([...d3.event.srcElement.classList].includes('node-button-circle')) {
-      //     return
-      //   }
-      //   this.attrs.onNodeClick(data.nodeId)
-      // })
-      // Add background rectangle for the nodes
-      // nodeEnter
-      //   .append('rect')
-      //   .attr('class', 'node-rect')
-      //   .attr('width', (data) => {
-      //     console.log(data)
-      //     return data.width
-      //   })
-      //   .attr('height', (data) => data.height)
-      //   .attr('x', (data) => -data.width / 2)
-      //   .attr('y', (data) => -data.height / 2)
-      //   .attr('rx', (data) => data.borderRadius || 0)
-      //   .attr('stroke-width', (data) => data.borderWidth || this.attrs.strokeWidth)
-      //   .attr('cursor', 'pointer')
-      //   .attr('stroke', ({ borderColor }) => this.rgbaObjToColor(borderColor))
-      //   .style('fill', ({ backgroundColor }) => this.rgbaObjToColor(backgroundColor))
-      //   .data((d) => d)
-      //   .style('fill', ({ _children }) => (_children ? 'lightsteelblue' : '#fff'))
     },
     /* Function converts rgba objects to rgba color string
       {red:110,green:150,blue:255,alpha:1}  => rgba(110,150,255,1)
@@ -232,14 +127,15 @@ export default {
     updateHandle({ x0, y0, x, y }) {
       const attrs = this.attrs
       // const calc = attrs.calc
-
       //  Assigns the x and y position for the nodes
       const treeData = attrs.layouts.treemap(attrs.root)
+      console.log(treeData)
 
       // Get tree nodes and links and attach some properties
       const nodes = treeData.descendants().map((d) => {
         // If at least one property is already set, then we don't want to reset other properties
         if (d.width) return d
+        console.log(d)
 
         // Declare properties with deffault values
         let imageWidth = 100
@@ -306,19 +202,21 @@ export default {
           dropShadowId
         })
       })
-
-      // Get all links
-      const links = treeData.descendants().slice(1)
       // Set constant depth for each nodes
       nodes.forEach((d) => (d.y = d.depth * attrs.depth))
+      console.log(nodes)
+      // Get all links
       // --------------------------  LINKS ----------------------
+
+      const links = treeData.descendants().slice(1)
+
       // Get links selection
       const linkSelection = attrs.centerGroup.selectAll('path.link').data(links, ({ id }) => id)
 
       // Enter any new links at the parent's previous position.
       const linkEnter = linkSelection
         .enter()
-        .insert('path', 'g')
+        .insert('path', '.center-group')
         .attr('class', 'link')
         .attr('pointer-events', 'all')
         .attr('d', () => {
@@ -355,32 +253,18 @@ export default {
         .duration(attrs.duration)
         .attr('d', (d) => this.diagonal(d, d.parent))
 
-      // Remove any  links which is exiting after animation
-      // const linkExit = linkSelection
-      //   .exit()
-      //   .attr('pointer-events', 'none')
-      //   .transition()
-      //   .duration(attrs.duration)
-      //   .attr('d', (d) => {
-      //     const o = {
-      //       x: x,
-      //       y: y
-      //     }
-      //     return this.diagonal(o, o)
-      //   })
-      //   .remove()
-
       // --------------------------  NODES ----------------------
       // Get nodes selection
-      const nodesSelection = attrs.centerGroup.selectAll('g.node').data(treeData)
-
+      const nodesSelection = attrs.centerGroup.selectAll('g.node').data(nodes, ({ id }) => id)
       // Enter any new nodes at the parent's previous position.
       const nodeEnter = nodesSelection
         .enter()
         .append('g')
-        .attr('pointer-events', 'all')
         .attr('class', 'node')
-        .attr('transform', () => `translate(${x0},${y0})`)
+        .attr('pointer-events', 'all')
+        .attr('transform', (d) => {
+          return `translate(${d.x},${d.y})`
+        })
         .attr('cursor', 'pointer')
         .on('click', ({ data }) => {
           if ([...d3.event.srcElement.classList].includes('node-button-circle')) {
@@ -388,26 +272,45 @@ export default {
           }
           attrs.onNodeClick(data.nodeId)
         })
+      const nodeUpdate = nodeEnter.merge(nodesSelection).style('font', '12px sans-serif')
 
       // Add background rectangle for the nodes
-      nodeEnter
+      nodeUpdate
         .append('rect')
         .attr('class', 'node-rect')
         .attr('width', (data) => {
-          console.log(data)
           return data.width
         })
         .attr('height', (data) => data.height)
         .attr('x', (data) => -data.width / 2)
         .attr('y', (data) => -data.height / 2)
-        .attr('rx', (data) => data.borderRadius || 0)
+        .attr('rx', (data) => data.borderRadius || 2)
         .attr('stroke-width', (data) => data.borderWidth || this.attrs.strokeWidth)
         .attr('cursor', 'pointer')
-        .attr('stroke', ({ borderColor }) => this.rgbaObjToColor(borderColor))
-        .style('fill', ({ _children }) => (_children ? 'lightsteelblue' : '#fff'))
-        .data((d) => d)
+        .attr('stroke', ({ borderColor }) => (borderColor ? borderColor : '#fff'))
+        .style('fill', ({ _children }) => (_children ? '#fff' : 'rgba(0,0,0,0)'))
+
       // Node update styles
-      const nodeUpdate = nodeEnter.merge(nodesSelection).style('font', '12px sans-serif')
+      // Add foreignObject element inside rectangle
+      const fo = nodeUpdate
+        .append('foreignObject')
+        .attr('class', 'node-foreign-object')
+        .attr('fill', (d) => {
+          console.log(d)
+          return 'red'
+        })
+        .attr('width', ({ width }) => width)
+        .attr('height', ({ height }) => height)
+        .attr('x', ({ width }) => -width / 2)
+        .attr('y', ({ height }) => -height / 2)
+
+      // Add foreign object
+      fo.append('xhtml:div')
+        .attr('class', 'node-foreign-object-div')
+        .style('width', ({ width }) => `${width}px`)
+        .style('height', ({ height }) => `${height}px`)
+        .style('color', '#fff')
+        .html(({ data }) => data.template)
 
       // Transition to the proper position for the node
       nodeUpdate
@@ -416,19 +319,6 @@ export default {
         .duration(attrs.duration)
         .attr('transform', ({ x, y }) => `translate(${x},${y})`)
         .attr('opacity', 1)
-
-      // Style node rectangles
-      nodeUpdate
-        .select('.node-rect')
-        .attr('width', ({ data }) => data.width)
-        .attr('height', ({ data }) => data.height)
-        .attr('x', ({ data }) => -data.width / 2)
-        .attr('y', ({ data }) => -data.height / 2)
-        .attr('rx', ({ data }) => data.borderRadius || 0)
-        .attr('stroke-width', ({ data }) => data.borderWidth || attrs.strokeWidth)
-        .attr('cursor', 'pointer')
-        .attr('stroke', ({ borderColor }) => borderColor)
-        .style('fill', ({ backgroundColor }) => backgroundColor)
 
       // Remove any exiting nodes after transition
       const nodeExitTransition = nodesSelection
@@ -456,6 +346,20 @@ export default {
         d.x0 = d.x
         d.y0 = d.y
       })
+    },
+    restyleForeignObjectElements() {
+      this.svg
+        .selectAll('.node-foreign-object')
+        .attr('width', ({ width }) => width)
+        .attr('height', ({ height }) => height)
+        .attr('x', ({ width }) => -width / 2)
+        .attr('y', ({ height }) => -height / 2)
+      this.svg
+        .selectAll('.node-foreign-object-div')
+        .style('width', ({ width }) => `${width}px`)
+        .style('height', ({ height }) => `${height}px`)
+        .style('color', '#E9DEC9')
+        .html(({ data }) => data.template)
     },
     // Generate custom diagonal - play with it here - https://to.ly/1zhTK
     diagonal(s, t) {
@@ -512,3 +416,8 @@ export default {
   }
 }
 </script>
+<style scoped>
+.tree-wrapper {
+  padding: 30px;
+}
+</style>

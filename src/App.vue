@@ -11,23 +11,27 @@
           mode="horizontal"
           @select="handleSelect"
         >
-          <el-menu-item index="1" to="/">
+          <el-menu-item index="home" to="/">
             <router-link to="/">Home</router-link>
           </el-menu-item>
 
           <el-submenu index="2">
             <template slot="title">D3</template>
-            <el-menu-item index="2-1" to="/simple-force" @click="toNavLink('/simple-force')">
-              simple force
+            <el-menu-item
+              index="simple-force"
+              to="/simple-force"
+              @click="toNavLink('/simple-force')"
+            >
+              force demo
             </el-menu-item>
-            <el-menu-item index="2-2" to="/new-force" @click="toNavLink('/new-force')">
+            <el-menu-item index="tree" to="/tree" @click="toNavLink('/tree')">
+              树形图
+            </el-menu-item>
+            <el-menu-item index="new-force" to="/new-force" @click="toNavLink('/new-force')">
               new force
             </el-menu-item>
-            <el-menu-item index="2-3" to="/force" @click="toNavLink('/force')">
+            <el-menu-item index="force" to="/force" @click="toNavLink('/force')">
               知识图谱
-            </el-menu-item>
-            <el-menu-item index="2-3" to="/tree" @click="toNavLink('/tree')">
-              树形图
             </el-menu-item>
           </el-submenu>
           <!-- <el-menu-item index="2">
@@ -54,19 +58,16 @@
   </div>
 </template>
 <script>
-// import NavBar from '@/layouts/sidebar'
 export default {
   name: 'App',
-  // components: { NavBar },
   data() {
     return {
-      activeIndex: '1',
-      activeIndex2: '1'
+      activeIndex: this.$route.meta.title
     }
   },
   methods: {
-    handleSelect(key, keyPath) {
-      console.log(key, keyPath)
+    handleSelect(key) {
+      this.activeIndex = key
     },
     toNavLink(path) {
       this.$router.push(path)

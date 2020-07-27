@@ -9,7 +9,7 @@ const routes = [
     name: 'Home',
     component: () => import(/* webpackChunkName: "about" */ '../views/home'),
     meta: {
-      title: '首页'
+      title: 'home'
     }
   },
   {
@@ -20,7 +20,7 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/d3/simple-force'),
     meta: {
-      title: 'about'
+      title: 'simple-force'
     }
   },
   {
@@ -31,7 +31,7 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/d3/new-force'),
     meta: {
-      title: 'NewForce'
+      title: 'new-force'
     }
   },
   {
