@@ -54,8 +54,8 @@ export default {
     this.updateAttrs()
     this.renderTree()
     this.updateHandle(this.attrs.root)
-    const paths = d3.selectAll('path')
-    paths.attr('transform', ' translate(100,0) rotate(-90)')
+    // const paths = d3.selectAll('path')
+    // paths.attr('transform', ' translate(100,0) rotate(-90)')
   },
   methods: {
     updateAttrs() {

@@ -8,6 +8,9 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import 'babel-polyfill'
 Vue.use(ElementUI)
+import Vue2OrgTree from 'vue2-org-tree'
+
+Vue.use(Vue2OrgTree)
 
 Vue.config.productionTip = false
 

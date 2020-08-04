@@ -176,7 +176,9 @@ export default {
             return
           }
           edges
-            .attr('x1', (data) => data.source.x)
+            .attr('x1', (data) => {
+              return data.source.x
+            })
             .attr('y1', (data) => data.source.y)
             .attr('x2', (data) => data.target.x)
             .attr('y2', (data) => data.target.y)
@@ -186,11 +188,13 @@ export default {
             (d) => 'M ' + d.source.x + ' ' + d.source.y + ' L ' + d.target.x + ' ' + d.target.y
           )
         })
+        console.log(this.forceSimulation)
         this.forceSimulation.force('link').links(this.links)
 
         // 绘制边
         const edges = this.svg
           .append('g')
+          .attr('class', 'lines')
           .selectAll('line')
           .data(this.links)
           .enter()
@@ -201,10 +205,12 @@ export default {
           .attr('stroke-width', '2px')
           .attr('target', (data) => data.target.name)
           .attr('source', (data) => data.source.name)
-          .style('display', 'none')
+        // .style('display', 'none')
 
         edges.append('title').text((data) => data.label)
         const edgepaths = this.svg
+          .append('g')
+          .attr('class', 'paths')
           .selectAll('.edgepath') //make path go along with the link provide position for link labels
           .data(this.links)
           .enter()
@@ -218,6 +224,8 @@ export default {
           .style('pointer-events', 'none')
 
         const edgelabels = this.svg
+          .append('g')
+          .attr('class', 'tagLabels')
           .selectAll('.edgelabel')
           .data(this.links)
           .enter()
@@ -241,7 +249,10 @@ export default {
           .attr('startOffset', '50%')
           .text((d) => d.label)
 
+        // 绘制节点
         const gs = this.svg
+          .append('g')
+          .attr('class', 'nodes')
           .selectAll('.node')
           .data(this.nodes)
           .enter()
@@ -257,6 +268,7 @@ export default {
               .on('end', this.ended)
           )
           .on('click', (d) => {
+            console.log(d)
             this.clickNodeHandle(d)
           })
 
@@ -396,10 +408,10 @@ export default {
       const nodeList = d3.selectAll('.node')
       nodeList.style('opacity', 0.2)
       const edgeList = d3.selectAll('.edge')
-      edgeList.style('display', 'none')
+      // edgeList.style('display', 'none')
       //关系标签
       const relationLabels = d3.selectAll('.edgelabel')
-      relationLabels.style('display', 'none')
+      // relationLabels.style('display', 'none')
       const selectedArr = [data.id, centerCircleId]
 
       const nodesFilter = nodeList.filter((item) => {
