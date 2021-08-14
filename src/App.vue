@@ -28,7 +28,7 @@
               树形图
             </el-menu-item>
             <el-menu-item index="new-force" to="/new-force" @click="toNavLink('/new-force')">
-              new force
+              蔟
             </el-menu-item>
             <el-menu-item index="force" to="/force" @click="toNavLink('/force')">
               知识图谱
